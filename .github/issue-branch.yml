@@ -1,0 +1,10 @@
+branches:
+  - label: enhancement
+    prefix: feature/
+  - label: bug
+    prefix: feature/
+  - label: '*'
+    prefix: feature/
+gitSafeReplacementChar: '-'
+branchName: 'SB-${issue.number%4}-${issue.title[0,64],}'
+autoCloseIssue: true
