@@ -31,13 +31,14 @@
 ![Subhamay Cloudwork's's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsubhamay&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsubhamay&show_icons=true&theme=radical)
-- 🔭 I'm currently working on AWS projects
-- 🌱 I'm currenly learning Terraform, SAM and Serverless Framework and GitHub Actions and Workflows
+- 🔭 I'm currently working as a Senior Manager at Capgemni for a legacy to AWS cloud data migration project.
+- 💾 I've overall 23+ years of experience of which 2 years in desktop/client-server application development,16 years as an Oracle ERP technical consultant and 5 years as AWS Cloud Data Engineer.
+- 🌱 I'm currenly learning Terraform, SAM and Serverless Framework and GitHub Actions and Workflows. The list of my personal projects can be founnd at the bottom of this page
 - 👯 I’m looking to collaborate on creating serverless patterns
 - 🤔 I’m looking for help with Kubernetes
 - 💬 Ask me about my upcoming projects
 - 📫 How to reach me : subhamay.aws@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: Love to play cuddle my cats Samsung and Thomas.
 
 <h3 align="left">Languages and Tools:</h3>
@@ -88,8 +89,10 @@
 |32.|0088|Decumaria|Enable CloudTrail Trail for DynamoDB data events|0090-decumaria-cft|![](https://img.shields.io/badge/not_started-red?style=for-the-badge)|
 |33.|0089|Delphinium|Scheduling a Lambda function using EventBridge to send an email every day using SES and a pre-signed URL of an image |0089-delphinium-cft|![](https://img.shields.io/badge/not_started-red?style=for-the-badge)|
 |34.|0090|Deutzia|Creating an audit table for a DynamoDB table using CloudTrail, Kinesis Data Stream, Lambda, S3, Glue and Athena![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/0090-deutzia-py-cft.json&label=&labelColor=white)|0090-deutzia-py-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|35.|9997|TF Template|Terraform Template Repo![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/9997-tf-template.json&label=&labelColor=white)|9997-tf-template|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|36.|9998|CF Template|CloudFormation Template Repo|9998-cfn-template|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|37.|9999|Workflow|GitHub Reusable Repository|9999-reusable-wf|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|35.|9994|SLS GitHub Template|GitHub Template Repository for Serverless Framework![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/9994-sls-template.json&label=&labelColor=white)|9994-sls-template|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|36.|9995|SAM GitHub Template|GitHub Template Repository for AWS SAM (Serverless Application Model)![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/9995-sam-template.json&label=&labelColor=white)|9995-sam-template|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)| 
+|37.|9997|TF GitHub Template|GitHub Template Repository for Hashicorp Terraform![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/9997-tf-template.json&label=&labelColor=white)|9997-tf-template|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|38.|9998|CF GitHub Template|GitHub Template Repository for AWS CloudFormation![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/9998-cfn-template.json&label=&labelColor=white)|9998-cfn-template|![](https://img.shields.io/badge/complete-green?style=for-the-badge)|
+|39.|9999|Reusable Workflows|GitHub Repository of reusable works for CloudFormation, Terraform, AWS SAM and Serverless ![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/9999-reusable-wf.json&label=&labelColor=white)|9999-reusable-wf|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
 
 </div>
