@@ -1,18 +1,35 @@
-name: Label issues
+# name: Label issues
+# on:
+#   issues:
+#     types:
+#       - reopened
+#       - opened
+# jobs:
+#   label_issues:
+#     runs-on: ubuntu-latest
+#     permissions:
+#       issues: write
+#     steps:
+#       - run: gh issue edit "$NUMBER" --add-label "$LABELS"
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#           GH_REPO: ${{ github.repository }}
+#           NUMBER: ${{ github.event.issue.number }}
+#           LABELS: prefix/something
+name: compliance-check
+
 on:
-  issues:
-    types:
-      - reopened
-      - opened
+  repository_dispatch:
+    types: [org-workflow-bot]
+
 jobs:
-  label_issues:
+  register-and-lint:
     runs-on: ubuntu-latest
-    permissions:
-      issues: write
     steps:
-      - run: gh issue edit "$NUMBER" --add-label "$LABELS"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_REPO: ${{ github.repository }}
-          NUMBER: ${{ github.event.issue.number }}
-          LABELS: prefix/something
+    - uses: SvanBoxel/organization-workflow@main
+      with:
+        id: ${{ github.event.client_payload.id }}
+        callback_url: ${{ github.event.client_payload.callback_url }}
+        sha: ${{ github.event.client_payload.sha }}
+        run_id: ${{ github.run_id }}
+        name: ${{ github.workflow }} # Default: name of workflow. This name is shown with the check, but can be changed.
