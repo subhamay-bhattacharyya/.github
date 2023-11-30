@@ -6,5 +6,5 @@ branches:
   - label: '*'
     prefix: feature/
 gitSafeReplacementChar: '-'
-branchName: 'SB${ISSUE-PREFIX}${issue.number}-${issue.title[0,64],}'
+branchName: 'SB${{ github.event.repository.name }}${issue.number}-${issue.title[0,64],}'
 autoCloseIssue: true
