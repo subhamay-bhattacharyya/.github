@@ -8,3 +8,9 @@ branches:
 gitSafeReplacementChar: '-'
 branchName: 'SB-${issue.number%4}-${issue.title[0,64],}'
 autoCloseIssue: true
+copyIssueDescriptionToPR: true
+copyIssueLabelsToPR: true
+copyIssueAssigneeToPR: true
+copyIssueProjectsToPR: true
+copyIssueMilestoneToPR: true
+prSkipCI: true
