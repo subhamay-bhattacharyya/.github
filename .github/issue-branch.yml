@@ -1,3 +1,5 @@
+mode: auto
+silent: false
 branches:
   - label: enhancement
     prefix: feature/
