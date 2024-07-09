@@ -1,13 +1,71 @@
-### Hi there 👋, I am Subhamay Bhattacharyya, 3x AWS Certified and a AWS Cloud Enthusiast
+### Hi there 👋, I am Subhamay Bhattacharyya, 4x AWS Certified and a AWS Cloud Enthusiast
+
+
+```mermaid
+mindmap
+  id)AWS(
+    Analytics
+      Redshift
+        Redshift Spectrum 
+      Athena
+      Glue
+        Catalogue
+        Workflow
+      EMR
+    Compute
+      Lambda
+      EC2
+        Auto Scaling
+    Container
+      ECS
+      EKS
+      Batch
+    Development Tools
+      X-Ray
+      CDK
+    Serverless
+      Lambda
+      EKS
+      Kinesis
+      S3
+      SNS
+      SQS
+      DynamoDB
+    IaC
+      CloudFormation
+      SAM
+      Terraform
+      Serverless
+    Security
+      KMS
+    Networking
+      VPC
+      Subnet
+      Routes
+      Internet Gateway
+      Nat Gateway`
+      VPC Endpoints
+      NACL
+      Security Groups
+    Database
+      RDS
+      Elasticache
+
+
+```
 
 <!--
 **bsubhamay/bsubhamay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-        <td colspan="100%" style="border: none;"><img src="https://github.com/subhamay-bhattacharyya/.github/blob/main/profile/github-banner.png"></td>
-    </tr>
-    <tr style="border: none;">
+<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; width:440px">
+    <tr style="border: none; width:440px">
+        <td style="border: none; width:110px"><a href="https://www.credly.com/badges/7d226215-5c7c-4ba6-a099-6b6f631a7851/public_url"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"></a></td>
+        <td style="border: none; width:110px"><a href="https://www.credly.com/badges/0a36d31b-818a-46b3-96ee-51167128cae5/public_url"><img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"></a></td>
+        <td style="border: none; width:110px"><a href="https://www.credly.com/badges/fa9f8eb0-633b-46c1-8cb8-8027d158cd40/public_url"><img src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"></a></td>
+        <td style="border: none; width:110px"><a href=https://www.credly.com/badges/695e0322-4bd4-4f85-99eb-d4e68c95e5dc/public_url"><img src="https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png"></a></td>
+     </tr>
+</table>
+    <!-- <tr style="border: none;">
         <td colwidth="20%" style="border: none;"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></td>
         <td colwidth="20%" style="border: none;"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"></td>
         <td colwidth="20%" style="border: none;"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"></td>
@@ -25,7 +83,7 @@
         <td colwidth="20%" style="border: none;"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></td>
         <td colwidth="80%" style="border: none;">&nbsp;</td>
     </tr>
-</table>
+</table>-->
 
 
 ![Subhamay Cloudwork's's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsubhamay&show_icons=true&theme=radical)
@@ -55,47 +113,7 @@
 
 |Sr#|Code|Project Name|Project Description|Repository|Status|
 |---   |---	|---	|---	|---	|---	|
-|1.|0000|Lilac|AWS CloudFormation Custom Resource to create S3 folder and delete them while deleting the stack.![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/1ecd7ba3833e7aa27764fcc661d11f477e3b09be/0000-lilac-py-cft.json&label=&labelColor=white)|0000-lilac-py-cft|![](https://img.shields.io/badge/complete-green?style=for-the-badge)|
-|2.|001|Tarius|AWS Serverless Real Time Data Load to DynamoDB using AWS CloudFormation as IaaC.![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/0001-tarius-py-cft.json&label=&labelColor=white)|0001-tarius-py-cft|![](https://img.shields.io/badge/complete-green?style=for-the-badge)|
-|3.|0001|Tarius|AWS Serverless Real Time Data Load to DynamoDB using HashiCorp Terraform as IaaC.![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/0001-tarius-py-tf.json&label=&labelColor=white)|0001-tarius-py-tf&nbsp;![](https://img.shields.io/badge/-white?logo=terraform)|![](https://img.shields.io/badge/complete-green?style=for-the-badge)|
-|4.|0001|Tarius|AWS Serverless Real Time Data Load to DynamoDB using AWS SAM as IaaC.![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/0001-tarius-py-sam.json&label=&labelColor=white)|0001-tarius-py-sam&nbsp;![](https://img.shields.io/badge/-white?logo=sam)|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|5.|0002|Rugops|AWS Serverless Real Time Streaming using AWS CloudFormation as IaaC.![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/0002-rugops-py-cft.json&label=&labelColor=white)|0002-rugops-py-cft|![](https://img.shields.io/badge/not_started-red?style=for-the-badge)|
-|6.|0002|Rugops|AWS Serverless Real Time Streaming using HashiCorp Terraform as IaaC.![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/0002-rugops-py-tf.json&label=&labelColor=white)|0002-rugops-py-tf|![](https://img.shields.io/badge/not_started-red?style=for-the-badge)|
-|7.|0003|Anubis|EC2 log file CloudWatch Integration.|0003-anubis-py-cft|![](https://img.shields.io/badge/not_started-red?style=for-the-badge)|
-|8.|0004|Capricorn|A Real Time Data Migration from On-Prem to AWS Cloud (SQL to NoSQL database).|0004-capricorn-py-cft|![](https://img.shields.io/badge/not_started-red?style=for-the-badge)|
-|9.|0005|Taurus|Lambda Layer Demo using CloudFormation as IaaC![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/0005-taurus-py-cft.json&label=&labelColor=white)|0005-taurus-py-cft|![](https://img.shields.io/badge/complete-green?style=for-the-badge)|
-|10.|0005|Taurus|Lambda Layer Demo using HashiCorp Terraform as IaaC![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/0005-taurus-py-tf.json&label=&labelColor=white)|0005-taurus-py-tf|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|11.|0006|Erketu|Taking EC2 Volume daily backup using Lambda and EventBridge Rule![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/0006-erketu-py-cft.json&label=&labelColor=white)|0006-erketu-py-cft|![](https://img.shields.io/badge/complete-green?style=for-the-badge)|
-|12.|0015|Lily|Delete detached Elastic IP Addresses using Lambda and EventBridge Rule.![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/0015-lily-py-cft.json&label=&labelColor=white)|0015-lily-py-cft|![](https://img.shields.io/badge/complete-green?style=for-the-badge)|
-|13.|0017|Rose|Logging and Monitoring using CloudWatch Custom Metric and Alarm with Email Notification using SNS|0017-rose-py-cft|![](https://img.shields.io/badge/not_started-red?style=for-the-badge)|
-|14.|0018|Sunflower|Accessing a S3 bucket in one AWS Acount (Account-A) from a Lambda function in another AWS Account(Account-B)|0018-sunflower-py-cft|![](https://img.shields.io/badge/not_started-red?style=for-the-badge)|
-|15.|0019|Orchid|Real Time Data ingestion from one source (S3 Bucket) to two destinations (DynamoDB and Redshift) |0019-orchid-py-cft|![](https://img.shields.io/badge/not_started-red?style=for-the-badge)|
-|16.|0020|Marigold|CloudWatch Alarm for Lambda Function |0020-marigold-py-cft|![](https://img.shields.io/badge/not_started-red?style=for-the-badge)|
-|17.|0022|Freesia|Migrating data from SQL to NoSQL database and validating using DynamoDB Stream and Lambda|0022-fressia-py-cf|![](https://img.shields.io/badge/not_started-red?style=for-the-badge)|
-|18.|0027|Scilla|Creating a custom VPC and launching an EC2 instance using CloudFormation Nested Stack.![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/0027-scilla-py-cft.json&label=&labelColor=white)|0027-scilla-py-cf|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|19.|0035|Sedum|A Step Function Demo![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/c603a285134a7448f843fa7fb165fce19a0acbf1/0035-sedum-py-cft.json&label=&labelColor=white)|0035-sedum-py-cf|![](https://img.shields.io/badge/complete-green?style=for-the-badge)|
-|20.|0038|Bellflower|Step Function with Lambda, SNS, SQS, S3 orchestration with callback functionality|0038-bellflower-py-cft|![](https://img.shields.io/badge/not_started-red?style=for-the-badge)|
-|21.|0033|Aconite|Step Function with AWS Batch and Lambda.![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/0033-aconite-py-cft.json&label=&labelColor=white)|0033-aconite-py-cft|![](https://img.shields.io/badge/not_started-red?style=for-the-badge)|
-|22.|0036|Amaryllis|Lambda orchestration with Manual Approval with AWS Step Function.|0036-amaryllis-py-cft|![](https://img.shields.io/badge/not_started-red?style=for-the-badge)|
-|23.|0040|Ageratum|Installing Jenkins on AWS EC2|0040-ageratum-cft|![](https://img.shields.io/badge/not_started-red?style=for-the-badge)|
-|24.|0052|Agapanthus|Working with Glue Data Catalog and Running the Glue Crawler On Demand|0052-agapanthus-cft|![](https://img.shields.io/badge/not_started-red?style=for-the-badge)|
-|25.|0053|Bluebonnets|Working with Glue Data Catalog and running the same  using S3 Event Notification and SQS|0053-bluebonnets-cft|![](https://img.shields.io/badge/not_started-red?style=for-the-badge)|
-|26.|0063|Carnation|Demonstration of Step Function Map State![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/0063-carnation-py-cft.json&label=&labelColor=white)|0063-carnation-py-cft|![](https://img.shields.io/badge/complete-greeen?style=for-the-badge)|
-|27.|0064|Catharanthus|Demonstration of Step Function using DynamoDB, Lambda and SQS|0064-catharanthus-cft|![](https://img.shields.io/badge/not_started-red?style=for-the-badge)|
-|28.|0066|Disa|Step Function Demo using DynamoDB, Lambda,SNS and CloudWatch Alarm|0066-disa-py-cft|![](https://img.shields.io/badge/not_started-red?style=for-the-badge)|
-|29.|0069|Celosia|Transfer Data Records (Lambda, DynamoDB, Amazon SQS)![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/0069-celosia-py-cft.json&label=&labelColor=white?)|0069-celosia-py-cft|![](https://img.shields.io/badge/complete-green?style=for-the-badge)|
-|30.|0070|Clover|Manage a Container Task (Amazon ECS, Amazon SNS)![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/0070-clover-py-cft.json&label=&labelColor=white?)|0070-clover-py-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|31.|0071|Chionodoxa|Step Function to Poll for Job Status (Lambda, AWS Batch)![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/0071-chionodoxa-py-cft.json&label=&labelColor=white?)|0071-chionodoxa-py-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|32.|0086|Daylily|Step Function pattern using Task Timer (Lambda, Amazon SNS)![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/0086-daylily-py-cft.json&label=&labelColor=white?)|0086-daylily-py-cft|![](https://img.shields.io/badge/inprogress-yellow?style=for-the-badge)|
-|33.|0088|Decumaria|Enable CloudTrail Trail for DynamoDB data events|0090-decumaria-cft|![](https://img.shields.io/badge/not_started-red?style=for-the-badge)|
-|34.|0089|Delphinium|Scheduling a Lambda function using EventBridge to send an email every day using SES and a pre-signed URL of an image |0089-delphinium-cft|![](https://img.shields.io/badge/not_started-red?style=for-the-badge)|
-|35.|0090|Deutzia|Creating an audit table for a DynamoDB table using CloudTrail, Kinesis Data Stream, Lambda, S3, Glue and Athena![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/0090-deutzia-py-cft.json&label=&labelColor=white)|0090-deutzia-py-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|36.|0096|Helenium|CloudWatch Custom Metric![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/0095-helenium-cft.json&label=&labelColor=white)|0095-helenium-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|37.|0101|Hollyhock|An EC2 Auto Scaling Group running web server running behind an Application Load Balancer![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/0101-hollyhock-cft.json&label=&labelColor=white)|0101-hollyhock-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|38.|9994|SLS GitHub Template|GitHub Template Repository for Serverless Framework![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/9994-sls-template.json&label=&labelColor=white)|9994-sls-template|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|39.|9995|SAM GitHub Template|GitHub Template Repository for AWS SAM (Serverless Application Model)![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/9995-sam-template.json&label=&labelColor=white)|9995-sam-template|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)| 
-|40.|9997|TF GitHub Template|GitHub Template Repository for Hashicorp Terraform![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/9997-tf-template.json&label=&labelColor=white)|9997-tf-template|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|41.|9998|CF GitHub Template|GitHub Template Repository for AWS CloudFormation![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/9998-cfn-template.json&label=&labelColor=white)|9998-cfn-template|![](https://img.shields.io/badge/complete-green?style=for-the-badge)|
-|42.|9999|Reusable Workflows|GitHub Repository of reusable works for CloudFormation, Terraform, AWS SAM and Serverless ![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/9999-reusable-wf.json&label=&labelColor=white)|9999-reusable-wf|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|1.|0030|Ballota|S3 Security Best Practice.![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/83dc1b43213c7ea16cfb82ae83fedec701652ea5/0030-ballota-cft.json&label=&labelColor=white)|0030-ballota-cft|![](https://img.shields.io/badge/initial-red?style=for-the-badge)|
+|2.|0032|Allium|Mounting an Elastic File System to multipe EC2 instances.![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/abc129e6fcce1b7d8ffb99af2441662936f8f0f7/0032-allium-cft.json&label=&labelColor=white)|0032-allium-cft|![](https://img.shields.io/badge/in_progress-green?style=for-the-badge)|
 
 </div>
