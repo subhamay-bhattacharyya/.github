@@ -114,6 +114,6 @@ mindmap
 |Sr#|Code|Project Name|Project Description|Repository|Status|
 |---   |---	|---	|---	|---	|---	|
 |1.|0030|Ballota|S3 Security Best Practice.![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/83dc1b43213c7ea16cfb82ae83fedec701652ea5/0030-ballota-cft.json&label=&labelColor=white)|0030-ballota-cft|![](https://img.shields.io/badge/initial-red?style=for-the-badge)|
-|2.|0032|Allium|Mounting an Elastic File System to multipe EC2 instances.![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/abc129e6fcce1b7d8ffb99af2441662936f8f0f7/0032-allium-cft.json&label=&labelColor=white)|0032-allium-cft|![](https://img.shields.io/badge/in_progress-green?style=for-the-badge)|
+|2.|0032|Allium|Mounting an Elastic File System to multipe EC2 instances.![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/abc129e6fcce1b7d8ffb99af2441662936f8f0f7/0032-allium-cft.json&label=&labelColor=white)|0032-allium-cft|![](https://img.shields.io/badge/complete-green?style=for-the-badge)|
 
 </div>
