@@ -128,5 +128,7 @@ mindmap
 |1.0 |Storage|S3 Bucket|terraform-aws-s3|1.0.0|![](https://img.shields.io/badge/complete-green?style=for-the-badge)|
 |2.0 |Analytics|Glue Job|terraform-aws-glue-job|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
 |3.0 |Analytics|Glue Job Security Configuration|terraform-aws-glue-security-configuration|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|4.0 |Analytics|Glue Catalog Database|terraform-aws-glue-database|1.0.0|![](https://img.shields.io/badge/complete-green?style=for-the-badge)|
+
 
 </div>
