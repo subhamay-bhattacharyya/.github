@@ -120,16 +120,18 @@ mindmap
 |5.|0052|Agapanthus|Glue crawler generating JSON and CSV file metadata from S3 bucket in a secured S3 bucket.![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/0052-agapanthus-cft.json&label=&labelColor=white)|0052-agapanthus-cft|![](https://img.shields.io/badge/complete-green?style=for-the-badge)|
 |6.|-|GitOps Minicamp 2024|GitOps Minicamp - build a fully functional GitOps pipeline to deploy AWS infrastructure using Terraform conducted by Derek Morgan and Andrew Brown.![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/gitops-minicamp-2024-tf.json&label=&labelColor=white)|gitops-minicamp-2024-tf|![](https://img.shields.io/badge/inprogress-yellow?style=for-the-badge)|
 |7.|0116|Mandevilla|Event Driven Architecture using EventBridge, SNS, SQS and StepFunction.![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/b21a193b71079cfd71034ff303e7cae9/raw/01016-mandevilla.json&label=&labelColor=white)|0116-mandevilla-tf|![](https://img.shields.io/badge/initial-red?style=for-the-badge)|
-|8.|0052|Agapanthus|Glue crawler generating JSON and CSV file metadata from S3 bucket in a secured S3 bucket.![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/395448a4592cd520938a9b8c1bcaf075/raw/0052-agapanthus-tf.json&label=&labelColor=white)|0052-agapanthus-tf|![](https://img.shields.io/badge/initial-red?style=for-the-badge)|
+|8.|0052|Agapanthus|Glue crawler generating JSON and CSV file metadata from S3 bucket in a secured S3 bucket.![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/395448a4592cd520938a9b8c1bcaf075/raw/0052-agapanthus-tf.json&label=&labelColor=white)![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|0052-agapanthus-tf|![](https://img.shields.io/badge/initial-red?style=for-the-badge)|
 
 
 ## Terraform Private Registry Modules:
 |Sr#|Category|Service|Repository|Latest Release|Status|
 |---   |---	|---	|---	|---	|---	|
-|1.0 |Storage|S3 Bucket|terraform-aws-s3|1.0.0|![](https://img.shields.io/badge/complete-green?style=for-the-badge)|
-|2.0 |Analytics|Glue Job|terraform-aws-glue-job|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|3.0 |Analytics|Glue Job Security Configuration|terraform-aws-glue-security-configuration|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|4.0 |Analytics|Glue Catalog Database|terraform-aws-glue-database|1.0.0|![](https://img.shields.io/badge/complete-green?style=for-the-badge)|
+|1.0 |Storage|S3 Bucket|terraform-aws-s3|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|2.0 |Analytics|Glue Crawler|terraform-aws-glue-crawler|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|3.0 |Analytics|Glue Database|terraform-aws-glue-database|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|4.0 |Analytics|Glue Job Security Configuration|terraform-aws-glue-security-configuration|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|5.0 |Analytics|Glue Job|terraform-aws-glue-job|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|6.0 |Analytics|Glue Catalog Database|terraform-aws-glue-database|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
 
 
 </div>
