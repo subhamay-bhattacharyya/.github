@@ -124,6 +124,11 @@ mindmap
 |2.|![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|Reusable GitHub Workflows for Azure using Terraform|terraform-azure-template|![](https://img.shields.io/badge/started-orange?style=for-the-badge)||
 |3.|![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|Reusable GitHub Workflows for GCP using Terraform|terraform-gcp-template|![](https://img.shields.io/badge/not_started-darkred?style=for-the-badge)||
 
+## Boot Camps:
+
+|Sr#|Project Name|Project Description|Repository|Status|Progress|IaC|
+|---   |---	|---	|---	|---	|---	|---	|
+|1.|GitOps Minicamp|GitOps Minicamp - build a fully functional GitOps pipeline to deploy AWS infrastructure using Terraform conducted by Derek Morgan and Andrew Brown.![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/d08b6f0aab19b31b80744b7fee7e533e/raw/gitops-minicamp-2024-tf.json&label=&labelColor=white)|gitops-minicamp-2024-tf|![](https://img.shields.io/badge/in_progress-lightgreen?style=for-the-badge)|![Status Badge](https://img.shields.io/badge/-80-lightgreen)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|
 
 ## My Current and upcoming projects:
 
@@ -155,13 +160,14 @@ mindmap
 ## Terraform Private Registry Modules:
 |Sr#|Category|Service|Repository|Latest Release|Status|
 |---   |---	|---	|---	|---	|---	|
-|1.0 |Networking|VPC-Subnets|terraform-aws-networking|1.0.0|![](https://img.shields.io/badge/not_started-darkred?style=for-the-badge)|
-|2.0 |Storage|S3 Bucket|terraform-aws-s3|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|3.0 |Analytics|Glue Crawler|terraform-aws-glue-crawler|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|4.0 |Analytics|Glue Database|terraform-aws-glue-database|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|5.0 |Analytics|Glue Job Security Configuration|terraform-aws-glue-security-configuration|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|6.0 |Analytics|Glue Job|terraform-aws-glue-job|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|7.0 |Analytics|Glue Catalog Database|terraform-aws-glue-database|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|1 |Networking|VPC-Subnets|terraform-aws-vpc-subnets|1.0.0|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|2 |Networking|Security Group|terraform-aws-security-group|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|3|Storage|S3 Bucket|terraform-aws-s3|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|4|Analytics|Glue Crawler|terraform-aws-glue-crawler|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|5|Analytics|Glue Database|terraform-aws-glue-database|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|6|Analytics|Glue Job Security Configuration|terraform-aws-glue-security-configuration|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|7|Analytics|Glue Job|terraform-aws-glue-job|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|8|Analytics|Glue Catalog Database|terraform-aws-glue-database|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
 
 
 </div>
