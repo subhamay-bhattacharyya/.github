@@ -117,12 +117,12 @@ mindmap
 |2.|![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|Reusable GitHub Workflows for Azure using Terraform|gh-action-reusable-az-tf-wf|![](https://img.shields.io/badge/started-orange?style=for-the-badge)||
 |3.|![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|Reusable GitHub Workflows for GCP using Terraform|gh-action-reusable-gcp-tf-wf|![](https://img.shields.io/badge/not_started-darkred?style=for-the-badge)||
 
-## GitHub Repository Template Repositories:
+## GitHub Template Repositories:
 |Sr#|Cloud Service Provider|IaC|Project Description|Repository|Status|
 |---   |---	|---	|---	|---	|---	|
-|1.|![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|Reusable GitHub Workflows for AWS using Terraform|terraform-aws-template|![](https://img.shields.io/badge/in_progress-darkgreen?style=for-the-badge)||
-|2.|![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|Reusable GitHub Workflows for Azure using Terraform|terraform-azure-template|![](https://img.shields.io/badge/started-orange?style=for-the-badge)||
-|3.|![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|Reusable GitHub Workflows for GCP using Terraform|terraform-gcp-template|![](https://img.shields.io/badge/not_started-darkred?style=for-the-badge)||
+|1.|![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|Repository Template for Terraform AWS|terraform-aws-template|![](https://img.shields.io/badge/in_progress-darkgreen?style=for-the-badge)||
+|2.|![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|Repository Template for Terraform Azure|terraform-azure-template|![](https://img.shields.io/badge/started-orange?style=for-the-badge)||
+|3.|![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|Repository Template for Terraform GCP|terraform-gcp-template|![](https://img.shields.io/badge/not_started-darkred?style=for-the-badge)||
 
 ## Boot Camps:
 
@@ -161,7 +161,7 @@ mindmap
 |Sr#|Category|Service|Repository|Latest Release|Status|
 |---   |---	|---	|---	|---	|---	|
 |1 |Networking|VPC-Subnets|terraform-aws-vpc-subnets|1.0.0|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
-|2 |Networking|Security Group|terraform-aws-security-group|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|2 |Networking|Security Group|terraform-aws-security-group|1.0.0|![](https://img.shields.io/badge/complete-lightgreen?style=for-the-badge)|
 |3|Storage|S3 Bucket|terraform-aws-s3|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
 |4|Analytics|Glue Crawler|terraform-aws-glue-crawler|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
 |5|Analytics|Glue Database|terraform-aws-glue-database|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
