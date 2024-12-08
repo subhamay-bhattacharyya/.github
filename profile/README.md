@@ -166,11 +166,11 @@ mindmap
 |4|Storage|S3 Bucket|terraform-aws-s3|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
 |5|Identity and Access Management|IAM Role|terraform-aws-iam-role|1.0.0|![](https://img.shields.io/badge/not_started-red?style=for-the-badge)|
 |6|Compute|EC2 Instance|terraform-aws-ec2|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|5|Analytics|Glue Crawler|terraform-aws-glue-crawler|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|6|Analytics|Glue Database|terraform-aws-glue-database|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|7|Analytics|Glue Job Security Configuration|terraform-aws-glue-security-configuration|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|8|Analytics|Glue Job|terraform-aws-glue-job|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|9|Analytics|Glue Catalog Database|terraform-aws-glue-database|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|7|Analytics|Glue Crawler|terraform-aws-glue-crawler|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|8|Analytics|Glue Database|terraform-aws-glue-database|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|9|Analytics|Glue Job Security Configuration|terraform-aws-glue-security-configuration|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|10|Analytics|Glue Job|terraform-aws-glue-job|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|11|Analytics|Glue Catalog Database|terraform-aws-glue-database|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
 
 
 </div>
