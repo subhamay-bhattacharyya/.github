@@ -157,17 +157,20 @@ mindmap
 |21.|0123|Nemophila|Querying a DynamoDB table using Athena.![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/bdba4ef1a6ece92798f900ba275689a2/raw/0123-nemophila-tf.json&label=&labelColor=white)|0123-nemophila-tf|![](https://img.shields.io/badge/not_started-darkred?style=for-the-badge)|![Status Badge](https://img.shields.io/badge/-0-red)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|
 
 
-## Terraform Private Registry Modules:
+## Terraform Private Registry Modules for AWS:
 |Sr#|Category|Service|Repository|Latest Release|Status|
 |---   |---	|---	|---	|---	|---	|
-|1 |Networking|VPC-Subnets|terraform-aws-vpc-subnets|1.0.0|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
-|2 |Networking|Security Group|terraform-aws-security-group|1.0.0|![](https://img.shields.io/badge/complete-lightgreen?style=for-the-badge)|
-|3|Storage|S3 Bucket|terraform-aws-s3|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|4|Analytics|Glue Crawler|terraform-aws-glue-crawler|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|5|Analytics|Glue Database|terraform-aws-glue-database|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|6|Analytics|Glue Job Security Configuration|terraform-aws-glue-security-configuration|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|7|Analytics|Glue Job|terraform-aws-glue-job|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|8|Analytics|Glue Catalog Database|terraform-aws-glue-database|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|1|Networking|VPC-Subnets|terraform-aws-vpc-subnets|1.0.0|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|2|Networking|Security Group|terraform-aws-security-group|1.0.0|![](https://img.shields.io/badge/complete-lightgreen?style=for-the-badge)|
+|3|Networking|VPC Endpoint|terraform-aws-vpc-endpoint|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|4|Storage|S3 Bucket|terraform-aws-s3|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|5|Identity and Access Management|IAM Role|terraform-aws-iam-role|1.0.0|![](https://img.shields.io/badge/not_started-red?style=for-the-badge)|
+|6|Compute|EC2 Instance|terraform-aws-ec2|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|5|Analytics|Glue Crawler|terraform-aws-glue-crawler|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|6|Analytics|Glue Database|terraform-aws-glue-database|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|7|Analytics|Glue Job Security Configuration|terraform-aws-glue-security-configuration|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|8|Analytics|Glue Job|terraform-aws-glue-job|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|9|Analytics|Glue Catalog Database|terraform-aws-glue-database|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
 
 
 </div>
