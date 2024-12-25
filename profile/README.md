@@ -58,11 +58,12 @@ mindmap
 **bsubhamay/bsubhamay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; width:440px">
-    <tr style="border: none; width:440px">
+    <tr style="border: none; width:660px">
         <td style="border: none; width:110px"><a href="https://www.credly.com/badges/7d226215-5c7c-4ba6-a099-6b6f631a7851/public_url"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"></a></td>
         <td style="border: none; width:110px"><a href="https://www.credly.com/badges/0a36d31b-818a-46b3-96ee-51167128cae5/public_url"><img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"></a></td>
         <td style="border: none; width:110px"><a href="https://www.credly.com/badges/fa9f8eb0-633b-46c1-8cb8-8027d158cd40/public_url"><img src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"></a></td>
         <td style="border: none; width:110px"><a href="https://www.credly.com/badges/695e0322-4bd4-4f85-99eb-d4e68c95e5dc/public_url"><img src="https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png"></a></td>
+        <td style="border: none; width:110px"><a href="https://www.credly.com/badges/90fa65c0-2b2b-4b72-bcd6-de60ec3af12a/public_url"><img src="https://images.credly.com/size/110x110/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png"></a></td>
         <td style="border: none; width:110px"><a href="https://www.credly.com/badges/52a1f5d9-1129-4cee-b7fb-7bc4ccd93b88/public_url"><img src="https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6f/image.png"></a></td>
      </tr>
 </table>
