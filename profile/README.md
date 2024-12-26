@@ -3,53 +3,75 @@
 
 ```mermaid
 mindmap
-  id)AWS(
-    Analytics
-      Redshift
-        Redshift Spectrum 
-      Athena
-      Glue
-        Catalogue
-        Workflow
-      EMR
-    Compute
-      Lambda
-      EC2
-        Auto Scaling
-    Container
-      ECS
-      EKS
-      Batch
-    Development Tools
-      X-Ray
-      CDK
-    Serverless
-      Lambda
-      EKS
-      Kinesis
+  )AWS(
+    )) 🚩 Storage((
       S3
-      SNS
-      SQS
-      DynamoDB
-    IaC
-      CloudFormation
-      SAM
-      Terraform
-      Serverless
-    Security
-      KMS
-    Networking
-      VPC
-      Subnet
-      Routes
-      Internet Gateway
-      Nat Gateway`
-      VPC Endpoints
-      NACL
-      Security Groups
-    Database
+      EBS
+      EFS and FSx
+    )) 🚩 Databases((
       RDS
-      Elasticache
+      Aurora
+      DynamoDB
+    )) 🚩 Networking((
+      VPC
+      ELB 
+      Route 53
+    )) 🚩 Automation and Deployment((
+      CloudFormation
+      CodeBuild
+      CodePipeline
+      Terraform
+      SAM
+      Serverless Framework
+    )) 🚩 Content Delivery((
+      CloudFront
+      Global Accelerator
+    )) 🚩 Security((
+      IAM
+      KMS
+      Network Firewall
+    )) 🚩 End user((
+      Workspaces
+      AppStream 2.0
+      WorkDocs
+    )) 🚩 Analytics((
+      Glue
+      Athena
+      Redshift
+      EMR
+    )) 🚩 AI and ML((
+      Bedrock
+      Sagemaker
+      Recognition
+      Kendra
+      Textract
+    )) 🚩 Compute((
+      EC2
+      Lambda
+      ECS 
+      EKS
+    )) 🚩 Serverless((
+      Lambda 
+      SNS 
+      SQS
+      EventBridge
+      Kinesis DataStream
+      API Gateway
+      Fargate
+    )) 🚩 Operations((
+      Systems Manager
+      Organizations
+      CloudTrail
+      Config
+      CloudWatch
+    )) 🚩 Migration and BCDR((
+      DMS 
+      SMS 
+      Snow Devices 
+      AWS Backup 
+      Storage Gateway
+
+    
 
 
 ```
