@@ -70,12 +70,26 @@ mindmap
       Snow Devices 
       AWS Backup 
       Storage Gateway
-
-    
-
-
 ```
 
+_*Hands on with*_
+```mermaid
+block-beta
+      columns 8
+      Glue:4 Compute:2 Storage:2
+      Database:1 Crawler:1 Job:1 Trigger:1 EC2:1 Lambda:1 EBS:1 EFS:1
+      Integration:8
+      SNS:1 SQS:1 Kinesis:1
+      style Glue fill:#a6bde3,stroke:#a8a6e3,stroke-width:2px
+      style Compute fill:#a6bde3,stroke:#a8a6e3,stroke-width:2px
+      style Storage fill:#a6bde3,stroke:#a8a6e3,stroke-width:2px
+      style Integration fill:#a6bde3,stroke:#a8a6e3,stroke-width:2px
+      style Database fill:#e8d897,stroke:#a8a6e3,stroke-width:2px
+      style Crawler fill:#f0d775,stroke:#a8a6e3,stroke-width:2px
+      style Job fill:#f2d046,stroke:#a8a6e3,stroke-width:2px
+      style Trigger fill:#f5ca20,stroke:#a8a6e3,stroke-width:2px
+      
+```
 <!--
 **bsubhamay/bsubhamay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -184,10 +198,10 @@ mindmap
 |Sr#|Category|Service|Repository|Latest Release|Status|
 |---   |---	|---	|---	|---	|---	|
 |1|Networking|VPC-Subnets|terraform-aws-vpc-subnets|1.0.0|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
-|2|Networking|Security Group|terraform-aws-security-group|1.0.0|![](https://img.shields.io/badge/complete-lightgreen?style=for-the-badge)|
+|2|Networking|Security Group|terraform-aws-security-group|1.0.0|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
 |3|Networking|VPC Endpoint|terraform-aws-vpc-endpoint|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
 |4|Storage|S3 Bucket|terraform-aws-s3|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|5|Identity and Access Management|IAM Role|terraform-aws-iam-role|1.0.0|![](https://img.shields.io/badge/not_started-red?style=for-the-badge)|
+|5|Identity and Access Management|IAM Role|terraform-aws-iam-role|1.0.0|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
 |6|Compute|EC2 Instance|terraform-aws-ec2|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
 |7|Analytics|Glue Crawler|terraform-aws-glue-crawler|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
 |8|Analytics|Glue Database|terraform-aws-glue-database|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
@@ -195,5 +209,40 @@ mindmap
 |10|Analytics|Glue Job|terraform-aws-glue-job|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
 |11|Analytics|Glue Catalog Database|terraform-aws-glue-database|1.0.0|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
 
+
+## CloudFormation Nested Stack Templates for AWS:
+|Sr#|Category|Service|Status|
+|-   |-	|-	|-	|
+|1|Networking|VPC|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|2|Networking|Subnet|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|3|Networking|Internet Gateway|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|4|Networking|Nat Gateway|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|5|Networking|Network ACL|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|6|Networking|Security Group|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|7|Application Integration|SNS Topic|![](https://img.shields.io/badge/test_pending-lightgreen?style=for-the-badge)|
+|8|Application Integration|SNS Subscription|![](https://img.shields.io/badge/test_pending-lightgreen?style=for-the-badge)|
+|9|Application Integration|SQS|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|10|Storage|S3 Bucket|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|11|Storage|EFS|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|12|Streaming|Kinesis Data Stream|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|13|Streaming|Firehose|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|14|Compute|Lambda Function|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|15|Compute|Lambda Layer|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|16|Compute|EC2|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|17|Database|DynamoDB|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|18|Database|RDS|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|19|Monitoring|CloudWatch Log Group|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|20|Monitoring|CloudWatch Alert|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|21|Identity and Access Management|IAM Role|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|22|Identity and Access Management|IAM Policy|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|23|Identity and Access Management|EC2 Instance Profile|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|24|Analytics|Athena|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|25|Analytics|Redshift Cluster|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|26|Analytics|EMR|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|27|ETL|Glue Database|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|28|ETL|Glue Crawler|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|29|ETL|Glue Trigger|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|30|ETL|Glue Job|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|31|Compliance|Config Rule|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
 
 </div>
