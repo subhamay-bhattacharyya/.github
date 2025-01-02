@@ -1,4 +1,4 @@
-### Hi there 👋, I am Subhamay Bhattacharyya, 4x AWS Certified and a AWS Cloud Enthusiast
+### Hi there 👋, I am Subhamay Bhattacharyya, 5x AWS, 1x Azure and 1x HashiCorp Terraform Certified and a AWS Cloud Enthusiast
 
 
 ```mermaid
