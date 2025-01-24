@@ -167,6 +167,19 @@ block-beta
 |2.|![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|Repository Template for Terraform Azure|terraform-azure-template|![](https://img.shields.io/badge/started-orange?style=for-the-badge)|
 |3.|![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|Repository Template for Terraform GCP|terraform-gcp-template|![](https://img.shields.io/badge/not_started-darkred?style=for-the-badge)|
 
+
+## AWS Networking Immersion Day:
+|Sr#|Code|Project Name|Project Description|Repository|Status|IaC|
+|---   |---	|---	|---	|---	|---	|---	|
+|1.|101|Glue Immersion Day 1|Working with Glue Data Catalog![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/3efcaa120b1812e51934f4b69d45bd5a/raw/101-networking-immersion-day-cft.json&label=&labelColor=white)|0001-glue-immersion-day-cft|![](https://img.shields.io/badge/not_started-darkred?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+
+
+## AWS Glue Immersion Day:
+|Sr#|Code|Project Name|Project Description|Repository|Status|IaC|
+|---   |---	|---	|---	|---	|---	|---	|
+|1.|201|Glue Immersion Day 1|Working with Glue Data Catalog![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/3efcaa120b1812e51934f4b69d45bd5a/raw/201-glue-immersion-day-cft.json&label=&labelColor=white)|0001-glue-immersion-day-cft|![](https://img.shields.io/badge/not_started-darkred?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+
+
 ## Boot Camps:
 
 |Sr#|Project Name|Project Description|Repository|Status|IaC|
@@ -177,7 +190,7 @@ block-beta
 |4.|DevOps 30 Day Challange - Day 3.|NBA Data Lake using Python and CloudFormation![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/d08b6f0aab19b31b80744b7fee7e533e/raw/gitops-minicamp-2024-tf.json&label=&labelColor=white)|devops-30day-03-nba-datalake-py-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|
 
 
-## My Current and upcoming projects:
+<!-- ## My Current and upcoming projects:
 
 |Sr#|Code|Project Name|Project Description|Repository|Status|IaC|
 |---   |---	|---	|---	|---	|---	|---	|
@@ -208,7 +221,7 @@ block-beta
 |25.|0120|Mimosa|Implementing AWS Control.![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/7b7187bfeefa1ab0de2f8959ef8a3cac/raw/0120-mimosa-tf.json&label=&labelColor=white)|0120-mimosa-tf|![](https://img.shields.io/badge/not_started-darkred?style=for-the-badge)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|
 |26.|0121|Moraea|EventBridge rule with different targets.![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/bbb9121e17a664cb23725ce62d7851a1/raw/0121-moraea-tf.json&label=&labelColor=white)|0121-moraea-tf|![](https://img.shields.io/badge/not_started-darkred?style=for-the-badge)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|
 |27.|0122|Nemesia|Working with Glue Workflow.![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/4b6b8713bcd2a808bc5e7ebec5afb8ff/raw/0122-nemesia-tf.json&label=&labelColor=white)|0122-nemesia-tf|![](https://img.shields.io/badge/not_started-darkred?style=for-the-badge)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|
-|28.|0123|Nemophila|Querying a DynamoDB table using Athena.![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/bdba4ef1a6ece92798f900ba275689a2/raw/0123-nemophila-tf.json&label=&labelColor=white)|0123-nemophila-tf|![](https://img.shields.io/badge/not_started-darkred?style=for-the-badge)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|
+|28.|0123|Nemophila|Querying a DynamoDB table using Athena.![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/bdba4ef1a6ece92798f900ba275689a2/raw/0123-nemophila-tf.json&label=&labelColor=white)|0123-nemophila-tf|![](https://img.shields.io/badge/not_started-darkred?style=for-the-badge)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)| -->
 
 
 ## Terraform Private Registry Modules for AWS:
