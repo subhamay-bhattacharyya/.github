@@ -153,6 +153,7 @@ block-beta
 
 
 ## Reusable CI/CD Workflows:
+
 |Sr#|Cloud Service Provider|IaC|Project Description|Repository|Status|
 |---   |---	|---	|---	|---	|---	|
 |1.|![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|Reusable GitHub Workflows for AWS using Terraform|gh-action-reusable-aws-tf-wf|![](https://img.shields.io/badge/in_progress-darkgreen?style=for-the-badge)|
@@ -161,6 +162,7 @@ block-beta
 |4.|![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|Reusable GitHub Workflows for GCP using Terraform|gh-action-reusable-gcp-tf-wf||![](https://img.shields.io/badge/not_started-darkred?style=for-the-badge)|
 
 ## GitHub Template Repositories:
+
 |Sr#|Cloud Service Provider|IaC|Project Description|Repository|Status|
 |---   |---	|---	|---	|---	|---	|
 |1.|![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|Repository Template for Terraform AWS|terraform-aws-template|![](https://img.shields.io/badge/in_progress-darkgreen?style=for-the-badge)|
@@ -172,8 +174,8 @@ block-beta
 
 |Sr#|Code|Project Description|Repository|Status|IaC|
 |---   |---	|---	|---	|---	|---	|
-|1.|101|VPC Fundamentals|0101-networking-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|2.|102|Multiple VPCs|0102-networking-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|1.|101|VPC Fundamentals|0101-networking-cft|![](https://img.shields.io/badge/in_progress-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|2.|102|Multiple VPCs|0102-networking-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |3.|103|Security Controls|0103-networking-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |4.|104|Connecting to On-Premises|0104-networking-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |5.|105|Networking Monitoring|0105-networking-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
@@ -185,7 +187,7 @@ block-beta
 
 |Sr#|Code|Project Description|Repository|Status|IaC|
 |---   |---	|---	|---	|---	|---	|
-|1.|201|Working with Glue Data Catalog|0201-glue-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|1.|201|Working with Glue Data Catalog|0201-glue-cft|![](https://img.shields.io/badge/in_progress-ebcb2a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |2.|202|Working with Apache Spark|0202-glue-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |3.|203|Working with Glue ETL|0203-glue-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |4.|204|Working with Glue Streaming|0204-glue-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
@@ -198,7 +200,7 @@ block-beta
 
 |Sr#|Code|Project Description|Repository|Status|IaC|
 |---   |---	|---	|---	|---	|---	|
-|1.|301|Introduction to Serverless|0301-serverless-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|1.|301|Introduction to Serverless|0301-serverless-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |2.|302|Synchronous Invocation|0302-serverless-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |3.|303|Synchronous + Idempoyence|0303-serverless-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |4.|304|Asynchronous Invocation|0304-serverless-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
@@ -210,7 +212,7 @@ block-beta
 
 |Sr#|Code|Project Description|Repository|Status|IaC|
 |---   |---	|---	|---	|---	|---	|
-|1.|401|Request Response|0201-step-function-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|1.|401|Request Response|0201-step-function-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |2.|402|Execute Asynchronous Task|0202-step-function-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |3.|403|Execute Synchronous Task|0203-step-function-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |4.|404|Asynchronous Invocation|0204-step-function-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
@@ -224,54 +226,54 @@ block-beta
 
 |Sr#|Code|Project Description|Repository|Status|IaC|
 |---   |---	|---	|---	|---	|---	|
-|1.|501|Serverless Data Lake|0501-datalake-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|1.|501|Serverless Data Lake|0501-datalake-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 
 ## AWS Storage Workshop:
 
 |Sr#|Code|Project Description|Repository|Status|IaC|
 |---   |---	|---	|---	|---	|---	|
-|1.|601|S3 Security Best Practices|0601-storage-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|2.|602|S3 Storage Performance Lab|0602-storage-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|3.|603|EFS Storage Performance Lab|0603-storage-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|4.|604|Migrating Data to AWS|0604-storage-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|5.|605|AWS Backup Lab|0605-storage-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|1.|601|S3 Security Best Practices|0601-storage-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|2.|602|S3 Storage Performance Lab|0602-storage-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|3.|603|EFS Storage Performance Lab|0603-storage-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|4.|604|Migrating Data to AWS|0604-storage-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|5.|605|AWS Backup Lab|0605-storage-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 
 ## AWS Containers Immersion Day:
 
 |Sr#|Code|Project Description|Repository|Status|IaC|
 |---   |---	|---	|---	|---	|---	|
-|1.|701|Containerize Monolith Application|0701-container-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|2.|702|Deploy a container using Fargate|0702-container-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|3.|703|Scale the monolith platform with ALB and ECS Service|0703-container-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|4.|704|Incrementally build and deploy microservices with AW Fargate|0704-container-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|5.|705|Launch EKS Cluster|0705-container-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|6.|706|Deploy monolith application into EKS Cluster|0706-container-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|7.|707|Incrementally build and deploy microservices with EKS and AWS Load Balancer Controller|0707-container-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|1.|701|Containerize Monolith Application|0701-container-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|2.|702|Deploy a container using Fargate|0702-container-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|3.|703|Scale the monolith platform with ALB and ECS Service|0703-container-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|4.|704|Incrementally build and deploy microservices with AW Fargate|0704-container-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|5.|705|Launch EKS Cluster|0705-container-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|6.|706|Deploy monolith application into EKS Cluster|0706-container-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|7.|707|Incrementally build and deploy microservices with EKS and AWS Load Balancer Controller|0707-container-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 
 ## ETL on EMR Immersion Workshop:
 
 |Sr#|Code|Project Description|Repository|Status|IaC|
 |---   |---	|---	|---	|---	|---	|
-|1.|801|Launch EMR Cluster|0801-emr-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|2.|802|Spark-based ETL|0802-emr-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|3.|803|Hive Workshop|0803-emr-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|4.|804|Presto Workshop|0804-emr-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|5.|805|EMR Managed Scalling|0805-emr-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|6.|806|Pig Workshop|0806-emr-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|7.|807|Hudi Workshop|0807-emr-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|8.|808|Orchestrating Amazon EMR with AWS StepFunctions|0808-emr-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|1.|801|Launch EMR Cluster|0801-emr-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|2.|802|Spark-based ETL|0802-emr-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|3.|803|Hive Workshop|0803-emr-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|4.|804|Presto Workshop|0804-emr-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|5.|805|EMR Managed Scalling|0805-emr-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|6.|806|Pig Workshop|0806-emr-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|7.|807|Hudi Workshop|0807-emr-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|8.|808|Orchestrating Amazon EMR with AWS StepFunctions|0808-emr-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 
 ## Redshift Immersion Day
 
 |Sr#|Code|Project Description|Repository|Status|IaC|
 |---   |---	|---	|---	|---	|---	|
-|1.|901|Getting Started with Redshift|0901-redshift-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|2.|902|Table Design and Load|0902-redshift-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|3.|903|Ongoing Load-ELT|0903-redshift-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|4.|904|Data Sharing|0904-redshift-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|5.|905|Machine Learning-Redshift ML|0905-redshift-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|6.|906|Query Data Lake-Redshift Spectrum|0906-redshift-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|7.|907|Operations|0907-redshift-cft|![](https://img.shields.io/badge/in_progress-ebd80c?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|1.|901|Getting Started with Redshift|0901-redshift-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|2.|902|Table Design and Load|0902-redshift-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|3.|903|Ongoing Load-ELT|0903-redshift-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|4.|904|Data Sharing|0904-redshift-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|5.|905|Machine Learning-Redshift ML|0905-redshift-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|6.|906|Query Data Lake-Redshift Spectrum|0906-redshift-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|7.|907|Operations|0907-redshift-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 
 
 
@@ -288,12 +290,12 @@ block-beta
 
 |Sr#|Project Name|Project Description|Repository|Status|IaC|
 |---   |---	|---	|---	|---	|---	|
-|1.|Wk01-Day01|Weather Dashboard using Python Lambda, S3, Secrets Manager and CloudFormation![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/d08b6f0aab19b31b80744b7fee7e533e/raw/dv3w01d01-weather-dash-py-cft.json&label=&labelColor=white)|dv30w01d01-weather-dash-py-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|![Terraform](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|2.|Wk01-Day02|NBA Game Day Notification using Python Lambda, SNS, Secrets Manager and  CloudFormation![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/d08b6f0aab19b31b80744b7fee7e533e/raw/dv30-wk01d02-nba-game-notify-py-cft.json&label=&labelColor=white)|dv30w01d02-nba-game-notify-py-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|![Terraform](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|3.|Wk01-Day03|NBA Data Lake using Glue, S3, Athena and CloudFormation![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/d08b6f0aab19b31b80744b7fee7e533e/raw/dv30-wk01d03-nba-datalake-py-cft.json&label=&labelColor=white)|dv30w01d03-nba-datalake-py-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|![Terraform](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|4.|Wk02-Day01|NFL Game Day schedule using API Gateway, ECS, ALB and CloudFormation![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/d08b6f0aab19b31b80744b7fee7e533e/raw/dv30-wk02d01-nba-datalake-py-cft.json&label=&labelColor=white)|dv30w02d01-nba-datalake-py-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|![Terraform](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|5.|Wk02-Day02|NFL Game Highlight Processor using ECS, AWS Elemental MediaConvert and CloudFormation![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/d08b6f0aab19b31b80744b7fee7e533e/raw/dv30-wk02d01-nba-datalake-py-cft.json&label=&labelColor=white)|dv30w02d02-nba-datalake-py-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|![Terraform](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|6.|Wk02-Day04|NFL Game Highlight Processor using ECS, AWS Elemental MediaConvert and Terraform![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/bsubhamay/d08b6f0aab19b31b80744b7fee7e533e/raw/dv30-wk02d01-nba-datalake-py-cft.json&label=&labelColor=white)|dv30w02d04-nba-datalake-py-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|
+|1.|Wk01-Day01|Weather Dashboard using Python Lambda, S3, Secrets Manager and CloudFormation|dv30w01d01-weather-dash-py-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|![Terraform](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|2.|Wk01-Day02|NBA Game Day Notification using Python Lambda, SNS, Secrets Manager and  CloudFormation|dv30w01d02-nba-game-notify-py-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|![Terraform](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|3.|Wk01-Day03|NBA Data Lake using Glue, S3, Athena and CloudFormation|dv30w01d03-nba-datalake-py-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|![Terraform](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|4.|Wk02-Day01|NFL Game Day schedule using API Gateway, ECS, ALB and CloudFormation|dv30w02d01-nba-datalake-py-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|![Terraform](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|5.|Wk02-Day02|NFL Game Highlight Processor using ECS, AWS Elemental MediaConvert and CloudFormation|dv30w02d02-nba-datalake-py-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|![Terraform](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|6.|Wk02-Day04|NFL Game Highlight Processor using ECS, AWS Elemental MediaConvert and Terraform|dv30w02d04-nba-datalake-py-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|
 
 
 <!-- ## My Current and upcoming projects:
