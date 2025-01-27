@@ -174,7 +174,7 @@ block-beta
 
 |Sr#|Code|Project Description|Repository|Status|IaC|
 |---   |---	|---	|---	|---	|---	|
-|1.|101|VPC Fundamentals|0101-networking-cft|![](https://img.shields.io/badge/in_progress-ebcb2a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|1.|101|VPC Fundamentals|0101-networking-cft|![](https://img.shields.io/badge/complete-0b7026?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |2.|102|Multiple VPCs|0102-networking-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |3.|103|Security Controls|0103-networking-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |4.|104|Connecting to On-Premises|0104-networking-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
