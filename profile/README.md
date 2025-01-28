@@ -290,7 +290,7 @@ block-beta
 
 |Sr#|Project Name|Project Description|Repository|Status|IaC|
 |---   |---	|---	|---	|---	|---	|
-|1.|Wk01-Day01|Weather Dashboard using Python Lambda, S3, Secrets Manager and CloudFormation|dv30w01d01-weather-dash-py-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|![Terraform](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|1.|Wk01-Day01|Weather Dashboard using Python Lambda, S3, Secrets Manager and CloudFormation|dv30w01d01-weather-dash-py-cft|![](https://img.shields.io/badge/complete-0b7026?style=for-the-badge)|![Terraform](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |2.|Wk01-Day02|NBA Game Day Notification using Python Lambda, SNS, Secrets Manager and  CloudFormation|dv30w01d02-nba-game-notify-py-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|![Terraform](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |3.|Wk01-Day03|NBA Data Lake using Glue, S3, Athena and CloudFormation|dv30w01d03-nba-datalake-py-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|![Terraform](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |4.|Wk02-Day01|NFL Game Day schedule using API Gateway, ECS, ALB and CloudFormation|dv30w02d01-nba-datalake-py-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|![Terraform](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
