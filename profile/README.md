@@ -312,6 +312,19 @@ block-beta
 |6.|Wk02-Day04|NFL Game Highlight Processor using ECS, AWS Elemental MediaConvert and Terraform|dv30w02d04-nba-datalake-py-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|
 
 
+
+### GenAPI Projects by Lucy Wang 
+_TechWithLucy_ (https://learn.techwithlucy.com/)
+
+|Sr#|Code|Project Description|Repository|Status|IaC|
+|---  |---	|---	|---	|---	|---	|
+|1.|GenAI-01|Build an image labels generator using Amazon Rekognition|genai-01-py-cft|![](https://img.shields.io/badge/in_progress-ebcb2a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|2.|GenAI-02|Develop a text narrator using Amazon Polly|genai-02-py-cft|![](https://img.shields.io/badge/in_progress-ebcb2a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|3.|GenAI-03|Build a language translation bot using Amazon Lex|genai-03-py-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|4.|GenAI-04|Deploy a bucket list tracker application on AWS Amplify Gen2|genai-04-py-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+
+
+
 <!-- ## My Current and upcoming projects:
 
 |Sr#|Code|Project Name|Project Description|Repository|Status|IaC|
