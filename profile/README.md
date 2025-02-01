@@ -412,5 +412,7 @@ _TechWithLucy_ (https://learn.techwithlucy.com/)
 |32|ETL|Glue Trigger|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
 |33|ETL|Glue Job|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
 |34|Compliance|Config Rule|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|35|EventBridge|EventBridge Scheduler|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+
 
 </div>
