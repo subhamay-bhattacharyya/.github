@@ -157,9 +157,9 @@ block-beta
 |Sr#|Cloud Service Provider|IaC|Project Description|Repository|Status|
 |---   |---	|---	|---	|---	|---	|
 |1.|![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|Reusable GitHub Workflows for AWS using Terraform|gh-action-reusable-aws-tf-wf|![](https://img.shields.io/badge/in_progress-darkgreen?style=for-the-badge)|
-|2.|![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|Reusable GitHub Workflows for AWS using Terraform|gh-action-reusable-aws-tf-wf||![](https://img.shields.io/badge/in_progress-darkgreen?style=for-the-badge)|
-|3.|![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|Reusable GitHub Workflows for Azure using Terraform|gh-action-reusable-az-tf-wf||![](https://img.shields.io/badge/started-orange?style=for-the-badge)|
-|4.|![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|Reusable GitHub Workflows for GCP using Terraform|gh-action-reusable-gcp-tf-wf||![](https://img.shields.io/badge/not_started-darkred?style=for-the-badge)|
+|2.|![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|Reusable GitHub Workflows for AWS using Terraform|gh-action-reusable-aws-tf-wf|![](https://img.shields.io/badge/in_progress-darkgreen?style=for-the-badge)|
+|3.|![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|Reusable GitHub Workflows for Azure using Terraform|gh-action-reusable-az-tf-wf|![](https://img.shields.io/badge/started-orange?style=for-the-badge)|
+|4.|![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|Reusable GitHub Workflows for GCP using Terraform|gh-action-reusable-gcp-tf-wf|![](https://img.shields.io/badge/not_started-darkred?style=for-the-badge)|
 
 ## GitHub Template Repositories:
 
@@ -377,42 +377,43 @@ _TechWithLucy_ (https://learn.techwithlucy.com/)
 
 ## CloudFormation Nested Stack Templates for AWS:
 |Sr#|Category|Service|Status|
-|-   |-	|-	|-	|
-|1|Networking|VPC|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
-|2|Networking|Subnet|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
-|3|Networking|Internet Gateway|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
-|4|Networking|Nat Gateway|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
-|5|Networking|Network ACL|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
-|6|Networking|Security Group|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
-|7|Networking|Security Group Rule|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
-|8|Networking|VPC Endpoint|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
-|9|Networking|EC2 Instance Connect|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
-|10|Application Integration|SNS Topic|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
-|11|Application Integration|SNS Subscription|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
-|12|Application Integration|SQS|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|13|Storage|S3 Bucket|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
-|14|Storage|EFS|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|15|Streaming|Kinesis Data Stream|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|16|Streaming|Firehose|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|17|Compute|Lambda Function|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
-|18|Compute|Lambda Layer|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|19|Compute|EC2|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
-|20|Database|DynamoDB|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
-|21|Database|RDS|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|22|Monitoring|CloudWatch Log Group|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|23|Monitoring|CloudWatch Alert|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|24|Identity and Access Management|IAM Role|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
-|25|Identity and Access Management|IAM Policy|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|26|Identity and Access Management|EC2 Instance Profile|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
-|27|Analytics|Athena|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|28|Analytics|Redshift Cluster|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|29|Analytics|EMR|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|30|ETL|Glue Database|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
-|31|ETL|Glue Crawler|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
-|32|ETL|Glue Trigger|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|33|ETL|Glue Job|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
-|34|Compliance|Config Rule|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
-|35|EventBridge|EventBridge Scheduler|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|--  |--	|-- |--	|
+|1|Networking|[![GitHub](https://img.shields.io/badge/VPC-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|2|Networking|[![GitHub](https://img.shields.io/badge/Subnet-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|3|Networking|[![GitHub](https://img.shields.io/badge/Internet_Gateway-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|4|Networking|[![GitHub](https://img.shields.io/badge/NAT_Gateway-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|5|Networking|[![GitHub](https://img.shields.io/badge/Network_ACL-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|6|Networking|[![GitHub](https://img.shields.io/badge/Security_Group-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|7|Networking|[![GitHub](https://img.shields.io/badge/Security_Group_Rule-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|8|Networking|[![GitHub](https://img.shields.io/badge/VPC_Endpoint-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|9|Networking|[![GitHub](https://img.shields.io/badge/EC2_Instance_Connect_Endpoint-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|10|Application Integration|[![GitHub](https://img.shields.io/badge/SNS_Topic-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|11|Application Integration|[![GitHub](https://img.shields.io/badge/AWS-SNS_Subscription-orange?logo=amazon-aws&style=flat-squares)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|12|Application Integration|[![GitHub](https://img.shields.io/badge/AWS-SQS-orange?logo=amazon-aws&style=flat-squares)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|13|Storage|[![GitHub](https://img.shields.io/badge/AWS-S3_Bucket-orange?logo=amazon-aws&style=flat-squares)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|14|Storage|[![GitHub](https://img.shields.io/badge/AWS-Elastic_File_System-orange?logo=amazon-aws&style=flat-squares)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|15|Streaming|[![GitHub](https://img.shields.io/badge/AWS-Kinesis_Data_Stream-orange?logo=amazon-aws&style=flat-squares)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|16|Streaming|[![GitHub](https://img.shields.io/badge/AWS-Firehose-orange?logo=amazon-aws&style=flat-squares)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|17|Compute|[![GitHub](https://img.shields.io/badge/AWS-Lambda_Function-orange?logo=amazon-aws&style=flat-squares)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|18|Compute|[![GitHub](https://img.shields.io/badge/AWS-Lambda_Layer-orange?logo=amazon-aws&style=flat-squares)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|19|Compute|[![GitHub](https://img.shields.io/badge/AWS-EC2-orange?logo=amazon-aws&style=flat-squares)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|20|Database|[![GitHub](https://img.shields.io/badge/AWS-DynamoDB_Table-orange?logo=amazon-aws&style=flat-squares)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|21|Database|[![GitHub](https://img.shields.io/badge/AWS-RDS-orange?logo=amazon-aws&style=flat-squares)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|22|Monitoring|[![GitHub](https://img.shields.io/badge/AWS-CloudWatch_LogGroup-orange?logo=amazon-aws&style=flat-squares)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|23|Monitoring|[![GitHub](https://img.shields.io/badge/AWS-VPC_Endpoint-orange?logo=amazon-aws&style=flat-squares)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|24|Identity and Access Management|[![GitHub](https://img.shields.io/badge/AWS-IAM_Role-orange?logo=amazon-aws&style=flat-squares)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|25|Identity and Access Management|[![GitHub](https://img.shields.io/badge/AWS-IAM_Policy-orange?logo=amazon-aws&style=flat-squares)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|26|Identity and Access Management|[![GitHub](https://img.shields.io/badge/AWS-EC2_Instance_Profile-orange?logo=amazon-aws&style=flat-squares)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|27|Analytics|[![GitHub](https://img.shields.io/badge/AWS-Athena-orange?logo=amazon-aws&style=flat-squares)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|28|Analytics|[![GitHub](https://img.shields.io/badge/AWS-Redshift_Cluster-orange?logo=amazon-aws&style=flat-squares)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|29|Analytics|[![GitHub](https://img.shields.io/badge/AWS-EMR-orange?logo=amazon-aws&style=flat-squares)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|30|ETL|[![GitHub](https://img.shields.io/badge/AWS-Glue_Database-orange?logo=amazon-aws&style=flat-squares)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|31|ETL|[![GitHub](https://img.shields.io/badge/AWS-Glue_Crawler-orange?logo=amazon-aws&style=flat-squares)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|32|ETL|[![GitHub](https://img.shields.io/badge/AWS-Glue_Trigger-orange?logo=amazon-aws&style=flat-squares)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|33|ETL|[![GitHub](https://img.shields.io/badge/AWS-Glue_Job-orange?logo=amazon-aws&style=flat-squares)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+|34|Compliance|[![GitHub](https://img.shields.io/badge/AWS-Config_Rule-orange?logo=amazon-aws&style=flat-squares)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|35|EventBridge|[![GitHub](https://img.shields.io/badge/AWS-EventBridge_Scheduler_Rule-orange?logo=amazon-aws&style=flat-squares)](https://github.com/subhamay-bhattacharyya/aws-cfn-nested-stacks/blob/main/cfn-templates/vpc/vpc.yaml)|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
+
 
 
 </div>
