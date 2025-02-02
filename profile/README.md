@@ -397,7 +397,7 @@ _TechWithLucy_ (https://learn.techwithlucy.com/)
 |17|Compute|Lambda Function|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
 |18|Compute|Lambda Layer|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
 |19|Compute|EC2|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
-|20|Database|DynamoDB|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
+|20|Database|DynamoDB|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|
 |21|Database|RDS|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
 |22|Monitoring|CloudWatch Log Group|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
 |23|Monitoring|CloudWatch Alert|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|
