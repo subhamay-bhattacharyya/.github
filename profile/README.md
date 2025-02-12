@@ -288,7 +288,11 @@ block-beta
 |7.|1007|ACID Transactions with Iceberg|1007-athena-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |8.|1008|Athena Spark|1008-athena-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 
+## API Gateway Immersion Day
 
+|Sr#|Code|Project Description|Repository|Status|IaC|
+|---   |---	|---	|---	|---	|---	|
+|1.|1101|API Gateway Basics|1101-api-gateway-cft|![](https://img.shields.io/badge/in_progress-ebcb2a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 
 
 
