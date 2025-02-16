@@ -187,7 +187,7 @@ block-beta
 
 |Sr#|Code|Project Description|Repository|Status|IaC|
 |---   |---	|---	|---	|---	|---	|
-|1.|0201|Working with Glue Data Catalog|0201-glue-cft|![](https://img.shields.io/badge/in_progress-ebcb2a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|1.|0201|Working with Glue Data Catalog🔥|0201-glue-cft|![](https://img.shields.io/badge/in_progress-ebcb2a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |2.|0202|Working with Apache Spark|0202-glue-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |3.|0203|Working with Glue ETL|0203-glue-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |4.|0204|Working with Glue Streaming|0204-glue-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
@@ -200,7 +200,7 @@ block-beta
 
 |Sr#|Code|Project Description|Repository|Status|IaC|
 |---   |---	|---	|---	|---	|---	|
-|1.|0301|Introduction to Serverless|0301-serverless-cft|![](https://img.shields.io/badge/in_progress-ebcb2a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|1.|0301|Introduction to Serverless🔥𝟙|0301-serverless-cft|![](https://img.shields.io/badge/in_progress-ebcb2a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |2.|0302|Synchronous Invocation|0302-serverless-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |3.|0303|Synchronous + Idempoyence|0303-serverless-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |4.|0304|Asynchronous Invocation|0304-serverless-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
@@ -279,7 +279,7 @@ block-beta
 
 |Sr#|Code|Project Description|Repository|Status|IaC|
 |---   |---	|---	|---	|---	|---	|
-|1.|1001|Athena Basics|1001-athena-cft|![](https://img.shields.io/badge/in_progress-ebcb2a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|1.|1001|Athena Basics🔥|1001-athena-cft|![](https://img.shields.io/badge/in_progress-ebcb2a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |2.|1002|Athena Federation|1002-athena-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |3.|1003|User Defined Functions|1003-athena-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |4.|1004|Custom Data Source Connector|1004-athena-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
@@ -292,7 +292,7 @@ block-beta
 
 |Sr#|Code|Project Description|Repository|Status|IaC|
 |---   |---	|---	|---	|---	|---	|
-|1.|1101|API Gateway Basics|1101-api-gateway-cft|![](https://img.shields.io/badge/in_progress-ebcb2a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|1.|1101|API Gateway Basics🔥|1101-api-gateway-cft|![](https://img.shields.io/badge/in_progress-ebcb2a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 
 
 
@@ -308,9 +308,9 @@ block-beta
 
 |Sr#|Project Name|Project Description|Repository|Status|IaC|
 |---   |---	|---	|---	|---	|---	|
-|1.|Wk01-Day01|Weather Dashboard using Python Lambda, S3, Secrets Manager and CloudFormation|dv30w01d01-weather-dash-py-cft|![](https://img.shields.io/badge/complete-0b7026?style=for-the-badge)|![Terraform](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|2.|Wk01-Day02|NBA Game Day Notification using Python Lambda, SNS, Secrets Manager and  CloudFormation|dv30w01d02-nba-game-notify-py-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|![Terraform](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
-|3.|Wk01-Day03|NBA Data Lake using Glue, S3, Athena and CloudFormation|dv30w01d03-nba-datalake-py-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|![Terraform](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|1.|Wk01-Day01|Weather Dashboard using Python Lambda, S3, Secrets Manager and CloudFormation🔥|dv30w01d01-weather-dash-py-cft|![](https://img.shields.io/badge/complete-0b7026?style=for-the-badge)|![Terraform](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|2.|Wk01-Day02|NBA Game Day Notification using Python Lambda, SNS, Secrets Manager and  CloudFormation🔥|dv30w01d02-nba-game-notify-py-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|![Terraform](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|3.|Wk01-Day03|NBA Data Lake using Glue, S3, Athena and CloudFormation🔥|dv30w01d03-nba-datalake-py-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|![Terraform](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |4.|Wk02-Day01|NFL Game Day schedule using API Gateway, ECS, ALB and CloudFormation|dv30w02d01-nba-datalake-py-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|![Terraform](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |5.|Wk02-Day02|NFL Game Highlight Processor using ECS, AWS Elemental MediaConvert and CloudFormation|dv30w02d02-nba-datalake-py-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|![Terraform](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |6.|Wk02-Day04|NFL Game Highlight Processor using ECS, AWS Elemental MediaConvert and Terraform|dv30w02d04-nba-datalake-py-cft|![](https://img.shields.io/badge/in_progress-yellow?style=for-the-badge)|![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|
@@ -322,7 +322,7 @@ _TechWithLucy_ (https://learn.techwithlucy.com/)
 
 |Sr#|Code|Project Description|Repository|Status|IaC|
 |---  |---	|---	|---	|---	|---	|
-|1.|GenAI-01|Build an image labels generator using Amazon Rekognition|genai-01-py-cft|![](https://img.shields.io/badge/in_progress-ebcb2a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|1.|GenAI-01|Build an image labels generator using Amazon Rekognition🔥|genai-01-py-cft|![](https://img.shields.io/badge/in_progress-ebcb2a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |2.|GenAI-02|Develop a text narrator using Amazon Polly|genai-02-py-cft|![](https://img.shields.io/badge/in_progress-ebcb2a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |3.|GenAI-03|Build a language translation bot using Amazon Lex|genai-03-py-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |4.|GenAI-04|Deploy a bucket list tracker application on AWS Amplify Gen2|genai-04-py-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
