@@ -228,7 +228,9 @@ block-beta
 
 |Sr#|Code|Project Description|Repository|Status|IaC|
 |---   |---	|---	|---	|---	|---	|
-|1.|0501|Serverless Data Lake|0501-datalake-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|1.|0501|Serverless Data Lake Jumpstart|0501-datalake-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|1.|0502|Serverless Data Day|0502-datalake-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+
 
 ## AWS Storage Workshop:
 
@@ -296,6 +298,17 @@ block-beta
 |---   |---	|---	|---	|---	|---	|
 |1.|1101|API Gateway Basics🔥|1101-api-gateway-cft|![](https://img.shields.io/badge/in_progress-ebcb2a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 
+## Bedrock Immersion Day
+
+|Sr#|Code|Project Description|Repository|Status|IaC|
+|---   |---	|---	|---	|---	|---	|
+|1.|1201|Prompt Engineering|1201-bedrock-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|2.|1202|Test Generation|1202-bedrock-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|3.|1203|KnowledgeBase and RAG|1203-bedrock-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|4.|1204|Model Customization|1204-bedrock-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|5.|1205|Images and Multimodal|1205-bedrock-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|6.|1206|Agents|1206-bedrock-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|7.|1207|Open Source|1207-bedrock-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 
 
 ## Boot Camps:
@@ -319,7 +332,7 @@ block-beta
 
 
 
-### GenAPI Projects by Lucy Wang 
+### Gen-AI Projects by Lucy Wang 
 _TechWithLucy_ (https://learn.techwithlucy.com/)
 
 |Sr#|Code|Project Description|Repository|Status|IaC|
