@@ -202,7 +202,7 @@ block-beta
 
 |Sr#|Code|Project Description|Repository|Status|IaC|
 |---   |---	|---	|---	|---	|---	|
-|1.|0301|Introduction to Serverless🔥𝟙|0301-serverless-cft|![](https://img.shields.io/badge/in_progress-ebcb2a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|1.|0301|Introduction to Serverless|0301-serverless-cft|![](https://img.shields.io/badge/complete-0b7026?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |2.|0302|Synchronous Invocation|0302-serverless-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |3.|0303|Synchronous + Idempoyence|0303-serverless-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |4.|0304|Asynchronous Invocation|0304-serverless-cft|![](https://img.shields.io/badge/not_started-bf0d3a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
