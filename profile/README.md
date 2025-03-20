@@ -305,8 +305,12 @@ block-beta
 |---   |---	|---	|---	|---	|---	|
 |1.|1111|Create a REST API with a Node.js Lambda proxy integration using SAM|1111-api-gateway-js-sam |![](https://img.shields.io/badge/in_progress-ebcb2a?style=for-the-badge)|![SAM](https://img.shields.io/badge/SAM-FF9900?style=for-the-badge&logo=SAM&logoColor=black)|
 |2.|1111|Create a REST API with a Python Lambda proxy integration using SAM|1111-api-gateway-py-sam|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|![SAM](https://img.shields.io/badge/SAM-FF9900?style=for-the-badge&logo=SAM&logoColor=black)|
-|3.|1111|Create a REST API with a Python Lambda proxy integration using CloudFormation|1111-api-gateway-py-cft|![](https://img.shields.io/badge/in_progress-ebcb2a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+|3.|1111|Create a REST API with a Python Lambda proxy integration using CloudFormation|1111-api-gateway-py-cft|![](https://img.shields.io/badge/complete-darkgreen?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |4.|1111|Create a REST API with a Node.js Lambda proxy integration using Serveless Framework|1111-api-gateway-js-sls|![](https://img.shields.io/badge/in_progress-ebcb2a?style=for-the-badge)|![Serverless](https://img.shields.io/badge/Serverless-8c4fff?style=for-the-badge&logo=Serverless&logoColor=black)|
+|5.|1112|Create a REST API with a Node.js Lambda non-proxy integration using Serveless Framework|1112-api-gateway-js-sls|![](https://img.shields.io/badge/in_progress-ebcb2a?style=for-the-badge)|![Serverless](https://img.shields.io/badge/Serverless-8c4fff?style=for-the-badge&logo=Serverless&logoColor=black)|
+|6.|1112|Create a REST API with a Python Lambda non-proxy integration using Serveless Framework|1112-api-gateway-py-sls|![](https://img.shields.io/badge/in_progress-ebcb2a?style=for-the-badge)|![Serverless](https://img.shields.io/badge/Serverless-8c4fff?style=for-the-badge&logo=Serverless&logoColor=black)|
+|6.|1112|Create a REST API with a Python Lambda non-proxy integration using SAM|1112-api-gateway-js-sam|![](https://img.shields.io/badge/in_progress-ebcb2a?style=for-the-badge)|![Serverless](https://img.shields.io/badge/SAM-FF9900?style=for-the-badge&logo=SAM&logoColor=black)|
+|7.|1112|Create a REST API with a Python Lambda non-proxy integration using CloudFormation|1112-api-gateway-js-cft|![](https://img.shields.io/badge/in_progress-ebcb2a?style=for-the-badge)|![Serverless](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 
 ## Bedrock Immersion Day
 
