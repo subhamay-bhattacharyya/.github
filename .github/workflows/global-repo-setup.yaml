@@ -1,13 +1,11 @@
 name: Secure New Repositories Globally
 
 on:
-    repository_dispatch:
-        types: [repository_created]
-
+  repository_dispatch:
+    types: [repository_created]
 
 permissions:
   contents: write
-  # Removed invalid permission 'administration'
   security-events: write
 
 jobs:
@@ -15,94 +13,9 @@ jobs:
     name: Apply Security & Compliance Policies
     runs-on: ubuntu-latest
     steps:
-      - name: Protect Main Branch (Enforce PRs & Code Reviews)
+      - name: Protect Default Branch
         uses: octokit/request-action@v2.x
         with:
-          route: PUT /repos/${{ github.repository_owner }}/${{ github.event.repository.name }}/branches/main/protection
-          data: '{
-                    "required_status_checks": {
-                    "strict": true,
-                    "contexts": ["Lint", "Test", "Scan"]
-                    },
-                    "enforce_admins": true,
-                    "required_pull_request_reviews": {
-                    "dismiss_stale_reviews": true,
-                    "require_code_owner_reviews": true,
-                    "required_approving_review_count": 2
-                    },
-                    "required_signatures": true,
-                    "restrictions": null
-                }'
-        env:
-          GITHUB_TOKEN: ${{ secrets.ORG_ADMIN_TOKEN }}
-
-
-      - name: Enable Dependency Vulnerability Alerts
-        uses: octokit/request-action@v2.x
-        with:
-          route: PUT /repos/${{ github.repository_owner }}/${{ github.event.repository.name }}/vulnerability-alerts
-        env:
-          GITHUB_TOKEN: ${{ secrets.ORG_ADMIN_TOKEN }}
-
-      - name: Enable Secret Scanning
-        uses: octokit/request-action@v2.x
-        with:
-          route: PUT /repos/${{ github.repository_owner }}/${{ github.event.repository.name }}/secret-scanning
-        env:
-          GITHUB_TOKEN: ${{ secrets.ORG_ADMIN_TOKEN }}
-
-      - name: Enable Push Protection for Secrets
-        uses: octokit/request-action@v2.x
-        with:
-          route: PUT /repos/${{ github.repository_owner }}/${{ github.event.repository.name }}/secret-scanning-push-protection
-        env:
-          GITHUB_TOKEN: ${{ secrets.ORG_ADMIN_TOKEN }}
-
-      - name: Enable Dependabot for Security Updates
-        uses: octokit/request-action@v2.x
-        with:
-          route: PUT /repos/${{ github.repository_owner }}/${{ github.event.repository.name }}/automated-security-fixes
-        env:
-          GITHUB_TOKEN: ${{ secrets.ORG_ADMIN_TOKEN }}
-
-      - name: Enable Code Scanning (GitHub Advanced Security)
-        uses: github/codeql-action/init@v2
-        with:
-          languages: javascript, python
-          queries: security-extended, security-and-quality
-
-      - name: Create Staging Environment
-        uses: octokit/request-action@v2.x
-        with:
-          route: POST /repos/${{ github.repository_owner }}/${{ github.event.repository.name }}/environments/staging
-        env:
-          GITHUB_TOKEN: ${{ secrets.ORG_ADMIN_TOKEN }}
-
-      - name: Create Production Environment
-        uses: octokit/request-action@v2.x
-        with:
-          route: POST /repos/${{ github.repository_owner }}/${{ github.event.repository.name }}/environments/production
-        env:
-          GITHUB_TOKEN: ${{ secrets.ORG_ADMIN_TOKEN }}
-
-  enforce-organization-security:
-    name: Enforce Organization Security Policies
-    runs-on: ubuntu-latest
-    steps:
-      - name: Enforce Two-Factor Authentication (2FA) for Organization
-        uses: octokit/request-action@v2.x
-        with:
-          route: PATCH /orgs/${{ github.repository_owner }}
-        #   data: '{
-        #             "two_factor_requirement_enabled": true
-        #         }'
-        env:
-          GITHUB_TOKEN: ${{ secrets.ORG_ADMIN_TOKEN }}
-
-
-      - name: Enable GitHub Audit Logs
-        uses: octokit/request-action@v2.x
-        with:
-          route: GET /orgs/${{ github.repository_owner }}/audit-log
+          route: GET /repos/${{ github.repository_owner }}/${{ github.event.client_payload.repository.name }}
         env:
           GITHUB_TOKEN: ${{ secrets.ORG_ADMIN_TOKEN }}
