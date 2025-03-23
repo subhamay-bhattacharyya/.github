@@ -2,7 +2,7 @@ name: Secure New Repositories Globally
 
 on:
     repository_dispatch:
-        types: [new-repository]
+        types: [repository_created]
 
 
 permissions:
