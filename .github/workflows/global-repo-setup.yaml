@@ -1,8 +1,9 @@
 name: Secure New Repositories Globally
 
 on:
-    create:
-  
+    repository_dispatch:
+        types: [new-repository]
+
 
 permissions:
   contents: write
