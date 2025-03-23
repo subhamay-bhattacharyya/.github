@@ -1,8 +1,7 @@
 name: Secure New Repositories Globally
 
 on:
-    repository:
-        types: [created]
+    create:
   
 
 permissions:
