@@ -324,6 +324,12 @@ block-beta
 |6.|1206|Agents|1206-bedrock-cft|![](https://img.shields.io/badge/in_progress-ebcb2a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 |7.|1207|Open Source|1207-bedrock-cft|![](https://img.shields.io/badge/in_progress-ebcb2a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
 
+## Event Driven Architecture 
+
+|Sr#|Code|Project Description|Repository|Status|IaC|
+|---   |---	|---	|---	|---	|---	|
+|1.|1301|Custom Event Bus and Targets|1301-eventbridge-cft|![](https://img.shields.io/badge/in_progress-ebcb2a?style=for-the-badge)|![CloudFormation](https://img.shields.io/badge/CloudFormation-F80000?style=for-the-badge&logo=CloudFormation&logoColor=black)|
+
 
 ## Boot Camps:
 
