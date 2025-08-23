@@ -1,0 +1,11 @@
+title: "Mermaid Demo Site"
+description: "GitHub Pages with Mermaid"
+markdown: kramdown   # GitHub Pages default Markdown processor
+theme: null          # disable built-in themes so our layout is used
+
+# Apply the default layout to all pages
+defaults:
+  - scope:
+      path: ""       # all files in the repo
+    values:
+      layout: "default"
