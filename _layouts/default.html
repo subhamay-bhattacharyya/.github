@@ -1,0 +1,236 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <!-- ===== Meta ===== -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines | truncate: 160 }}">
+
+  <!-- Open Graph / Twitter (optional but professional) -->
+  <meta property="og:title" content="{{ page.title | default: site.title }}">
+  <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines | truncate: 160 }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+
+  <!-- ===== Base Styles (inline for simplicity; move to /assets/css/site.css if you prefer) ===== -->
+  <style>
+    :root{
+      --bg: #ffffff;
+      --fg: #101418;
+      --muted: #5b6773;
+      --brand: #0d6efd;
+      --border: #e6e8eb;
+      --code-bg: #0f172a;
+      --code-fg: #e5e7eb;
+      --card: #fafbfc;
+      --shadow: 0 1px 2px rgba(0,0,0,.04), 0 6px 20px rgba(0,0,0,.06);
+      --maxw: 1100px;
+    }
+    @media (prefers-color-scheme: dark){
+      :root{
+        --bg: #0b0f14;
+        --fg: #e7eef6;
+        --muted: #9fb0c2;
+        --brand: #74b0ff;
+        --border: #1a232d;
+        --code-bg: #0b1020;
+        --code-fg: #dbe4f3;
+        --card: #0f141b;
+      }
+    }
+    html,body{height:100%}
+    body{
+      margin:0;
+      color:var(--fg);
+      background:var(--bg);
+      font:16px/1.6 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,"Helvetica Neue",Arial,"Apple Color Emoji","Segoe UI Emoji";
+      text-rendering:optimizeLegibility;
+      -webkit-font-smoothing:antialiased;
+      -moz-osx-font-smoothing:grayscale;
+    }
+    .container{max-width:var(--maxw); margin-inline:auto; padding:0 1rem}
+    a{color:var(--brand); text-decoration:none}
+    a:hover{text-decoration:underline}
+    img,svg,video{max-width:100%; height:auto}
+    hr{border:0;border-top:1px solid var(--border); margin:2rem 0}
+
+    /* ===== Header / Nav ===== */
+    .skip-link{position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden}
+    .skip-link:focus{left:1rem;top:1rem;width:auto;height:auto;background:var(--brand);color:#fff;padding:.5rem .75rem;border-radius:.5rem;z-index:1000}
+    header.site-header{
+      position:sticky; top:0; z-index:10; backdrop-filter:saturate(1.2) blur(6px);
+      background:color-mix(in oklab, var(--bg) 85%, transparent);
+      border-bottom:1px solid var(--border);
+    }
+    .brand{
+      display:flex; align-items:center; gap:.6rem; padding:.9rem 0; font-weight:700;
+    }
+    .brand .logo{width:28px;height:28px;border-radius:6px;background:var(--brand);box-shadow:var(--shadow)}
+    nav.primary{display:flex;gap:.75rem; align-items:center}
+    .nav-wrap{display:flex;justify-content:space-between;align-items:center}
+    .nav-link{padding:.4rem .6rem;border-radius:.45rem}
+    .nav-link[aria-current="page"], .nav-link.active{background:var(--card)}
+    @media (max-width: 760px){
+      nav.primary{display:none}
+      .menu-btn{display:inline-flex; align-items:center; gap:.4rem; border:1px solid var(--border); background:var(--card); padding:.35rem .6rem; border-radius:.45rem}
+      .drawer{display:none; border-top:1px solid var(--border); padding:.5rem 0}
+      .drawer .nav-link{display:block;padding:.5rem}
+      .nav-wrap.open nav.primary{display:none}
+      .nav-wrap.open + .drawer{display:block}
+    }
+    @media (min-width: 761px){ .menu-btn{display:none} }
+
+    /* ===== Layout ===== */
+    .hero{padding:2rem 0 1rem; border-bottom:1px solid var(--border); background:linear-gradient(180deg, color-mix(in oklab,var(--card) 50%, transparent), transparent 90%)}
+    .grid{display:grid; grid-template-columns: 1fr; gap:1.25rem; padding:1.5rem 0}
+    @media (min-width: 1000px){ .grid{grid-template-columns: 220px 1fr} }
+
+    aside.sidebar{
+      position:sticky; top:64px; height:fit-content; align-self:start;
+      background:var(--card); border:1px solid var(--border); border-radius:.6rem; padding:1rem
+    }
+    aside.sidebar h2{margin:.2rem 0 .6rem; font-size:.95rem; color:var(--muted)}
+    .side-link{display:block;padding:.3rem .4rem;border-radius:.4rem}
+    .side-link:hover{background:var(--border)}
+
+    main.content{
+      background:var(--bg);
+    }
+    article.card{
+      background:var(--bg); border:1px solid var(--border); border-radius:.8rem; padding:1.25rem; box-shadow:var(--shadow)
+    }
+
+    /* ===== Markdown defaults ===== */
+    .markdown-body{word-wrap:break-word}
+    .markdown-body h1{font-size:clamp(1.6rem,2vw,2.2rem); line-height:1.2; margin:0 0 1rem}
+    .markdown-body h2{margin:1.6rem 0 .7rem}
+    .markdown-body h3{margin:1.2rem 0 .5rem}
+    .markdown-body p, .markdown-body ul, .markdown-body ol, .markdown-body blockquote{margin:0 0 1rem}
+    .markdown-body blockquote{border-left:4px solid var(--border); padding:.5rem .9rem; color:var(--muted); background:color-mix(in oklab, var(--card) 60%, transparent)}
+    .markdown-body pre{background:var(--code-bg); color:var(--code-fg); padding:1rem; border-radius:.6rem; overflow:auto}
+    .markdown-body code{font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,"Liberation Mono","Courier New",monospace; font-size:.95em}
+    .markdown-body table{width:100%; border-collapse:separate; border-spacing:0; margin:1rem 0; display:block; overflow-x:auto}
+    .markdown-body th,.markdown-body td{border-bottom:1px solid var(--border); padding:.6rem .7rem; text-align:left; white-space:nowrap}
+    .markdown-body thead th{position:sticky; top:0; background:var(--bg)}
+    .callout{border:1px solid var(--border); background:var(--card); border-radius:.6rem; padding:1rem}
+
+    /* Mermaid container */
+    .mermaid{margin:1rem 0}
+    footer.site-footer{border-top:1px solid var(--border); color:var(--muted); padding:1rem 0; font-size:.95rem}
+  </style>
+
+  <!-- ===== Mermaid (auto-render fenced ```mermaid blocks) ===== -->
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      // Convert fenced ```mermaid to <div class="mermaid">…</div>
+      document.querySelectorAll('pre > code.language-mermaid').forEach(code => {
+        const pre = code.parentElement;
+        const div = document.createElement('div');
+        div.className = 'mermaid';
+        div.textContent = code.textContent;
+        pre.replaceWith(div);
+      });
+
+      const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+      mermaid.initialize({ startOnLoad: false, theme: prefersDark ? 'dark' : 'default' });
+      mermaid.run({ querySelector: '.mermaid' });
+
+      // Mobile nav toggle
+      const btn = document.getElementById('menuToggle');
+      const wrap = document.getElementById('navWrap');
+      if (btn && wrap) btn.addEventListener('click', () => wrap.classList.toggle('open'));
+    });
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#content">Skip to content</a>
+
+  <!-- ===== Header / Navigation ===== -->
+  <header class="site-header">
+    <div class="container">
+      <div id="navWrap" class="nav-wrap">
+        <a href="{{ '/' | relative_url }}" class="brand">
+          <span class="logo" aria-hidden="true"></span>
+          <span>{{ site.title | default: "Site Title" }}</span>
+        </a>
+
+        <nav class="primary" aria-label="Primary">
+          {%- comment -%}
+            Prefer a custom nav via _data/nav.yml (items: [ {title, url} ])
+          {%- endcomment -%}
+          {%- if site.data.nav and site.data.nav.items -%}
+            {%- for item in site.data.nav.items -%}
+              <a class="nav-link{% if page.url == item.url %} active{% endif %}" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+            {%- endfor -%}
+          {%- else -%}
+            <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
+            {%- assign docs = site.pages | where_exp:'p','p.url != "/"' | sort: 'nav_order' -%}
+            {%- for p in docs limit:5 -%}
+              <a class="nav-link{% if page.url == p.url %} active{% endif %}" href="{{ p.url | relative_url }}">{{ p.title | default: p.name }}</a>
+            {%- endfor -%}
+          {%- endif -%}
+        </nav>
+
+        <button id="menuToggle" class="menu-btn" aria-expanded="false" aria-controls="drawer">
+          ☰ Menu
+        </button>
+      </div>
+
+      <!-- Mobile drawer -->
+      <div id="drawer" class="drawer container" role="region" aria-label="Mobile Navigation">
+        {%- if site.data.nav and site.data.nav.items -%}
+          {%- for item in site.data.nav.items -%}
+            <a class="nav-link{% if page.url == item.url %} active{% endif %}" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+          {%- endfor -%}
+        {%- else -%}
+          <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
+          {%- for p in docs limit:8 -%}
+            <a class="nav-link{% if page.url == p.url %} active{% endif %}" href="{{ p.url | relative_url }}">{{ p.title | default: p.name }}</a>
+          {%- endfor -%}
+        {%- endif -%}
+      </div>
+    </div>
+  </header>
+
+  <!-- ===== Hero (optional subtitle from page.front-matter) ===== -->
+  <section class="hero">
+    <div class="container">
+      <h1 style="margin:.2rem 0 0">{{ page.title | default: site.title }}</h1>
+      {%- if page.subtitle or site.description -%}
+      <p style="margin:.5rem 0 0; color:var(--muted)">{{ page.subtitle | default: site.description }}</p>
+      {%- endif -%}
+    </div>
+  </section>
+
+  <!-- ===== Main Grid ===== -->
+  <div class="container">
+    <div class="grid">
+      <aside class="sidebar" aria-label="On this page">
+        <h2>On this page</h2>
+        <nav class="toc">
+          <!-- Basic in-page TOC (h2 only) -->
+          <div id="toc"></div>
+        </nav>
+      </aside>
+
+      <main id="content" class="content">
+        <article class="card markdown-body">
+          {{ content }}
+        </article>
+      </main>
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div>© {{ site.time | date: "%Y" }} {{ site.author | default: site.title }} · Built with Jekyll · Last updated {{ site.time | date: "%b %d, %Y" }}</div>
+    </div>
+  </footer>
+
+</body>
+</html>
