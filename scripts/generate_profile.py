@@ -67,7 +67,7 @@ def main() -> None:
     
     json_file = os.path.join(repo_root, 'out', 'repos_data.json')
     template_name = "github_profile.html"
-    output_file = os.path.join(repo_root, 'README.md')
+    output_file = os.path.join(repo_root, 'profile/README.md')
     
     print(f"📖 Reading data from {json_file}")
     data = load_repos_data(json_file)
