@@ -1,3 +1,12 @@
+
+![GitHub Stats](https://github-readme-stats-rho-mauve-12.vercel.app/api?username=bsubhamay&show_icons=true&theme=blueberry&cache_seconds=7200)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bsubhamay&theme=blueberry)
+
+## 📈 Daily Commit Activity
+![Daily Commits](./commits-per-day.svg)
+
+
 <table role="table" aria-label="Project status table" style="width:100%; border-collapse:collapse;">
   <thead>
     <tr>
