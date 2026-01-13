@@ -1,9 +1,18 @@
 
-## 👋 Hi, I’m Subhamay Bhattacharyya  
-
-I’m a **Senior Manager & Cloud Data Engineer** with a strong focus on **multi-cloud architecture, DevOps automation, and data platforms**. I build **production-grade cloud systems** across **AWS, Azure, and GCP** using **Terraform, GitHub Actions, Ansible, and serverless services**, with a deep emphasis on **security, observability, and cost-efficient design**.
-
-My work blends **hands-on engineering** with **architectural leadership**—from designing **event-driven data pipelines** and **cloud-native analytics platforms** to building **enterprise-ready CI/CD pipelines** using **OIDC-based zero-trust authentication** and **infrastructure-as-code**.
+# Subhamay Bhattacharyya
+<h3>Hi there 👋, I am Subhamay Bhattacharyya, 6x AWS, 1x Azure, 2x GitHub and 1x HashiCorp Terraform Certified and a AWS Cloud Enthusiast</h3>
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/142895397?v=4" style="width: 100%; height: auto;">
+    </td>
+    <td>
+      <p>I'm a Senior Manager & Cloud Data Engineer with a strong focus on <strong>multi-cloud architecture, DevOps automation, and data platforms</strong>. I build <strong>production-grade cloud systems</strong> across <strong>AWS, Azure, and GCP</strong> using <strong>Terraform, GitHub Actions, Ansible, and serverless services</strong>, with a deep emphasis on <strong>security, observability, and cost-efficient design</strong>.</p>
+      <p>My work blends <strong>hands-on engineering</strong> with <strong>architectural leadership</strong>—from designing <strong>event-driven data pipelines</strong> and <strong>cloud-native analytics platforms</strong> to building <strong>enterprise-ready CI/CD pipelines</strong> using <strong>OIDC-based zero-trust authentication</strong> and <strong>infrastructure-as-code</strong>.</p>
+    </td>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -140,8 +149,11 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bsubhamay&theme=blueberry)
 
+
 ## 📈 Daily Commit Activity
 ![Daily Commits](./commits-per-day.svg)
+
+<img src="https://ghchart.rshah.org/bsubhamay" alt="My GitHub contributions chart" style="width: 80%; min-width: 400px; max-width: 1000px;"/>
 
 <table role="table" aria-label="Project status table" style="width:100%; border-collapse:collapse;">
   <thead>

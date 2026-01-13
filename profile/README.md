@@ -1,10 +1,16 @@
 # Subhamay Bhattacharyya
 
-## About Me
-
-<img src="https://avatars.githubusercontent.com/u/142895397?v=4" style="width: 20%; height: auto;">
-
-### Hi there 👋, I am Subhamay Bhattacharyya, 6x AWS, 1x Azure, 2x GitHub and 1x HashiCorp Terraform Certified and a AWS Cloud Enthusiast
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/142895397?v=4" style="width: 100%; height: auto;">
+    </td>
+    <td>
+      <h2>About Me</h2>
+      <h3>Hi there 👋, I am Subhamay Bhattacharyya, 6x AWS, 1x Azure, 2x GitHub and 1x HashiCorp Terraform Certified and a AWS Cloud Enthusiast</h3>
+    </td>
+  </tr>
+</table>
 
 <table style="border-collapse: collapse; text-align: center;">
   <tr>
