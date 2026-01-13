@@ -1,0 +1,23 @@
+{
+  "org": "subhamay-bhattacharyya",
+  "repositories": [
+    {
+      "name": "cloud-resume-challenge",
+      "description": "The Cloud Resume Challenge is a hands-on project designed to help you bridge the gap from cloud certification to cloud job. It incorporates many of the skills that real cloud and DevOps engineers use in their daily work. This repo is created as a part of the bootcamp by Andrew Brown",
+      "status": "In Progress",
+      "last_updated": "15:09:05 EST",
+      "open_issues": 0,
+      "open_prs": null,
+      "size_mb": 2488
+    },
+    {
+      "name": "image-labeling",
+      "description": "This project demonstrates how to build a simple image labeling pipeline using AWS services. Images are uploaded to Amazon S3, analyzed with Amazon Rekognition, and processed through a Python script configured via the AWS CLI to automatically detect and display labels with confidence scores. It\u2019s a hands-on way to learn cloud-based computer vision.",
+      "status": "In Progress",
+      "last_updated": "21:08:55 EST",
+      "open_issues": 1,
+      "open_prs": null,
+      "size_mb": 63
+    }
+  ]
+}
