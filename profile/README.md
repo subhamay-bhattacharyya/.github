@@ -149,9 +149,6 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bsubhamay&theme=blueberry)
 
 
-## 📈 Daily Commit Activity
-![Daily Commits](./commits-per-day.svg)
-
 <img src="https://ghchart.rshah.org/bsubhamay" alt="My GitHub contributions chart" style="width: 80%; min-width: 400px; max-width: 1000px;"/>
 
 ## 📦 Repository Categories
@@ -325,6 +322,6 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 </table>
 
 <p style="margin-top:16px; color:#6b7280; font-size:14px;">
-  <em>Last generated: 11:14:05 EST</em><br>
+  <em>Last generated: 11:28:02 EST</em><br>
   <em>Total repositories: 6</em>
 </p>
