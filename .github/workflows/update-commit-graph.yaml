@@ -25,7 +25,8 @@ jobs:
 
       - name: Generate commit graph
         id: generate-commit-graph
-        run: python scripts/generate_commit_graph.py
+        working-directory: ${{ github.workspace }}/scripts
+        run: python generate_commit_graph.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -34,6 +35,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add commits-per-day.svg
+          git add ${{ github.workspace }}/scripts/commits-per-day.svg
           git commit -m "Update commit activity graph" || exit 0
           git push
