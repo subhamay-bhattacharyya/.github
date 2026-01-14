@@ -150,87 +150,105 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 
 ## 📈 Daily Commit Activity
-![Daily Commits](../scripts/commits-per-day.svg)
+![Daily Commits](./commits-per-day.svg)
 
 <img src="https://ghchart.rshah.org/bsubhamay" alt="My GitHub contributions chart" style="width: 80%; min-width: 400px; max-width: 1000px;"/>
 
 <table role="table" aria-label="Project status table" style="width:100%; border-collapse:collapse;">
   <thead>
-    <tr>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repository</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Description</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 16 16" fill="currentColor" aria-label="Repository Link">
-          <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
-        </svg>
-      </th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Status</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Last Updated</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 16 16" fill="currentColor" aria-label="Issues">
-          <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
-          <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" aria-label="Git Open branches" role="img">
+          <path d="M11.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5zm-2.25.75a2.25 2.25 0 1 1 3 2.122V6A2.5 2.5 0 0 1 10 8.5H6a1 1 0 0 0-1 1v1.128a2.251 2.251 0 1 1-1.5 0V5.372a2.25 2.25 0 1 1 1.5 0v1.836A2.492 2.492 0 0 1 6 7h4a1 1 0 0 0 1-1v-.628A2.25 2.25 0 0 1 9.5 3.25zM4.25 12a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5zM3.5 3.25a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0z"/>
         </svg>
       </th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 16 16" fill="currentColor" aria-label="Pull Requests">
-          <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" aria-label="Open Issues" role="img">
+          <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"/>
+          <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"/>
         </svg>
       </th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 16 16" fill="currentColor" aria-label="Repository Size">
-          <path d="M2.5 3.5a.5.5 0 0 1 0-1h5.75a.75.75 0 0 0 0-1.5H2.5A2 2 0 0 0 .5 3v10a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2V8.75a.75.75 0 0 0-1.5 0V13a.5.5 0 0 1-.5.5h-11a.5.5 0 0 1-.5-.5Zm9.75-5a.75.75 0 0 0-.75.75v3.5a.75.75 0 0 0 1.5 0v-3.5a.75.75 0 0 0-.75-.75ZM10.5 4.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 0 1.5h-3.5a.75.75 0 0 1-.75-.75Z"></path>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" aria-label="Open Pull Requests" role="img">
+          <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"/>
         </svg>
       </th>
-    </tr>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" aria-label="Repository Size" role="img">
+          <path d="M8.878.392a1.75 1.75 0 0 0-1.756 0L2.372 3.01A1.75 1.75 0 0 0 1.5 4.52v6.96c0 .63.336 1.21.872 1.51l4.75 2.618a1.75 1.75 0 0 0 1.756 0l4.75-2.618c.536-.3.872-.88.872-1.51V4.52c0-.63-.336-1.21-.872-1.51L8.878.392ZM8 1.75c.123 0 .245.03.357.09l4.34 2.39L8 6.82 3.303 4.23l4.34-2.39c.112-.06.234-.09.357-.09Zm-5 4.1 4.25 2.345v5.76L3.5 11.96a.25.25 0 0 1-.125-.216V5.85Zm5.75 8.105v-5.76L13 5.85v5.894a.25.25 0 0 1-.125.216l-4.125 2.0Z"/>
+        </svg>
+      </th>
   </thead>
+
+</svg>
+
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;">cloud-resume-challenge</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/cloud-resume-challenge">cloud-resume-challenge</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="The Cloud Resume Challenge is a hands-on project designed to help you bridge the gap from cloud certification to cloud job. It incorporates many of the skills that real cloud and DevOps engineers use in their daily work. This repo is created as a part of the bootcamp by Andrew Brown">
           <span class="truncated-desc">The Cloud Resume Challenge is a hands-on project designed to help you bridge the gap from cloud cert...</span>
           <a href="#" onclick="this.previousElementSibling.textContent="The Cloud Resume Challenge is a hands-on project designed to help you bridge the gap from cloud certification to cloud job. It incorporates many of the skills that real cloud and DevOps engineers use in their daily work. This repo is created as a part of the bootcamp by Andrew Brown"; this.style.display='none'; return false;" style="color:#0969da; text-decoration:none; margin-left:4px;">[more]</a>
       </td>
       <td style="border:1px solid #e5e7eb; padding:8px;">
-        <a href="https://github.com/subhamay-bhattacharyya/cloud-resume-challenge">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 16 16" fill="currentColor" aria-label="View on GitHub">
-            <path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"></path>
-          </svg>
-        </a>
-      </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">
         <img alt="status: in progress" src="https://img.shields.io/badge/in%20progress-orange?style=flat" />
       </td>
       <td style="border:1px solid #e5e7eb; padding:8px;">15:09:05 EST</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">1</td>
       <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
       <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">2488</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">2.43 MB</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;">image-labeling</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/image-labeling">image-labeling</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="This project demonstrates how to build a simple image labeling pipeline using AWS services. Images are uploaded to Amazon S3, analyzed with Amazon Rekognition, and processed through a Python script configured via the AWS CLI to automatically detect and display labels with confidence scores. It’s a hands-on way to learn cloud-based computer vision.">
           <span class="truncated-desc">This project demonstrates how to build a simple image labeling pipeline using AWS services. Images a...</span>
           <a href="#" onclick="this.previousElementSibling.textContent="This project demonstrates how to build a simple image labeling pipeline using AWS services. Images are uploaded to Amazon S3, analyzed with Amazon Rekognition, and processed through a Python script configured via the AWS CLI to automatically detect and display labels with confidence scores. It\u2019s a hands-on way to learn cloud-based computer vision."; this.style.display='none'; return false;" style="color:#0969da; text-decoration:none; margin-left:4px;">[more]</a>
       </td>
       <td style="border:1px solid #e5e7eb; padding:8px;">
-        <a href="https://github.com/subhamay-bhattacharyya/image-labeling">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 16 16" fill="currentColor" aria-label="View on GitHub">
-            <path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"></path>
-          </svg>
-        </a>
-      </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">
         <img alt="status: in progress" src="https://img.shields.io/badge/in%20progress-orange?style=flat" />
       </td>
       <td style="border:1px solid #e5e7eb; padding:8px;">21:08:55 EST</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">2</td>
       <td style="border:1px solid #e5e7eb; padding:8px;">1</td>
       <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">63</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">63 KB</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/glue-lineage-scanner">glue-lineage-scanner</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;" title="Scan AWS Glue PySpark jobs in GitHub repositories to generate data lineage using AST analysis and LLMs.">
+          <span class="truncated-desc">Scan AWS Glue PySpark jobs in GitHub repositories to generate data lineage using AST analysis and LL...</span>
+          <a href="#" onclick="this.previousElementSibling.textContent="Scan AWS Glue PySpark jobs in GitHub repositories to generate data lineage using AST analysis and LLMs."; this.style.display='none'; return false;" style="color:#0969da; text-decoration:none; margin-left:4px;">[more]</a>
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="status: Initialized" src="https://img.shields.io/badge/Initialized-lightblue?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">11:00:39 EST</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">1</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">93 KB</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/tf-ci-reusable-wf">tf-ci-reusable-wf</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Reusable Workflow: CI Pipeline using Terraform as IaC">
+          GitHub Reusable Workflow: CI Pipeline using Terraform as IaC
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="status: initiated" src="https://img.shields.io/badge/initiated-blue?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">10:43:19 EST</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">1</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">197 KB</td>
     </tr>
   </tbody>
 </table>
 
 <p style="margin-top:16px; color:#6b7280; font-size:14px;">
-  <em>Last generated: 23:12:29 EST</em><br>
-  <em>Total repositories: 2</em>
+  <em>Last generated: 09:39:46 EST</em><br>
+  <em>Total repositories: 4</em>
 </p>
