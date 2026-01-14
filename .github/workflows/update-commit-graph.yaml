@@ -26,7 +26,7 @@ jobs:
       - name: Generate commit graph
         id: generate-commit-graph
         working-directory: ${{ github.workspace }}/scripts
-        run: python generate_commit_graph.py
+        run: python commit_counts_per_day.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

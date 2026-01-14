@@ -154,37 +154,21 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 <img src="https://ghchart.rshah.org/bsubhamay" alt="My GitHub contributions chart" style="width: 80%; min-width: 400px; max-width: 1000px;"/>
 
-<table role="table" aria-label="Project status table" style="width:100%; border-collapse:collapse;">
+## 📦 Repository Categories
+
+<h3>Bootcamp</h3>
+
+<table role="table" aria-label="Bootcamp repositories table" style="width:100%; border-collapse:collapse; margin-bottom:32px;">
   <thead>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repository</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Description</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Status</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Last Updated</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" aria-label="Git Open branches" role="img">
-          <path d="M11.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5zm-2.25.75a2.25 2.25 0 1 1 3 2.122V6A2.5 2.5 0 0 1 10 8.5H6a1 1 0 0 0-1 1v1.128a2.251 2.251 0 1 1-1.5 0V5.372a2.25 2.25 0 1 1 1.5 0v1.836A2.492 2.492 0 0 1 6 7h4a1 1 0 0 0 1-1v-.628A2.25 2.25 0 0 1 9.5 3.25zM4.25 12a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5zM3.5 3.25a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0z"/>
-        </svg>
-      </th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" aria-label="Open Issues" role="img">
-          <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"/>
-          <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"/>
-        </svg>
-      </th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" aria-label="Open Pull Requests" role="img">
-          <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"/>
-        </svg>
-      </th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" aria-label="Repository Size" role="img">
-          <path d="M8.878.392a1.75 1.75 0 0 0-1.756 0L2.372 3.01A1.75 1.75 0 0 0 1.5 4.52v6.96c0 .63.336 1.21.872 1.51l4.75 2.618a1.75 1.75 0 0 0 1.756 0l4.75-2.618c.536-.3.872-.88.872-1.51V4.52c0-.63-.336-1.21-.872-1.51L8.878.392ZM8 1.75c.123 0 .245.03.357.09l4.34 2.39L8 6.82 3.303 4.23l4.34-2.39c.112-.06.234-.09.357-.09Zm-5 4.1 4.25 2.345v5.76L3.5 11.96a.25.25 0 0 1-.125-.216V5.85Zm5.75 8.105v-5.76L13 5.85v5.894a.25.25 0 0 1-.125.216l-4.125 2.0Z"/>
-        </svg>
-      </th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Branches</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Open Issues</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Open PRs</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repo Size</th>
   </thead>
-
-</svg>
-
   <tbody>
     <tr>
       <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/cloud-resume-challenge">cloud-resume-challenge</a></td>
@@ -201,6 +185,22 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
       <td style="border:1px solid #e5e7eb; padding:8px;">2.43 MB</td>
     </tr>
+  </tbody>
+</table>
+<h3>Complete Project</h3>
+
+<table role="table" aria-label="Complete Project repositories table" style="width:100%; border-collapse:collapse; margin-bottom:32px;">
+  <thead>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repository</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Description</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Status</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Last Updated</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Branches</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Open Issues</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Open PRs</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repo Size</th>
+  </thead>
+  <tbody>
     <tr>
       <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/image-labeling">image-labeling</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="This project demonstrates how to build a simple image labeling pipeline using AWS services. Images are uploaded to Amazon S3, analyzed with Amazon Rekognition, and processed through a Python script configured via the AWS CLI to automatically detect and display labels with confidence scores. It’s a hands-on way to learn cloud-based computer vision.">
@@ -216,6 +216,22 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
       <td style="border:1px solid #e5e7eb; padding:8px;">63 KB</td>
     </tr>
+  </tbody>
+</table>
+<h3>Uncatrgorised</h3>
+
+<table role="table" aria-label="Uncatrgorised repositories table" style="width:100%; border-collapse:collapse; margin-bottom:32px;">
+  <thead>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repository</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Description</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Status</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Last Updated</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Branches</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Open Issues</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Open PRs</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repo Size</th>
+  </thead>
+  <tbody>
     <tr>
       <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/glue-lineage-scanner">glue-lineage-scanner</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="Scan AWS Glue PySpark jobs in GitHub repositories to generate data lineage using AST analysis and LLMs.">
@@ -223,7 +239,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
           <a href="#" onclick="this.previousElementSibling.textContent="Scan AWS Glue PySpark jobs in GitHub repositories to generate data lineage using AST analysis and LLMs."; this.style.display='none'; return false;" style="color:#0969da; text-decoration:none; margin-left:4px;">[more]</a>
       </td>
       <td style="border:1px solid #e5e7eb; padding:8px;">
-        <img alt="status: Initialized" src="https://img.shields.io/badge/Initialized-lightblue?style=flat" />
+        <img alt="status: initialized" src="https://img.shields.io/badge/initialized-blue?style=flat" />
       </td>
       <td style="border:1px solid #e5e7eb; padding:8px;">11:00:39 EST</td>
       <td style="border:1px solid #e5e7eb; padding:8px;">1</td>
@@ -231,13 +247,73 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
       <td style="border:1px solid #e5e7eb; padding:8px;">93 KB</td>
     </tr>
+  </tbody>
+</table>
+<h3>GitHub Reusable Action</h3>
+
+<table role="table" aria-label="GitHub Reusable Action repositories table" style="width:100%; border-collapse:collapse; margin-bottom:32px;">
+  <thead>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repository</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Description</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Status</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Last Updated</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Branches</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Open Issues</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Open PRs</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repo Size</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/tf-plan-action">tf-plan-action</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Composite Action - Terraform Plan.">
+          GitHub Composite Action - Terraform Plan.
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">09:03:55 EST</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">1</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">248 KB</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/tf-destroy-action">tf-destroy-action</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Composite Action - Terraform Destroy.">
+          GitHub Composite Action - Terraform Destroy.
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">13:30:04 EST</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">3</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">3</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">268 KB</td>
+    </tr>
+  </tbody>
+</table>
+<h3>GitHub Reusable Workflow</h3>
+
+<table role="table" aria-label="GitHub Reusable Workflow repositories table" style="width:100%; border-collapse:collapse; margin-bottom:32px;">
+  <thead>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repository</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Description</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Status</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Last Updated</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Branches</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Open Issues</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Open PRs</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repo Size</th>
+  </thead>
+  <tbody>
     <tr>
       <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/tf-ci-reusable-wf">tf-ci-reusable-wf</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Reusable Workflow: CI Pipeline using Terraform as IaC">
           GitHub Reusable Workflow: CI Pipeline using Terraform as IaC
       </td>
       <td style="border:1px solid #e5e7eb; padding:8px;">
-        <img alt="status: initiated" src="https://img.shields.io/badge/initiated-blue?style=flat" />
+        <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
       </td>
       <td style="border:1px solid #e5e7eb; padding:8px;">10:43:19 EST</td>
       <td style="border:1px solid #e5e7eb; padding:8px;">1</td>
@@ -249,6 +325,6 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 </table>
 
 <p style="margin-top:16px; color:#6b7280; font-size:14px;">
-  <em>Last generated: 09:39:46 EST</em><br>
-  <em>Total repositories: 4</em>
+  <em>Last generated: 11:14:05 EST</em><br>
+  <em>Total repositories: 6</em>
 </p>

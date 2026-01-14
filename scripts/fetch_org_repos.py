@@ -120,7 +120,8 @@ def main() -> None:
     
     print(f"🔍 Fetching repositories for {len(orgs)} organization(s): {', '.join(orgs)}")
     
-    all_results = []
+    # Dictionary to store repositories by ProjectCategory
+    repos_by_category: Dict[str, List[Dict]] = {}
 
     for org in orgs:
         print(f"\n📂 Processing organization: {org}")
@@ -147,19 +148,25 @@ def main() -> None:
                 else:
                     last_updated = None
                 
-                # pprint(repo)
-                # print("----------------")
-                all_results.append({
-                "org": org,
-                "name": name,
-                "description": repo.get("description"),
-                "status": custom_props.get("Status"),
-                "last_updated": last_updated,
-                "open_issues": repo.get("open_issues_count"),
-                "branches": branch_count,
-                "open_prs": repo.get("open_prs_count"),
-                "size_mb": f"{repo.get('size') / 1024:.2f} MB" if repo.get("size", 0) >= 1024 else f"{repo.get('size', 0)} KB"
-                })
+                repo_details = {
+                    "name": name,
+                    "description": repo.get("description"),
+                    "status": custom_props.get("Status"),
+                    "last_updated": last_updated,
+                    "open_issues": repo.get("open_issues_count"),
+                    "branches": branch_count,
+                    "open_prs": repo.get("open_prs_count"),
+                    "size_mb": f"{repo.get('size') / 1024:.2f} MB" if repo.get("size", 0) >= 1024 else f"{repo.get('size', 0)} KB"
+                    }
+                
+                # Get the ProjectCategory, default to "Others" if not set
+                project_category = custom_props.get("ProjectCategory", "Others")
+                
+                # Add repo to the appropriate category list
+                if project_category not in repos_by_category:
+                    repos_by_category[project_category] = []
+                repos_by_category[project_category].append(repo_details)
+
 
     # Get the repository root (one level up from scripts directory)
     script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -170,13 +177,15 @@ def main() -> None:
     if not os.path.exists(out_dir):
         os.makedirs(out_dir)
     
-    # Save results to JSON file in out directory
-    output_file = os.path.join(out_dir, "repos_data.json")
+    # Save the complete dictionary to repos_by_category.json
+    output_file = os.path.join(out_dir, "repos_by_category.json")
     with open(output_file, "w") as f:
-        json.dump({"organizations": orgs, "repositories": all_results}, f, indent=2)
+        json.dump(repos_by_category, f, indent=2)
     
-    print(f"\n✅ Saved {len(all_results)} repositories from {len(orgs)} organization(s) to {output_file}")
-
+    total_repos = sum(len(repos) for repos in repos_by_category.values())
+    print(f"\n✅ Saved {total_repos} repositories across {len(repos_by_category)} categories to {output_file}")
+    for category, repos_list in repos_by_category.items():
+        print(f"   - {category}: {len(repos_list)} repositories")
 
 
 if __name__ == "__main__":

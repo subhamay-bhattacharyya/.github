@@ -154,37 +154,22 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 <img src="https://ghchart.rshah.org/bsubhamay" alt="My GitHub contributions chart" style="width: 80%; min-width: 400px; max-width: 1000px;"/>
 
-<table role="table" aria-label="Project status table" style="width:100%; border-collapse:collapse;">
+## 📦 Repository Categories
+
+{% for category, repositories in repos_by_category.items() %}
+<h3>{{ category }}</h3>
+
+<table role="table" aria-label="{{ category }} repositories table" style="width:100%; border-collapse:collapse; margin-bottom:32px;">
   <thead>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repository</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Description</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Status</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Last Updated</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" aria-label="Git Open branches" role="img">
-          <path d="M11.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5zm-2.25.75a2.25 2.25 0 1 1 3 2.122V6A2.5 2.5 0 0 1 10 8.5H6a1 1 0 0 0-1 1v1.128a2.251 2.251 0 1 1-1.5 0V5.372a2.25 2.25 0 1 1 1.5 0v1.836A2.492 2.492 0 0 1 6 7h4a1 1 0 0 0 1-1v-.628A2.25 2.25 0 0 1 9.5 3.25zM4.25 12a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5zM3.5 3.25a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0z"/>
-        </svg>
-      </th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" aria-label="Open Issues" role="img">
-          <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"/>
-          <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"/>
-        </svg>
-      </th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" aria-label="Open Pull Requests" role="img">
-          <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"/>
-        </svg>
-      </th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" aria-label="Repository Size" role="img">
-          <path d="M8.878.392a1.75 1.75 0 0 0-1.756 0L2.372 3.01A1.75 1.75 0 0 0 1.5 4.52v6.96c0 .63.336 1.21.872 1.51l4.75 2.618a1.75 1.75 0 0 0 1.756 0l4.75-2.618c.536-.3.872-.88.872-1.51V4.52c0-.63-.336-1.21-.872-1.51L8.878.392ZM8 1.75c.123 0 .245.03.357.09l4.34 2.39L8 6.82 3.303 4.23l4.34-2.39c.112-.06.234-.09.357-.09Zm-5 4.1 4.25 2.345v5.76L3.5 11.96a.25.25 0 0 1-.125-.216V5.85Zm5.75 8.105v-5.76L13 5.85v5.894a.25.25 0 0 1-.125.216l-4.125 2.0Z"/>
-        </svg>
-      </th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Branches</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Open Issues</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Open PRs</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repo Size</th>
   </thead>
-
-</svg>
-
   <tbody>
     {% for repo in repositories %}
     <tr>
@@ -210,6 +195,8 @@ To design and operate **cloud platforms that are secure, automated, observable, 
         <img alt="status: blocked" src="https://img.shields.io/badge/blocked-red?style=flat" />
         {% elif repo.status == 'Initiated' or repo.status == 'initiated' %}
         <img alt="status: initiated" src="https://img.shields.io/badge/initiated-blue?style=flat" />
+        {% elif repo.status == 'Initialized' or repo.status == 'initialized' %}
+        <img alt="status: initialized" src="https://img.shields.io/badge/initialized-blue?style=flat" />
         {% else %}
         <img alt="status: {{ repo.status or 'unknown' }}" src="https://img.shields.io/badge/{{ repo.status or 'unknown' }}-lightblue?style=flat" />
         {% endif %}
@@ -223,8 +210,9 @@ To design and operate **cloud platforms that are secure, automated, observable, 
     {% endfor %}
   </tbody>
 </table>
+{% endfor %}
 
 <p style="margin-top:16px; color:#6b7280; font-size:14px;">
   <em>Last generated: {{ generated_at }}</em><br>
-  <em>Total repositories: {{ repositories|length }}</em>
+  <em>Total repositories: {{ total_repos }}</em>
 </p>

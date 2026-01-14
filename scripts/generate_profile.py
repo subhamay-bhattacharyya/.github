@@ -20,7 +20,7 @@ def load_repos_data(json_file: str) -> dict:
         return json.load(f)
 
 
-def generate_profile_readme(data: dict, template_name: str, output_file: str) -> None:
+def generate_profile_readme(repos_by_category: dict, template_name: str, output_file: str) -> None:
     """
     Generate profile README using Jinja2 template.
     """
@@ -41,10 +41,13 @@ def generate_profile_readme(data: dict, template_name: str, output_file: str) ->
     # Get current time in EST
     est_time = datetime.now(ZoneInfo("America/New_York"))
     
+    # Calculate total repositories across all categories
+    total_repos = sum(len(repos) for repos in repos_by_category.values())
+    
     # Render template
     html_content = template.render(
-        org=data.get('org'),
-        repositories=data.get('repositories', []),
+        repos_by_category=repos_by_category,
+        total_repos=total_repos,
         generated_at=est_time.strftime('%H:%M:%S EST')
     )
     
@@ -65,18 +68,22 @@ def main() -> None:
     script_dir = os.path.dirname(os.path.abspath(__file__))
     repo_root = os.path.join(script_dir, '..')
     
-    json_file = os.path.join(repo_root, 'out', 'repos_data.json')
+    json_file = os.path.join(repo_root, 'out', 'repos_by_category.json')
     template_name = "github_profile.html"
     output_file = os.path.join(repo_root, 'profile/README.md')
     
     print(f"📖 Reading data from {json_file}")
-    data = load_repos_data(json_file)
+    repos_by_category = load_repos_data(json_file)
     
     print(f"🎨 Generating profile README")
-    print(f"   - Organization: {data.get('org')}")
-    print(f"   - Repositories: {len(data.get('repositories', []))}")
+    print(f"   - Categories: {len(repos_by_category)}")
+    for category, repos in repos_by_category.items():
+        print(f"   - {category}: {len(repos)} repositories")
     
-    generate_profile_readme(data, template_name, output_file)
+    total_repos = sum(len(repos) for repos in repos_by_category.values())
+    print(f"   - Total repositories: {total_repos}")
+    
+    generate_profile_readme(repos_by_category, template_name, output_file)
 
 
 if __name__ == "__main__":

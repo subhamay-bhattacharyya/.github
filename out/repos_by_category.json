@@ -1,11 +1,6 @@
 {
-  "organizations": [
-    "subhamay-bhattacharyya",
-    "subhamay-bhattacharyya-gha"
-  ],
-  "repositories": [
+  "Bootcamp": [
     {
-      "org": "subhamay-bhattacharyya",
       "name": "cloud-resume-challenge",
       "description": "The Cloud Resume Challenge is a hands-on project designed to help you bridge the gap from cloud certification to cloud job. It incorporates many of the skills that real cloud and DevOps engineers use in their daily work. This repo is created as a part of the bootcamp by Andrew Brown",
       "status": "In Progress",
@@ -14,9 +9,10 @@
       "branches": 1,
       "open_prs": null,
       "size_mb": "2.43 MB"
-    },
+    }
+  ],
+  "Complete Project": [
     {
-      "org": "subhamay-bhattacharyya",
       "name": "image-labeling",
       "description": "This project demonstrates how to build a simple image labeling pipeline using AWS services. Images are uploaded to Amazon S3, analyzed with Amazon Rekognition, and processed through a Python script configured via the AWS CLI to automatically detect and display labels with confidence scores. It\u2019s a hands-on way to learn cloud-based computer vision.",
       "status": "In Progress",
@@ -25,9 +21,10 @@
       "branches": 2,
       "open_prs": null,
       "size_mb": "63 KB"
-    },
+    }
+  ],
+  "Uncatrgorised": [
     {
-      "org": "subhamay-bhattacharyya",
       "name": "glue-lineage-scanner",
       "description": "Scan AWS Glue PySpark jobs in GitHub repositories to generate data lineage using AST analysis and LLMs.",
       "status": "Initialized",
@@ -36,12 +33,35 @@
       "branches": 1,
       "open_prs": null,
       "size_mb": "93 KB"
+    }
+  ],
+  "GitHub Reusable Action": [
+    {
+      "name": "tf-plan-action",
+      "description": "GitHub Composite Action - Terraform Plan.",
+      "status": "Complete",
+      "last_updated": "09:03:55 EST",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": null,
+      "size_mb": "248 KB"
     },
     {
-      "org": "subhamay-bhattacharyya-gha",
+      "name": "tf-destroy-action",
+      "description": "GitHub Composite Action - Terraform Destroy.",
+      "status": "Complete",
+      "last_updated": "13:30:04 EST",
+      "open_issues": 3,
+      "branches": 3,
+      "open_prs": null,
+      "size_mb": "268 KB"
+    }
+  ],
+  "GitHub Reusable Workflow": [
+    {
       "name": "tf-ci-reusable-wf",
       "description": "GitHub Reusable Workflow: CI Pipeline using Terraform as IaC",
-      "status": "Initiated",
+      "status": "Complete",
       "last_updated": "10:43:19 EST",
       "open_issues": 0,
       "branches": 1,
