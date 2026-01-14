@@ -213,11 +213,40 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
       <td style="border:1px solid #e5e7eb; padding:8px;">63 KB</td>
     </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/bucket-list-tracker">bucket-list-tracker</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;" title="Full stack bucket list tracking application deployed using AWS Amplify.">
+          Full stack bucket list tracking application deployed using AWS Amplify.
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="status: initialized" src="https://img.shields.io/badge/initialized-blue?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">10:22:54 EST</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">1</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">1</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">59 KB</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/gcp-terraform-bootstrap">gcp-terraform-bootstrap</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;" title="Bootstrap Google Cloud projects using Terraform with secure, keyless authentication via GitHub Actions OIDC and Workload Identity Federation, and remote state management using HCP Terraform.">
+          <span class="truncated-desc">Bootstrap Google Cloud projects using Terraform with secure, keyless authentication via GitHub Actio...</span>
+          <a href="#" onclick="this.previousElementSibling.textContent="Bootstrap Google Cloud projects using Terraform with secure, keyless authentication via GitHub Actions OIDC and Workload Identity Federation, and remote state management using HCP Terraform."; this.style.display='none'; return false;" style="color:#0969da; text-decoration:none; margin-left:4px;">[more]</a>
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="status: in progress" src="https://img.shields.io/badge/in%20progress-orange?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">14:47:04 EST</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">1</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">62 KB</td>
+    </tr>
   </tbody>
 </table>
-<h3>Uncatrgorised</h3>
+<h3>Generative AI</h3>
 
-<table role="table" aria-label="Uncatrgorised repositories table" style="width:100%; border-collapse:collapse; margin-bottom:32px;">
+<table role="table" aria-label="Generative AI repositories table" style="width:100%; border-collapse:collapse; margin-bottom:32px;">
   <thead>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repository</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Description</th>
@@ -236,7 +265,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
           <a href="#" onclick="this.previousElementSibling.textContent="Scan AWS Glue PySpark jobs in GitHub repositories to generate data lineage using AST analysis and LLMs."; this.style.display='none'; return false;" style="color:#0969da; text-decoration:none; margin-left:4px;">[more]</a>
       </td>
       <td style="border:1px solid #e5e7eb; padding:8px;">
-        <img alt="status: initialized" src="https://img.shields.io/badge/initialized-blue?style=flat" />
+        <img alt="status: in progress" src="https://img.shields.io/badge/in%20progress-orange?style=flat" />
       </td>
       <td style="border:1px solid #e5e7eb; padding:8px;">11:00:39 EST</td>
       <td style="border:1px solid #e5e7eb; padding:8px;">1</td>
@@ -260,6 +289,20 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repo Size</th>
   </thead>
   <tbody>
+    <tr>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/checkov-scan-action">checkov-scan-action</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Composite Action - Checkov Scan">
+          GitHub Composite Action - Checkov Scan
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="status: in progress" src="https://img.shields.io/badge/in%20progress-orange?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">10:34:32 EST</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">6</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">5</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">223 KB</td>
+    </tr>
     <tr>
       <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/tf-plan-action">tf-plan-action</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Composite Action - Terraform Plan.">
@@ -287,6 +330,20 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">3</td>
       <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
       <td style="border:1px solid #e5e7eb; padding:8px;">268 KB</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/create-release-action">create-release-action</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Composite Action - Create Draft Release with a clickable link to create the release.">
+          GitHub Composite Action - Create Draft Release with a clickable link to create the release.
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">10:34:00 EST</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">2</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">1</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">84 KB</td>
     </tr>
   </tbody>
 </table>
@@ -318,10 +375,24 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
       <td style="border:1px solid #e5e7eb; padding:8px;">197 KB</td>
     </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/slack-notification-wf">slack-notification-wf</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Reusable Workflow : Send Slack Notification on opening an issue of pull request.">
+          GitHub Reusable Workflow : Send Slack Notification on opening an issue of pull request.
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">20:22:10 EST</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">1</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">155 KB</td>
+    </tr>
   </tbody>
 </table>
 
 <p style="margin-top:16px; color:#6b7280; font-size:14px;">
-  <em>Last generated: 11:28:02 EST</em><br>
-  <em>Total repositories: 6</em>
+  <em>Last generated: 15:54:19 EST</em><br>
+  <em>Total repositories: 11</em>
 </p>
