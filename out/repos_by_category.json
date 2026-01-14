@@ -21,13 +21,33 @@
       "branches": 2,
       "open_prs": null,
       "size_mb": "63 KB"
+    },
+    {
+      "name": "bucket-list-tracker",
+      "description": "Full stack bucket list tracking application deployed using AWS Amplify.",
+      "status": "Initialized",
+      "last_updated": "10:22:54 EST",
+      "open_issues": 1,
+      "branches": 1,
+      "open_prs": null,
+      "size_mb": "59 KB"
+    },
+    {
+      "name": "gcp-terraform-bootstrap",
+      "description": "Bootstrap Google Cloud projects using Terraform with secure, keyless authentication via GitHub Actions OIDC and Workload Identity Federation, and remote state management using HCP Terraform.",
+      "status": "In Progress",
+      "last_updated": "14:47:04 EST",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": null,
+      "size_mb": "62 KB"
     }
   ],
-  "Uncatrgorised": [
+  "Generative AI": [
     {
       "name": "glue-lineage-scanner",
       "description": "Scan AWS Glue PySpark jobs in GitHub repositories to generate data lineage using AST analysis and LLMs.",
-      "status": "Initialized",
+      "status": "In Progress",
       "last_updated": "11:00:39 EST",
       "open_issues": 0,
       "branches": 1,
@@ -36,6 +56,16 @@
     }
   ],
   "GitHub Reusable Action": [
+    {
+      "name": "checkov-scan-action",
+      "description": "GitHub Composite Action - Checkov Scan",
+      "status": "In Progress",
+      "last_updated": "10:34:32 EST",
+      "open_issues": 5,
+      "branches": 6,
+      "open_prs": null,
+      "size_mb": "223 KB"
+    },
     {
       "name": "tf-plan-action",
       "description": "GitHub Composite Action - Terraform Plan.",
@@ -55,6 +85,16 @@
       "branches": 3,
       "open_prs": null,
       "size_mb": "268 KB"
+    },
+    {
+      "name": "create-release-action",
+      "description": "GitHub Composite Action - Create Draft Release with a clickable link to create the release.",
+      "status": "Complete",
+      "last_updated": "10:34:00 EST",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "84 KB"
     }
   ],
   "GitHub Reusable Workflow": [
@@ -67,6 +107,16 @@
       "branches": 1,
       "open_prs": null,
       "size_mb": "197 KB"
+    },
+    {
+      "name": "slack-notification-wf",
+      "description": "GitHub Reusable Workflow : Send Slack Notification on opening an issue of pull request.",
+      "status": "Complete",
+      "last_updated": "20:22:10 EST",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": null,
+      "size_mb": "155 KB"
     }
   ]
 }
