@@ -136,6 +136,8 @@ def main() -> None:
 
             if custom_props.get("DiaplayOnProfile") == "Yes":
                 # Fetch branch count
+                # pprint(repo)
+                # break
                 branch_count = fetch_branch_count(org, name)
                 
                 # Convert updated_at to EST time
@@ -150,6 +152,7 @@ def main() -> None:
                 
                 repo_details = {
                     "name": name,
+                    "clone_url": repo.get("clone_url"),
                     "description": repo.get("description"),
                     "status": custom_props.get("Status"),
                     "last_updated": last_updated,
