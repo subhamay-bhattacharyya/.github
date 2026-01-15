@@ -56,51 +56,51 @@ To design and operate **cloud platforms that are secure, automated, observable, 
     <tr>
       <td style="border:1px solid #e5e7eb; padding:16px; text-align:center; width:25%;">
         <a href="https://www.credly.com/earner/earned/badge/6ac83ea2-cdd0-452d-ba10-c6632de1204b" target="_blank" title="AWS Certified Cloud Practitioner">
-          <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" style="max-width:150px; height:auto;" />
+          <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" style="width:150px; height:150px;" />
         </a>
       </td>
       <td style="border:1px solid #e5e7eb; padding:16px; text-align:center; width:25%;">
         <a href="https://www.credly.com/earner/earned/badge/0e81af65-63fa-4626-a9f2-c96d738e8d15" target="_blank" title="AWS Certified AI Practitioner">
-          <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" style="max-width:150px; height:auto;" />
+          <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" style="width:150px; height:150px;" />
         </a>
       </td>
       <td style="border:1px solid #e5e7eb; padding:16px; text-align:center; width:25%;">
         <a href="https://www.credly.com/users/subhamay-bhattacharyya.4c48cb98/edit#credly" target="_blank" title="AWS Certified Solutions Architect – Associate">
-          <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" style="max-width:150px; height:auto;" />
+          <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" style="width:150px; height:150px;" />
         </a>
       </td>
       <td style="border:1px solid #e5e7eb; padding:16px; text-align:center; width:25%;">
         <a href="https://www.credly.com/earner/earned/badge/60276fbf-e64e-4344-963f-b2be80cd7416" target="_blank" title="AWS Certified Developer – Associate">
-          <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" style="max-width:150px; height:auto;" />
+          <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" style="width:150px; height:150px;" />
         </a>
       </td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb; padding:16px; text-align:center;">
         <a href="https://www.credly.com/users/subhamay-bhattacharyya.4c48cb98/edit#credly" target="_blank" title="AWS Certified SysOps Administrator – Associate">
-          <img src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" style="max-width:150px; height:auto;" />
+          <img src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" style="width:150px; height:150px;" />
         </a>
       </td>
       <td style="border:1px solid #e5e7eb; padding:16px; text-align:center;">
         <a href="https://www.credly.com/earner/earned/badge/90fa65c0-2b2b-4b72-bcd6-de60ec3af12a9" target="_blank" title="AWS Certified Data Engineer – Associate">
-          <img src="https://images.credly.com/size/340x340/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" alt="AWS Certified Data Engineer – Associate" style="max-width:150px; height:auto;" />
+          <img src="https://images.credly.com/size/340x340/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" alt="AWS Certified Data Engineer – Associate" style="width:150px; height:150px;" />
         </a>
       </td>
       <td style="border:1px solid #e5e7eb; padding:16px; text-align:center;">
         <a href="https://www.credly.com/earner/earned/badge/3c74bc0a-3abc-40e3-bba7-16af5c1c52dd" target="_blank" title="Microsoft Certified: Azure Data Fundamentals">
-          <img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Microsoft Certified: Azure Data Fundamentals" style="max-width:150px; height:auto;" />
+          <img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Microsoft Certified: Azure Data Fundamentals" style="width:150px; height:150px;" />
         </a>
       </td>
       <td style="border:1px solid #e5e7eb; padding:16px; text-align:center;">
         <a href="https://www.credly.com/earner/earned/badge/fcb7b9c4-4b5c-45b4-901a-c1b268caebb1" target="_blank" title="Cloud Digital Leader Certification">
-          <img src="https://images.credly.com/size/340x340/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" alt="Cloud Digital Leader Certification" style="max-width:150px; height:auto;" />
+          <img src="https://images.credly.com/size/340x340/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" alt="Cloud Digital Leader Certification" style="width:150px; height:150px;" />
         </a>
       </td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb; padding:16px; text-align:center;">
         <a href="https://www.credly.com/users/subhamay-bhattacharyya.4c48cb98/edit#credly" target="_blank" title="Associate Data Practitioner Certification">
-          <img src="https://images.credly.com/size/340x340/images/3e3f6d8b-b37e-4a3d-93d0-6f2bafa5f03c/blob" alt="Associate Data Practitioner Certification" style="max-width:150px; height:auto;" />
+          <img src="https://images.credly.com/size/340x340/images/3e3f6d8b-b37e-4a3d-93d0-6f2bafa5f03c/blob" alt="Associate Data Practitioner Certification" style="width:150px; height:150px;" />
         </a>
       </td>
       <td style="border:1px solid #e5e7eb; padding:16px; text-align:center;">
@@ -115,29 +115,29 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       </td>
       <td style="border:1px solid #e5e7eb; padding:16px; text-align:center;">
         <a href="https://www.credly.com/earner/earned/badge/52a1f5d9-1129-4cee-b7fb-7bc4ccd93b88" target="_blank" title="HashiCorp Certified: Terraform Associate (003)">
-          <img src="https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified: Terraform Associate (003)" style="max-width:150px; height:auto;" />
+          <img src="https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified: Terraform Associate (003)" style="width:150px; height:150px;" />
         </a>
       </td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb; padding:16px; text-align:center;">
         <a href="https://www.credly.com/earner/earned/badge/d5dccf85-eb23-487e-87de-e5531c2d95a1" target="_blank" title="GitHub Foundations">
-          <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" style="max-width:150px; height:auto;" />
+          <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" style="width:150px; height:150px;" />
         </a>
       </td>
       <td style="border:1px solid #e5e7eb; padding:16px; text-align:center;">
         <a href="https://www.credly.com/earner/earned/badge/e8d4889f-f351-4439-8775-1910cc058cf7" target="_blank" title="GitHub Actions">
-          <img src="https://images.credly.com/size/340x340/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" alt="GitHub Actions" style="max-width:150px; height:auto;" />
+          <img src="https://images.credly.com/size/340x340/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" alt="GitHub Actions" style="width:150px; height:150px;" />
         </a>
       </td>
       <td style="border:1px solid #e5e7eb; padding:16px; text-align:center;">
         <a href="https://www.credly.com/earner/earned/badge/224e4704-6268-48e7-a209-e490b136d5d0" target="_blank" title="Astronomer Certification for Apache Airflow 3 Fundamentals">
-          <img src="https://images.credly.com/size/340x340/images/b6315b18-8762-40a7-a15b-b97a6dd9c12e/blob" alt="Astronomer Certification for Apache Airflow 3 Fundamentals" style="max-width:150px; height:auto;" />
+          <img src="https://images.credly.com/size/340x340/images/b6315b18-8762-40a7-a15b-b97a6dd9c12e/blob" alt="Astronomer Certification for Apache Airflow 3 Fundamentals" style="width:150px; height:150px;" />
         </a>
       </td>
       <td style="border:1px solid #e5e7eb; padding:16px; text-align:center;">
         <a href="https://www.credly.com/earner/earned/badge/aa538171-170d-4f30-8202-d228ee2c2b89" target="_blank" title="Astronomer Certification DAG Authoring for Apache Airflow 3">
-          <img src="https://images.credly.com/size/340x340/images/6e9570ae-239f-47b9-85ff-0946c3844088/blob" alt="Astronomer Certification DAG Authoring for Apache Airflow 3" style="max-width:150px; height:auto;" />
+          <img src="https://images.credly.com/size/340x340/images/6e9570ae-239f-47b9-85ff-0946c3844088/blob" alt="Astronomer Certification DAG Authoring for Apache Airflow 3" style="width:150px; height:150px;" />
         </a>
       </td>
     </tr>
@@ -168,7 +168,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="">cloud-resume-challenge</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya/cloud-resume-challenge">cloud-resume-challenge</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="The Cloud Resume Challenge is a hands-on project designed to help you bridge the gap from cloud certification to cloud job. It incorporates many of the skills that real cloud and DevOps engineers use in their daily work. This repo is created as a part of the bootcamp by Andrew Brown">
           <span class="truncated-desc">The Cloud Resume Challenge is a hands-on project designed to help you bridge the gap from cloud cert...</span>
           <a href="#" onclick="this.previousElementSibling.textContent="The Cloud Resume Challenge is a hands-on project designed to help you bridge the gap from cloud certification to cloud job. It incorporates many of the skills that real cloud and DevOps engineers use in their daily work. This repo is created as a part of the bootcamp by Andrew Brown"; this.style.display='none'; return false;" style="color:#0969da; text-decoration:none; margin-left:4px;">[more]</a>
@@ -199,7 +199,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="">image-labeling</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya/image-labeling">image-labeling</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="This project demonstrates how to build a simple image labeling pipeline using AWS services. Images are uploaded to Amazon S3, analyzed with Amazon Rekognition, and processed through a Python script configured via the AWS CLI to automatically detect and display labels with confidence scores. It’s a hands-on way to learn cloud-based computer vision.">
           <span class="truncated-desc">This project demonstrates how to build a simple image labeling pipeline using AWS services. Images a...</span>
           <a href="#" onclick="this.previousElementSibling.textContent="This project demonstrates how to build a simple image labeling pipeline using AWS services. Images are uploaded to Amazon S3, analyzed with Amazon Rekognition, and processed through a Python script configured via the AWS CLI to automatically detect and display labels with confidence scores. It\u2019s a hands-on way to learn cloud-based computer vision."; this.style.display='none'; return false;" style="color:#0969da; text-decoration:none; margin-left:4px;">[more]</a>
@@ -214,7 +214,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">63 KB</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="">bucket-list-tracker</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya/bucket-list-tracker">bucket-list-tracker</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="Full stack bucket list tracking application deployed using AWS Amplify.">
           Full stack bucket list tracking application deployed using AWS Amplify.
       </td>
@@ -228,7 +228,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">59 KB</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="">gcp-terraform-bootstrap</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya/gcp-terraform-bootstrap">gcp-terraform-bootstrap</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="Bootstrap Google Cloud projects using Terraform with secure, keyless authentication via GitHub Actions OIDC and Workload Identity Federation, and remote state management using HCP Terraform.">
           <span class="truncated-desc">Bootstrap Google Cloud projects using Terraform with secure, keyless authentication via GitHub Actio...</span>
           <a href="#" onclick="this.previousElementSibling.textContent="Bootstrap Google Cloud projects using Terraform with secure, keyless authentication via GitHub Actions OIDC and Workload Identity Federation, and remote state management using HCP Terraform."; this.style.display='none'; return false;" style="color:#0969da; text-decoration:none; margin-left:4px;">[more]</a>
@@ -259,7 +259,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="">glue-lineage-scanner</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya/glue-lineage-scanner">glue-lineage-scanner</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="Scan AWS Glue PySpark jobs in GitHub repositories to generate data lineage using AST analysis and LLMs.">
           <span class="truncated-desc">Scan AWS Glue PySpark jobs in GitHub repositories to generate data lineage using AST analysis and LL...</span>
           <a href="#" onclick="this.previousElementSibling.textContent="Scan AWS Glue PySpark jobs in GitHub repositories to generate data lineage using AST analysis and LLMs."; this.style.display='none'; return false;" style="color:#0969da; text-decoration:none; margin-left:4px;">[more]</a>
@@ -290,7 +290,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="">checkov-scan-action</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/checkov-scan-action">checkov-scan-action</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Composite Action - Checkov Scan">
           GitHub Composite Action - Checkov Scan
       </td>
@@ -304,7 +304,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">223 KB</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="">tf-plan-action</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/tf-plan-action">tf-plan-action</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Composite Action - Terraform Plan.">
           GitHub Composite Action - Terraform Plan.
       </td>
@@ -318,7 +318,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">248 KB</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="">tf-destroy-action</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/tf-destroy-action">tf-destroy-action</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Composite Action - Terraform Destroy.">
           GitHub Composite Action - Terraform Destroy.
       </td>
@@ -332,7 +332,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">268 KB</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="">create-release-action</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/create-release-action">create-release-action</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Composite Action - Create Draft Release with a clickable link to create the release.">
           GitHub Composite Action - Create Draft Release with a clickable link to create the release.
       </td>
@@ -362,7 +362,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="">tf-ci-reusable-wf</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/tf-ci-reusable-wf">tf-ci-reusable-wf</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Reusable Workflow: CI Pipeline using Terraform as IaC">
           GitHub Reusable Workflow: CI Pipeline using Terraform as IaC
       </td>
@@ -376,7 +376,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">197 KB</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="">slack-notification-wf</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/slack-notification-wf">slack-notification-wf</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Reusable Workflow : Send Slack Notification on opening an issue of pull request.">
           GitHub Reusable Workflow : Send Slack Notification on opening an issue of pull request.
       </td>
@@ -393,6 +393,6 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 </table>
 
 <p style="margin-top:16px; color:#6b7280; font-size:14px;">
-  <em>Last generated: 10:01:22 EST</em><br>
+  <em>Last generated: 10:21:59 EST</em><br>
   <em>Total repositories: 11</em>
 </p>
