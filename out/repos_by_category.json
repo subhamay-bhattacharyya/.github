@@ -2,6 +2,7 @@
   "Bootcamp": [
     {
       "name": "cloud-resume-challenge",
+      "clone_url": "https://github.com/subhamay-bhattacharyya/cloud-resume-challenge.git",
       "description": "The Cloud Resume Challenge is a hands-on project designed to help you bridge the gap from cloud certification to cloud job. It incorporates many of the skills that real cloud and DevOps engineers use in their daily work. This repo is created as a part of the bootcamp by Andrew Brown",
       "status": "In Progress",
       "last_updated": "15:09:05 EST",
@@ -14,6 +15,7 @@
   "Complete Project": [
     {
       "name": "image-labeling",
+      "clone_url": "https://github.com/subhamay-bhattacharyya/image-labeling.git",
       "description": "This project demonstrates how to build a simple image labeling pipeline using AWS services. Images are uploaded to Amazon S3, analyzed with Amazon Rekognition, and processed through a Python script configured via the AWS CLI to automatically detect and display labels with confidence scores. It\u2019s a hands-on way to learn cloud-based computer vision.",
       "status": "In Progress",
       "last_updated": "21:08:55 EST",
@@ -24,6 +26,7 @@
     },
     {
       "name": "bucket-list-tracker",
+      "clone_url": "https://github.com/subhamay-bhattacharyya/bucket-list-tracker.git",
       "description": "Full stack bucket list tracking application deployed using AWS Amplify.",
       "status": "Initialized",
       "last_updated": "10:22:54 EST",
@@ -34,6 +37,7 @@
     },
     {
       "name": "gcp-terraform-bootstrap",
+      "clone_url": "https://github.com/subhamay-bhattacharyya/gcp-terraform-bootstrap.git",
       "description": "Bootstrap Google Cloud projects using Terraform with secure, keyless authentication via GitHub Actions OIDC and Workload Identity Federation, and remote state management using HCP Terraform.",
       "status": "In Progress",
       "last_updated": "14:47:04 EST",
@@ -46,6 +50,7 @@
   "Generative AI": [
     {
       "name": "glue-lineage-scanner",
+      "clone_url": "https://github.com/subhamay-bhattacharyya/glue-lineage-scanner.git",
       "description": "Scan AWS Glue PySpark jobs in GitHub repositories to generate data lineage using AST analysis and LLMs.",
       "status": "In Progress",
       "last_updated": "11:00:39 EST",
@@ -58,6 +63,7 @@
   "GitHub Reusable Action": [
     {
       "name": "checkov-scan-action",
+      "clone_url": "https://github.com/subhamay-bhattacharyya-gha/checkov-scan-action.git",
       "description": "GitHub Composite Action - Checkov Scan",
       "status": "In Progress",
       "last_updated": "10:34:32 EST",
@@ -68,6 +74,7 @@
     },
     {
       "name": "tf-plan-action",
+      "clone_url": "https://github.com/subhamay-bhattacharyya-gha/tf-plan-action.git",
       "description": "GitHub Composite Action - Terraform Plan.",
       "status": "Complete",
       "last_updated": "09:03:55 EST",
@@ -78,6 +85,7 @@
     },
     {
       "name": "tf-destroy-action",
+      "clone_url": "https://github.com/subhamay-bhattacharyya-gha/tf-destroy-action.git",
       "description": "GitHub Composite Action - Terraform Destroy.",
       "status": "Complete",
       "last_updated": "13:30:04 EST",
@@ -88,6 +96,7 @@
     },
     {
       "name": "create-release-action",
+      "clone_url": "https://github.com/subhamay-bhattacharyya-gha/create-release-action.git",
       "description": "GitHub Composite Action - Create Draft Release with a clickable link to create the release.",
       "status": "Complete",
       "last_updated": "10:34:00 EST",
@@ -100,6 +109,7 @@
   "GitHub Reusable Workflow": [
     {
       "name": "tf-ci-reusable-wf",
+      "clone_url": "https://github.com/subhamay-bhattacharyya-gha/tf-ci-reusable-wf.git",
       "description": "GitHub Reusable Workflow: CI Pipeline using Terraform as IaC",
       "status": "Complete",
       "last_updated": "10:43:19 EST",
@@ -110,6 +120,7 @@
     },
     {
       "name": "slack-notification-wf",
+      "clone_url": "https://github.com/subhamay-bhattacharyya-gha/slack-notification-wf.git",
       "description": "GitHub Reusable Workflow : Send Slack Notification on opening an issue of pull request.",
       "status": "Complete",
       "last_updated": "20:22:10 EST",
