@@ -168,7 +168,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya/cloud-resume-challenge.git">cloud-resume-challenge</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="">cloud-resume-challenge</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="The Cloud Resume Challenge is a hands-on project designed to help you bridge the gap from cloud certification to cloud job. It incorporates many of the skills that real cloud and DevOps engineers use in their daily work. This repo is created as a part of the bootcamp by Andrew Brown">
           <span class="truncated-desc">The Cloud Resume Challenge is a hands-on project designed to help you bridge the gap from cloud cert...</span>
           <a href="#" onclick="this.previousElementSibling.textContent="The Cloud Resume Challenge is a hands-on project designed to help you bridge the gap from cloud certification to cloud job. It incorporates many of the skills that real cloud and DevOps engineers use in their daily work. This repo is created as a part of the bootcamp by Andrew Brown"; this.style.display='none'; return false;" style="color:#0969da; text-decoration:none; margin-left:4px;">[more]</a>
@@ -199,7 +199,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya/image-labeling.git">image-labeling</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="">image-labeling</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="This project demonstrates how to build a simple image labeling pipeline using AWS services. Images are uploaded to Amazon S3, analyzed with Amazon Rekognition, and processed through a Python script configured via the AWS CLI to automatically detect and display labels with confidence scores. It’s a hands-on way to learn cloud-based computer vision.">
           <span class="truncated-desc">This project demonstrates how to build a simple image labeling pipeline using AWS services. Images a...</span>
           <a href="#" onclick="this.previousElementSibling.textContent="This project demonstrates how to build a simple image labeling pipeline using AWS services. Images are uploaded to Amazon S3, analyzed with Amazon Rekognition, and processed through a Python script configured via the AWS CLI to automatically detect and display labels with confidence scores. It\u2019s a hands-on way to learn cloud-based computer vision."; this.style.display='none'; return false;" style="color:#0969da; text-decoration:none; margin-left:4px;">[more]</a>
@@ -214,7 +214,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">63 KB</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya/bucket-list-tracker.git">bucket-list-tracker</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="">bucket-list-tracker</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="Full stack bucket list tracking application deployed using AWS Amplify.">
           Full stack bucket list tracking application deployed using AWS Amplify.
       </td>
@@ -228,7 +228,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">59 KB</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya/gcp-terraform-bootstrap.git">gcp-terraform-bootstrap</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="">gcp-terraform-bootstrap</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="Bootstrap Google Cloud projects using Terraform with secure, keyless authentication via GitHub Actions OIDC and Workload Identity Federation, and remote state management using HCP Terraform.">
           <span class="truncated-desc">Bootstrap Google Cloud projects using Terraform with secure, keyless authentication via GitHub Actio...</span>
           <a href="#" onclick="this.previousElementSibling.textContent="Bootstrap Google Cloud projects using Terraform with secure, keyless authentication via GitHub Actions OIDC and Workload Identity Federation, and remote state management using HCP Terraform."; this.style.display='none'; return false;" style="color:#0969da; text-decoration:none; margin-left:4px;">[more]</a>
@@ -259,7 +259,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya/glue-lineage-scanner.git">glue-lineage-scanner</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="">glue-lineage-scanner</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="Scan AWS Glue PySpark jobs in GitHub repositories to generate data lineage using AST analysis and LLMs.">
           <span class="truncated-desc">Scan AWS Glue PySpark jobs in GitHub repositories to generate data lineage using AST analysis and LL...</span>
           <a href="#" onclick="this.previousElementSibling.textContent="Scan AWS Glue PySpark jobs in GitHub repositories to generate data lineage using AST analysis and LLMs."; this.style.display='none'; return false;" style="color:#0969da; text-decoration:none; margin-left:4px;">[more]</a>
@@ -290,7 +290,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/checkov-scan-action.git">checkov-scan-action</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="">checkov-scan-action</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Composite Action - Checkov Scan">
           GitHub Composite Action - Checkov Scan
       </td>
@@ -304,7 +304,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">223 KB</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/tf-plan-action.git">tf-plan-action</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="">tf-plan-action</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Composite Action - Terraform Plan.">
           GitHub Composite Action - Terraform Plan.
       </td>
@@ -318,7 +318,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">248 KB</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/tf-destroy-action.git">tf-destroy-action</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="">tf-destroy-action</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Composite Action - Terraform Destroy.">
           GitHub Composite Action - Terraform Destroy.
       </td>
@@ -332,7 +332,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">268 KB</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/create-release-action.git">create-release-action</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="">create-release-action</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Composite Action - Create Draft Release with a clickable link to create the release.">
           GitHub Composite Action - Create Draft Release with a clickable link to create the release.
       </td>
@@ -362,7 +362,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/tf-ci-reusable-wf.git">tf-ci-reusable-wf</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="">tf-ci-reusable-wf</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Reusable Workflow: CI Pipeline using Terraform as IaC">
           GitHub Reusable Workflow: CI Pipeline using Terraform as IaC
       </td>
@@ -376,7 +376,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">197 KB</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/slack-notification-wf.git">slack-notification-wf</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="">slack-notification-wf</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Reusable Workflow : Send Slack Notification on opening an issue of pull request.">
           GitHub Reusable Workflow : Send Slack Notification on opening an issue of pull request.
       </td>
@@ -393,6 +393,6 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 </table>
 
 <p style="margin-top:16px; color:#6b7280; font-size:14px;">
-  <em>Last generated: 09:54:33 EST</em><br>
+  <em>Last generated: 10:01:22 EST</em><br>
   <em>Total repositories: 11</em>
 </p>

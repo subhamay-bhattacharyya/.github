@@ -152,7 +152,7 @@ def main() -> None:
                 
                 repo_details = {
                     "name": name,
-                    "clone_url": repo.get("clone_url"),
+                    "html_url": repo.get("html_url"),
                     "description": repo.get("description"),
                     "status": custom_props.get("Status"),
                     "last_updated": last_updated,

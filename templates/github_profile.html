@@ -170,7 +170,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
   <tbody>
     {% for repo in repositories %}
     <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="{{ repo.clone_url }}">{{ repo.name }}</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="{{ repo.html_url }}">{{ repo.name }}</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="{{ repo.description or '—' }}">
         {% if repo.description and repo.description|length > 100 %}
           <span class="truncated-desc">{{ repo.description[:100] }}...</span>
