@@ -153,37 +153,8 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 ## 📦 Repository Categories
 
-<h3>Bootcamp</h3>
+<caption><strong><img src="https://img.shields.io/badge/Stats-Branches%20%7C%20Open_Issues%20%7C%20Open_Pull_Requests-blue" alt="Stats Badge"></strong></caption>
 
-<table role="table" aria-label="Bootcamp repositories table" style="width:100%; border-collapse:collapse; margin-bottom:32px;">
-  <thead>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repository</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Description</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Status</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Last Updated</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Branches</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Open Issues</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Open PRs</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repo Size</th>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya/cloud-resume-challenge">cloud-resume-challenge</a></td>
-      <td style="border:1px solid #e5e7eb; padding:8px;" title="The Cloud Resume Challenge is a hands-on project designed to help you bridge the gap from cloud certification to cloud job. It incorporates many of the skills that real cloud and DevOps engineers use in their daily work. This repo is created as a part of the bootcamp by Andrew Brown">
-          <span class="truncated-desc">The Cloud Resume Challenge is a hands-on project designed to help you bridge the gap from cloud cert...</span>
-          <a href="#" onclick="this.previousElementSibling.textContent="The Cloud Resume Challenge is a hands-on project designed to help you bridge the gap from cloud certification to cloud job. It incorporates many of the skills that real cloud and DevOps engineers use in their daily work. This repo is created as a part of the bootcamp by Andrew Brown"; this.style.display='none'; return false;" style="color:#0969da; text-decoration:none; margin-left:4px;">[more]</a>
-      </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">
-        <img alt="status: in progress" src="https://img.shields.io/badge/in%20progress-orange?style=flat" />
-      </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">15:09:05 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">1</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">2.43 MB</td>
-    </tr>
-  </tbody>
-</table>
 <h3>Complete Project</h3>
 
 <table role="table" aria-label="Complete Project repositories table" style="width:100%; border-collapse:collapse; margin-bottom:32px;">
@@ -192,9 +163,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Description</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Status</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Last Updated</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Branches</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Open Issues</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Open PRs</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Stats</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repo Size</th>
   </thead>
   <tbody>
@@ -208,70 +177,102 @@ To design and operate **cloud platforms that are secure, automated, observable, 
         <img alt="status: in progress" src="https://img.shields.io/badge/in%20progress-orange?style=flat" />
       </td>
       <td style="border:1px solid #e5e7eb; padding:8px;">21:08:55 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">2</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">1</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">63 KB</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">2-1-0</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">71 KB</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya/bucket-list-tracker">bucket-list-tracker</a></td>
-      <td style="border:1px solid #e5e7eb; padding:8px;" title="Full stack bucket list tracking application deployed using AWS Amplify.">
-          Full stack bucket list tracking application deployed using AWS Amplify.
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya/event-driven-etl-automation">event-driven-etl-automation</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;" title="Event-driven, serverless ETL pipeline on AWS that automates data ingestion, transformation, cataloging, analytics, and notifications using S3, Lambda, Step Functions, Glue, Athena, and SNS.">
+          <span class="truncated-desc">Event-driven, serverless ETL pipeline on AWS that automates data ingestion, transformation, catalogi...</span>
+          <a href="#" onclick="this.previousElementSibling.textContent="Event-driven, serverless ETL pipeline on AWS that automates data ingestion, transformation, cataloging, analytics, and notifications using S3, Lambda, Step Functions, Glue, Athena, and SNS."; this.style.display='none'; return false;" style="color:#0969da; text-decoration:none; margin-left:4px;">[more]</a>
       </td>
       <td style="border:1px solid #e5e7eb; padding:8px;">
         <img alt="status: initialized" src="https://img.shields.io/badge/initialized-blue?style=flat" />
       </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">10:22:54 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">1</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">1</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">16:35:26 EST</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">2-1-0</td>
       <td style="border:1px solid #e5e7eb; padding:8px;">59 KB</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya/gcp-terraform-bootstrap">gcp-terraform-bootstrap</a></td>
-      <td style="border:1px solid #e5e7eb; padding:8px;" title="Bootstrap Google Cloud projects using Terraform with secure, keyless authentication via GitHub Actions OIDC and Workload Identity Federation, and remote state management using HCP Terraform.">
-          <span class="truncated-desc">Bootstrap Google Cloud projects using Terraform with secure, keyless authentication via GitHub Actio...</span>
-          <a href="#" onclick="this.previousElementSibling.textContent="Bootstrap Google Cloud projects using Terraform with secure, keyless authentication via GitHub Actions OIDC and Workload Identity Federation, and remote state management using HCP Terraform."; this.style.display='none'; return false;" style="color:#0969da; text-decoration:none; margin-left:4px;">[more]</a>
-      </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">
-        <img alt="status: in progress" src="https://img.shields.io/badge/in%20progress-orange?style=flat" />
-      </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">14:47:04 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">1</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">62 KB</td>
     </tr>
   </tbody>
 </table>
-<h3>Generative AI</h3>
+<h3>Data Engineering</h3>
 
-<table role="table" aria-label="Generative AI repositories table" style="width:100%; border-collapse:collapse; margin-bottom:32px;">
+<table role="table" aria-label="Data Engineering repositories table" style="width:100%; border-collapse:collapse; margin-bottom:32px;">
   <thead>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repository</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Description</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Status</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Last Updated</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Branches</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Open Issues</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Open PRs</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Stats</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repo Size</th>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya/glue-lineage-scanner">glue-lineage-scanner</a></td>
-      <td style="border:1px solid #e5e7eb; padding:8px;" title="Scan AWS Glue PySpark jobs in GitHub repositories to generate data lineage using AST analysis and LLMs.">
-          <span class="truncated-desc">Scan AWS Glue PySpark jobs in GitHub repositories to generate data lineage using AST analysis and LL...</span>
-          <a href="#" onclick="this.previousElementSibling.textContent="Scan AWS Glue PySpark jobs in GitHub repositories to generate data lineage using AST analysis and LLMs."; this.style.display='none'; return false;" style="color:#0969da; text-decoration:none; margin-left:4px;">[more]</a>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya/snowflake-lakehouse">snowflake-lakehouse</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;" title="End-to-end Snowflake data engineering project: layered stage/raw/curated design, automated ingestion + DAG, dynamic tables, Snowpark Python, GitHub Actions, and in-Snowflake visualization (Streamlit).">
+          <span class="truncated-desc">End-to-end Snowflake data engineering project: layered stage/raw/curated design, automated ingestion...</span>
+          <a href="#" onclick="this.previousElementSibling.textContent="End-to-end Snowflake data engineering project: layered stage/raw/curated design, automated ingestion + DAG, dynamic tables, Snowpark Python, GitHub Actions, and in-Snowflake visualization (Streamlit)."; this.style.display='none'; return false;" style="color:#0969da; text-decoration:none; margin-left:4px;">[more]</a>
       </td>
       <td style="border:1px solid #e5e7eb; padding:8px;">
         <img alt="status: in progress" src="https://img.shields.io/badge/in%20progress-orange?style=flat" />
       </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">11:00:39 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">1</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">93 KB</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">08:14:25 EST</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">2-1-0</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">30.40 MB</td>
+    </tr>
+  </tbody>
+</table>
+<h3>Athena</h3>
+
+<table role="table" aria-label="Athena repositories table" style="width:100%; border-collapse:collapse; margin-bottom:32px;">
+  <thead>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repository</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Description</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Status</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Last Updated</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Stats</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repo Size</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya/aws-athena-iceberg-demo">aws-athena-iceberg-demo</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;" title="A hands-on demo showcasing Apache Iceberg tables on Amazon S3 queried using Amazon Athena, with table creation, schema evolution, and partitioned analytics.">
+          <span class="truncated-desc">A hands-on demo showcasing Apache Iceberg tables on Amazon S3 queried using Amazon Athena, with tabl...</span>
+          <a href="#" onclick="this.previousElementSibling.textContent="A hands-on demo showcasing Apache Iceberg tables on Amazon S3 queried using Amazon Athena, with table creation, schema evolution, and partitioned analytics."; this.style.display='none'; return false;" style="color:#0969da; text-decoration:none; margin-left:4px;">[more]</a>
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="status: in progress" src="https://img.shields.io/badge/in%20progress-orange?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">08:34:26 EST</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">2-1-0</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">65 KB</td>
+    </tr>
+  </tbody>
+</table>
+<h3>Uncatrgorised</h3>
+
+<table role="table" aria-label="Uncatrgorised repositories table" style="width:100%; border-collapse:collapse; margin-bottom:32px;">
+  <thead>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repository</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Description</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Status</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Last Updated</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Stats</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repo Size</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya/databricks-terraform-bootstrap">databricks-terraform-bootstrap</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;" title="Terraform-based bootstrap for provisioning a Databricks workspace, clusters, and notebooks using Infrastructure as Code (IaC). Designed for scalable, environment-aware Databricks platform foundations with future-ready support for Unity Catalog, jobs, and CI/CD automation.">
+          <span class="truncated-desc">Terraform-based bootstrap for provisioning a Databricks workspace, clusters, and notebooks using Inf...</span>
+          <a href="#" onclick="this.previousElementSibling.textContent="Terraform-based bootstrap for provisioning a Databricks workspace, clusters, and notebooks using Infrastructure as Code (IaC). Designed for scalable, environment-aware Databricks platform foundations with future-ready support for Unity Catalog, jobs, and CI/CD automation."; this.style.display='none'; return false;" style="color:#0969da; text-decoration:none; margin-left:4px;">[more]</a>
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="status: initialized" src="https://img.shields.io/badge/initialized-blue?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">12:24:44 EST</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">2-1-0</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">80 KB</td>
     </tr>
   </tbody>
 </table>
@@ -283,25 +284,58 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Description</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Status</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Last Updated</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Branches</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Open Issues</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Open PRs</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Stats</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repo Size</th>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/checkov-scan-action">checkov-scan-action</a></td>
-      <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Composite Action - Checkov Scan">
-          GitHub Composite Action - Checkov Scan
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/checkov-report-action">checkov-report-action</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub JavaScript Action - Print Checkov Scan Report">
+          GitHub JavaScript Action - Print Checkov Scan Report
       </td>
       <td style="border:1px solid #e5e7eb; padding:8px;">
         <img alt="status: in progress" src="https://img.shields.io/badge/in%20progress-orange?style=flat" />
       </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">10:34:32 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">6</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">5</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">223 KB</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">10:40:41 EST</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">2-0-0</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">463 KB</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/tf-validate-action">tf-validate-action</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Composite Action - Terraform Format Check and Validation.">
+          GitHub Composite Action - Terraform Format Check and Validation.
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">23:03:30 EST</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">1-0-0</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">180 KB</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/branch-issue-action">branch-issue-action</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Composite Action - Check Branch Issue, to prevent pushing the code to any branch created directly using GitHub UI.">
+          <span class="truncated-desc">GitHub Composite Action - Check Branch Issue, to prevent pushing the code to any branch created dire...</span>
+          <a href="#" onclick="this.previousElementSibling.textContent="GitHub Composite Action - Check Branch Issue, to prevent pushing the code to any branch created directly using GitHub UI."; this.style.display='none'; return false;" style="color:#0969da; text-decoration:none; margin-left:4px;">[more]</a>
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">10:44:51 EST</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">6-5-0</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">458 KB</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/tf-lint-action">tf-lint-action</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Composite Action - Terraform Lint.">
+          GitHub Composite Action - Terraform Lint.
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">22:15:45 EST</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">1-1-0</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">352 KB</td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/tf-plan-action">tf-plan-action</a></td>
@@ -311,11 +345,21 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">
         <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
       </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">09:03:55 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">1</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">248 KB</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">09:04:21 EST</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">1-0-0</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">264 KB</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/tf-apply-action">tf-apply-action</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Composite Action - Terraform Apply.">
+          GitHub Composite Action - Terraform Apply.
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">10:10:39 EST</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">1-0-0</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">252 KB</td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/tf-destroy-action">tf-destroy-action</a></td>
@@ -325,11 +369,21 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">
         <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
       </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">13:30:04 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">3</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">3</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">268 KB</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">11:52:53 EST</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">1-0-0</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">279 KB</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/tf-yor-action">tf-yor-action</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Composite Action - Add Git metadata tags .">
+          GitHub Composite Action - Add Git metadata tags .
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="status: in progress" src="https://img.shields.io/badge/in%20progress-orange?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">10:37:38 EST</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">7-6-0</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">225 KB</td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/create-release-action">create-release-action</a></td>
@@ -340,9 +394,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
         <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
       </td>
       <td style="border:1px solid #e5e7eb; padding:8px;">10:34:00 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">2</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">1</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">2-1-0</td>
       <td style="border:1px solid #e5e7eb; padding:8px;">84 KB</td>
     </tr>
   </tbody>
@@ -355,12 +407,22 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Description</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Status</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Last Updated</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Branches</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Open Issues</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Open PRs</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Stats</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repo Size</th>
   </thead>
   <tbody>
+    <tr>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/terraform-destroy-wf">terraform-destroy-wf</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Reusable Workflow to tear down a stack using Terraform Destroy">
+          GitHub Reusable Workflow to tear down a stack using Terraform Destroy
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">13:51:38 EST</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">1-0-0</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">290 KB</td>
+    </tr>
     <tr>
       <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/tf-ci-reusable-wf">tf-ci-reusable-wf</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Reusable Workflow: CI Pipeline using Terraform as IaC">
@@ -369,11 +431,9 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">
         <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
       </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">10:43:19 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">1</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">197 KB</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">09:54:19 EST</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">1-0-0</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">211 KB</td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/slack-notification-wf">slack-notification-wf</a></td>
@@ -384,15 +444,37 @@ To design and operate **cloud platforms that are secure, automated, observable, 
         <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
       </td>
       <td style="border:1px solid #e5e7eb; padding:8px;">20:22:10 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">1</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">—</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">1-0-0</td>
       <td style="border:1px solid #e5e7eb; padding:8px;">155 KB</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/tf-release-wf">tf-release-wf</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Reusable Workflow: Terraform Release">
+          GitHub Reusable Workflow: Terraform Release
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">10:40:56 EST</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">8-7-0</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">275 KB</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/tf-deploy-multi-reusable-wf">tf-deploy-multi-reusable-wf</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;" title="GitHub Reusable workflow to deploy a stack using Terraform multi-cloud environment">
+          GitHub Reusable workflow to deploy a stack using Terraform multi-cloud environment
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">11:09:44 EST</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">1-0-0</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">121 KB</td>
     </tr>
   </tbody>
 </table>
 
 <p style="margin-top:16px; color:#6b7280; font-size:14px;">
-  <em>Last generated: 11:03:08 EST</em><br>
-  <em>Total repositories: 11</em>
+  <em>Last generated: 14:40:18 EST</em><br>
+  <em>Total repositories: 19</em>
 </p>

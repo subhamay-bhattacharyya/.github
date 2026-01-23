@@ -134,7 +134,7 @@ def main() -> None:
 
             custom_props = fetch_repo_custom_properties(org, name)
 
-            if custom_props.get("DiaplayOnProfile") == "Yes":
+            if custom_props.get("DisplayOnProfile") == "Yes":
                 # Fetch branch count
                 # pprint(repo)
                 # break
@@ -155,6 +155,9 @@ def main() -> None:
                     "html_url": repo.get("html_url"),
                     "description": repo.get("description"),
                     "status": custom_props.get("Status"),
+                    "cloud_service_provider": "AWS" if custom_props.get("CloudServiceProvider") == "Amazon Web Service" else custom_props.get("CloudServiceProvider"),
+                    "maturity": custom_props.get("Maturity"),
+                    "notes": custom_props.get("Notes"),
                     "last_updated": last_updated,
                     "open_issues": repo.get("open_issues_count"),
                     "branches": branch_count,
