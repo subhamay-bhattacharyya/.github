@@ -1,104 +1,203 @@
 {
-  "Bootcamp": [
-    {
-      "name": "cloud-resume-challenge",
-      "html_url": "https://github.com/subhamay-bhattacharyya/cloud-resume-challenge",
-      "description": "The Cloud Resume Challenge is a hands-on project designed to help you bridge the gap from cloud certification to cloud job. It incorporates many of the skills that real cloud and DevOps engineers use in their daily work. This repo is created as a part of the bootcamp by Andrew Brown",
-      "status": "In Progress",
-      "last_updated": "15:09:05 EST",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": null,
-      "size_mb": "2.43 MB"
-    }
-  ],
   "Complete Project": [
     {
       "name": "image-labeling",
       "html_url": "https://github.com/subhamay-bhattacharyya/image-labeling",
       "description": "This project demonstrates how to build a simple image labeling pipeline using AWS services. Images are uploaded to Amazon S3, analyzed with Amazon Rekognition, and processed through a Python script configured via the AWS CLI to automatically detect and display labels with confidence scores. It\u2019s a hands-on way to learn cloud-based computer vision.",
       "status": "In Progress",
+      "cloud_service_provider": "AWS",
+      "maturity": "beta",
+      "notes": "Current - Stack created. Next - Fix the S3 notification",
       "last_updated": "21:08:55 EST",
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
-      "size_mb": "63 KB"
+      "size_mb": "71 KB"
     },
     {
-      "name": "bucket-list-tracker",
-      "html_url": "https://github.com/subhamay-bhattacharyya/bucket-list-tracker",
-      "description": "Full stack bucket list tracking application deployed using AWS Amplify.",
+      "name": "event-driven-etl-automation",
+      "html_url": "https://github.com/subhamay-bhattacharyya/event-driven-etl-automation",
+      "description": "Event-driven, serverless ETL pipeline on AWS that automates data ingestion, transformation, cataloging, analytics, and notifications using S3, Lambda, Step Functions, Glue, Athena, and SNS.",
       "status": "Initialized",
-      "last_updated": "10:22:54 EST",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Current - Repository Initialized. Next - Create the entire stack.",
+      "last_updated": "16:35:26 EST",
       "open_issues": 1,
-      "branches": 1,
+      "branches": 2,
       "open_prs": null,
       "size_mb": "59 KB"
-    },
-    {
-      "name": "gcp-terraform-bootstrap",
-      "html_url": "https://github.com/subhamay-bhattacharyya/gcp-terraform-bootstrap",
-      "description": "Bootstrap Google Cloud projects using Terraform with secure, keyless authentication via GitHub Actions OIDC and Workload Identity Federation, and remote state management using HCP Terraform.",
-      "status": "In Progress",
-      "last_updated": "14:47:04 EST",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": null,
-      "size_mb": "62 KB"
     }
   ],
-  "Generative AI": [
+  "Data Engineering": [
     {
-      "name": "glue-lineage-scanner",
-      "html_url": "https://github.com/subhamay-bhattacharyya/glue-lineage-scanner",
-      "description": "Scan AWS Glue PySpark jobs in GitHub repositories to generate data lineage using AST analysis and LLMs.",
+      "name": "snowflake-lakehouse",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-lakehouse",
+      "description": "End-to-end Snowflake data engineering project: layered stage/raw/curated design, automated ingestion + DAG, dynamic tables, Snowpark Python, GitHub Actions, and in-Snowflake visualization (Streamlit).",
       "status": "In Progress",
-      "last_updated": "11:00:39 EST",
-      "open_issues": 0,
-      "branches": 1,
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Current- working on the Snowflake Terraform configuration",
+      "last_updated": "08:14:25 EST",
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
-      "size_mb": "93 KB"
+      "size_mb": "30.40 MB"
+    }
+  ],
+  "Athena": [
+    {
+      "name": "aws-athena-iceberg-demo",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-athena-iceberg-demo",
+      "description": "A hands-on demo showcasing Apache Iceberg tables on Amazon S3 queried using Amazon Athena, with table creation, schema evolution, and partitioned analytics.",
+      "status": "In Progress",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Done - S3 bucket created. Next - Create Athena tables",
+      "last_updated": "08:34:26 EST",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "65 KB"
+    }
+  ],
+  "Uncatrgorised": [
+    {
+      "name": "databricks-terraform-bootstrap",
+      "html_url": "https://github.com/subhamay-bhattacharyya/databricks-terraform-bootstrap",
+      "description": "Terraform-based bootstrap for provisioning a Databricks workspace, clusters, and notebooks using Infrastructure as Code (IaC). Designed for scalable, environment-aware Databricks platform foundations with future-ready support for Unity Catalog, jobs, and CI/CD automation.",
+      "status": "Initialized",
+      "cloud_service_provider": "Databricks",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "12:24:44 EST",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "80 KB"
     }
   ],
   "GitHub Reusable Action": [
     {
-      "name": "checkov-scan-action",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/checkov-scan-action",
-      "description": "GitHub Composite Action - Checkov Scan",
+      "name": "checkov-report-action",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/checkov-report-action",
+      "description": "GitHub JavaScript Action - Print Checkov Scan Report",
       "status": "In Progress",
-      "last_updated": "10:34:32 EST",
+      "cloud_service_provider": null,
+      "maturity": "beta",
+      "notes": "Not Available",
+      "last_updated": "10:40:41 EST",
+      "open_issues": 0,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "463 KB"
+    },
+    {
+      "name": "tf-validate-action",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-validate-action",
+      "description": "GitHub Composite Action - Terraform Format Check and Validation.",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "beta",
+      "notes": "Not Available",
+      "last_updated": "23:03:30 EST",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": null,
+      "size_mb": "180 KB"
+    },
+    {
+      "name": "branch-issue-action",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/branch-issue-action",
+      "description": "GitHub Composite Action - Check Branch Issue, to prevent pushing the code to any branch created directly using GitHub UI.",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "stable",
+      "notes": "Not Available",
+      "last_updated": "10:44:51 EST",
       "open_issues": 5,
       "branches": 6,
       "open_prs": null,
-      "size_mb": "223 KB"
+      "size_mb": "458 KB"
+    },
+    {
+      "name": "tf-lint-action",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-lint-action",
+      "description": "GitHub Composite Action - Terraform Lint.",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "beta",
+      "notes": "Not Available",
+      "last_updated": "22:15:45 EST",
+      "open_issues": 1,
+      "branches": 1,
+      "open_prs": null,
+      "size_mb": "352 KB"
     },
     {
       "name": "tf-plan-action",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-plan-action",
       "description": "GitHub Composite Action - Terraform Plan.",
       "status": "Complete",
-      "last_updated": "09:03:55 EST",
+      "cloud_service_provider": null,
+      "maturity": "beta",
+      "notes": "Current - Working for AWS,Azure, GCP, Databricks. Next-Test for Snowflake",
+      "last_updated": "09:04:21 EST",
       "open_issues": 0,
       "branches": 1,
       "open_prs": null,
-      "size_mb": "248 KB"
+      "size_mb": "264 KB"
+    },
+    {
+      "name": "tf-apply-action",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-apply-action",
+      "description": "GitHub Composite Action - Terraform Apply.",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "beta",
+      "notes": "Not Available",
+      "last_updated": "10:10:39 EST",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": null,
+      "size_mb": "252 KB"
     },
     {
       "name": "tf-destroy-action",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-destroy-action",
       "description": "GitHub Composite Action - Terraform Destroy.",
       "status": "Complete",
-      "last_updated": "13:30:04 EST",
-      "open_issues": 3,
-      "branches": 3,
+      "cloud_service_provider": null,
+      "maturity": "beta",
+      "notes": "Not Available",
+      "last_updated": "11:52:53 EST",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
-      "size_mb": "268 KB"
+      "size_mb": "279 KB"
+    },
+    {
+      "name": "tf-yor-action",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-yor-action",
+      "description": "GitHub Composite Action - Add Git metadata tags .",
+      "status": "In Progress",
+      "cloud_service_provider": null,
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "10:37:38 EST",
+      "open_issues": 6,
+      "branches": 7,
+      "open_prs": null,
+      "size_mb": "225 KB"
     },
     {
       "name": "create-release-action",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/create-release-action",
       "description": "GitHub Composite Action - Create Draft Release with a clickable link to create the release.",
       "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "beta",
+      "notes": "Not Available",
       "last_updated": "10:34:00 EST",
       "open_issues": 1,
       "branches": 2,
@@ -108,26 +207,74 @@
   ],
   "GitHub Reusable Workflow": [
     {
+      "name": "terraform-destroy-wf",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/terraform-destroy-wf",
+      "description": "GitHub Reusable Workflow to tear down a stack using Terraform Destroy",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "beta",
+      "notes": "Not Available",
+      "last_updated": "13:51:38 EST",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": null,
+      "size_mb": "290 KB"
+    },
+    {
       "name": "tf-ci-reusable-wf",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-ci-reusable-wf",
       "description": "GitHub Reusable Workflow: CI Pipeline using Terraform as IaC",
       "status": "Complete",
-      "last_updated": "10:43:19 EST",
+      "cloud_service_provider": null,
+      "maturity": "beta",
+      "notes": "Current - Working for AWS,Azure, GCP, Databricks. Next-Test for Snowflake",
+      "last_updated": "09:54:19 EST",
       "open_issues": 0,
       "branches": 1,
       "open_prs": null,
-      "size_mb": "197 KB"
+      "size_mb": "211 KB"
     },
     {
       "name": "slack-notification-wf",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/slack-notification-wf",
       "description": "GitHub Reusable Workflow : Send Slack Notification on opening an issue of pull request.",
       "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "beta",
+      "notes": "Not Available",
       "last_updated": "20:22:10 EST",
       "open_issues": 0,
       "branches": 1,
       "open_prs": null,
       "size_mb": "155 KB"
+    },
+    {
+      "name": "tf-release-wf",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-release-wf",
+      "description": "GitHub Reusable Workflow: Terraform Release",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "beta",
+      "notes": "Not Available",
+      "last_updated": "10:40:56 EST",
+      "open_issues": 7,
+      "branches": 8,
+      "open_prs": null,
+      "size_mb": "275 KB"
+    },
+    {
+      "name": "tf-deploy-multi-reusable-wf",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-deploy-multi-reusable-wf",
+      "description": "GitHub Reusable workflow to deploy a stack using Terraform multi-cloud environment",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "beta",
+      "notes": "Not Available",
+      "last_updated": "11:09:44 EST",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": null,
+      "size_mb": "121 KB"
     }
   ]
 }

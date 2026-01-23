@@ -153,6 +153,8 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 ## 📦 Repository Categories
 
+<caption><strong><img src="https://img.shields.io/badge/Stats-Branches%20%7C%20Open_Issues%20%7C%20Open_Pull_Requests-blue" alt="Stats Badge"></strong></caption>
+
 {% for category, repositories in repos_by_category.items() %}
 <h3>{{ category }}</h3>
 
@@ -162,9 +164,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Description</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Status</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Last Updated</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Branches</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Open Issues</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Open PRs</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Stats</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repo Size</th>
   </thead>
   <tbody>
@@ -198,11 +198,9 @@ To design and operate **cloud platforms that are secure, automated, observable, 
         <img alt="status: {{ repo.status or 'unknown' }}" src="https://img.shields.io/badge/{{ repo.status or 'unknown' }}-lightblue?style=flat" />
         {% endif %}
       </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">{{ repo.last_updated or '—' }}</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">{{ repo.branches or '—' }}</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">{{ repo.open_issues or '—' }}</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">{{ repo.open_prs or '—' }}</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">{{ repo.size_mb or '—' }}</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">{{ repo.last_updated or '0' }}</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">{{ repo.branches or '0' }}-{{ repo.open_issues or '0' }}-{{ repo.open_prs or '0' }}</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">{{ repo.size_mb or '0' }}</td>
     </tr>
     {% endfor %}
   </tbody>
