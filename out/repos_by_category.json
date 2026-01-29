@@ -27,22 +27,20 @@
       "branches": 2,
       "open_prs": null,
       "size_mb": "59 KB"
-    }
-  ],
-  "Data Engineering": [
+    },
     {
-      "name": "snowflake-lakehouse",
-      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-lakehouse",
+      "name": "aws-snowflake-e2e-project",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-snowflake-e2e-project",
       "description": "End-to-end Snowflake data engineering project: layered stage/raw/curated design, automated ingestion + DAG, dynamic tables, Snowpark Python, GitHub Actions, and in-Snowflake visualization (Streamlit).",
-      "status": "In Progress",
+      "status": "Complete",
       "cloud_service_provider": "Snowflake",
-      "maturity": "experimental",
-      "notes": "Current- working on the Snowflake Terraform configuration",
-      "last_updated": "08:14:25 EST",
-      "open_issues": 1,
-      "branches": 2,
+      "maturity": "beta",
+      "notes": "Need to progress further with the Udemy course resource.",
+      "last_updated": "15:01:14 EST",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
-      "size_mb": "30.40 MB"
+      "size_mb": "160 KB"
     }
   ],
   "Athena": [
@@ -70,11 +68,11 @@
       "cloud_service_provider": "Databricks",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "12:24:44 EST",
+      "last_updated": "16:48:37 EST",
       "open_issues": 1,
-      "branches": 2,
+      "branches": 1,
       "open_prs": null,
-      "size_mb": "80 KB"
+      "size_mb": "92 KB"
     }
   ],
   "GitHub Reusable Action": [
@@ -87,10 +85,10 @@
       "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "10:40:41 EST",
-      "open_issues": 0,
-      "branches": 2,
+      "open_issues": 1,
+      "branches": 3,
       "open_prs": null,
-      "size_mb": "463 KB"
+      "size_mb": "465 KB"
     },
     {
       "name": "tf-validate-action",
@@ -100,11 +98,11 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "23:03:30 EST",
-      "open_issues": 0,
-      "branches": 1,
+      "last_updated": "12:56:25 EST",
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
-      "size_mb": "180 KB"
+      "size_mb": "184 KB"
     },
     {
       "name": "branch-issue-action",
@@ -128,11 +126,11 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "22:15:45 EST",
-      "open_issues": 1,
+      "last_updated": "10:35:04 EST",
+      "open_issues": 0,
       "branches": 1,
       "open_prs": null,
-      "size_mb": "352 KB"
+      "size_mb": "356 KB"
     },
     {
       "name": "tf-plan-action",
@@ -143,10 +141,10 @@
       "maturity": "beta",
       "notes": "Current - Working for AWS,Azure, GCP, Databricks. Next-Test for Snowflake",
       "last_updated": "09:04:21 EST",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
-      "size_mb": "264 KB"
+      "size_mb": "172 KB"
     },
     {
       "name": "tf-apply-action",
@@ -157,10 +155,10 @@
       "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "10:10:39 EST",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
-      "size_mb": "252 KB"
+      "size_mb": "289 KB"
     },
     {
       "name": "tf-destroy-action",
@@ -171,10 +169,10 @@
       "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "11:52:53 EST",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
-      "size_mb": "279 KB"
+      "size_mb": "306 KB"
     },
     {
       "name": "tf-yor-action",
@@ -214,11 +212,11 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "13:51:38 EST",
-      "open_issues": 0,
-      "branches": 1,
+      "last_updated": "22:38:41 EST",
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
-      "size_mb": "290 KB"
+      "size_mb": "321 KB"
     },
     {
       "name": "tf-ci-reusable-wf",
@@ -229,10 +227,10 @@
       "maturity": "beta",
       "notes": "Current - Working for AWS,Azure, GCP, Databricks. Next-Test for Snowflake",
       "last_updated": "09:54:19 EST",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
-      "size_mb": "211 KB"
+      "size_mb": "95 KB"
     },
     {
       "name": "slack-notification-wf",
@@ -266,15 +264,15 @@
       "name": "tf-deploy-multi-reusable-wf",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-deploy-multi-reusable-wf",
       "description": "GitHub Reusable workflow to deploy a stack using Terraform multi-cloud environment",
-      "status": "Complete",
+      "status": "Upgrading",
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "11:09:44 EST",
-      "open_issues": 0,
-      "branches": 1,
+      "last_updated": "17:51:48 EST",
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
-      "size_mb": "121 KB"
+      "size_mb": "155 KB"
     }
   ]
 }

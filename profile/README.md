@@ -163,7 +163,11 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Description</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Status</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Last Updated</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Stats</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">
+        <img alt="branches" src="https://img.shields.io/badge/branches-2563eb?style=flat&logo=git&logoColor=white" />
+        <img alt="open issues" src="https://img.shields.io/badge/issues-f59e0b?style=flat&logo=github&logoColor=white" />
+        <img alt="open PRs" src="https://img.shields.io/badge/PRs-10b981?style=flat&logo=git&logoColor=white" />
+      </th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repo Size</th>
   </thead>
   <tbody>
@@ -176,9 +180,17 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">
         <img alt="status: in progress" src="https://img.shields.io/badge/in%20progress-orange?style=flat" />
       </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">21:08:55 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">2-1-0</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">71 KB</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="last updated" src="https://img.shields.io/badge/-21:08:55%20EST-64748b?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="branches" src="https://img.shields.io/badge/-2-2563eb?style=flat&logo=git&logoColor=white" />
+        <img alt="open issues" src="https://img.shields.io/badge/-1-f59e0b?style=flat&logo=github&logoColor=white" />
+        <img alt="open PRs" src="https://img.shields.io/badge/-0-10b981?style=flat&logo=git&logoColor=white" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="repo size" src="https://img.shields.io/badge/-71%20KB-0ea5e9?style=flat" />
+      </td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya/event-driven-etl-automation">event-driven-etl-automation</a></td>
@@ -189,36 +201,38 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">
         <img alt="status: initialized" src="https://img.shields.io/badge/initialized-blue?style=flat" />
       </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">16:35:26 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">2-1-0</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">59 KB</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="last updated" src="https://img.shields.io/badge/-16:35:26%20EST-64748b?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="branches" src="https://img.shields.io/badge/-2-2563eb?style=flat&logo=git&logoColor=white" />
+        <img alt="open issues" src="https://img.shields.io/badge/-1-f59e0b?style=flat&logo=github&logoColor=white" />
+        <img alt="open PRs" src="https://img.shields.io/badge/-0-10b981?style=flat&logo=git&logoColor=white" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="repo size" src="https://img.shields.io/badge/-59%20KB-0ea5e9?style=flat" />
+      </td>
     </tr>
-  </tbody>
-</table>
-<h3>Data Engineering</h3>
-
-<table role="table" aria-label="Data Engineering repositories table" style="width:100%; border-collapse:collapse; margin-bottom:32px;">
-  <thead>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repository</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Description</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Status</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Last Updated</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Stats</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repo Size</th>
-  </thead>
-  <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya/snowflake-lakehouse">snowflake-lakehouse</a></td>
+      <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya/aws-snowflake-e2e-project">aws-snowflake-e2e-project</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="End-to-end Snowflake data engineering project: layered stage/raw/curated design, automated ingestion + DAG, dynamic tables, Snowpark Python, GitHub Actions, and in-Snowflake visualization (Streamlit).">
           <span class="truncated-desc">End-to-end Snowflake data engineering project: layered stage/raw/curated design, automated ingestion...</span>
           <a href="#" onclick="this.previousElementSibling.textContent="End-to-end Snowflake data engineering project: layered stage/raw/curated design, automated ingestion + DAG, dynamic tables, Snowpark Python, GitHub Actions, and in-Snowflake visualization (Streamlit)."; this.style.display='none'; return false;" style="color:#0969da; text-decoration:none; margin-left:4px;">[more]</a>
       </td>
       <td style="border:1px solid #e5e7eb; padding:8px;">
-        <img alt="status: in progress" src="https://img.shields.io/badge/in%20progress-orange?style=flat" />
+        <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
       </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">08:14:25 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">2-1-0</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">30.40 MB</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="last updated" src="https://img.shields.io/badge/-15:01:14%20EST-64748b?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="branches" src="https://img.shields.io/badge/-1-2563eb?style=flat&logo=git&logoColor=white" />
+        <img alt="open issues" src="https://img.shields.io/badge/-0-f59e0b?style=flat&logo=github&logoColor=white" />
+        <img alt="open PRs" src="https://img.shields.io/badge/-0-10b981?style=flat&logo=git&logoColor=white" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="repo size" src="https://img.shields.io/badge/-160%20KB-0ea5e9?style=flat" />
+      </td>
     </tr>
   </tbody>
 </table>
@@ -230,7 +244,11 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Description</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Status</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Last Updated</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Stats</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">
+        <img alt="branches" src="https://img.shields.io/badge/branches-2563eb?style=flat&logo=git&logoColor=white" />
+        <img alt="open issues" src="https://img.shields.io/badge/issues-f59e0b?style=flat&logo=github&logoColor=white" />
+        <img alt="open PRs" src="https://img.shields.io/badge/PRs-10b981?style=flat&logo=git&logoColor=white" />
+      </th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repo Size</th>
   </thead>
   <tbody>
@@ -243,9 +261,17 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">
         <img alt="status: in progress" src="https://img.shields.io/badge/in%20progress-orange?style=flat" />
       </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">08:34:26 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">2-1-0</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">65 KB</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="last updated" src="https://img.shields.io/badge/-08:34:26%20EST-64748b?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="branches" src="https://img.shields.io/badge/-2-2563eb?style=flat&logo=git&logoColor=white" />
+        <img alt="open issues" src="https://img.shields.io/badge/-1-f59e0b?style=flat&logo=github&logoColor=white" />
+        <img alt="open PRs" src="https://img.shields.io/badge/-0-10b981?style=flat&logo=git&logoColor=white" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="repo size" src="https://img.shields.io/badge/-65%20KB-0ea5e9?style=flat" />
+      </td>
     </tr>
   </tbody>
 </table>
@@ -257,7 +283,11 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Description</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Status</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Last Updated</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Stats</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">
+        <img alt="branches" src="https://img.shields.io/badge/branches-2563eb?style=flat&logo=git&logoColor=white" />
+        <img alt="open issues" src="https://img.shields.io/badge/issues-f59e0b?style=flat&logo=github&logoColor=white" />
+        <img alt="open PRs" src="https://img.shields.io/badge/PRs-10b981?style=flat&logo=git&logoColor=white" />
+      </th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repo Size</th>
   </thead>
   <tbody>
@@ -270,9 +300,17 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">
         <img alt="status: initialized" src="https://img.shields.io/badge/initialized-blue?style=flat" />
       </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">12:24:44 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">2-1-0</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">80 KB</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="last updated" src="https://img.shields.io/badge/-16:48:37%20EST-64748b?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="branches" src="https://img.shields.io/badge/-1-2563eb?style=flat&logo=git&logoColor=white" />
+        <img alt="open issues" src="https://img.shields.io/badge/-1-f59e0b?style=flat&logo=github&logoColor=white" />
+        <img alt="open PRs" src="https://img.shields.io/badge/-0-10b981?style=flat&logo=git&logoColor=white" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="repo size" src="https://img.shields.io/badge/-92%20KB-0ea5e9?style=flat" />
+      </td>
     </tr>
   </tbody>
 </table>
@@ -284,7 +322,11 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Description</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Status</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Last Updated</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Stats</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">
+        <img alt="branches" src="https://img.shields.io/badge/branches-2563eb?style=flat&logo=git&logoColor=white" />
+        <img alt="open issues" src="https://img.shields.io/badge/issues-f59e0b?style=flat&logo=github&logoColor=white" />
+        <img alt="open PRs" src="https://img.shields.io/badge/PRs-10b981?style=flat&logo=git&logoColor=white" />
+      </th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repo Size</th>
   </thead>
   <tbody>
@@ -296,9 +338,17 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">
         <img alt="status: in progress" src="https://img.shields.io/badge/in%20progress-orange?style=flat" />
       </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">10:40:41 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">2-0-0</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">463 KB</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="last updated" src="https://img.shields.io/badge/-10:40:41%20EST-64748b?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="branches" src="https://img.shields.io/badge/-3-2563eb?style=flat&logo=git&logoColor=white" />
+        <img alt="open issues" src="https://img.shields.io/badge/-1-f59e0b?style=flat&logo=github&logoColor=white" />
+        <img alt="open PRs" src="https://img.shields.io/badge/-0-10b981?style=flat&logo=git&logoColor=white" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="repo size" src="https://img.shields.io/badge/-465%20KB-0ea5e9?style=flat" />
+      </td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/tf-validate-action">tf-validate-action</a></td>
@@ -308,9 +358,17 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">
         <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
       </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">23:03:30 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">1-0-0</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">180 KB</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="last updated" src="https://img.shields.io/badge/-12:56:25%20EST-64748b?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="branches" src="https://img.shields.io/badge/-2-2563eb?style=flat&logo=git&logoColor=white" />
+        <img alt="open issues" src="https://img.shields.io/badge/-1-f59e0b?style=flat&logo=github&logoColor=white" />
+        <img alt="open PRs" src="https://img.shields.io/badge/-0-10b981?style=flat&logo=git&logoColor=white" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="repo size" src="https://img.shields.io/badge/-184%20KB-0ea5e9?style=flat" />
+      </td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/branch-issue-action">branch-issue-action</a></td>
@@ -321,9 +379,17 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">
         <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
       </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">10:44:51 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">6-5-0</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">458 KB</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="last updated" src="https://img.shields.io/badge/-10:44:51%20EST-64748b?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="branches" src="https://img.shields.io/badge/-6-2563eb?style=flat&logo=git&logoColor=white" />
+        <img alt="open issues" src="https://img.shields.io/badge/-5-f59e0b?style=flat&logo=github&logoColor=white" />
+        <img alt="open PRs" src="https://img.shields.io/badge/-0-10b981?style=flat&logo=git&logoColor=white" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="repo size" src="https://img.shields.io/badge/-458%20KB-0ea5e9?style=flat" />
+      </td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/tf-lint-action">tf-lint-action</a></td>
@@ -333,9 +399,17 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">
         <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
       </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">22:15:45 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">1-1-0</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">352 KB</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="last updated" src="https://img.shields.io/badge/-10:35:04%20EST-64748b?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="branches" src="https://img.shields.io/badge/-1-2563eb?style=flat&logo=git&logoColor=white" />
+        <img alt="open issues" src="https://img.shields.io/badge/-0-f59e0b?style=flat&logo=github&logoColor=white" />
+        <img alt="open PRs" src="https://img.shields.io/badge/-0-10b981?style=flat&logo=git&logoColor=white" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="repo size" src="https://img.shields.io/badge/-356%20KB-0ea5e9?style=flat" />
+      </td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/tf-plan-action">tf-plan-action</a></td>
@@ -345,9 +419,17 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">
         <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
       </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">09:04:21 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">1-0-0</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">264 KB</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="last updated" src="https://img.shields.io/badge/-09:04:21%20EST-64748b?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="branches" src="https://img.shields.io/badge/-2-2563eb?style=flat&logo=git&logoColor=white" />
+        <img alt="open issues" src="https://img.shields.io/badge/-1-f59e0b?style=flat&logo=github&logoColor=white" />
+        <img alt="open PRs" src="https://img.shields.io/badge/-0-10b981?style=flat&logo=git&logoColor=white" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="repo size" src="https://img.shields.io/badge/-172%20KB-0ea5e9?style=flat" />
+      </td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/tf-apply-action">tf-apply-action</a></td>
@@ -357,9 +439,17 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">
         <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
       </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">10:10:39 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">1-0-0</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">252 KB</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="last updated" src="https://img.shields.io/badge/-10:10:39%20EST-64748b?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="branches" src="https://img.shields.io/badge/-2-2563eb?style=flat&logo=git&logoColor=white" />
+        <img alt="open issues" src="https://img.shields.io/badge/-1-f59e0b?style=flat&logo=github&logoColor=white" />
+        <img alt="open PRs" src="https://img.shields.io/badge/-0-10b981?style=flat&logo=git&logoColor=white" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="repo size" src="https://img.shields.io/badge/-289%20KB-0ea5e9?style=flat" />
+      </td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/tf-destroy-action">tf-destroy-action</a></td>
@@ -369,9 +459,17 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">
         <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
       </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">11:52:53 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">1-0-0</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">279 KB</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="last updated" src="https://img.shields.io/badge/-11:52:53%20EST-64748b?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="branches" src="https://img.shields.io/badge/-2-2563eb?style=flat&logo=git&logoColor=white" />
+        <img alt="open issues" src="https://img.shields.io/badge/-1-f59e0b?style=flat&logo=github&logoColor=white" />
+        <img alt="open PRs" src="https://img.shields.io/badge/-0-10b981?style=flat&logo=git&logoColor=white" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="repo size" src="https://img.shields.io/badge/-306%20KB-0ea5e9?style=flat" />
+      </td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/tf-yor-action">tf-yor-action</a></td>
@@ -381,9 +479,17 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">
         <img alt="status: in progress" src="https://img.shields.io/badge/in%20progress-orange?style=flat" />
       </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">10:37:38 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">7-6-0</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">225 KB</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="last updated" src="https://img.shields.io/badge/-10:37:38%20EST-64748b?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="branches" src="https://img.shields.io/badge/-7-2563eb?style=flat&logo=git&logoColor=white" />
+        <img alt="open issues" src="https://img.shields.io/badge/-6-f59e0b?style=flat&logo=github&logoColor=white" />
+        <img alt="open PRs" src="https://img.shields.io/badge/-0-10b981?style=flat&logo=git&logoColor=white" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="repo size" src="https://img.shields.io/badge/-225%20KB-0ea5e9?style=flat" />
+      </td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/create-release-action">create-release-action</a></td>
@@ -393,9 +499,17 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">
         <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
       </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">10:34:00 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">2-1-0</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">84 KB</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="last updated" src="https://img.shields.io/badge/-10:34:00%20EST-64748b?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="branches" src="https://img.shields.io/badge/-2-2563eb?style=flat&logo=git&logoColor=white" />
+        <img alt="open issues" src="https://img.shields.io/badge/-1-f59e0b?style=flat&logo=github&logoColor=white" />
+        <img alt="open PRs" src="https://img.shields.io/badge/-0-10b981?style=flat&logo=git&logoColor=white" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="repo size" src="https://img.shields.io/badge/-84%20KB-0ea5e9?style=flat" />
+      </td>
     </tr>
   </tbody>
 </table>
@@ -407,7 +521,11 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Description</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Status</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Last Updated</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Stats</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">
+        <img alt="branches" src="https://img.shields.io/badge/branches-2563eb?style=flat&logo=git&logoColor=white" />
+        <img alt="open issues" src="https://img.shields.io/badge/issues-f59e0b?style=flat&logo=github&logoColor=white" />
+        <img alt="open PRs" src="https://img.shields.io/badge/PRs-10b981?style=flat&logo=git&logoColor=white" />
+      </th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repo Size</th>
   </thead>
   <tbody>
@@ -419,9 +537,17 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">
         <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
       </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">13:51:38 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">1-0-0</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">290 KB</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="last updated" src="https://img.shields.io/badge/-22:38:41%20EST-64748b?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="branches" src="https://img.shields.io/badge/-2-2563eb?style=flat&logo=git&logoColor=white" />
+        <img alt="open issues" src="https://img.shields.io/badge/-1-f59e0b?style=flat&logo=github&logoColor=white" />
+        <img alt="open PRs" src="https://img.shields.io/badge/-0-10b981?style=flat&logo=git&logoColor=white" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="repo size" src="https://img.shields.io/badge/-321%20KB-0ea5e9?style=flat" />
+      </td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/tf-ci-reusable-wf">tf-ci-reusable-wf</a></td>
@@ -431,9 +557,17 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">
         <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
       </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">09:54:19 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">1-0-0</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">211 KB</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="last updated" src="https://img.shields.io/badge/-09:54:19%20EST-64748b?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="branches" src="https://img.shields.io/badge/-2-2563eb?style=flat&logo=git&logoColor=white" />
+        <img alt="open issues" src="https://img.shields.io/badge/-1-f59e0b?style=flat&logo=github&logoColor=white" />
+        <img alt="open PRs" src="https://img.shields.io/badge/-0-10b981?style=flat&logo=git&logoColor=white" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="repo size" src="https://img.shields.io/badge/-95%20KB-0ea5e9?style=flat" />
+      </td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/slack-notification-wf">slack-notification-wf</a></td>
@@ -443,9 +577,17 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">
         <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
       </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">20:22:10 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">1-0-0</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">155 KB</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="last updated" src="https://img.shields.io/badge/-20:22:10%20EST-64748b?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="branches" src="https://img.shields.io/badge/-1-2563eb?style=flat&logo=git&logoColor=white" />
+        <img alt="open issues" src="https://img.shields.io/badge/-0-f59e0b?style=flat&logo=github&logoColor=white" />
+        <img alt="open PRs" src="https://img.shields.io/badge/-0-10b981?style=flat&logo=git&logoColor=white" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="repo size" src="https://img.shields.io/badge/-155%20KB-0ea5e9?style=flat" />
+      </td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/tf-release-wf">tf-release-wf</a></td>
@@ -455,9 +597,17 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <td style="border:1px solid #e5e7eb; padding:8px;">
         <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
       </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">10:40:56 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">8-7-0</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">275 KB</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="last updated" src="https://img.shields.io/badge/-10:40:56%20EST-64748b?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="branches" src="https://img.shields.io/badge/-8-2563eb?style=flat&logo=git&logoColor=white" />
+        <img alt="open issues" src="https://img.shields.io/badge/-7-f59e0b?style=flat&logo=github&logoColor=white" />
+        <img alt="open PRs" src="https://img.shields.io/badge/-0-10b981?style=flat&logo=git&logoColor=white" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="repo size" src="https://img.shields.io/badge/-275%20KB-0ea5e9?style=flat" />
+      </td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb; padding:8px;"><a href="https://github.com/subhamay-bhattacharyya-gha/tf-deploy-multi-reusable-wf">tf-deploy-multi-reusable-wf</a></td>
@@ -465,16 +615,24 @@ To design and operate **cloud platforms that are secure, automated, observable, 
           GitHub Reusable workflow to deploy a stack using Terraform multi-cloud environment
       </td>
       <td style="border:1px solid #e5e7eb; padding:8px;">
-        <img alt="status: complete" src="https://img.shields.io/badge/complete-brightgreen?style=flat" />
+        <img alt="status: Upgrading" src="https://img.shields.io/badge/Upgrading-lightblue?style=flat" />
       </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">11:09:44 EST</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">1-0-0</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">121 KB</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="last updated" src="https://img.shields.io/badge/-17:51:48%20EST-64748b?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="branches" src="https://img.shields.io/badge/-2-2563eb?style=flat&logo=git&logoColor=white" />
+        <img alt="open issues" src="https://img.shields.io/badge/-1-f59e0b?style=flat&logo=github&logoColor=white" />
+        <img alt="open PRs" src="https://img.shields.io/badge/-0-10b981?style=flat&logo=git&logoColor=white" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="repo size" src="https://img.shields.io/badge/-155%20KB-0ea5e9?style=flat" />
+      </td>
     </tr>
   </tbody>
 </table>
 
 <p style="margin-top:16px; color:#6b7280; font-size:14px;">
-  <em>Last generated: 14:42:10 EST</em><br>
+  <em>Last generated: 16:00:05 EST</em><br>
   <em>Total repositories: 19</em>
 </p>
