@@ -164,12 +164,21 @@ To design and operate **cloud platforms that are secure, automated, observable, 
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Description</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Status</th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Last Updated</th>
-      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Stats</th>
+      <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">
+        <img alt="branches" src="https://img.shields.io/badge/branches-2563eb?style=flat&logo=git&logoColor=white" />
+        <img alt="open issues" src="https://img.shields.io/badge/issues-f59e0b?style=flat&logo=github&logoColor=white" />
+        <img alt="open PRs" src="https://img.shields.io/badge/PRs-10b981?style=flat&logo=git&logoColor=white" />
+      </th>
       <th style="border:1px solid #e5e7eb; padding:8px; background:#f8fafc;">Repo Size</th>
   </thead>
   <tbody>
     {% for repo in repositories %}
     <tr>
+      {% set branches = repo.branches if repo.branches is not none else 0 %}
+      {% set issues = repo.open_issues if repo.open_issues is not none else 0 %}
+      {% set prs = repo.open_prs if repo.open_prs is not none else 0 %}
+      {% set last_updated = repo.last_updated if repo.last_updated else 'N/A' %}
+      {% set size = repo.size_mb if repo.size_mb else '0' %}
       <td style="border:1px solid #e5e7eb; padding:8px;"><a href="{{ repo.html_url }}">{{ repo.name }}</a></td>
       <td style="border:1px solid #e5e7eb; padding:8px;" title="{{ repo.description or '—' }}">
         {% if repo.description and repo.description|length > 100 %}
@@ -198,9 +207,17 @@ To design and operate **cloud platforms that are secure, automated, observable, 
         <img alt="status: {{ repo.status or 'unknown' }}" src="https://img.shields.io/badge/{{ repo.status or 'unknown' }}-lightblue?style=flat" />
         {% endif %}
       </td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">{{ repo.last_updated or '0' }}</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">{{ repo.branches or '0' }}-{{ repo.open_issues or '0' }}-{{ repo.open_prs or '0' }}</td>
-      <td style="border:1px solid #e5e7eb; padding:8px;">{{ repo.size_mb or '0' }}</td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="last updated" src="https://img.shields.io/badge/-{{ last_updated | replace(' ', '%20') }}-64748b?style=flat" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="branches" src="https://img.shields.io/badge/-{{ branches }}-2563eb?style=flat&logo=git&logoColor=white" />
+        <img alt="open issues" src="https://img.shields.io/badge/-{{ issues }}-f59e0b?style=flat&logo=github&logoColor=white" />
+        <img alt="open PRs" src="https://img.shields.io/badge/-{{ prs }}-10b981?style=flat&logo=git&logoColor=white" />
+      </td>
+      <td style="border:1px solid #e5e7eb; padding:8px;">
+        <img alt="repo size" src="https://img.shields.io/badge/-{{ size | replace(' ', '%20') }}-0ea5e9?style=flat" />
+      </td>
     </tr>
     {% endfor %}
   </tbody>
