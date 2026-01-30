@@ -146,7 +146,7 @@ def main() -> None:
                     # Parse ISO 8601 timestamp and convert to EST
                     utc_time = datetime.fromisoformat(updated_at.replace('Z', '+00:00'))
                     est_time = utc_time.astimezone(ZoneInfo("America/New_York"))
-                    last_updated = est_time.strftime('%H:%M:%S EST')
+                    last_updated = est_time.strftime('%Y-%m-%d %H:%M EST')
                 else:
                     last_updated = None
                 
