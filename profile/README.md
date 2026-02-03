@@ -70,6 +70,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 [![Astronomer Certification for Apache Airflow 3 Fundamentals](https://images.credly.com/size/110x110/images/b6315b18-8762-40a7-a15b-b97a6dd9c12e/blob)](https://www.credly.com/earner/earned/badge/224e4704-6268-48e7-a209-e490b136d5d0)
 [![Astronomer Certification DAG Authoring for Apache Airflow 3](https://images.credly.com/size/110x110/images/6e9570ae-239f-47b9-85ff-0946c3844088/blob)](https://www.credly.com/earner/earned/badge/aa538171-170d-4f30-8202-d228ee2c2b89)
 
+[<img src="https://www.databricks.com/sites/default/files/2025-10/associate-badge-de.png?v=1761149691" alt="Databricks Certified Data Engineer Associate" width="90" height="110">](https://credentials.databricks.com/15c8dc6a-6245-4af8-86d6-1584a7fdfd43#acc.ocj68f3F)
 </div>
 
 ---
@@ -86,52 +87,90 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 **Legend:** ⚪ Initialized · 🟡 In Progress · 🟢 Complete · 🔴 Blocked
 
-### Complete Project
+**Update Age:** <span style="color: #22c55e;">●</span> &lt; 7 days · <span style="color: #eab308;">●</span> 7-30 days · <span style="color: #f97316;">●</span> 30-90 days · <span style="color: #ef4444;">●</span> &gt; 90 days
+
+### <span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ Complete Project</span>
 
 | Repository | Description | Status | Stats |
 |------------|-------------|--------|-------|
-| [image-labeling](https://github.com/subhamay-bhattacharyya/image-labeling) | This project demonstrates how to build a simple image labeling pipeline using AW... | 🟡 | 🌿 2 • 🐞 1 • 🔀 0 • 💾 71 KB • ⏱ 2026-01-09 21:08 EST |
-| [event-driven-etl-automation](https://github.com/subhamay-bhattacharyya/event-driven-etl-automation) | Event-driven, serverless ETL pipeline on AWS that automates data ingestion, tran... | ⚪ | 🌿 2 • 🐞 1 • 🔀 0 • 💾 59 KB • ⏱ 2026-01-16 16:35 EST |
-| [aws-snowflake-e2e-project](https://github.com/subhamay-bhattacharyya/aws-snowflake-e2e-project) | End-to-end Snowflake data engineering project: layered stage/raw/curated design,... | 🟢 | 🌿 1 • 🐞 0 • 🔀 0 • 💾 160 KB • ⏱ 2026-01-29 15:01 EST |
+| [image-labeling](https://github.com/subhamay-bhattacharyya/image-labeling)<sup><span title="3 weeks ago" style="cursor: help; color: #eab308;">●</span></sup> | This project demonstrates how to build a simple image labeling pipeline using AW... | 🟡 | 🌿 4 • 🎫 3 • 🔀 0 • 💾 177 KB |
+| [event-driven-etl-automation](https://github.com/subhamay-bhattacharyya/event-driven-etl-automation)<sup><span title="2 weeks ago" style="cursor: help; color: #eab308;">●</span></sup> | Event-driven, serverless ETL pipeline on AWS that automates data ingestion, tran... | ⚪ | 🌿 4 • 🎫 3 • 🔀 0 • 💾 166 KB |
+| [aws-snowflake-e2e-project](https://github.com/subhamay-bhattacharyya/aws-snowflake-e2e-project)<sup><span title="5 days ago" style="cursor: help; color: #22c55e;">●</span></sup> | End-to-end Snowflake data engineering project: layered stage/raw/curated design,... | 🟢 | 🌿 2 • 🎫 1 • 🔀 0 • 💾 163 KB |
 
-### Athena
-
-| Repository | Description | Status | Stats |
-|------------|-------------|--------|-------|
-| [aws-athena-iceberg-demo](https://github.com/subhamay-bhattacharyya/aws-athena-iceberg-demo) | A hands-on demo showcasing Apache Iceberg tables on Amazon S3 queried using Amaz... | 🟡 | 🌿 2 • 🐞 1 • 🔀 0 • 💾 65 KB • ⏱ 2026-01-21 08:34 EST |
-
-### Uncatrgorised
+### <span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ Athena</span>
 
 | Repository | Description | Status | Stats |
 |------------|-------------|--------|-------|
-| [databricks-terraform-bootstrap](https://github.com/subhamay-bhattacharyya/databricks-terraform-bootstrap) | Terraform-based bootstrap for provisioning a Databricks workspace, clusters, and... | ⚪ | 🌿 1 • 🐞 1 • 🔀 0 • 💾 92 KB • ⏱ 2026-01-23 16:48 EST |
+| [aws-athena-iceberg-demo](https://github.com/subhamay-bhattacharyya/aws-athena-iceberg-demo)<sup><span title="1 week ago" style="cursor: help; color: #eab308;">●</span></sup> | A hands-on demo showcasing Apache Iceberg tables on Amazon S3 queried using Amaz... | 🟡 | 🌿 3 • 🎫 2 • 🔀 0 • 💾 118 KB |
 
-### GitHub Reusable Action
-
-| Repository | Description | Status | Stats |
-|------------|-------------|--------|-------|
-| [checkov-report-action](https://github.com/subhamay-bhattacharyya-gha/checkov-report-action) | GitHub JavaScript Action - Print Checkov Scan Report | 🟡 | 🌿 3 • 🐞 1 • 🔀 0 • 💾 465 KB • ⏱ 2025-08-22 10:40 EST |
-| [tf-validate-action](https://github.com/subhamay-bhattacharyya-gha/tf-validate-action) | GitHub Composite Action - Terraform Format Check and Validation. | 🟢 | 🌿 2 • 🐞 1 • 🔀 0 • 💾 184 KB • ⏱ 2026-01-28 12:56 EST |
-| [branch-issue-action](https://github.com/subhamay-bhattacharyya-gha/branch-issue-action) | GitHub Composite Action - Check Branch Issue, to prevent pushing the code to any... | 🟢 | 🌿 6 • 🐞 5 • 🔀 0 • 💾 458 KB • ⏱ 2025-08-22 10:44 EST |
-| [tf-lint-action](https://github.com/subhamay-bhattacharyya-gha/tf-lint-action) | GitHub Composite Action - Terraform Lint. | 🟢 | 🌿 1 • 🐞 0 • 🔀 0 • 💾 356 KB • ⏱ 2026-01-29 10:35 EST |
-| [tf-plan-action](https://github.com/subhamay-bhattacharyya-gha/tf-plan-action) | GitHub Composite Action - Terraform Plan. | 🟢 | 🌿 2 • 🐞 1 • 🔀 0 • 💾 172 KB • ⏱ 2026-01-23 09:04 EST |
-| [tf-apply-action](https://github.com/subhamay-bhattacharyya-gha/tf-apply-action) | GitHub Composite Action - Terraform Apply. | 🟢 | 🌿 2 • 🐞 1 • 🔀 0 • 💾 289 KB • ⏱ 2026-01-23 10:10 EST |
-| [tf-destroy-action](https://github.com/subhamay-bhattacharyya-gha/tf-destroy-action) | GitHub Composite Action - Terraform Destroy. | 🟢 | 🌿 2 • 🐞 1 • 🔀 0 • 💾 306 KB • ⏱ 2026-01-23 11:52 EST |
-| [tf-yor-action](https://github.com/subhamay-bhattacharyya-gha/tf-yor-action) | GitHub Composite Action - Add Git metadata tags . | 🟡 | 🌿 7 • 🐞 6 • 🔀 0 • 💾 225 KB • ⏱ 2025-08-22 10:37 EST |
-| [create-release-action](https://github.com/subhamay-bhattacharyya-gha/create-release-action) | GitHub Composite Action - Create Draft Release with a clickable link to create t... | 🟢 | 🌿 2 • 🐞 1 • 🔀 0 • 💾 84 KB • ⏱ 2025-12-29 10:34 EST |
-
-### GitHub Reusable Workflow
+### <span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ Databricks</span>
 
 | Repository | Description | Status | Stats |
 |------------|-------------|--------|-------|
-| [terraform-destroy-wf](https://github.com/subhamay-bhattacharyya-gha/terraform-destroy-wf) | GitHub Reusable Workflow to tear down a stack using Terraform Destroy | 🟢 | 🌿 2 • 🐞 1 • 🔀 0 • 💾 323 KB • ⏱ 2026-01-27 22:38 EST |
-| [tf-ci-reusable-wf](https://github.com/subhamay-bhattacharyya-gha/tf-ci-reusable-wf) | GitHub Reusable Workflow: CI Pipeline using Terraform as IaC | 🟢 | 🌿 2 • 🐞 1 • 🔀 0 • 💾 95 KB • ⏱ 2026-01-23 09:54 EST |
-| [slack-notification-wf](https://github.com/subhamay-bhattacharyya-gha/slack-notification-wf) | GitHub Reusable Workflow : Send Slack Notification on opening an issue of pull r... | 🟢 | 🌿 1 • 🐞 0 • 🔀 0 • 💾 155 KB • ⏱ 2025-12-25 20:22 EST |
-| [tf-release-wf](https://github.com/subhamay-bhattacharyya-gha/tf-release-wf) | GitHub Reusable Workflow: Terraform Release | 🟢 | 🌿 8 • 🐞 7 • 🔀 0 • 💾 275 KB • ⏱ 2025-08-22 10:40 EST |
-| [tf-deploy-multi-reusable-wf](https://github.com/subhamay-bhattacharyya-gha/tf-deploy-multi-reusable-wf) | GitHub Reusable workflow to deploy a stack using Terraform multi-cloud environme... | 🔵 | 🌿 2 • 🐞 1 • 🔀 0 • 💾 155 KB • ⏱ 2026-01-23 17:51 EST |
+| [databricks-terraform-bootstrap](https://github.com/subhamay-bhattacharyya/databricks-terraform-bootstrap)<sup><span title="1 week ago" style="cursor: help; color: #eab308;">●</span></sup> | Terraform-based bootstrap for provisioning a Databricks workspace, clusters, and... | ⚪ | 🌿 3 • 🎫 3 • 🔀 0 • 💾 198 KB |
+
+### <span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ Google Cloud Function</span>
+
+| Repository | Description | Status | Stats |
+|------------|-------------|--------|-------|
+| [gcp-webhook-to-slack-function](https://github.com/subhamay-bhattacharyya/gcp-webhook-to-slack-function)<sup><span title="3 days ago" style="cursor: help; color: #22c55e;">●</span></sup> | Provision a Google Cloud project and deploy a Python HTTP Cloud Function with Te... | ⚪ | 🌿 3 • 🎫 3 • 🔀 0 • 💾 166 KB |
+
+### <span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ Snowflake Demo</span>
+
+| Repository | Description | Status | Stats |
+|------------|-------------|--------|-------|
+| [snowflake-de-environment-setup](https://github.com/subhamay-bhattacharyya/snowflake-de-environment-setup)<sup><span title="1 day ago" style="cursor: help; color: #22c55e;">●</span></sup> | Environment setup demo for Snowflake Data Engineering labs, including roles, war... | ⚪ | 🌿 2 • 🎫 1 • 🔀 0 • 💾 61 KB |
+| [snowflake-de-semi-structured-json](https://github.com/subhamay-bhattacharyya/snowflake-de-semi-structured-json)<sup><span title="1 day ago" style="cursor: help; color: #22c55e;">●</span></sup> | Demo project showcasing querying, flattening, and transforming semi-structured J... | ⚪ | 🌿 2 • 🎫 1 • 🔀 0 • 💾 61 KB |
+| [snowflake-de-iceberg-tables](https://github.com/subhamay-bhattacharyya/snowflake-de-iceberg-tables)<sup><span title="1 day ago" style="cursor: help; color: #22c55e;">●</span></sup> | Hands-on demo for creating and querying Apache Iceberg tables in Snowflake, incl... | ⚪ | 🌿 2 • 🎫 1 • 🔀 0 • 💾 61 KB |
+| [snowflake-de-external-data-lake](https://github.com/subhamay-bhattacharyya/snowflake-de-external-data-lake)<sup><span title="1 day ago" style="cursor: help; color: #22c55e;">●</span></sup> | Demonstrates Snowflake data lake patterns using external stages, external tables... | ⚪ | 🌿 2 • 🎫 1 • 🔀 0 • 💾 61 KB |
+| [snowflake-de-snowpipe-ingestion](https://github.com/subhamay-bhattacharyya/snowflake-de-snowpipe-ingestion)<sup><span title="1 day ago" style="cursor: help; color: #22c55e;">●</span></sup> | End-to-end Snowpipe demo showing automated file ingestion from stages into Snowf... | ⚪ | 🌿 2 • 🎫 1 • 🔀 0 • 💾 61 KB |
+| [snowflake-de-json-loading](https://github.com/subhamay-bhattacharyya/snowflake-de-json-loading)<sup><span title="1 day ago" style="cursor: help; color: #22c55e;">●</span></sup> | Demo focused on loading semi-structured JSON files into Snowflake using stages, ... | ⚪ | 🌿 2 • 🎫 1 • 🔀 0 • 💾 61 KB |
+| [snowflake-de-batch-ingestion](https://github.com/subhamay-bhattacharyya/snowflake-de-batch-ingestion)<sup><span title="1 day ago" style="cursor: help; color: #22c55e;">●</span></sup> | Batch ingestion and ELT demo covering file loading, JSON parsing, schema detecti... | ⚪ | 🌿 2 • 🎫 1 • 🔀 0 • 💾 61 KB |
+| [snowflake-de-scripting-procedures](https://github.com/subhamay-bhattacharyya/snowflake-de-scripting-procedures)<sup><span title="1 day ago" style="cursor: help; color: #22c55e;">●</span></sup> | Snowflake Scripting demo showcasing stored procedures, loops, exception handling... | ⚪ | 🌿 2 • 🎫 1 • 🔀 0 • 💾 61 KB |
+| [snowflake-de-udf-extensibility](https://github.com/subhamay-bhattacharyya/snowflake-de-udf-extensibility)<sup><span title="1 day ago" style="cursor: help; color: #22c55e;">●</span></sup> | Demonstrates Snowflake extensibility features including SQL UDFs, Python UDFs, a... | ⚪ | 🌿 2 • 🎫 1 • 🔀 0 • 💾 61 KB |
+| [snowflake-de-data-exchange](https://github.com/subhamay-bhattacharyya/snowflake-de-data-exchange)<sup><span title="1 day ago" style="cursor: help; color: #22c55e;">●</span></sup> | Demo exploring Snowflake Marketplace and Data Exchange, including querying and d... | ⚪ | 🌿 2 • 🎫 1 • 🔀 0 • 💾 61 KB |
+| [snowflake-de-snowpark-notebooks](https://github.com/subhamay-bhattacharyya/snowflake-de-snowpark-notebooks)<sup><span title="1 day ago" style="cursor: help; color: #22c55e;">●</span></sup> | Introduction to Snowpark using notebooks, showing data processing and transforma... | ⚪ | 🌿 2 • 🎫 1 • 🔀 0 • 💾 61 KB |
+| [snowflake-de-unstructured-data](https://github.com/subhamay-bhattacharyya/snowflake-de-unstructured-data)<sup><span title="1 day ago" style="cursor: help; color: #22c55e;">●</span></sup> | Demo for working with unstructured data using directory-enabled stages, scoped U... | ⚪ | 🌿 2 • 🎫 1 • 🔀 0 • 💾 61 KB |
+| [snowflake-de-llm-functions](https://github.com/subhamay-bhattacharyya/snowflake-de-llm-functions)<sup><span title="1 day ago" style="cursor: help; color: #22c55e;">●</span></sup> | Hands-on demo using Snowflake Large Language Model functions for text analysis, ... | ⚪ | 🌿 2 • 🎫 1 • 🔀 0 • 💾 61 KB |
+| [snowflake-de-unstructured-pipelines](https://github.com/subhamay-bhattacharyya/snowflake-de-unstructured-pipelines)<sup><span title="1 day ago" style="cursor: help; color: #22c55e;">●</span></sup> | Pipeline automation demo combining unstructured data processing with Snowflake t... | ⚪ | 🌿 2 • 🎫 1 • 🔀 0 • 💾 61 KB |
+| [snowflake-de-dynamic-tables](https://github.com/subhamay-bhattacharyya/snowflake-de-dynamic-tables)<sup><span title="1 day ago" style="cursor: help; color: #22c55e;">●</span></sup> | Comprehensive demo of Snowflake Dynamic Tables including chaining, joins, refres... | ⚪ | 🌿 2 • 🎫 1 • 🔀 0 • 💾 61 KB |
+| [snowflake-de-lakehouse-pipeline](https://github.com/subhamay-bhattacharyya/snowflake-de-lakehouse-pipeline)<sup><span title="1 day ago" style="cursor: help; color: #22c55e;">●</span></sup> | End-to-end Snowflake Lakehouse pipeline demo covering bronze, silver, and gold l... | ⚪ | 🌿 2 • 🎫 1 • 🔀 0 • 💾 61 KB |
+| [snowflake-de-query-optimization](https://github.com/subhamay-bhattacharyya/snowflake-de-query-optimization)<sup><span title="1 day ago" style="cursor: help; color: #22c55e;">●</span></sup> | Demo highlighting Snowflake SQL best practices for high-performance queries, pru... | ⚪ | 🌿 2 • 🎫 1 • 🔀 0 • 💾 61 KB |
+| [snowflake-de-performance-toolkit](https://github.com/subhamay-bhattacharyya/snowflake-de-performance-toolkit)<sup><span title="1 day ago" style="cursor: help; color: #22c55e;">●</span></sup> | Performance analysis demo using Snowflake query history, tuning metrics, and wor... | ⚪ | 🌿 2 • 🎫 1 • 🔀 0 • 💾 61 KB |
+| [snowflake-de-performance-scenarios](https://github.com/subhamay-bhattacharyya/snowflake-de-performance-scenarios)<sup><span title="1 day ago" style="cursor: help; color: #22c55e;">●</span></sup> | Scenario-based performance troubleshooting demo covering investigation, optimiza... | ⚪ | 🌿 2 • 🎫 1 • 🔀 0 • 💾 61 KB |
+| [snowflake-de-clustering-mv](https://github.com/subhamay-bhattacharyya/snowflake-de-clustering-mv)<sup><span title="1 day ago" style="cursor: help; color: #22c55e;">●</span></sup> | Demo showcasing table clustering strategies and materialized views for query per... | ⚪ | 🌿 2 • 🎫 1 • 🔀 0 • 💾 61 KB |
+| [snowflake-de-data-unload](https://github.com/subhamay-bhattacharyya/snowflake-de-data-unload)<sup><span title="1 day ago" style="cursor: help; color: #22c55e;">●</span></sup> | Demonstrates unloading structured Snowflake data into JSON files using internal ... | ⚪ | 🌿 2 • 🎫 1 • 🔀 0 • 💾 61 KB |
+| [snowflake-de-observability-alerts](https://github.com/subhamay-bhattacharyya/snowflake-de-observability-alerts)<sup><span title="1 day ago" style="cursor: help; color: #22c55e;">●</span></sup> | Management and observability demo using alerts, notifications, and monitoring pa... | ⚪ | 🌿 2 • 🎫 1 • 🔀 0 • 💾 61 KB |
+| [snowflake-de-alerting-framework](https://github.com/subhamay-bhattacharyya/snowflake-de-alerting-framework)<sup><span title="1 day ago" style="cursor: help; color: #22c55e;">●</span></sup> | Advanced metadata-driven alerting framework demo using tables, alerts, tasks, an... | ⚪ | 🌿 2 • 🎫 1 • 🔀 0 • 💾 61 KB |
+| [snowflake-de-data-metrics](https://github.com/subhamay-bhattacharyya/snowflake-de-data-metrics)<sup><span title="1 day ago" style="cursor: help; color: #22c55e;">●</span></sup> | Demo for creating and using Data Metric Functions (DMFs) to measure data quality... | ⚪ | 🌿 2 • 🎫 1 • 🔀 0 • 💾 61 KB |
+| [snowflake-de-azure-iceberg-tables](https://github.com/subhamay-bhattacharyya/snowflake-de-azure-iceberg-tables)<sup><span title="3 hours ago" style="cursor: help; color: #22c55e;">●</span></sup> | Terraform-based reference implementation for building Snowflake Data Engineering... | ⚪ | 🌿 1 • 🎫 0 • 🔀 0 • 💾 125 KB |
+
+### <span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ GitHub Reusable Action</span>
+
+| Repository | Description | Status | Stats |
+|------------|-------------|--------|-------|
+| [checkov-report-action](https://github.com/subhamay-bhattacharyya-gha/checkov-report-action)<sup><span title="5 months ago" style="cursor: help; color: #ef4444;">●</span></sup> | GitHub JavaScript Action - Print Checkov Scan Report | 🟡 | 🌿 3 • 🎫 1 • 🔀 0 • 💾 465 KB |
+| [tf-validate-action](https://github.com/subhamay-bhattacharyya-gha/tf-validate-action)<sup><span title="6 days ago" style="cursor: help; color: #22c55e;">●</span></sup> | GitHub Composite Action - Terraform Format Check and Validation. | 🟢 | 🌿 4 • 🎫 3 • 🔀 0 • 💾 313 KB |
+| [branch-issue-action](https://github.com/subhamay-bhattacharyya-gha/branch-issue-action)<sup><span title="5 months ago" style="cursor: help; color: #ef4444;">●</span></sup> | GitHub Composite Action - Check Branch Issue, to prevent pushing the code to any... | 🟢 | 🌿 6 • 🎫 5 • 🔀 0 • 💾 456 KB |
+| [tf-lint-action](https://github.com/subhamay-bhattacharyya-gha/tf-lint-action)<sup><span title="5 days ago" style="cursor: help; color: #22c55e;">●</span></sup> | GitHub Composite Action - Terraform Lint. | 🟢 | 🌿 3 • 🎫 2 • 🔀 0 • 💾 486 KB |
+| [tf-plan-action](https://github.com/subhamay-bhattacharyya-gha/tf-plan-action)<sup><span title="1 week ago" style="cursor: help; color: #eab308;">●</span></sup> | GitHub Composite Action - Terraform Plan. | 🟢 | 🌿 4 • 🎫 3 • 🔀 0 • 💾 302 KB |
+| [tf-apply-action](https://github.com/subhamay-bhattacharyya-gha/tf-apply-action)<sup><span title="1 week ago" style="cursor: help; color: #eab308;">●</span></sup> | GitHub Composite Action - Terraform Apply. | 🟢 | 🌿 4 • 🎫 3 • 🔀 0 • 💾 420 KB |
+| [tf-destroy-action](https://github.com/subhamay-bhattacharyya-gha/tf-destroy-action)<sup><span title="1 week ago" style="cursor: help; color: #eab308;">●</span></sup> | GitHub Composite Action - Terraform Destroy. | 🟢 | 🌿 3 • 🎫 2 • 🔀 0 • 💾 371 KB |
+| [tf-yor-action](https://github.com/subhamay-bhattacharyya-gha/tf-yor-action)<sup><span title="5 months ago" style="cursor: help; color: #ef4444;">●</span></sup> | GitHub Composite Action - Add Git metadata tags . | 🟡 | 🌿 7 • 🎫 6 • 🔀 0 • 💾 224 KB |
+| [create-release-action](https://github.com/subhamay-bhattacharyya-gha/create-release-action)<sup><span title="1 month ago" style="cursor: help; color: #f97316;">●</span></sup> | GitHub Composite Action - Create Draft Release with a clickable link to create t... | 🟢 | 🌿 4 • 🎫 3 • 🔀 0 • 💾 215 KB |
+
+### <span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ GitHub Reusable Workflow</span>
+
+| Repository | Description | Status | Stats |
+|------------|-------------|--------|-------|
+| [terraform-destroy-wf](https://github.com/subhamay-bhattacharyya-gha/terraform-destroy-wf)<sup><span title="6 days ago" style="cursor: help; color: #22c55e;">●</span></sup> | GitHub Reusable Workflow to tear down a stack using Terraform Destroy | 🟢 | 🌿 4 • 🎫 3 • 🔀 0 • 💾 454 KB |
+| [tf-ci-reusable-wf](https://github.com/subhamay-bhattacharyya-gha/tf-ci-reusable-wf)<sup><span title="1 week ago" style="cursor: help; color: #eab308;">●</span></sup> | GitHub Reusable Workflow: CI Pipeline using Terraform as IaC | 🟢 | 🌿 4 • 🎫 3 • 🔀 0 • 💾 237 KB |
+| [slack-notification-wf](https://github.com/subhamay-bhattacharyya-gha/slack-notification-wf)<sup><span title="1 month ago" style="cursor: help; color: #f97316;">●</span></sup> | GitHub Reusable Workflow : Send Slack Notification on opening an issue of pull r... | 🟢 | 🌿 3 • 🎫 2 • 🔀 0 • 💾 285 KB |
+| [tf-release-wf](https://github.com/subhamay-bhattacharyya-gha/tf-release-wf)<sup><span title="5 months ago" style="cursor: help; color: #ef4444;">●</span></sup> | GitHub Reusable Workflow: Terraform Release | 🟢 | 🌿 8 • 🎫 7 • 🔀 0 • 💾 273 KB |
+| [tf-deploy-multi-reusable-wf](https://github.com/subhamay-bhattacharyya-gha/tf-deploy-multi-reusable-wf)<sup><span title="1 week ago" style="cursor: help; color: #eab308;">●</span></sup> | GitHub Reusable workflow to deploy a stack using Terraform multi-cloud environme... | 🔵 | 🌿 4 • 🎫 3 • 🔀 0 • 💾 283 KB |
 
 
 ---
 
-*Last generated: 16:48:25 EST*  
-*Total repositories: 19*
+*Last generated: 16:14:02 EST*  
+*Total repositories: 45*

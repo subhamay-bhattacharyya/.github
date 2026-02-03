@@ -6,10 +6,67 @@ import json
 import requests
 from typing import Dict, List
 from pprint import pprint
-from datetime import datetime
+from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 
 GITHUB_API = "https://api.github.com"
+
+
+def get_relative_time_with_color(dt: datetime) -> str:
+    """
+    Convert datetime to relative time string with color coding.
+    Displays a color-coded flag with tooltip showing relative time.
+    Color coding based on freshness:
+    - Green: < 7 days
+    - Yellow: 7-30 days
+    - Orange: 30-90 days
+    - Red: > 90 days
+    """
+    now = datetime.now(ZoneInfo("America/New_York"))
+    diff = now - dt
+    
+    # Calculate time units
+    seconds = diff.total_seconds()
+    minutes = seconds / 60
+    hours = minutes / 60
+    days = diff.days
+    weeks = days // 7
+    months = days // 30
+    years = days // 365
+    
+    # Determine relative time string
+    if seconds < 60:
+        time_str = "just now"
+    elif minutes < 60:
+        count = int(minutes)
+        time_str = f"{count} minute{'s' if count != 1 else ''} ago"
+    elif hours < 24:
+        count = int(hours)
+        time_str = f"{count} hour{'s' if count != 1 else ''} ago"
+    elif days < 7:
+        count = days
+        time_str = f"{count} day{'s' if count != 1 else ''} ago"
+    elif weeks < 4:
+        count = weeks
+        time_str = f"{count} week{'s' if count != 1 else ''} ago"
+    elif months < 12:
+        count = months
+        time_str = f"{count} month{'s' if count != 1 else ''} ago"
+    else:
+        count = years
+        time_str = f"{count} year{'s' if count != 1 else ''} ago"
+    
+    # Determine flag color based on age
+    if days < 7:
+        color = "#22c55e"  # Green - very fresh
+    elif days < 30:
+        color = "#eab308"  # Yellow - recent
+    elif days < 90:
+        color = "#f97316"  # Orange - getting old
+    else:
+        color = "#ef4444"  # Red - stale
+    
+    return f'<sup><span title="{time_str}" style="cursor: help; color: {color};">●</span></sup>'
 
 
 def github_headers() -> Dict[str, str]:
@@ -140,15 +197,15 @@ def main() -> None:
                 # break
                 branch_count = fetch_branch_count(org, name)
                 
-                # Convert updated_at to EST time
+                # Convert updated_at to relative time with color
                 updated_at = repo.get("updated_at")
                 if updated_at:
                     # Parse ISO 8601 timestamp and convert to EST
                     utc_time = datetime.fromisoformat(updated_at.replace('Z', '+00:00'))
                     est_time = utc_time.astimezone(ZoneInfo("America/New_York"))
-                    last_updated = est_time.strftime('%Y-%m-%d %H:%M EST')
+                    last_updated = get_relative_time_with_color(est_time)
                 else:
-                    last_updated = None
+                    last_updated = '<sup><span title="N/A" style="cursor: help; color: #6b7280;">●</span></sup>'
                 
                 repo_details = {
                     "name": name,
