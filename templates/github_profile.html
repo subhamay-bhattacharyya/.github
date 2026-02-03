@@ -70,6 +70,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 [![Astronomer Certification for Apache Airflow 3 Fundamentals](https://images.credly.com/size/110x110/images/b6315b18-8762-40a7-a15b-b97a6dd9c12e/blob)](https://www.credly.com/earner/earned/badge/224e4704-6268-48e7-a209-e490b136d5d0)
 [![Astronomer Certification DAG Authoring for Apache Airflow 3](https://images.credly.com/size/110x110/images/6e9570ae-239f-47b9-85ff-0946c3844088/blob)](https://www.credly.com/earner/earned/badge/aa538171-170d-4f30-8202-d228ee2c2b89)
 
+[<img src="https://www.databricks.com/sites/default/files/2025-10/associate-badge-de.png?v=1761149691" alt="Databricks Certified Data Engineer Associate" width="90" height="110">](https://credentials.databricks.com/15c8dc6a-6245-4af8-86d6-1584a7fdfd43#acc.ocj68f3F)
 </div>
 
 ---
@@ -86,8 +87,10 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 **Legend:** ⚪ Initialized · 🟡 In Progress · 🟢 Complete · 🔴 Blocked
 
+**Update Age:** <span style="color: #22c55e;">●</span> &lt; 7 days · <span style="color: #eab308;">●</span> 7-30 days · <span style="color: #f97316;">●</span> 30-90 days · <span style="color: #ef4444;">●</span> &gt; 90 days
+
 {% for category, repositories in repos_by_category.items() %}
-### {{ category }}
+### <span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ {{ category }}</span>
 
 | Repository | Description | Status | Stats |
 |------------|-------------|--------|-------|
@@ -95,7 +98,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 {% set branches = repo.branches if repo.branches is not none else 0 -%}
 {% set issues = repo.open_issues if repo.open_issues is not none else 0 -%}
 {% set prs = repo.open_prs if repo.open_prs is not none else 0 -%}
-{% set last_updated = repo.last_updated if repo.last_updated else 'N/A' -%}
+{% set last_updated = repo.last_updated if repo.last_updated else '<sup><span title="N/A" style="cursor: help; color: #6b7280;">●</span></sup>' -%}
 {% set size = repo.size_mb if repo.size_mb else '0' -%}
 {% set s = (repo.status or 'unknown') | lower -%}
 {% if s in ['complete'] -%}
@@ -111,7 +114,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 {% else -%}
 {% set status_icon = '🔵' -%}
 {% endif -%}
-| [{{ repo.name }}]({{ repo.html_url }}) | {{ repo.description[:80] if repo.description and repo.description|length > 80 else (repo.description or '—') }}{% if repo.description and repo.description|length > 80 %}...{% endif %} | {{ status_icon }} | 🌿 {{ branches }} • 🐞 {{ issues }} • 🔀 {{ prs }} • 💾 {{ size }} • ⏱ {{ last_updated }} |
+| [{{ repo.name }}]({{ repo.html_url }}){{ last_updated | safe }} | {{ repo.description[:80] if repo.description and repo.description|length > 80 else (repo.description or '—') }}{% if repo.description and repo.description|length > 80 %}...{% endif %} | {{ status_icon }} | 🌿 {{ branches }} • 🎫 {{ issues }} • 🔀 {{ prs }} • 💾 {{ size }} |
 {% endfor %}
 
 {% endfor %}

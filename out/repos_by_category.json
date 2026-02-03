@@ -8,11 +8,11 @@
       "cloud_service_provider": "AWS",
       "maturity": "beta",
       "notes": "Current - Stack created. Next - Fix the S3 notification",
-      "last_updated": "2026-01-09 21:08 EST",
-      "open_issues": 1,
-      "branches": 2,
+      "last_updated": "<sup><span title=\"3 weeks ago\" style=\"cursor: help; color: #eab308;\">\u25cf</span></sup>",
+      "open_issues": 3,
+      "branches": 4,
       "open_prs": null,
-      "size_mb": "71 KB"
+      "size_mb": "177 KB"
     },
     {
       "name": "event-driven-etl-automation",
@@ -22,11 +22,11 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "Current - Repository Initialized. Next - Create the entire stack.",
-      "last_updated": "2026-01-16 16:35 EST",
-      "open_issues": 1,
-      "branches": 2,
+      "last_updated": "<sup><span title=\"2 weeks ago\" style=\"cursor: help; color: #eab308;\">\u25cf</span></sup>",
+      "open_issues": 3,
+      "branches": 4,
       "open_prs": null,
-      "size_mb": "59 KB"
+      "size_mb": "166 KB"
     },
     {
       "name": "aws-snowflake-e2e-project",
@@ -36,11 +36,11 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "beta",
       "notes": "Need to progress further with the Udemy course resource.",
-      "last_updated": "2026-01-29 15:01 EST",
-      "open_issues": 0,
-      "branches": 1,
+      "last_updated": "<sup><span title=\"5 days ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
-      "size_mb": "160 KB"
+      "size_mb": "163 KB"
     }
   ],
   "Athena": [
@@ -52,14 +52,14 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "Done - S3 bucket created. Next - Create Athena tables",
-      "last_updated": "2026-01-21 08:34 EST",
-      "open_issues": 1,
-      "branches": 2,
+      "last_updated": "<sup><span title=\"1 week ago\" style=\"cursor: help; color: #eab308;\">\u25cf</span></sup>",
+      "open_issues": 2,
+      "branches": 3,
       "open_prs": null,
-      "size_mb": "65 KB"
+      "size_mb": "118 KB"
     }
   ],
-  "Uncatrgorised": [
+  "Databricks": [
     {
       "name": "databricks-terraform-bootstrap",
       "html_url": "https://github.com/subhamay-bhattacharyya/databricks-terraform-bootstrap",
@@ -68,11 +68,379 @@
       "cloud_service_provider": "Databricks",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "2026-01-23 16:48 EST",
+      "last_updated": "<sup><span title=\"1 week ago\" style=\"cursor: help; color: #eab308;\">\u25cf</span></sup>",
+      "open_issues": 3,
+      "branches": 3,
+      "open_prs": null,
+      "size_mb": "198 KB"
+    }
+  ],
+  "Google Cloud Function": [
+    {
+      "name": "gcp-webhook-to-slack-function",
+      "html_url": "https://github.com/subhamay-bhattacharyya/gcp-webhook-to-slack-function",
+      "description": "Provision a Google Cloud project and deploy a Python HTTP Cloud Function with Terraform + GitHub Actions. The function is invoked by a GitHub Webhook and posts event notifications to a Slack channel via Slack API.",
+      "status": "Initialized",
+      "cloud_service_provider": "Google Cloud Platform",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<sup><span title=\"3 days ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
+      "open_issues": 3,
+      "branches": 3,
+      "open_prs": null,
+      "size_mb": "166 KB"
+    }
+  ],
+  "Snowflake Demo": [
+    {
+      "name": "snowflake-de-environment-setup",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-de-environment-setup",
+      "description": "Environment setup demo for Snowflake Data Engineering labs, including roles, warehouses, databases, schemas, and baseline utilities.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<sup><span title=\"1 day ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
       "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "61 KB"
+    },
+    {
+      "name": "snowflake-de-semi-structured-json",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-de-semi-structured-json",
+      "description": "Demo project showcasing querying, flattening, and transforming semi-structured JSON data using Snowflake VARIANT, FLATTEN, and casting.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<sup><span title=\"1 day ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "61 KB"
+    },
+    {
+      "name": "snowflake-de-iceberg-tables",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-de-iceberg-tables",
+      "description": "Hands-on demo for creating and querying Apache Iceberg tables in Snowflake, including metadata inspection and joins with standard tables.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<sup><span title=\"1 day ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "61 KB"
+    },
+    {
+      "name": "snowflake-de-external-data-lake",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-de-external-data-lake",
+      "description": "Demonstrates Snowflake data lake patterns using external stages, external tables, partitioning, views, and materialized views.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<sup><span title=\"1 day ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "61 KB"
+    },
+    {
+      "name": "snowflake-de-snowpipe-ingestion",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-de-snowpipe-ingestion",
+      "description": "End-to-end Snowpipe demo showing automated file ingestion from stages into Snowflake raw tables.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<sup><span title=\"1 day ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "61 KB"
+    },
+    {
+      "name": "snowflake-de-json-loading",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-de-json-loading",
+      "description": "Demo focused on loading semi-structured JSON files into Snowflake using stages, file formats, and COPY INTO.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<sup><span title=\"1 day ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "61 KB"
+    },
+    {
+      "name": "snowflake-de-batch-ingestion",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-de-batch-ingestion",
+      "description": "Batch ingestion and ELT demo covering file loading, JSON parsing, schema detection, and merge-based transformations.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<sup><span title=\"1 day ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "61 KB"
+    },
+    {
+      "name": "snowflake-de-scripting-procedures",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-de-scripting-procedures",
+      "description": "Snowflake Scripting demo showcasing stored procedures, loops, exception handling, and procedural ELT logic.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<sup><span title=\"1 day ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "61 KB"
+    },
+    {
+      "name": "snowflake-de-udf-extensibility",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-de-udf-extensibility",
+      "description": "Demonstrates Snowflake extensibility features including SQL UDFs, Python UDFs, and stored procedures.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<sup><span title=\"1 day ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "61 KB"
+    },
+    {
+      "name": "snowflake-de-data-exchange",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-de-data-exchange",
+      "description": "Demo exploring Snowflake Marketplace and Data Exchange, including querying and deriving insights from shared datasets.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<sup><span title=\"1 day ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "61 KB"
+    },
+    {
+      "name": "snowflake-de-snowpark-notebooks",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-de-snowpark-notebooks",
+      "description": "Introduction to Snowpark using notebooks, showing data processing and transformations using Snowpark APIs.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<sup><span title=\"1 day ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "61 KB"
+    },
+    {
+      "name": "snowflake-de-unstructured-data",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-de-unstructured-data",
+      "description": "Demo for working with unstructured data using directory-enabled stages, scoped URLs, and document processing.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<sup><span title=\"1 day ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "61 KB"
+    },
+    {
+      "name": "snowflake-de-llm-functions",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-de-llm-functions",
+      "description": "Hands-on demo using Snowflake Large Language Model functions for text analysis, enrichment, and modular query design.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<sup><span title=\"1 day ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "61 KB"
+    },
+    {
+      "name": "snowflake-de-unstructured-pipelines",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-de-unstructured-pipelines",
+      "description": "Pipeline automation demo combining unstructured data processing with Snowflake tasks and transformations.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<sup><span title=\"1 day ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "61 KB"
+    },
+    {
+      "name": "snowflake-de-dynamic-tables",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-de-dynamic-tables",
+      "description": "Comprehensive demo of Snowflake Dynamic Tables including chaining, joins, refresh behavior, and downstream views.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<sup><span title=\"1 day ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "61 KB"
+    },
+    {
+      "name": "snowflake-de-lakehouse-pipeline",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-de-lakehouse-pipeline",
+      "description": "End-to-end Snowflake Lakehouse pipeline demo covering bronze, silver, and gold layers with ingestion and transformation.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<sup><span title=\"1 day ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "61 KB"
+    },
+    {
+      "name": "snowflake-de-query-optimization",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-de-query-optimization",
+      "description": "Demo highlighting Snowflake SQL best practices for high-performance queries, pruning, joins, and aggregations.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<sup><span title=\"1 day ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "61 KB"
+    },
+    {
+      "name": "snowflake-de-performance-toolkit",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-de-performance-toolkit",
+      "description": "Performance analysis demo using Snowflake query history, tuning metrics, and workload behavior exploration.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<sup><span title=\"1 day ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "61 KB"
+    },
+    {
+      "name": "snowflake-de-performance-scenarios",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-de-performance-scenarios",
+      "description": "Scenario-based performance troubleshooting demo covering investigation, optimization, and validation.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<sup><span title=\"1 day ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "61 KB"
+    },
+    {
+      "name": "snowflake-de-clustering-mv",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-de-clustering-mv",
+      "description": "Demo showcasing table clustering strategies and materialized views for query performance optimization.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<sup><span title=\"1 day ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "61 KB"
+    },
+    {
+      "name": "snowflake-de-data-unload",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-de-data-unload",
+      "description": "Demonstrates unloading structured Snowflake data into JSON files using internal stages.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<sup><span title=\"1 day ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "61 KB"
+    },
+    {
+      "name": "snowflake-de-observability-alerts",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-de-observability-alerts",
+      "description": "Management and observability demo using alerts, notifications, and monitoring patterns in Snowflake.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<sup><span title=\"1 day ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "61 KB"
+    },
+    {
+      "name": "snowflake-de-alerting-framework",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-de-alerting-framework",
+      "description": "Advanced metadata-driven alerting framework demo using tables, alerts, tasks, and stored procedures.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<sup><span title=\"1 day ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "61 KB"
+    },
+    {
+      "name": "snowflake-de-data-metrics",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-de-data-metrics",
+      "description": "Demo for creating and using Data Metric Functions (DMFs) to measure data quality and monitor datasets.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<sup><span title=\"1 day ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "61 KB"
+    },
+    {
+      "name": "snowflake-de-azure-iceberg-tables",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-de-azure-iceberg-tables",
+      "description": "Terraform-based reference implementation for building Snowflake Data Engineering workloads on Azure using external Iceberg tables, Azure Blob Storage, and modular CI/CD pipelines with GitHub Actions.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<sup><span title=\"3 hours ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
+      "open_issues": 0,
       "branches": 1,
       "open_prs": null,
-      "size_mb": "92 KB"
+      "size_mb": "125 KB"
     }
   ],
   "GitHub Reusable Action": [
@@ -84,7 +452,7 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "2025-08-22 10:40 EST",
+      "last_updated": "<sup><span title=\"5 months ago\" style=\"cursor: help; color: #ef4444;\">\u25cf</span></sup>",
       "open_issues": 1,
       "branches": 3,
       "open_prs": null,
@@ -98,11 +466,11 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "2026-01-28 12:56 EST",
-      "open_issues": 1,
-      "branches": 2,
+      "last_updated": "<sup><span title=\"6 days ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
+      "open_issues": 3,
+      "branches": 4,
       "open_prs": null,
-      "size_mb": "184 KB"
+      "size_mb": "313 KB"
     },
     {
       "name": "branch-issue-action",
@@ -112,11 +480,11 @@
       "cloud_service_provider": null,
       "maturity": "stable",
       "notes": "Not Available",
-      "last_updated": "2025-08-22 10:44 EST",
+      "last_updated": "<sup><span title=\"5 months ago\" style=\"cursor: help; color: #ef4444;\">\u25cf</span></sup>",
       "open_issues": 5,
       "branches": 6,
       "open_prs": null,
-      "size_mb": "458 KB"
+      "size_mb": "456 KB"
     },
     {
       "name": "tf-lint-action",
@@ -126,11 +494,11 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "2026-01-29 10:35 EST",
-      "open_issues": 0,
-      "branches": 1,
+      "last_updated": "<sup><span title=\"5 days ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
+      "open_issues": 2,
+      "branches": 3,
       "open_prs": null,
-      "size_mb": "356 KB"
+      "size_mb": "486 KB"
     },
     {
       "name": "tf-plan-action",
@@ -140,11 +508,11 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Current - Working for AWS,Azure, GCP, Databricks. Next-Test for Snowflake",
-      "last_updated": "2026-01-23 09:04 EST",
-      "open_issues": 1,
-      "branches": 2,
+      "last_updated": "<sup><span title=\"1 week ago\" style=\"cursor: help; color: #eab308;\">\u25cf</span></sup>",
+      "open_issues": 3,
+      "branches": 4,
       "open_prs": null,
-      "size_mb": "172 KB"
+      "size_mb": "302 KB"
     },
     {
       "name": "tf-apply-action",
@@ -154,11 +522,11 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "2026-01-23 10:10 EST",
-      "open_issues": 1,
-      "branches": 2,
+      "last_updated": "<sup><span title=\"1 week ago\" style=\"cursor: help; color: #eab308;\">\u25cf</span></sup>",
+      "open_issues": 3,
+      "branches": 4,
       "open_prs": null,
-      "size_mb": "289 KB"
+      "size_mb": "420 KB"
     },
     {
       "name": "tf-destroy-action",
@@ -168,11 +536,11 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "2026-01-23 11:52 EST",
-      "open_issues": 1,
-      "branches": 2,
+      "last_updated": "<sup><span title=\"1 week ago\" style=\"cursor: help; color: #eab308;\">\u25cf</span></sup>",
+      "open_issues": 2,
+      "branches": 3,
       "open_prs": null,
-      "size_mb": "306 KB"
+      "size_mb": "371 KB"
     },
     {
       "name": "tf-yor-action",
@@ -182,11 +550,11 @@
       "cloud_service_provider": null,
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "2025-08-22 10:37 EST",
+      "last_updated": "<sup><span title=\"5 months ago\" style=\"cursor: help; color: #ef4444;\">\u25cf</span></sup>",
       "open_issues": 6,
       "branches": 7,
       "open_prs": null,
-      "size_mb": "225 KB"
+      "size_mb": "224 KB"
     },
     {
       "name": "create-release-action",
@@ -196,11 +564,11 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "2025-12-29 10:34 EST",
-      "open_issues": 1,
-      "branches": 2,
+      "last_updated": "<sup><span title=\"1 month ago\" style=\"cursor: help; color: #f97316;\">\u25cf</span></sup>",
+      "open_issues": 3,
+      "branches": 4,
       "open_prs": null,
-      "size_mb": "84 KB"
+      "size_mb": "215 KB"
     }
   ],
   "GitHub Reusable Workflow": [
@@ -212,11 +580,11 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "2026-01-27 22:38 EST",
-      "open_issues": 1,
-      "branches": 2,
+      "last_updated": "<sup><span title=\"6 days ago\" style=\"cursor: help; color: #22c55e;\">\u25cf</span></sup>",
+      "open_issues": 3,
+      "branches": 4,
       "open_prs": null,
-      "size_mb": "323 KB"
+      "size_mb": "454 KB"
     },
     {
       "name": "tf-ci-reusable-wf",
@@ -226,11 +594,11 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Current - Working for AWS,Azure, GCP, Databricks. Next-Test for Snowflake",
-      "last_updated": "2026-01-23 09:54 EST",
-      "open_issues": 1,
-      "branches": 2,
+      "last_updated": "<sup><span title=\"1 week ago\" style=\"cursor: help; color: #eab308;\">\u25cf</span></sup>",
+      "open_issues": 3,
+      "branches": 4,
       "open_prs": null,
-      "size_mb": "95 KB"
+      "size_mb": "237 KB"
     },
     {
       "name": "slack-notification-wf",
@@ -240,11 +608,11 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "2025-12-25 20:22 EST",
-      "open_issues": 0,
-      "branches": 1,
+      "last_updated": "<sup><span title=\"1 month ago\" style=\"cursor: help; color: #f97316;\">\u25cf</span></sup>",
+      "open_issues": 2,
+      "branches": 3,
       "open_prs": null,
-      "size_mb": "155 KB"
+      "size_mb": "285 KB"
     },
     {
       "name": "tf-release-wf",
@@ -254,11 +622,11 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "2025-08-22 10:40 EST",
+      "last_updated": "<sup><span title=\"5 months ago\" style=\"cursor: help; color: #ef4444;\">\u25cf</span></sup>",
       "open_issues": 7,
       "branches": 8,
       "open_prs": null,
-      "size_mb": "275 KB"
+      "size_mb": "273 KB"
     },
     {
       "name": "tf-deploy-multi-reusable-wf",
@@ -268,11 +636,11 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "2026-01-23 17:51 EST",
-      "open_issues": 1,
-      "branches": 2,
+      "last_updated": "<sup><span title=\"1 week ago\" style=\"cursor: help; color: #eab308;\">\u25cf</span></sup>",
+      "open_issues": 3,
+      "branches": 4,
       "open_prs": null,
-      "size_mb": "155 KB"
+      "size_mb": "283 KB"
     }
   ]
 }
