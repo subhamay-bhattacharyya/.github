@@ -48,7 +48,7 @@ def generate_profile_readme(repos_by_category: dict, template_name: str, output_
     html_content = template.render(
         repos_by_category=repos_by_category,
         total_repos=total_repos,
-        generated_at=est_time.strftime('%H:%M:%S EST')
+        generated_at=est_time.strftime('%Y-%m-%d %H:%M:%S EST')
     )
     
     # Create output directory if it doesn't exist

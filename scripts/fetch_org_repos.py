@@ -15,7 +15,7 @@ GITHUB_API = "https://api.github.com"
 def get_relative_time_with_color(dt: datetime) -> str:
     """
     Convert datetime to relative time string with color coding.
-    Displays a color-coded flag with tooltip showing relative time.
+    Displays small, color-coded text on a new line.
     Color coding based on freshness:
     - Green: < 7 days
     - Yellow: 7-30 days
@@ -66,7 +66,12 @@ def get_relative_time_with_color(dt: datetime) -> str:
     else:
         color = "#ef4444"  # Red - stale
     
-    return f'<sup><span title="{time_str}" style="cursor: help; color: {color};">●</span></sup>'
+    return (
+        f'<br><small title="{time_str}" '
+        f'style="cursor: help; color: {color}; font-size: 0.65em;">'
+        f'Updated {time_str}'
+        f'</small>'
+    )
 
 
 def github_headers() -> Dict[str, str]:
@@ -169,7 +174,7 @@ def fetch_branch_count(org: str, repo: str) -> int:
 def main() -> None:
     # Support multiple organizations - can be comma-separated env var or default list
     orgs_env = os.getenv("GITHUB_ORGS")
-    orgs_env = "subhamay-bhattacharyya,subhamay-bhattacharyya-gha"
+    orgs_env = "subhamay-bhattacharyya,subhamay-bhattacharyya-gha, subhamay-bhattacharyya-tf"
     if orgs_env:
         orgs = [org.strip() for org in orgs_env.split(",")]
     else:
@@ -205,7 +210,12 @@ def main() -> None:
                     est_time = utc_time.astimezone(ZoneInfo("America/New_York"))
                     last_updated = get_relative_time_with_color(est_time)
                 else:
-                    last_updated = '<sup><span title="N/A" style="cursor: help; color: #6b7280;">●</span></sup>'
+                    last_updated = (
+                        '<br><small title="N/A" '
+                        'style="cursor: help; color: #6b7280; font-size: 0.65em;">'
+                        'Updated N/A'
+                        '</small>'
+                    )
                 
                 repo_details = {
                     "name": name,
