@@ -4,6 +4,7 @@ import os
 import sys
 import json
 import requests
+from urllib.parse import quote
 from typing import Dict, List
 from pprint import pprint
 from datetime import datetime, timedelta
@@ -66,11 +67,16 @@ def get_relative_time_with_color(dt: datetime) -> str:
     else:
         color = "#ef4444"  # Red - stale
     
+    badge_message = quote(time_str)
+    badge_color = color.lstrip("#")
+    badge_url = (
+        f"https://img.shields.io/badge/Updated-{badge_message}-{badge_color}"
+        "?style=flat"
+    )
+
     return (
-        f'<br><small title="{time_str}" '
-        f'style="cursor: help; color: {color}; font-size: 0.65em;">'
-        f'Updated {time_str}'
-        f'</small>'
+        f'<br><sub><img alt="Updated {time_str}" '
+        f'src="{badge_url}" title="Updated {time_str}" /></sub>'
     )
 
 
@@ -211,10 +217,9 @@ def main() -> None:
                     last_updated = get_relative_time_with_color(est_time)
                 else:
                     last_updated = (
-                        '<br><small title="N/A" '
-                        'style="cursor: help; color: #6b7280; font-size: 0.65em;">'
-                        'Updated N/A'
-                        '</small>'
+                        '<br><sub><img alt="Updated N/A" '
+                        'src="https://img.shields.io/badge/Updated-N%2FA-6b7280?style=flat" '
+                        'title="Updated N/A" /></sub>'
                     )
                 
                 repo_details = {
