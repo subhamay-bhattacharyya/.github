@@ -85,12 +85,13 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 ## 📦 Repository Categories
 
-**Legend:** ⚪ Initialized · 🟡 In Progress · 🟢 Complete · 🔴 Blocked
+**Legend:** ⚪ Initialized &nbsp; 🟡 In Progress &nbsp; 🟢 Complete &nbsp; 🔴 Blocked
 
-**Update Age:** <img alt="Updated < 7 days" src="https://img.shields.io/badge/Updated-%3C%207%20days-22c55e?style=flat" /> · <img alt="Updated 7-30 days" src="https://img.shields.io/badge/Updated-7--30%20days-eab308?style=flat" /> · <img alt="Updated 30-90 days" src="https://img.shields.io/badge/Updated-30--90%20days-f97316?style=flat" /> · <img alt="Updated > 90 days" src="https://img.shields.io/badge/Updated-%3E%2090%20days-ef4444?style=flat" />
+**Update Age:** <img alt="Updated < 7 days" src="https://img.shields.io/badge/Updated-%3C%207%20days-22c55e?style=flat" /> &nbsp; <img alt="Updated 7-30 days" src="https://img.shields.io/badge/Updated-7--30%20days-eab308?style=flat" /> &nbsp; <img alt="Updated 30-90 days" src="https://img.shields.io/badge/Updated-30--90%20days-f97316?style=flat" /> &nbsp; <img alt="Updated > 90 days" src="https://img.shields.io/badge/Updated-%3E%2090%20days-ef4444?style=flat" />
 
 {% for category, repositories in repos_by_category.items() %}
-### <span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ {{ category }}</span>
+<details{% if loop.first %} open{% endif %}>
+<summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ {{ category }}</span></h3></summary>
 
 | Repository | Description | Status | Stats |
 |------------|-------------|--------|-------|
@@ -98,7 +99,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 {% set branches = repo.branches if repo.branches is not none else 0 -%}
 {% set issues = repo.open_issues if repo.open_issues is not none else 0 -%}
 {% set prs = repo.open_prs if repo.open_prs is not none else 0 -%}
-{% set last_updated = repo.last_updated if repo.last_updated else '<sup><span title="N/A" style="cursor: help; color: #6b7280;">●</span></sup>' -%}
+{% set last_updated = repo.last_updated if repo.last_updated else '<sup><span title="N/A" style="cursor: help; color: #6b7280;">&nbsp;</span></sup>' -%}
 {% set size = repo.size_mb if repo.size_mb else '0' -%}
 {% set s = (repo.status or 'unknown') | lower -%}
 {% if s in ['complete'] -%}
@@ -116,6 +117,8 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 {% endif -%}
 | [{{ repo.name }}]({{ repo.html_url }}){{ last_updated | safe }} | {{ repo.description[:80] if repo.description and repo.description|length > 80 else (repo.description or '—') }}{% if repo.description and repo.description|length > 80 %}...{% endif %} | {{ status_icon }} | 🌿 {{ branches }} • 🎫 {{ issues }} • 🔀 {{ prs }} • 💾 {{ size }} |
 {% endfor %}
+
+</details>
 
 {% endfor %}
 
