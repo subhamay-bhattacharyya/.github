@@ -15,7 +15,7 @@ GITHUB_API = "https://api.github.com"
 
 def get_relative_time_with_color(dt: datetime) -> str:
     """
-    Convert datetime to relative time string with color coding.
+    Convert datetime to a date string badge with color coding.
     Displays small, color-coded text on a new line.
     Color coding based on freshness:
     - Green: < 7 days
@@ -27,35 +27,10 @@ def get_relative_time_with_color(dt: datetime) -> str:
     diff = now - dt
     
     # Calculate time units
-    seconds = diff.total_seconds()
-    minutes = seconds / 60
-    hours = minutes / 60
     days = diff.days
-    weeks = days // 7
-    months = days // 30
-    years = days // 365
     
-    # Determine relative time string
-    if seconds < 60:
-        time_str = "just now"
-    elif minutes < 60:
-        count = int(minutes)
-        time_str = f"{count} minute{'s' if count != 1 else ''} ago"
-    elif hours < 24:
-        count = int(hours)
-        time_str = f"{count} hour{'s' if count != 1 else ''} ago"
-    elif days < 7:
-        count = days
-        time_str = f"{count} day{'s' if count != 1 else ''} ago"
-    elif weeks < 4:
-        count = weeks
-        time_str = f"{count} week{'s' if count != 1 else ''} ago"
-    elif months < 12:
-        count = months
-        time_str = f"{count} month{'s' if count != 1 else ''} ago"
-    else:
-        count = years
-        time_str = f"{count} year{'s' if count != 1 else ''} ago"
+    # Display the actual date instead of relative time
+    time_str = dt.strftime("%Y-%m-%d")
     
     # Determine flag color based on age
     if days < 7:
@@ -67,7 +42,8 @@ def get_relative_time_with_color(dt: datetime) -> str:
     else:
         color = "#ef4444"  # Red - stale
     
-    badge_message = quote(time_str)
+    # Shields uses '-' as a separator. Escape date dashes with '--'.
+    badge_message = quote(time_str.replace("-", "--"))
     badge_color = color.lstrip("#")
     badge_url = (
         f"https://img.shields.io/badge/Updated-{badge_message}-{badge_color}"
