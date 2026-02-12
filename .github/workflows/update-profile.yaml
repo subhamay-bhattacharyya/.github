@@ -64,7 +64,7 @@ jobs:
       - name: Fetch organization repositories
         id: fetch-repos
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python fetch_org_repos.py
 
