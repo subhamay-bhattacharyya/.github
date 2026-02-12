@@ -16,7 +16,7 @@ My work blends **hands-on engineering** with **architectural leadership**—from
 
 I’m currently developing a **multi-cloud Cloud Resume Challenge platform**, where the same production-grade architecture is deployed on:
 
-- **AWS** — S3, CloudFront, Route 53, Lambda, DynamoDB  
+- **AWS** — S3, CloudFront, Route 53, Lambda, DynamoDB, Kinesis, RDS, VPC, EC2, Athena, API Gateway, Glue, Step Functions, SNS, SQS, EventBridge, CloudWatch, IAM, KMS, Secrets Manager  
 - **GCP** — Cloud Storage, Cloud CDN, Cloud DNS, Workload Identity Federation  
 - **Azure** — Storage Static Website, Azure Front Door, Azure DNS  
 
@@ -233,5 +233,5 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 ---
 
-*Last generated: 2026-02-12 13:18:31 EST*  
+*Last generated: 2026-02-12 13:23:03 EST*  
 *Total repositories: 61*
