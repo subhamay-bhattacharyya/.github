@@ -16,7 +16,7 @@ My work blends **hands-on engineering** with **architectural leadership**—from
 
 I’m currently developing a **multi-cloud Cloud Resume Challenge platform**, where the same production-grade architecture is deployed on:
 
-- **AWS** — S3, CloudFront, Route 53, Lambda, DynamoDB  
+- **AWS** — S3, CloudFront, Route 53, Lambda, DynamoDB, Kinesis, RDS, VPC, EC2, Athena, API Gateway, Glue, Step Functions, SNS, SQS, EventBridge, CloudWatch, IAM, KMS, Secrets Manager  
 - **GCP** — Cloud Storage, Cloud CDN, Cloud DNS, Workload Identity Federation  
 - **Azure** — Storage Static Website, Azure Front Door, Azure DNS  
 
@@ -115,7 +115,19 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 {% else -%}
 {% set status_icon = '🔵' -%}
 {% endif -%}
-| [{{ repo.name }}]({{ repo.html_url }}){{ last_updated | safe }} | {{ repo.description[:80] if repo.description and repo.description|length > 80 else (repo.description or '—') }}{% if repo.description and repo.description|length > 80 %}...{% endif %} | {{ status_icon }} | 🌿 {{ branches }} • 🎫 {{ issues }} • 🔀 {{ prs }} • 💾 {{ size }} |
+{% set m = (repo.maturity or '') | lower -%}
+{% if m == 'stable' or m == 'production' -%}
+{% set maturity_color = '22c55e' -%}
+{% elif m == 'beta' -%}
+{% set maturity_color = '3b82f6' -%}
+{% elif m == 'experimental' -%}
+{% set maturity_color = 'f97316' -%}
+{% elif m == 'alpha' -%}
+{% set maturity_color = 'ef4444' -%}
+{% else -%}
+{% set maturity_color = '6b7280' -%}
+{% endif -%}
+| [{{ repo.name }}]({{ repo.html_url }}){{ last_updated | safe }} | {{ repo.description[:80] if repo.description and repo.description|length > 80 else (repo.description or '—') }}{% if repo.description and repo.description|length > 80 %}...{% endif %}{% if repo.maturity %}<br>![{{ repo.maturity }}](https://img.shields.io/badge/{{ repo.maturity }}-{{ maturity_color }}?style=flat){% endif %}{% if repo.notes %}<br><sub><sup>{{ repo.notes }}</sup></sub>{% endif %} | {{ status_icon }} | 🌿 {{ branches }} • 🎫 {{ issues }} • 🔀 {{ prs }} • 💾 {{ size }} |
 {% endfor %}
 
 </details>

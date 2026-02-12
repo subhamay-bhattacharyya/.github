@@ -114,11 +114,11 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-01\" src=\"https://img.shields.io/badge/Updated-2026--02--01-eab308?style=flat\" title=\"Updated 2026-02-01\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-11\" src=\"https://img.shields.io/badge/Updated-2026--02--11-22c55e?style=flat\" title=\"Updated 2026-02-11\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
-      "size_mb": "61 KB"
+      "size_mb": "62 KB"
     },
     {
       "name": "snowflake-de-iceberg-tables",
@@ -129,7 +129,7 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-02-01\" src=\"https://img.shields.io/badge/Updated-2026--02--01-eab308?style=flat\" title=\"Updated 2026-02-01\" /></sub>",
-      "open_issues": 1,
+      "open_issues": 2,
       "branches": 2,
       "open_prs": null,
       "size_mb": "61 KB"
@@ -156,8 +156,8 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-01\" src=\"https://img.shields.io/badge/Updated-2026--02--01-eab308?style=flat\" title=\"Updated 2026-02-01\" /></sub>",
-      "open_issues": 1,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-11\" src=\"https://img.shields.io/badge/Updated-2026--02--11-22c55e?style=flat\" title=\"Updated 2026-02-11\" /></sub>",
+      "open_issues": 2,
       "branches": 2,
       "open_prs": null,
       "size_mb": "61 KB"
@@ -170,7 +170,7 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-01\" src=\"https://img.shields.io/badge/Updated-2026--02--01-eab308?style=flat\" title=\"Updated 2026-02-01\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-11\" src=\"https://img.shields.io/badge/Updated-2026--02--11-22c55e?style=flat\" title=\"Updated 2026-02-11\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
@@ -184,7 +184,7 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-01\" src=\"https://img.shields.io/badge/Updated-2026--02--01-eab308?style=flat\" title=\"Updated 2026-02-01\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-11\" src=\"https://img.shields.io/badge/Updated-2026--02--11-22c55e?style=flat\" title=\"Updated 2026-02-11\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
@@ -268,7 +268,7 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-01\" src=\"https://img.shields.io/badge/Updated-2026--02--01-eab308?style=flat\" title=\"Updated 2026-02-01\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-11\" src=\"https://img.shields.io/badge/Updated-2026--02--11-22c55e?style=flat\" title=\"Updated 2026-02-11\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
@@ -296,8 +296,8 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-01\" src=\"https://img.shields.io/badge/Updated-2026--02--01-eab308?style=flat\" title=\"Updated 2026-02-01\" /></sub>",
-      "open_issues": 1,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-11\" src=\"https://img.shields.io/badge/Updated-2026--02--11-22c55e?style=flat\" title=\"Updated 2026-02-11\" /></sub>",
+      "open_issues": 2,
       "branches": 2,
       "open_prs": null,
       "size_mb": "61 KB"
@@ -422,8 +422,8 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-01\" src=\"https://img.shields.io/badge/Updated-2026--02--01-eab308?style=flat\" title=\"Updated 2026-02-01\" /></sub>",
-      "open_issues": 1,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-11\" src=\"https://img.shields.io/badge/Updated-2026--02--11-22c55e?style=flat\" title=\"Updated 2026-02-11\" /></sub>",
+      "open_issues": 2,
       "branches": 2,
       "open_prs": null,
       "size_mb": "61 KB"
@@ -624,11 +624,11 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2025-12-25\" src=\"https://img.shields.io/badge/Updated-2025--12--25-f97316?style=flat\" title=\"Updated 2025-12-25\" /></sub>",
-      "open_issues": 2,
-      "branches": 3,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-12\" src=\"https://img.shields.io/badge/Updated-2026--02--12-22c55e?style=flat\" title=\"Updated 2026-02-12\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
-      "size_mb": "285 KB"
+      "size_mb": "353 KB"
     },
     {
       "name": "tf-release-wf",
@@ -667,10 +667,10 @@
       "status": "Complete",
       "cloud_service_provider": "Snowflake",
       "maturity": "beta",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-09\" src=\"https://img.shields.io/badge/Updated-2026--02--09-22c55e?style=flat\" title=\"Updated 2026-02-09\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "notes": "Used in actual pipeline and working.",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-12\" src=\"https://img.shields.io/badge/Updated-2026--02--12-22c55e?style=flat\" title=\"Updated 2026-02-12\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
       "size_mb": "184 KB"
     },
@@ -682,7 +682,7 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-04\" src=\"https://img.shields.io/badge/Updated-2026--02--04-22c55e?style=flat\" title=\"Updated 2026-02-04\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-04\" src=\"https://img.shields.io/badge/Updated-2026--02--04-eab308?style=flat\" title=\"Updated 2026-02-04\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
@@ -722,13 +722,13 @@
       "description": "Terraform module to create and manage Snowflake databases and schemas using infrastructure as code.",
       "status": "Complete",
       "cloud_service_provider": "Snowflake",
-      "maturity": "alpha",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-07\" src=\"https://img.shields.io/badge/Updated-2026--02--07-22c55e?style=flat\" title=\"Updated 2026-02-07\" /></sub>",
-      "open_issues": 1,
-      "branches": 3,
+      "maturity": "beta",
+      "notes": "Single Module Structure implemented.",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-12\" src=\"https://img.shields.io/badge/Updated-2026--02--12-22c55e?style=flat\" title=\"Updated 2026-02-12\" /></sub>",
+      "open_issues": 0,
+      "branches": 2,
       "open_prs": null,
-      "size_mb": "154 KB"
+      "size_mb": "168 KB"
     },
     {
       "name": "terraform-snowflake-file-format",
@@ -856,7 +856,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
-      "size_mb": "0 KB"
+      "size_mb": "151 KB"
     },
     {
       "name": "terraform-aws-iam",
@@ -870,7 +870,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
-      "size_mb": "0 KB"
+      "size_mb": "26 KB"
     }
   ]
 }
