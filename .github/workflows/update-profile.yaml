@@ -2,12 +2,16 @@ name: Generate Profile
 
 on:
   workflow_dispatch:
+  schedule:
+    # Run every hour for testing (change to '0 0 * * *' for daily at midnight)
+    - cron: '0 * * * *'
   push:
     branches: [ "main" ]
 
 
 permissions:
   contents: write
+  pull-requests: write
 
 concurrency:
   group: generate-profile
@@ -25,6 +29,23 @@ jobs:
       - name: Checkout Repo
         id: checkout
         uses: actions/checkout@v6
+        with:
+          fetch-depth: 0  # Fetch all history for proper branching
+
+      - name: Create or checkout feature branch
+        id: create-branch
+        working-directory: .
+        run: |
+          BRANCH_NAME="update-profile-$(date +%Y%m%d)"
+          git fetch origin
+          if git rev-parse --verify origin/$BRANCH_NAME >/dev/null 2>&1; then
+            echo "Branch $BRANCH_NAME already exists, checking it out"
+            git checkout $BRANCH_NAME
+          else
+            echo "Creating new branch $BRANCH_NAME"
+            git checkout -b $BRANCH_NAME
+          fi
+          echo "branch_name=$BRANCH_NAME" >> $GITHUB_OUTPUT
 
       - name: Set up Python
         id: setup-python
@@ -40,26 +61,50 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: Run generator (starter)
-        id: run-generator
+      - name: Fetch organization repositories
+        id: fetch-repos
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python fetch_org_repos.py
+
+      - name: Generate profile README
+        id: generate-profile
         run: |
           python generate_profile.py
 
-      - name: Execute profile generator
-        id: execute-profile-generator
-        run: |
-          python generate_profile.py
-
-      - name: Commit and push generated README
+      - name: Commit and push to feature branch
         id: commit-push-readme
         working-directory: .
         run: |
+          BRANCH_NAME="${{ steps.create-branch.outputs.branch_name }}"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add profile/README.md
+          git add profile/README.md out/repos_by_category.json
           if git diff --staged --quiet; then
             echo "No changes to commit"
+            echo "has_changes=false" >> $GITHUB_OUTPUT
           else
-            git commit -m "Update profile README [automated]"
-            git push
+            git commit -m "Update profile README [automated] - $(date +%Y-%m-%d)"
+            git push -u origin $BRANCH_NAME
+            echo "has_changes=true" >> $GITHUB_OUTPUT
           fi
+
+      - name: Merge to main
+        id: merge-to-main
+        if: steps.commit-push-readme.outputs.has_changes == 'true'
+        working-directory: .
+        run: |
+          BRANCH_NAME="${{ steps.create-branch.outputs.branch_name }}"
+          git fetch origin main
+          git checkout main
+          git merge $BRANCH_NAME --no-ff -m "Merge profile update from $BRANCH_NAME [automated]"
+          git push origin main
+          
+      - name: Delete feature branch
+        id: delete-branch
+        if: steps.commit-push-readme.outputs.has_changes == 'true'
+        working-directory: .
+        run: |
+          BRANCH_NAME="${{ steps.create-branch.outputs.branch_name }}"
+          git push origin --delete $BRANCH_NAME || echo "Branch already deleted or doesn't exist remotely"
