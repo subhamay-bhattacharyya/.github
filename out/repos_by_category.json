@@ -760,7 +760,7 @@
       "open_issues": 0,
       "branches": 1,
       "open_prs": null,
-      "size_mb": "257 KB"
+      "size_mb": "236 KB"
     },
     {
       "name": "terraform-snowflake-external-volume",
@@ -785,8 +785,8 @@
       "maturity": "beta",
       "notes": "Working as expected.",
       "last_updated": "<br><sub><img alt=\"Updated 2026-02-24\" src=\"https://img.shields.io/badge/Updated-2026--02--24-22c55e?style=flat\" title=\"Updated 2026-02-24\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
       "size_mb": "178 KB"
     },
@@ -799,10 +799,10 @@
       "maturity": "stable",
       "notes": "Working as expected.",
       "last_updated": "<br><sub><img alt=\"Updated 2026-02-24\" src=\"https://img.shields.io/badge/Updated-2026--02--24-22c55e?style=flat\" title=\"Updated 2026-02-24\" /></sub>",
-      "open_issues": 1,
+      "open_issues": 0,
       "branches": 2,
       "open_prs": null,
-      "size_mb": "115 KB"
+      "size_mb": "118 KB"
     },
     {
       "name": "terraform-snowflake-file-format",
@@ -841,8 +841,8 @@
       "maturity": "beta",
       "notes": "Working but needs grant added.",
       "last_updated": "<br><sub><img alt=\"Updated 2026-02-24\" src=\"https://img.shields.io/badge/Updated-2026--02--24-22c55e?style=flat\" title=\"Updated 2026-02-24\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
       "size_mb": "286 KB"
     },
@@ -896,11 +896,11 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "stable",
       "notes": "Working as expected.",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-18\" src=\"https://img.shields.io/badge/Updated-2026--02--18-22c55e?style=flat\" title=\"Updated 2026-02-18\" /></sub>",
-      "open_issues": 1,
-      "branches": 3,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-24\" src=\"https://img.shields.io/badge/Updated-2026--02--24-22c55e?style=flat\" title=\"Updated 2026-02-24\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
-      "size_mb": "118 KB"
+      "size_mb": "119 KB"
     }
   ],
   "Terraform AWS Module": [
