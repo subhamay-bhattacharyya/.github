@@ -830,7 +830,7 @@
       "open_issues": 0,
       "branches": 1,
       "open_prs": null,
-      "size_mb": "127 KB"
+      "size_mb": "128 KB"
     },
     {
       "name": "terraform-snowflake-pipe",
@@ -840,9 +840,9 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "beta",
       "notes": "Working but needs grant added.",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-20\" src=\"https://img.shields.io/badge/Updated-2026--02--20-22c55e?style=flat\" title=\"Updated 2026-02-20\" /></sub>",
-      "open_issues": 3,
-      "branches": 4,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-24\" src=\"https://img.shields.io/badge/Updated-2026--02--24-22c55e?style=flat\" title=\"Updated 2026-02-24\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
       "size_mb": "267 KB"
     },
