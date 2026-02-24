@@ -12,6 +12,7 @@
       "open_issues": 3,
       "branches": 4,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "177 KB"
     },
     {
@@ -26,6 +27,7 @@
       "open_issues": 3,
       "branches": 4,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "166 KB"
     },
     {
@@ -40,7 +42,8 @@
       "open_issues": 2,
       "branches": 3,
       "open_prs": null,
-      "size_mb": "175 KB"
+      "latest_release_tag": "Rel-004-20260129194422",
+      "size_mb": "185 KB"
     }
   ],
   "Athena": [
@@ -56,6 +59,7 @@
       "open_issues": 3,
       "branches": 4,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "172 KB"
     }
   ],
@@ -72,6 +76,7 @@
       "open_issues": 3,
       "branches": 3,
       "open_prs": null,
+      "latest_release_tag": "Rel-003-20260123214855",
       "size_mb": "198 KB"
     }
   ],
@@ -88,6 +93,7 @@
       "open_issues": 3,
       "branches": 3,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "166 KB"
     }
   ],
@@ -104,6 +110,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "151 KB"
     },
     {
@@ -118,6 +125,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "302 KB"
     },
     {
@@ -132,6 +140,7 @@
       "open_issues": 2,
       "branches": 3,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "203 KB"
     }
   ],
@@ -148,6 +157,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "61 KB"
     },
     {
@@ -162,6 +172,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "62 KB"
     },
     {
@@ -176,6 +187,7 @@
       "open_issues": 2,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "61 KB"
     },
     {
@@ -190,6 +202,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "61 KB"
     },
     {
@@ -204,6 +217,7 @@
       "open_issues": 2,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "61 KB"
     },
     {
@@ -218,6 +232,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "61 KB"
     },
     {
@@ -232,6 +247,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "61 KB"
     },
     {
@@ -246,6 +262,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "61 KB"
     },
     {
@@ -260,6 +277,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "61 KB"
     },
     {
@@ -274,6 +292,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "61 KB"
     },
     {
@@ -288,6 +307,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "61 KB"
     },
     {
@@ -302,6 +322,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "61 KB"
     },
     {
@@ -316,6 +337,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "61 KB"
     },
     {
@@ -330,6 +352,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "61 KB"
     },
     {
@@ -344,6 +367,7 @@
       "open_issues": 2,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "61 KB"
     },
     {
@@ -358,6 +382,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "61 KB"
     },
     {
@@ -372,6 +397,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "61 KB"
     },
     {
@@ -386,6 +412,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "61 KB"
     },
     {
@@ -400,6 +427,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "61 KB"
     },
     {
@@ -414,6 +442,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "61 KB"
     },
     {
@@ -428,6 +457,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "61 KB"
     },
     {
@@ -442,6 +472,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "61 KB"
     },
     {
@@ -456,6 +487,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "61 KB"
     },
     {
@@ -470,6 +502,7 @@
       "open_issues": 2,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "61 KB"
     },
     {
@@ -484,6 +517,7 @@
       "open_issues": 0,
       "branches": 1,
       "open_prs": null,
+      "latest_release_tag": "Rel-001-20260203171811",
       "size_mb": "125 KB"
     },
     {
@@ -498,6 +532,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "60 KB"
     },
     {
@@ -512,6 +547,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "113 KB"
     }
   ],
@@ -528,6 +564,7 @@
       "open_issues": 2,
       "branches": 3,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "274 KB"
     }
   ],
@@ -544,6 +581,7 @@
       "open_issues": 1,
       "branches": 1,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "233 KB"
     }
   ],
@@ -560,6 +598,7 @@
       "open_issues": 1,
       "branches": 3,
       "open_prs": null,
+      "latest_release_tag": "1.0.0",
       "size_mb": "465 KB"
     },
     {
@@ -574,6 +613,7 @@
       "open_issues": 3,
       "branches": 4,
       "open_prs": null,
+      "latest_release_tag": "v1.1.0",
       "size_mb": "313 KB"
     },
     {
@@ -588,6 +628,7 @@
       "open_issues": 5,
       "branches": 6,
       "open_prs": null,
+      "latest_release_tag": "v1.0.0",
       "size_mb": "456 KB"
     },
     {
@@ -602,6 +643,7 @@
       "open_issues": 2,
       "branches": 3,
       "open_prs": null,
+      "latest_release_tag": "v1.1.0",
       "size_mb": "158 KB"
     },
     {
@@ -616,6 +658,7 @@
       "open_issues": 4,
       "branches": 5,
       "open_prs": null,
+      "latest_release_tag": "v1.2.1",
       "size_mb": "308 KB"
     },
     {
@@ -630,6 +673,7 @@
       "open_issues": 4,
       "branches": 5,
       "open_prs": null,
+      "latest_release_tag": "v1.2.0",
       "size_mb": "427 KB"
     },
     {
@@ -644,6 +688,7 @@
       "open_issues": 4,
       "branches": 5,
       "open_prs": null,
+      "latest_release_tag": "v1.1.0",
       "size_mb": "215 KB"
     },
     {
@@ -658,6 +703,7 @@
       "open_issues": 6,
       "branches": 7,
       "open_prs": null,
+      "latest_release_tag": "v1.0.0",
       "size_mb": "224 KB"
     },
     {
@@ -672,6 +718,7 @@
       "open_issues": 3,
       "branches": 4,
       "open_prs": null,
+      "latest_release_tag": "v1.0.0",
       "size_mb": "215 KB"
     }
   ],
@@ -688,6 +735,7 @@
       "open_issues": 4,
       "branches": 5,
       "open_prs": null,
+      "latest_release_tag": "v1.0.0",
       "size_mb": "145 KB"
     },
     {
@@ -702,6 +750,7 @@
       "open_issues": 3,
       "branches": 4,
       "open_prs": null,
+      "latest_release_tag": "v1.0.3",
       "size_mb": "237 KB"
     },
     {
@@ -716,6 +765,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": "v1.0.1",
       "size_mb": "418 KB"
     },
     {
@@ -730,6 +780,7 @@
       "open_issues": 7,
       "branches": 8,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "273 KB"
     },
     {
@@ -744,6 +795,7 @@
       "open_issues": 3,
       "branches": 4,
       "open_prs": null,
+      "latest_release_tag": "v1.0.0",
       "size_mb": "283 KB"
     }
   ],
@@ -760,6 +812,7 @@
       "open_issues": 0,
       "branches": 1,
       "open_prs": null,
+      "latest_release_tag": "v3.0.0",
       "size_mb": "236 KB"
     },
     {
@@ -774,6 +827,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "77 KB"
     },
     {
@@ -788,7 +842,8 @@
       "open_issues": 0,
       "branches": 1,
       "open_prs": null,
-      "size_mb": "178 KB"
+      "latest_release_tag": "v1.1.0",
+      "size_mb": "181 KB"
     },
     {
       "name": "terraform-snowflake-database-schema",
@@ -802,6 +857,7 @@
       "open_issues": 0,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": "v1.3.0",
       "size_mb": "118 KB"
     },
     {
@@ -816,6 +872,7 @@
       "open_issues": 0,
       "branches": 1,
       "open_prs": null,
+      "latest_release_tag": "v1.2.0",
       "size_mb": "96 KB"
     },
     {
@@ -830,6 +887,7 @@
       "open_issues": 0,
       "branches": 1,
       "open_prs": null,
+      "latest_release_tag": "v1.2.0",
       "size_mb": "128 KB"
     },
     {
@@ -839,12 +897,13 @@
       "status": "Complete",
       "cloud_service_provider": "Snowflake",
       "maturity": "beta",
-      "notes": "Working but needs grant added.",
+      "notes": "Working as expected.",
       "last_updated": "<br><sub><img alt=\"Updated 2026-02-24\" src=\"https://img.shields.io/badge/Updated-2026--02--24-22c55e?style=flat\" title=\"Updated 2026-02-24\" /></sub>",
       "open_issues": 0,
       "branches": 1,
       "open_prs": null,
-      "size_mb": "286 KB"
+      "latest_release_tag": "v2.1.0",
+      "size_mb": "105 KB"
     },
     {
       "name": "terraform-snowflake-task",
@@ -858,6 +917,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
+      "latest_release_tag": "v1.0.0",
       "size_mb": "180 KB"
     },
     {
@@ -872,6 +932,7 @@
       "open_issues": 0,
       "branches": 1,
       "open_prs": null,
+      "latest_release_tag": "v1.2.0",
       "size_mb": "105 KB"
     },
     {
@@ -886,6 +947,7 @@
       "open_issues": 0,
       "branches": 1,
       "open_prs": null,
+      "latest_release_tag": "v1.0.0",
       "size_mb": "127 KB"
     },
     {
@@ -900,6 +962,7 @@
       "open_issues": 0,
       "branches": 1,
       "open_prs": null,
+      "latest_release_tag": "v3.0.0",
       "size_mb": "119 KB"
     }
   ],
@@ -916,6 +979,7 @@
       "open_issues": 0,
       "branches": 1,
       "open_prs": null,
+      "latest_release_tag": "v1.0.0",
       "size_mb": "178 KB"
     },
     {
@@ -930,6 +994,7 @@
       "open_issues": 0,
       "branches": 1,
       "open_prs": null,
+      "latest_release_tag": "v1.0.0",
       "size_mb": "105 KB"
     },
     {
@@ -944,6 +1009,7 @@
       "open_issues": 2,
       "branches": 3,
       "open_prs": null,
+      "latest_release_tag": null,
       "size_mb": "78 KB"
     }
   ]
