@@ -760,7 +760,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
-      "size_mb": "252 KB"
+      "size_mb": "257 KB"
     },
     {
       "name": "terraform-snowflake-external-volume",
@@ -802,7 +802,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
-      "size_mb": "107 KB"
+      "size_mb": "115 KB"
     },
     {
       "name": "terraform-snowflake-file-format",
