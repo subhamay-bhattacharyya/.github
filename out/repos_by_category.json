@@ -841,10 +841,10 @@
       "maturity": "beta",
       "notes": "Working but needs grant added.",
       "last_updated": "<br><sub><img alt=\"Updated 2026-02-24\" src=\"https://img.shields.io/badge/Updated-2026--02--24-22c55e?style=flat\" title=\"Updated 2026-02-24\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
-      "size_mb": "267 KB"
+      "size_mb": "278 KB"
     },
     {
       "name": "terraform-snowflake-task",
@@ -897,8 +897,8 @@
       "maturity": "stable",
       "notes": "Working as expected.",
       "last_updated": "<br><sub><img alt=\"Updated 2026-02-18\" src=\"https://img.shields.io/badge/Updated-2026--02--18-22c55e?style=flat\" title=\"Updated 2026-02-18\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 1,
+      "branches": 3,
       "open_prs": null,
       "size_mb": "106 KB"
     }
