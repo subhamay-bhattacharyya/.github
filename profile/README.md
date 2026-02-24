@@ -139,17 +139,6 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 </details>
 
 <details>
-<summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ Terraform Template Repository</span></h3></summary>
-
-| Repository | Description | Status | Stats |
-|------------|-------------|--------|-------|
-| [snowflake-terraform-template](https://github.com/subhamay-bhattacharyya/snowflake-terraform-template)<br><sub><img alt="Updated 2026-02-01" src="https://img.shields.io/badge/Updated-2026--02--01-eab308?style=flat" title="Updated 2026-02-01" /></sub> | 📄🎯 GitHub Repository Template for Snowflake using Terraform as IaC.<br>![experimental](https://img.shields.io/badge/experimental-f97316?style=flat)<br><sub><sup>Not Available</sup></sub> | 🟡 | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> 2 • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> 1 • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> 0 • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> 151 KB |
-| [terraform-snowflake-module-template](https://github.com/subhamay-bhattacharyya-tf/terraform-snowflake-module-template)<br><sub><img alt="Updated 2026-02-09" src="https://img.shields.io/badge/Updated-2026--02--09-eab308?style=flat" title="Updated 2026-02-09" /></sub> | Terraform Snowflake module GitHub repository template<br>![beta](https://img.shields.io/badge/beta-3b82f6?style=flat)<br><sub><sup>Not Available</sup></sub> | 🟢 | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> 2 • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> 1 • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> 0 • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> 302 KB |
-| [terraform-aws-module-template](https://github.com/subhamay-bhattacharyya-tf/terraform-aws-module-template)<br><sub><img alt="Updated 2026-02-10" src="https://img.shields.io/badge/Updated-2026--02--10-eab308?style=flat" title="Updated 2026-02-10" /></sub> | Terraform AWS Module Template<br>![beta](https://img.shields.io/badge/beta-3b82f6?style=flat)<br><sub><sup>Not Available</sup></sub> | 🟢 | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> 3 • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> 2 • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> 0 • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> 203 KB |
-
-</details>
-
-<details>
 <summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ Snowflake Demo</span></h3></summary>
 
 | Repository | Description | Status | Stats |
@@ -265,5 +254,5 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 ---
 
-*Last generated: 2026-02-24 09:49:44 EST*  
+*Last generated: 2026-02-24 10:20:49 EST*  
 *Total repositories: 66*
