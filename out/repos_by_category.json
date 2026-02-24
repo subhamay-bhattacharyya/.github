@@ -788,7 +788,7 @@
       "open_issues": 1,
       "branches": 1,
       "open_prs": null,
-      "size_mb": "156 KB"
+      "size_mb": "169 KB"
     },
     {
       "name": "terraform-snowflake-database-schema",
@@ -858,7 +858,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
-      "size_mb": "179 KB"
+      "size_mb": "180 KB"
     },
     {
       "name": "terraform-snowflake-stage",
@@ -886,7 +886,7 @@
       "open_issues": 0,
       "branches": 1,
       "open_prs": null,
-      "size_mb": "126 KB"
+      "size_mb": "127 KB"
     },
     {
       "name": "terraform-snowflake-table",
