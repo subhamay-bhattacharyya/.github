@@ -786,7 +786,7 @@
       "notes": "Working as expected.",
       "last_updated": "<br><sub><img alt=\"Updated 2026-02-24\" src=\"https://img.shields.io/badge/Updated-2026--02--24-22c55e?style=flat\" title=\"Updated 2026-02-24\" /></sub>",
       "open_issues": 1,
-      "branches": 1,
+      "branches": 2,
       "open_prs": null,
       "size_mb": "169 KB"
     },
@@ -844,7 +844,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
-      "size_mb": "278 KB"
+      "size_mb": "286 KB"
     },
     {
       "name": "terraform-snowflake-task",
@@ -900,7 +900,7 @@
       "open_issues": 1,
       "branches": 3,
       "open_prs": null,
-      "size_mb": "106 KB"
+      "size_mb": "118 KB"
     }
   ],
   "Terraform AWS Module": [
