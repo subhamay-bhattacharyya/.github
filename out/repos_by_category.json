@@ -22,7 +22,7 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "Current - Repository Initialized. Next - Create the entire stack.",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-01-16\" src=\"https://img.shields.io/badge/Updated-2026--01--16-eab308?style=flat\" title=\"Updated 2026-01-16\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-01-16\" src=\"https://img.shields.io/badge/Updated-2026--01--16-f97316?style=flat\" title=\"Updated 2026-01-16\" /></sub>",
       "open_issues": 3,
       "branches": 4,
       "open_prs": null,
@@ -40,7 +40,7 @@
       "open_issues": 2,
       "branches": 3,
       "open_prs": null,
-      "size_mb": "163 KB"
+      "size_mb": "175 KB"
     }
   ],
   "Athena": [
@@ -52,7 +52,7 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "Done - S3 bucket created. Next - Create Athena tables",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-01-21\" src=\"https://img.shields.io/badge/Updated-2026--01--21-eab308?style=flat\" title=\"Updated 2026-01-21\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-01-21\" src=\"https://img.shields.io/badge/Updated-2026--01--21-f97316?style=flat\" title=\"Updated 2026-01-21\" /></sub>",
       "open_issues": 3,
       "branches": 4,
       "open_prs": null,
@@ -68,7 +68,7 @@
       "cloud_service_provider": "Databricks",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-01-23\" src=\"https://img.shields.io/badge/Updated-2026--01--23-eab308?style=flat\" title=\"Updated 2026-01-23\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-01-23\" src=\"https://img.shields.io/badge/Updated-2026--01--23-f97316?style=flat\" title=\"Updated 2026-01-23\" /></sub>",
       "open_issues": 3,
       "branches": 3,
       "open_prs": null,
@@ -114,7 +114,7 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-11\" src=\"https://img.shields.io/badge/Updated-2026--02--11-22c55e?style=flat\" title=\"Updated 2026-02-11\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-11\" src=\"https://img.shields.io/badge/Updated-2026--02--11-eab308?style=flat\" title=\"Updated 2026-02-11\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
@@ -156,7 +156,7 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-11\" src=\"https://img.shields.io/badge/Updated-2026--02--11-22c55e?style=flat\" title=\"Updated 2026-02-11\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-11\" src=\"https://img.shields.io/badge/Updated-2026--02--11-eab308?style=flat\" title=\"Updated 2026-02-11\" /></sub>",
       "open_issues": 2,
       "branches": 2,
       "open_prs": null,
@@ -170,7 +170,7 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-11\" src=\"https://img.shields.io/badge/Updated-2026--02--11-22c55e?style=flat\" title=\"Updated 2026-02-11\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-11\" src=\"https://img.shields.io/badge/Updated-2026--02--11-eab308?style=flat\" title=\"Updated 2026-02-11\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
@@ -184,7 +184,7 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-11\" src=\"https://img.shields.io/badge/Updated-2026--02--11-22c55e?style=flat\" title=\"Updated 2026-02-11\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-11\" src=\"https://img.shields.io/badge/Updated-2026--02--11-eab308?style=flat\" title=\"Updated 2026-02-11\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
@@ -268,7 +268,7 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-11\" src=\"https://img.shields.io/badge/Updated-2026--02--11-22c55e?style=flat\" title=\"Updated 2026-02-11\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-11\" src=\"https://img.shields.io/badge/Updated-2026--02--11-eab308?style=flat\" title=\"Updated 2026-02-11\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
@@ -296,7 +296,7 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-11\" src=\"https://img.shields.io/badge/Updated-2026--02--11-22c55e?style=flat\" title=\"Updated 2026-02-11\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-21\" src=\"https://img.shields.io/badge/Updated-2026--02--21-22c55e?style=flat\" title=\"Updated 2026-02-21\" /></sub>",
       "open_issues": 2,
       "branches": 2,
       "open_prs": null,
@@ -422,7 +422,7 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-11\" src=\"https://img.shields.io/badge/Updated-2026--02--11-22c55e?style=flat\" title=\"Updated 2026-02-11\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-11\" src=\"https://img.shields.io/badge/Updated-2026--02--11-eab308?style=flat\" title=\"Updated 2026-02-11\" /></sub>",
       "open_issues": 2,
       "branches": 2,
       "open_prs": null,
@@ -441,6 +441,34 @@
       "branches": 1,
       "open_prs": null,
       "size_mb": "125 KB"
+    },
+    {
+      "name": "snowflake-de-dynamic-table-basic",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-de-dynamic-table-basic",
+      "description": "\ud83c\udfafDynamic Table Lab 1: Implement Basic Dynamic Table with Incremental Refresh",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-21\" src=\"https://img.shields.io/badge/Updated-2026--02--21-22c55e?style=flat\" title=\"Updated 2026-02-21\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "60 KB"
+    },
+    {
+      "name": "snowflake-de-basic-snowpipe",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-de-basic-snowpipe",
+      "description": "Terraform-first implementation of Snowflake Basic Snowpipe, demonstrating infrastructure provisioning via external modules and JSON-driven configuration. Focuses on basic pipes (manual refresh) with COPY INTO, stage, file format, table, and ingestion validation workflows.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-23\" src=\"https://img.shields.io/badge/Updated-2026--02--23-22c55e?style=flat\" title=\"Updated 2026-02-23\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "size_mb": "113 KB"
     }
   ],
   "Google Compute Engine": [
@@ -452,11 +480,27 @@
       "cloud_service_provider": "Google Cloud Platform",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-05\" src=\"https://img.shields.io/badge/Updated-2026--02--05-22c55e?style=flat\" title=\"Updated 2026-02-05\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-05\" src=\"https://img.shields.io/badge/Updated-2026--02--05-eab308?style=flat\" title=\"Updated 2026-02-05\" /></sub>",
       "open_issues": 2,
       "branches": 3,
       "open_prs": null,
       "size_mb": "274 KB"
+    }
+  ],
+  "Storage": [
+    {
+      "name": "s3-storage-best-practice",
+      "html_url": "https://github.com/subhamay-bhattacharyya/s3-storage-best-practice",
+      "description": "S3 Security Best Practices using Terraform.",
+      "status": "In Progress",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Terraform test not added to CI pipeline",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-18\" src=\"https://img.shields.io/badge/Updated-2026--02--18-22c55e?style=flat\" title=\"Updated 2026-02-18\" /></sub>",
+      "open_issues": 1,
+      "branches": 1,
+      "open_prs": null,
+      "size_mb": "233 KB"
     }
   ],
   "GitHub Reusable Action": [
@@ -514,7 +558,7 @@
       "open_issues": 2,
       "branches": 3,
       "open_prs": null,
-      "size_mb": "486 KB"
+      "size_mb": "158 KB"
     },
     {
       "name": "tf-plan-action",
@@ -524,7 +568,7 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Current - Working for AWS,Azure, GCP, Databricks. Next-Test for Snowflake",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-01-23\" src=\"https://img.shields.io/badge/Updated-2026--01--23-eab308?style=flat\" title=\"Updated 2026-01-23\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-01-23\" src=\"https://img.shields.io/badge/Updated-2026--01--23-f97316?style=flat\" title=\"Updated 2026-01-23\" /></sub>",
       "open_issues": 4,
       "branches": 5,
       "open_prs": null,
@@ -538,7 +582,7 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-01-23\" src=\"https://img.shields.io/badge/Updated-2026--01--23-eab308?style=flat\" title=\"Updated 2026-01-23\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-01-23\" src=\"https://img.shields.io/badge/Updated-2026--01--23-f97316?style=flat\" title=\"Updated 2026-01-23\" /></sub>",
       "open_issues": 4,
       "branches": 5,
       "open_prs": null,
@@ -552,11 +596,11 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-01-23\" src=\"https://img.shields.io/badge/Updated-2026--01--23-eab308?style=flat\" title=\"Updated 2026-01-23\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-01-23\" src=\"https://img.shields.io/badge/Updated-2026--01--23-f97316?style=flat\" title=\"Updated 2026-01-23\" /></sub>",
       "open_issues": 4,
       "branches": 5,
       "open_prs": null,
-      "size_mb": "160 KB"
+      "size_mb": "215 KB"
     },
     {
       "name": "tf-yor-action",
@@ -600,7 +644,7 @@
       "open_issues": 4,
       "branches": 5,
       "open_prs": null,
-      "size_mb": "457 KB"
+      "size_mb": "145 KB"
     },
     {
       "name": "tf-ci-reusable-wf",
@@ -610,7 +654,7 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Current - Working for AWS,Azure, GCP, Databricks. Next-Test for Snowflake",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-01-23\" src=\"https://img.shields.io/badge/Updated-2026--01--23-eab308?style=flat\" title=\"Updated 2026-01-23\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-01-23\" src=\"https://img.shields.io/badge/Updated-2026--01--23-f97316?style=flat\" title=\"Updated 2026-01-23\" /></sub>",
       "open_issues": 3,
       "branches": 4,
       "open_prs": null,
@@ -624,11 +668,11 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-12\" src=\"https://img.shields.io/badge/Updated-2026--02--12-22c55e?style=flat\" title=\"Updated 2026-02-12\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-12\" src=\"https://img.shields.io/badge/Updated-2026--02--12-eab308?style=flat\" title=\"Updated 2026-02-12\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
-      "size_mb": "353 KB"
+      "size_mb": "418 KB"
     },
     {
       "name": "tf-release-wf",
@@ -652,7 +696,7 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-01-23\" src=\"https://img.shields.io/badge/Updated-2026--01--23-eab308?style=flat\" title=\"Updated 2026-01-23\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-01-23\" src=\"https://img.shields.io/badge/Updated-2026--01--23-f97316?style=flat\" title=\"Updated 2026-01-23\" /></sub>",
       "open_issues": 3,
       "branches": 4,
       "open_prs": null,
@@ -663,16 +707,16 @@
     {
       "name": "terraform-snowflake-warehouse",
       "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-snowflake-warehouse",
-      "description": "Terraform module to manage Snowflake warehouses with configurable sizing, scaling, auto-suspend, and cost controls.",
+      "description": "\u2705 Terraform module to manage Snowflake warehouses with configurable sizing, scaling, auto-suspend, and cost controls.",
       "status": "Complete",
       "cloud_service_provider": "Snowflake",
       "maturity": "beta",
       "notes": "Used in actual pipeline and working.",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-12\" src=\"https://img.shields.io/badge/Updated-2026--02--12-22c55e?style=flat\" title=\"Updated 2026-02-12\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-18\" src=\"https://img.shields.io/badge/Updated-2026--02--18-22c55e?style=flat\" title=\"Updated 2026-02-18\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
-      "size_mb": "184 KB"
+      "size_mb": "252 KB"
     },
     {
       "name": "terraform-snowflake-external-volume",
@@ -691,16 +735,16 @@
     {
       "name": "terraform-snowflake-dynamic-table",
       "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-snowflake-dynamic-table",
-      "description": "Terraform module to manage Snowflake dynamic table.",
+      "description": "\ud83c\udfaf Terraform module to manage Snowflake dynamic table.",
       "status": "Initialized",
       "cloud_service_provider": "Snowflake",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-07\" src=\"https://img.shields.io/badge/Updated-2026--02--07-22c55e?style=flat\" title=\"Updated 2026-02-07\" /></sub>",
-      "open_issues": 2,
-      "branches": 2,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-20\" src=\"https://img.shields.io/badge/Updated-2026--02--20-22c55e?style=flat\" title=\"Updated 2026-02-20\" /></sub>",
+      "open_issues": 5,
+      "branches": 5,
       "open_prs": null,
-      "size_mb": "77 KB"
+      "size_mb": "156 KB"
     },
     {
       "name": "terraform-snowflake-module-template",
@@ -710,67 +754,67 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-09\" src=\"https://img.shields.io/badge/Updated-2026--02--09-22c55e?style=flat\" title=\"Updated 2026-02-09\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-09\" src=\"https://img.shields.io/badge/Updated-2026--02--09-eab308?style=flat\" title=\"Updated 2026-02-09\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
-      "size_mb": "250 KB"
+      "size_mb": "302 KB"
     },
     {
       "name": "terraform-snowflake-database-schema",
       "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-snowflake-database-schema",
-      "description": "Terraform module to create and manage Snowflake databases and schemas using infrastructure as code.",
+      "description": "\u2705 Terraform module to create and manage Snowflake databases and schemas using infrastructure as code.",
       "status": "Complete",
       "cloud_service_provider": "Snowflake",
       "maturity": "beta",
-      "notes": "Single Module Structure implemented.",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-12\" src=\"https://img.shields.io/badge/Updated-2026--02--12-22c55e?style=flat\" title=\"Updated 2026-02-12\" /></sub>",
+      "notes": "working as expected.",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-18\" src=\"https://img.shields.io/badge/Updated-2026--02--18-22c55e?style=flat\" title=\"Updated 2026-02-18\" /></sub>",
       "open_issues": 0,
       "branches": 2,
       "open_prs": null,
-      "size_mb": "168 KB"
+      "size_mb": "107 KB"
     },
     {
       "name": "terraform-snowflake-file-format",
       "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-snowflake-file-format",
-      "description": "Terraform module to manage Snowflake file format (CSV / JSON / Parquet)",
+      "description": "\u2705 Terraform module to manage Snowflake file format (CSV / JSON / Parquet)",
       "status": "Complete",
       "cloud_service_provider": "Snowflake",
       "maturity": "beta",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-09\" src=\"https://img.shields.io/badge/Updated-2026--02--09-22c55e?style=flat\" title=\"Updated 2026-02-09\" /></sub>",
+      "notes": "Working as expected.",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-19\" src=\"https://img.shields.io/badge/Updated-2026--02--19-22c55e?style=flat\" title=\"Updated 2026-02-19\" /></sub>",
       "open_issues": 0,
       "branches": 1,
       "open_prs": null,
-      "size_mb": "144 KB"
+      "size_mb": "96 KB"
     },
     {
       "name": "terraform-snowflake-storage-integration",
       "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-snowflake-storage-integration",
-      "description": "Terraform module to manage Snowflake storage integration.",
+      "description": "\u2705 Terraform module to manage Snowflake storage integration.",
       "status": "Complete",
       "cloud_service_provider": "Snowflake",
-      "maturity": "alpha",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-09\" src=\"https://img.shields.io/badge/Updated-2026--02--09-22c55e?style=flat\" title=\"Updated 2026-02-09\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "maturity": "beta",
+      "notes": "Working as expected.",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-19\" src=\"https://img.shields.io/badge/Updated-2026--02--19-22c55e?style=flat\" title=\"Updated 2026-02-19\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
-      "size_mb": "151 KB"
+      "size_mb": "127 KB"
     },
     {
       "name": "terraform-snowflake-pipe",
       "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-snowflake-pipe",
-      "description": "Terraform module to manage Snowflake pipe.",
+      "description": "\u2705 Terraform module to manage Snowflake pipe.",
       "status": "Complete",
       "cloud_service_provider": "Snowflake",
       "maturity": "alpha",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-09\" src=\"https://img.shields.io/badge/Updated-2026--02--09-22c55e?style=flat\" title=\"Updated 2026-02-09\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-20\" src=\"https://img.shields.io/badge/Updated-2026--02--20-22c55e?style=flat\" title=\"Updated 2026-02-20\" /></sub>",
+      "open_issues": 4,
+      "branches": 5,
       "open_prs": null,
-      "size_mb": "181 KB"
+      "size_mb": "267 KB"
     },
     {
       "name": "terraform-snowflake-task",
@@ -780,25 +824,25 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-09\" src=\"https://img.shields.io/badge/Updated-2026--02--09-22c55e?style=flat\" title=\"Updated 2026-02-09\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-09\" src=\"https://img.shields.io/badge/Updated-2026--02--09-eab308?style=flat\" title=\"Updated 2026-02-09\" /></sub>",
+      "open_issues": 2,
+      "branches": 3,
       "open_prs": null,
-      "size_mb": "127 KB"
+      "size_mb": "179 KB"
     },
     {
       "name": "terraform-snowflake-stage",
       "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-snowflake-stage",
-      "description": "Terraform module to manage Snowflake internal and external stage.",
+      "description": "\u2705 Terraform module to manage Snowflake internal and external stage.",
       "status": "Complete",
       "cloud_service_provider": "Snowflake",
       "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-09\" src=\"https://img.shields.io/badge/Updated-2026--02--09-22c55e?style=flat\" title=\"Updated 2026-02-09\" /></sub>",
+      "notes": "Working as expected.",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-19\" src=\"https://img.shields.io/badge/Updated-2026--02--19-22c55e?style=flat\" title=\"Updated 2026-02-19\" /></sub>",
       "open_issues": 0,
       "branches": 1,
       "open_prs": null,
-      "size_mb": "130 KB"
+      "size_mb": "105 KB"
     },
     {
       "name": "terraform-snowflake-stream",
@@ -808,41 +852,41 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-08\" src=\"https://img.shields.io/badge/Updated-2026--02--08-22c55e?style=flat\" title=\"Updated 2026-02-08\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-08\" src=\"https://img.shields.io/badge/Updated-2026--02--08-eab308?style=flat\" title=\"Updated 2026-02-08\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
-      "size_mb": "75 KB"
+      "size_mb": "126 KB"
     },
     {
       "name": "terraform-snowflake-table",
       "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-snowflake-table",
-      "description": "Terraform module to manage Snowflake table.",
-      "status": "In Progress",
+      "description": "\u2705 Terraform module to manage Snowflake table.",
+      "status": "Complete",
       "cloud_service_provider": "Snowflake",
-      "maturity": "experimental",
+      "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-07\" src=\"https://img.shields.io/badge/Updated-2026--02--07-22c55e?style=flat\" title=\"Updated 2026-02-07\" /></sub>",
-      "open_issues": 2,
-      "branches": 3,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-18\" src=\"https://img.shields.io/badge/Updated-2026--02--18-22c55e?style=flat\" title=\"Updated 2026-02-18\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
-      "size_mb": "111 KB"
+      "size_mb": "106 KB"
     }
   ],
   "Terraform AWS Module": [
     {
       "name": "terraform-aws-s3",
       "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-aws-s3",
-      "description": "Terraform AWS Module for S3 Bucket",
+      "description": "\u2705 Terraform AWS Module for S3 Bucket",
       "status": "Complete",
       "cloud_service_provider": "AWS",
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-10\" src=\"https://img.shields.io/badge/Updated-2026--02--10-22c55e?style=flat\" title=\"Updated 2026-02-10\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-18\" src=\"https://img.shields.io/badge/Updated-2026--02--18-22c55e?style=flat\" title=\"Updated 2026-02-18\" /></sub>",
       "open_issues": 0,
       "branches": 1,
       "open_prs": null,
-      "size_mb": "120 KB"
+      "size_mb": "178 KB"
     },
     {
       "name": "terraform-aws-module-template",
@@ -852,25 +896,39 @@
       "cloud_service_provider": "AWS",
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-10\" src=\"https://img.shields.io/badge/Updated-2026--02--10-22c55e?style=flat\" title=\"Updated 2026-02-10\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-10\" src=\"https://img.shields.io/badge/Updated-2026--02--10-eab308?style=flat\" title=\"Updated 2026-02-10\" /></sub>",
+      "open_issues": 2,
+      "branches": 3,
       "open_prs": null,
-      "size_mb": "151 KB"
+      "size_mb": "203 KB"
     },
     {
       "name": "terraform-aws-iam",
       "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-aws-iam",
-      "description": "Terraform AWS Module for IAM",
-      "status": "In Progress",
+      "description": "\u2705 Terraform AWS Module for IAM",
+      "status": "Complete",
       "cloud_service_provider": "AWS",
-      "maturity": "alpha",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-10\" src=\"https://img.shields.io/badge/Updated-2026--02--10-22c55e?style=flat\" title=\"Updated 2026-02-10\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
+      "maturity": "beta",
+      "notes": "Working as expected",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-18\" src=\"https://img.shields.io/badge/Updated-2026--02--18-22c55e?style=flat\" title=\"Updated 2026-02-18\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
-      "size_mb": "26 KB"
+      "size_mb": "105 KB"
+    },
+    {
+      "name": "terraform-aws-sns-topic",
+      "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-aws-sns-topic",
+      "description": "Terraform AWS Module for SNS Topic",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-19\" src=\"https://img.shields.io/badge/Updated-2026--02--19-22c55e?style=flat\" title=\"Updated 2026-02-19\" /></sub>",
+      "open_issues": 2,
+      "branches": 3,
+      "open_prs": null,
+      "size_mb": "78 KB"
     }
   ]
 }
