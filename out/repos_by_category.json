@@ -757,8 +757,8 @@
       "maturity": "stable",
       "notes": "Working as expected.",
       "last_updated": "<br><sub><img alt=\"Updated 2026-02-18\" src=\"https://img.shields.io/badge/Updated-2026--02--18-22c55e?style=flat\" title=\"Updated 2026-02-18\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
       "size_mb": "252 KB"
     },
@@ -788,7 +788,7 @@
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
-      "size_mb": "169 KB"
+      "size_mb": "176 KB"
     },
     {
       "name": "terraform-snowflake-database-schema",
@@ -799,8 +799,8 @@
       "maturity": "stable",
       "notes": "Working as expected.",
       "last_updated": "<br><sub><img alt=\"Updated 2026-02-18\" src=\"https://img.shields.io/badge/Updated-2026--02--18-22c55e?style=flat\" title=\"Updated 2026-02-18\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
       "size_mb": "107 KB"
     },
