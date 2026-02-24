@@ -5,7 +5,7 @@ import sys
 import json
 import requests
 from urllib.parse import quote
-from typing import Dict, List
+from typing import Dict, List, Optional
 from pprint import pprint
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
@@ -153,6 +153,22 @@ def fetch_branch_count(org: str, repo: str) -> int:
     return total_count
 
 
+def fetch_latest_release_tag(org: str, repo: str) -> Optional[str]:
+    """
+    Fetch the latest release tag for a repository.
+    Returns None if no release exists or the release is not accessible.
+    """
+    url = f"{GITHUB_API}/repos/{org}/{repo}/releases/latest"
+    resp = requests.get(url, headers=github_headers())
+
+    if resp.status_code == 404:
+        return None
+
+    resp.raise_for_status()
+    release = resp.json()
+    return release.get("tag_name")
+
+
 def main() -> None:
     # Support multiple organizations - can be comma-separated env var or default list
     orgs_env = os.getenv("GITHUB_ORGS")
@@ -183,6 +199,7 @@ def main() -> None:
                 # pprint(repo)
                 # break
                 branch_count = fetch_branch_count(org, name)
+                latest_release_tag = fetch_latest_release_tag(org, name)
                 
                 # Convert updated_at to relative time with color
                 updated_at = repo.get("updated_at")
@@ -210,6 +227,7 @@ def main() -> None:
                     "open_issues": repo.get("open_issues_count"),
                     "branches": branch_count,
                     "open_prs": repo.get("open_prs_count"),
+                    "latest_release_tag": latest_release_tag,
                     "size_mb": f"{repo.get('size') / 1024:.2f} MB" if repo.get("size", 0) >= 1024 else f"{repo.get('size', 0)} KB"
                     }
                 
