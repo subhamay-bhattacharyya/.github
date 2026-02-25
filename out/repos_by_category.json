@@ -123,10 +123,10 @@
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-02-25\" src=\"https://img.shields.io/badge/Updated-2026--02--25-22c55e?style=flat\" title=\"Updated 2026-02-25\" /></sub>",
       "open_issues": 1,
-      "branches": 2,
+      "branches": 1,
       "open_prs": null,
-      "latest_release_tag": null,
-      "size_mb": "303 KB"
+      "latest_release_tag": "v1.0.0",
+      "size_mb": "311 KB"
     },
     {
       "name": "terraform-aws-module-template",
