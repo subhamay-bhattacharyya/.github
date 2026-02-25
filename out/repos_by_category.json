@@ -116,17 +116,17 @@
     {
       "name": "terraform-snowflake-module-template",
       "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-snowflake-module-template",
-      "description": "Terraform Snowflake module GitHub repository template",
+      "description": "\u2705 Terraform Snowflake module GitHub repository template",
       "status": "Complete",
       "cloud_service_provider": "Snowflake",
       "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-02-25\" src=\"https://img.shields.io/badge/Updated-2026--02--25-22c55e?style=flat\" title=\"Updated 2026-02-25\" /></sub>",
-      "open_issues": 1,
+      "open_issues": 0,
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "311 KB"
+      "size_mb": "316 KB"
     },
     {
       "name": "terraform-aws-module-template",
@@ -964,6 +964,21 @@
       "open_prs": null,
       "latest_release_tag": "v3.0.0",
       "size_mb": "119 KB"
+    },
+    {
+      "name": "terraform-snowflake-seed-data",
+      "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-snowflake-seed-data",
+      "description": "\ud83c\udfaf Terraform Snowflake module to execute controlled SQL (INSERT, UPDATE, MERGE) for demo, seed, and reference data initialization.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-25\" src=\"https://img.shields.io/badge/Updated-2026--02--25-22c55e?style=flat\" title=\"Updated 2026-02-25\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     }
   ],
   "Terraform AWS Module": [
