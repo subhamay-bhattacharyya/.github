@@ -121,9 +121,9 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-09\" src=\"https://img.shields.io/badge/Updated-2026--02--09-eab308?style=flat\" title=\"Updated 2026-02-09\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-25\" src=\"https://img.shields.io/badge/Updated-2026--02--25-22c55e?style=flat\" title=\"Updated 2026-02-25\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
       "size_mb": "302 KB"
