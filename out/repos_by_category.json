@@ -590,15 +590,15 @@
       "name": "snowflake-dynamic-table-tutorial",
       "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-dynamic-table-tutorial",
       "description": "Hands-on tutorial demonstrating Snowflake Dynamic Tables with incremental refresh, medallion architecture (RAW\u2013CONFORMED\u2013MODELED), and Terraform-driven infrastructure using modular, JSON-driven configuration.",
-      "status": "Initialized",
+      "status": "Complete",
       "cloud_service_provider": "Snowflake",
-      "maturity": "experimental",
+      "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-02-26\" src=\"https://img.shields.io/badge/Updated-2026--02--26-22c55e?style=flat\" title=\"Updated 2026-02-26\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
-      "latest_release_tag": null,
+      "latest_release_tag": "Rel-002-20260226175733",
       "size_mb": "82 KB"
     }
   ],
@@ -765,10 +765,10 @@
       "notes": "Current - Working for AWS,Azure, GCP, Databricks. Next-Test for Snowflake",
       "last_updated": "<br><sub><img alt=\"Updated 2026-02-26\" src=\"https://img.shields.io/badge/Updated-2026--02--26-22c55e?style=flat\" title=\"Updated 2026-02-26\" /></sub>",
       "open_issues": 0,
-      "branches": 2,
+      "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "241 KB"
+      "size_mb": "244 KB"
     },
     {
       "name": "slack-notification-wf",
