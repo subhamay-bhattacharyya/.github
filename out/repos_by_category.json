@@ -626,12 +626,12 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-01-28\" src=\"https://img.shields.io/badge/Updated-2026--01--28-eab308?style=flat\" title=\"Updated 2026-01-28\" /></sub>",
-      "open_issues": 3,
-      "branches": 4,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-26\" src=\"https://img.shields.io/badge/Updated-2026--02--26-22c55e?style=flat\" title=\"Updated 2026-02-26\" /></sub>",
+      "open_issues": 1,
+      "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "313 KB"
+      "size_mb": "382 KB"
     },
     {
       "name": "branch-issue-action",
@@ -676,7 +676,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.3.0",
-      "size_mb": "308 KB"
+      "size_mb": "379 KB"
     },
     {
       "name": "tf-apply-action",
@@ -763,12 +763,12 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Current - Working for AWS,Azure, GCP, Databricks. Next-Test for Snowflake",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-01-23\" src=\"https://img.shields.io/badge/Updated-2026--01--23-f97316?style=flat\" title=\"Updated 2026-01-23\" /></sub>",
-      "open_issues": 3,
-      "branches": 4,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-26\" src=\"https://img.shields.io/badge/Updated-2026--02--26-22c55e?style=flat\" title=\"Updated 2026-02-26\" /></sub>",
+      "open_issues": 0,
+      "branches": 2,
       "open_prs": null,
-      "latest_release_tag": "v1.0.3",
-      "size_mb": "237 KB"
+      "latest_release_tag": "v1.1.0",
+      "size_mb": "241 KB"
     },
     {
       "name": "slack-notification-wf",
