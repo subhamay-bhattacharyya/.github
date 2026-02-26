@@ -192,6 +192,15 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 </details>
 
 <details>
+<summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ Snowflake Tutorials</span></h3></summary>
+
+| Repository | Description | Status | Stats |
+|------------|-------------|--------|-------|
+| [snowflake-dynamic-table-tutorial](https://github.com/subhamay-bhattacharyya/snowflake-dynamic-table-tutorial)<br><sub><img alt="Updated 2026-02-26" src="https://img.shields.io/badge/Updated-2026--02--26-22c55e?style=flat" title="Updated 2026-02-26" /></sub> | Hands-on tutorial demonstrating Snowflake Dynamic Tables with incremental refres...<br>![experimental](https://img.shields.io/badge/experimental-f97316?style=flat)<br><sub><sup><b><i>Not Available</i></b></sup></sub> | ⚪ | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">2</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">1</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">0 KB</span> |
+
+</details>
+
+<details>
 <summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ GitHub Reusable Action</span></h3></summary>
 
 | Repository | Description | Status | Stats |
@@ -255,5 +264,5 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 ---
 
-*Last generated: 2026-02-26 05:17:57 EST*  
-*Total repositories: 67*
+*Last generated: 2026-02-26 06:18:01 EST*  
+*Total repositories: 68*

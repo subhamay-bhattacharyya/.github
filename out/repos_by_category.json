@@ -585,6 +585,23 @@
       "size_mb": "233 KB"
     }
   ],
+  "Snowflake Tutorials": [
+    {
+      "name": "snowflake-dynamic-table-tutorial",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-dynamic-table-tutorial",
+      "description": "Hands-on tutorial demonstrating Snowflake Dynamic Tables with incremental refresh, medallion architecture (RAW\u2013CONFORMED\u2013MODELED), and Terraform-driven infrastructure using modular, JSON-driven configuration.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-26\" src=\"https://img.shields.io/badge/Updated-2026--02--26-22c55e?style=flat\" title=\"Updated 2026-02-26\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    }
+  ],
   "GitHub Reusable Action": [
     {
       "name": "checkov-report-action",
