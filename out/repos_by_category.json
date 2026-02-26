@@ -606,12 +606,12 @@
     {
       "name": "checkov-report-action",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/checkov-report-action",
-      "description": "GitHub JavaScript Action - Print Checkov Scan Report",
+      "description": "\u2705 GitHub JavaScript Action - Print Checkov Scan Report",
       "status": "In Progress",
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2025-08-22\" src=\"https://img.shields.io/badge/Updated-2025--08--22-ef4444?style=flat\" title=\"Updated 2025-08-22\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-26\" src=\"https://img.shields.io/badge/Updated-2026--02--26-22c55e?style=flat\" title=\"Updated 2026-02-26\" /></sub>",
       "open_issues": 1,
       "branches": 3,
       "open_prs": null,
@@ -627,7 +627,7 @@
       "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-02-26\" src=\"https://img.shields.io/badge/Updated-2026--02--26-22c55e?style=flat\" title=\"Updated 2026-02-26\" /></sub>",
-      "open_issues": 1,
+      "open_issues": 0,
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
@@ -636,14 +636,14 @@
     {
       "name": "branch-issue-action",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/branch-issue-action",
-      "description": "GitHub Composite Action - Check Branch Issue, to prevent pushing the code to any branch created directly using GitHub UI.",
+      "description": "\u2705 GitHub Composite Action - Check Branch Issue, to prevent pushing the code to any branch created directly using GitHub UI.",
       "status": "Complete",
       "cloud_service_provider": null,
       "maturity": "stable",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2025-08-22\" src=\"https://img.shields.io/badge/Updated-2025--08--22-ef4444?style=flat\" title=\"Updated 2025-08-22\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-26\" src=\"https://img.shields.io/badge/Updated-2026--02--26-22c55e?style=flat\" title=\"Updated 2026-02-26\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
       "size_mb": "456 KB"
@@ -666,7 +666,7 @@
     {
       "name": "tf-plan-action",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-plan-action",
-      "description": "GitHub Composite Action - Terraform Plan.",
+      "description": "\u2705 GitHub Composite Action - Terraform Plan.",
       "status": "Complete",
       "cloud_service_provider": null,
       "maturity": "beta",
@@ -681,12 +681,12 @@
     {
       "name": "tf-apply-action",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-apply-action",
-      "description": "GitHub Composite Action - Terraform Apply.",
+      "description": "\u2705 GitHub Composite Action - Terraform Apply.",
       "status": "Complete",
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-01-23\" src=\"https://img.shields.io/badge/Updated-2026--01--23-f97316?style=flat\" title=\"Updated 2026-01-23\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-26\" src=\"https://img.shields.io/badge/Updated-2026--02--26-22c55e?style=flat\" title=\"Updated 2026-02-26\" /></sub>",
       "open_issues": 4,
       "branches": 5,
       "open_prs": null,
@@ -737,6 +737,23 @@
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
       "size_mb": "215 KB"
+    }
+  ],
+  "GitHub Action Template Repository": [
+    {
+      "name": "github-action-template",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/github-action-template",
+      "description": "\u2705 GitHub Composite Action: A Starter Template for GitHub Composite Action",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "stable",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-26\" src=\"https://img.shields.io/badge/Updated-2026--02--26-22c55e?style=flat\" title=\"Updated 2026-02-26\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": null,
+      "latest_release_tag": "v1.1.2",
+      "size_mb": "249 KB"
     }
   ],
   "GitHub Reusable Workflow": [
