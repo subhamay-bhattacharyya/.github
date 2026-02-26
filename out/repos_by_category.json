@@ -599,7 +599,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "62 KB"
+      "size_mb": "82 KB"
     }
   ],
   "GitHub Reusable Action": [
@@ -671,11 +671,11 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Current - Working for AWS,Azure, GCP, Databricks. Next-Test for Snowflake",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-01-23\" src=\"https://img.shields.io/badge/Updated-2026--01--23-f97316?style=flat\" title=\"Updated 2026-01-23\" /></sub>",
-      "open_issues": 4,
-      "branches": 5,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-26\" src=\"https://img.shields.io/badge/Updated-2026--02--26-22c55e?style=flat\" title=\"Updated 2026-02-26\" /></sub>",
+      "open_issues": 1,
+      "branches": 1,
       "open_prs": null,
-      "latest_release_tag": "v1.2.1",
+      "latest_release_tag": "v1.3.0",
       "size_mb": "308 KB"
     },
     {
