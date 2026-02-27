@@ -39,7 +39,7 @@
       "maturity": "beta",
       "notes": "Need to progress further with the Udemy course resource.",
       "last_updated": "<br><sub><img alt=\"Updated 2026-01-29\" src=\"https://img.shields.io/badge/Updated-2026--01--29-eab308?style=flat\" title=\"Updated 2026-01-29\" /></sub>",
-      "open_issues": 2,
+      "open_issues": 3,
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "Rel-004-20260129194422",
@@ -95,53 +95,6 @@
       "open_prs": null,
       "latest_release_tag": null,
       "size_mb": "166 KB"
-    }
-  ],
-  "Terraform Template Repository": [
-    {
-      "name": "snowflake-terraform-template",
-      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-terraform-template",
-      "description": "\ud83d\udcc4\ud83c\udfaf GitHub Repository Template for Snowflake using Terraform as IaC.",
-      "status": "In Progress",
-      "cloud_service_provider": "Snowflake",
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-01\" src=\"https://img.shields.io/badge/Updated-2026--02--01-eab308?style=flat\" title=\"Updated 2026-02-01\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
-      "open_prs": null,
-      "latest_release_tag": null,
-      "size_mb": "151 KB"
-    },
-    {
-      "name": "terraform-snowflake-module-template",
-      "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-snowflake-module-template",
-      "description": "\u2705 Terraform Snowflake module GitHub repository template",
-      "status": "Complete",
-      "cloud_service_provider": "Snowflake",
-      "maturity": "beta",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-25\" src=\"https://img.shields.io/badge/Updated-2026--02--25-22c55e?style=flat\" title=\"Updated 2026-02-25\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": null,
-      "latest_release_tag": "v1.0.0",
-      "size_mb": "316 KB"
-    },
-    {
-      "name": "terraform-aws-module-template",
-      "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-aws-module-template",
-      "description": "Terraform AWS Module Template",
-      "status": "Complete",
-      "cloud_service_provider": "AWS",
-      "maturity": "beta",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-10\" src=\"https://img.shields.io/badge/Updated-2026--02--10-eab308?style=flat\" title=\"Updated 2026-02-10\" /></sub>",
-      "open_issues": 2,
-      "branches": 3,
-      "open_prs": null,
-      "latest_release_tag": null,
-      "size_mb": "203 KB"
     }
   ],
   "Snowflake Demo": [
@@ -514,7 +467,7 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-02-03\" src=\"https://img.shields.io/badge/Updated-2026--02--03-eab308?style=flat\" title=\"Updated 2026-02-03\" /></sub>",
-      "open_issues": 0,
+      "open_issues": 1,
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": "Rel-001-20260203171811",
@@ -594,7 +547,7 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "beta",
       "notes": "CI/CD Failing.",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-26\" src=\"https://img.shields.io/badge/Updated-2026--02--26-22c55e?style=flat\" title=\"Updated 2026-02-26\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-27\" src=\"https://img.shields.io/badge/Updated-2026--02--27-22c55e?style=flat\" title=\"Updated 2026-02-27\" /></sub>",
       "open_issues": 0,
       "branches": 1,
       "open_prs": null,
@@ -1028,6 +981,38 @@
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
       "size_mb": "75 KB"
+    }
+  ],
+  "Terraform Template Repository": [
+    {
+      "name": "terraform-snowflake-module-template",
+      "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-snowflake-module-template",
+      "description": "\u2705 Terraform Snowflake module GitHub repository template",
+      "status": "Complete",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "beta",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-25\" src=\"https://img.shields.io/badge/Updated-2026--02--25-22c55e?style=flat\" title=\"Updated 2026-02-25\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": null,
+      "latest_release_tag": "v1.0.0",
+      "size_mb": "316 KB"
+    },
+    {
+      "name": "terraform-aws-module-template",
+      "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-aws-module-template",
+      "description": "Terraform AWS Module Template",
+      "status": "Complete",
+      "cloud_service_provider": "AWS",
+      "maturity": "beta",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-10\" src=\"https://img.shields.io/badge/Updated-2026--02--10-eab308?style=flat\" title=\"Updated 2026-02-10\" /></sub>",
+      "open_issues": 2,
+      "branches": 3,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "203 KB"
     }
   ],
   "Terraform AWS Module": [
