@@ -568,6 +568,51 @@
       "open_prs": null,
       "latest_release_tag": null,
       "size_mb": "25 KB"
+    },
+    {
+      "name": "snowflake-iceberg-table-tutorial",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-iceberg-table-tutorial",
+      "description": "\ud83c\udfaf Hands-on tutorial repository demonstrating how to create and manage Snowflake Iceberg Tables using modern data lakehouse patterns, including external storage integration, metadata management, and Terraform-driven infrastructure.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-27\" src=\"https://img.shields.io/badge/Updated-2026--02--27-22c55e?style=flat\" title=\"Updated 2026-02-27\" /></sub>",
+      "open_issues": 0,
+      "branches": 3,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "185 KB"
+    },
+    {
+      "name": "snowflake-external-table-csv-tutorial",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-external-table-csv-tutorial",
+      "description": "\ud83c\udfaf This repository provides a step-by-step guide to implementing Snowflake External Tables on CSV files, covering external stage setup, file formats, schema mapping, metadata refresh, and query optimization using a Terraform-first, modular, and lakehouse-aligned architecture for scalable data engineering.",
+      "status": "In Progress",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Ready to start working",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-27\" src=\"https://img.shields.io/badge/Updated-2026--02--27-22c55e?style=flat\" title=\"Updated 2026-02-27\" /></sub>",
+      "open_issues": 0,
+      "branches": 2,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    },
+    {
+      "name": "snowflake-external-table-json-tutorial",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-external-table-json-tutorial",
+      "description": "\ud83c\udfaf This tutorial demonstrates how to implement Snowflake External Tables on semi-structured JSON data, including stage setup, file formats, schema inference, partitioning options, and query optimization using a Terraform-first, modular, and lakehouse-aligned architecture for scalable data engineering workflows.",
+      "status": "In Progress",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Ready to start working on this repo.",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-27\" src=\"https://img.shields.io/badge/Updated-2026--02--27-22c55e?style=flat\" title=\"Updated 2026-02-27\" /></sub>",
+      "open_issues": 0,
+      "branches": 3,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     }
   ],
   "GitHub Reusable Action": [
