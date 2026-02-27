@@ -597,7 +597,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "209 KB"
     },
     {
       "name": "snowflake-external-table-json-tutorial",
@@ -610,6 +610,21 @@
       "last_updated": "<br><sub><img alt=\"Updated 2026-02-27\" src=\"https://img.shields.io/badge/Updated-2026--02--27-22c55e?style=flat\" title=\"Updated 2026-02-27\" /></sub>",
       "open_issues": 0,
       "branches": 3,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "209 KB"
+    },
+    {
+      "name": "snowflake-external-table-partition-tutorial",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-external-table-partition-tutorial",
+      "description": "\ud83c\udfaf Hands-on tutorial repository demonstrating how to create and manage Snowflake Iceberg Tables using modern data lakehouse patterns, including external storage integration, metadata management, and Terraform-driven infrastructure.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-27\" src=\"https://img.shields.io/badge/Updated-2026--02--27-22c55e?style=flat\" title=\"Updated 2026-02-27\" /></sub>",
+      "open_issues": 0,
+      "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
       "size_mb": "0 KB"
