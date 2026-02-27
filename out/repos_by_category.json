@@ -591,7 +591,7 @@
       "status": "In Progress",
       "cloud_service_provider": "Snowflake",
       "maturity": "experimental",
-      "notes": "Ready to start working",
+      "notes": "S3 bucket,Database, Schama, File Format and External Stage created.",
       "last_updated": "<br><sub><img alt=\"Updated 2026-02-27\" src=\"https://img.shields.io/badge/Updated-2026--02--27-22c55e?style=flat\" title=\"Updated 2026-02-27\" /></sub>",
       "open_issues": 0,
       "branches": 2,
