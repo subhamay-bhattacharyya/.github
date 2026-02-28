@@ -316,7 +316,7 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-21\" src=\"https://img.shields.io/badge/Updated-2026--02--21-22c55e?style=flat\" title=\"Updated 2026-02-21\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-21\" src=\"https://img.shields.io/badge/Updated-2026--02--21-eab308?style=flat\" title=\"Updated 2026-02-21\" /></sub>",
       "open_issues": 2,
       "branches": 2,
       "open_prs": null,
@@ -642,7 +642,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "209 KB"
     }
   ],
   "GitHub Reusable Action": [
