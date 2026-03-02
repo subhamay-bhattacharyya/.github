@@ -947,7 +947,7 @@
       "notes": "Working as expected.",
       "last_updated": "<br><sub><img alt=\"Updated 2026-02-24\" src=\"https://img.shields.io/badge/Updated-2026--02--24-22c55e?style=flat\" title=\"Updated 2026-02-24\" /></sub>",
       "open_issues": 2,
-      "branches": 4,
+      "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.3.0",
       "size_mb": "174 KB"
@@ -1000,14 +1000,14 @@
     {
       "name": "terraform-snowflake-task",
       "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-snowflake-task",
-      "description": "Terraform module to manage Snowflake task.",
+      "description": "\ud83c\udfaf Terraform module to manage Snowflake task.",
       "status": "In Progress",
       "cloud_service_provider": "Snowflake",
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-24\" src=\"https://img.shields.io/badge/Updated-2026--02--24-22c55e?style=flat\" title=\"Updated 2026-02-24\" /></sub>",
-      "open_issues": 3,
-      "branches": 4,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-03-02\" src=\"https://img.shields.io/badge/Updated-2026--03--02-22c55e?style=flat\" title=\"Updated 2026-03-02\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
       "size_mb": "235 KB"
