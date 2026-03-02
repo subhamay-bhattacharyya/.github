@@ -637,12 +637,27 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-28\" src=\"https://img.shields.io/badge/Updated-2026--02--28-22c55e?style=flat\" title=\"Updated 2026-02-28\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-03-02\" src=\"https://img.shields.io/badge/Updated-2026--03--02-22c55e?style=flat\" title=\"Updated 2026-03-02\" /></sub>",
       "open_issues": 0,
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
       "size_mb": "209 KB"
+    },
+    {
+      "name": "snowflake-snowpipe-dynamic-table-pipeline",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-snowpipe-dynamic-table-pipeline",
+      "description": "\ud83c\udfaf End-to-end Snowflake data pipeline using External Stage and Snowpipe for automated ingestion across a four-layer architecture (Staging \u2192 RAW \u2192 CLEAN \u2192 CONSUMPTION), leveraging Dynamic Tables for declarative transformations and streamlined, near real-time data flow.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "This is the pipeline of DE Simplified Dynamic Table masterclass - section 5",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-03-02\" src=\"https://img.shields.io/badge/Updated-2026--03--02-22c55e?style=flat\" title=\"Updated 2026-03-02\" /></sub>",
+      "open_issues": 0,
+      "branches": 2,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     }
   ],
   "GitHub Reusable Action": [
