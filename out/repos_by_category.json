@@ -674,7 +674,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "382 KB"
+      "size_mb": "385 KB"
     },
     {
       "name": "branch-issue-action",
@@ -719,7 +719,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": "v1.3.0",
-      "size_mb": "379 KB"
+      "size_mb": "402 KB"
     },
     {
       "name": "tf-apply-action",
@@ -734,7 +734,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": "v1.2.0",
-      "size_mb": "494 KB"
+      "size_mb": "183 KB"
     },
     {
       "name": "tf-destroy-action",
@@ -749,7 +749,7 @@
       "branches": 6,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "215 KB"
+      "size_mb": "221 KB"
     },
     {
       "name": "tf-yor-action",
@@ -890,7 +890,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v3.0.0",
-      "size_mb": "236 KB"
+      "size_mb": "291 KB"
     },
     {
       "name": "terraform-snowflake-external-volume",
@@ -905,7 +905,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "77 KB"
+      "size_mb": "132 KB"
     },
     {
       "name": "terraform-snowflake-dynamic-table",
@@ -920,7 +920,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "181 KB"
+      "size_mb": "237 KB"
     },
     {
       "name": "terraform-snowflake-database-schema",
@@ -935,7 +935,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": "v1.3.0",
-      "size_mb": "118 KB"
+      "size_mb": "174 KB"
     },
     {
       "name": "terraform-snowflake-file-format",
@@ -950,7 +950,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.2.0",
-      "size_mb": "96 KB"
+      "size_mb": "152 KB"
     },
     {
       "name": "terraform-snowflake-storage-integration",
@@ -965,7 +965,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.2.0",
-      "size_mb": "128 KB"
+      "size_mb": "183 KB"
     },
     {
       "name": "terraform-snowflake-pipe",
@@ -980,7 +980,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v2.1.0",
-      "size_mb": "105 KB"
+      "size_mb": "160 KB"
     },
     {
       "name": "terraform-snowflake-task",
@@ -995,7 +995,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "180 KB"
+      "size_mb": "235 KB"
     },
     {
       "name": "terraform-snowflake-stage",
@@ -1010,7 +1010,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.2.0",
-      "size_mb": "105 KB"
+      "size_mb": "160 KB"
     },
     {
       "name": "terraform-snowflake-stream",
@@ -1025,7 +1025,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "127 KB"
+      "size_mb": "183 KB"
     },
     {
       "name": "terraform-snowflake-table",
@@ -1040,7 +1040,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v3.0.0",
-      "size_mb": "119 KB"
+      "size_mb": "175 KB"
     },
     {
       "name": "terraform-snowflake-seed-data",
@@ -1055,7 +1055,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "75 KB"
+      "size_mb": "126 KB"
     }
   ],
   "Terraform Template Repository": [
@@ -1072,7 +1072,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "316 KB"
+      "size_mb": "372 KB"
     },
     {
       "name": "terraform-aws-module-template",
@@ -1087,7 +1087,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "203 KB"
+      "size_mb": "258 KB"
     }
   ],
   "Terraform AWS Module": [
@@ -1104,7 +1104,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "178 KB"
+      "size_mb": "233 KB"
     },
     {
       "name": "terraform-aws-iam",
@@ -1119,7 +1119,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "105 KB"
+      "size_mb": "161 KB"
     },
     {
       "name": "terraform-aws-sns-topic",
@@ -1134,7 +1134,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "78 KB"
+      "size_mb": "133 KB"
     }
   ]
 }
