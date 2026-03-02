@@ -1035,9 +1035,9 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "experimental",
       "notes": "Need to start working on this repository.",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-24\" src=\"https://img.shields.io/badge/Updated-2026--02--24-22c55e?style=flat\" title=\"Updated 2026-02-24\" /></sub>",
-      "open_issues": 2,
-      "branches": 3,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-03-02\" src=\"https://img.shields.io/badge/Updated-2026--03--02-22c55e?style=flat\" title=\"Updated 2026-03-02\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
       "size_mb": "183 KB"
