@@ -1010,7 +1010,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "264 KB"
+      "size_mb": "274 KB"
     },
     {
       "name": "terraform-snowflake-stage",
