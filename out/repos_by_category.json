@@ -1040,7 +1040,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "183 KB"
+      "size_mb": "184 KB"
     },
     {
       "name": "terraform-snowflake-table",
