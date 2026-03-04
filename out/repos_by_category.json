@@ -660,6 +660,23 @@
       "size_mb": "35 KB"
     }
   ],
+  "Data Lake": [
+    {
+      "name": "terraform-aws-iceberg-table",
+      "html_url": "https://github.com/subhamay-bhattacharyya/terraform-aws-iceberg-table",
+      "description": "Terraform project to provision Apache Iceberg tables on AWS S3 using AWS Glue Data Catalog, integrating S3 storage, Glue databases, catalog tables, and crawlers for a scalable data lakehouse architecture.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-03-04\" src=\"https://img.shields.io/badge/Updated-2026--03--04-22c55e?style=flat\" title=\"Updated 2026-03-04\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    }
+  ],
   "GitHub Reusable Action": [
     {
       "name": "checkov-report-action",
@@ -1102,7 +1119,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "258 KB"
+      "size_mb": "265 KB"
     }
   ],
   "Terraform AWS Module": [
@@ -1164,7 +1181,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "140 KB"
     }
   ]
 }
