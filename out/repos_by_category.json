@@ -677,6 +677,23 @@
       "size_mb": "221 KB"
     }
   ],
+  "Snowflake Project": [
+    {
+      "name": "cloud-champion-team-challenge",
+      "html_url": "https://github.com/subhamay-bhattacharyya/cloud-champion-team-challenge",
+      "description": "\ud83c\udfaf Cloud Champion Bootcamp Team Challenge project by Team Cloud Catalyst demonstrating a Snowflake-based data pipeline that ingests and analyzes the U.S. Public School Characteristics 2022\u201323 dataset from Data.gov.",
+      "status": "In Progress",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-03-05\" src=\"https://img.shields.io/badge/Updated-2026--03--05-22c55e?style=flat\" title=\"Updated 2026-03-05\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "221 KB"
+    }
+  ],
   "GitHub Reusable Action": [
     {
       "name": "checkov-report-action",
