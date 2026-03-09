@@ -969,7 +969,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "237 KB"
+      "size_mb": "98 KB"
     },
     {
       "name": "terraform-snowflake-database-schema",
@@ -999,7 +999,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.2.0",
-      "size_mb": "152 KB"
+      "size_mb": "151 KB"
     },
     {
       "name": "terraform-snowflake-storage-integration",
@@ -1044,7 +1044,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v2.0.0",
-      "size_mb": "280 KB"
+      "size_mb": "332 KB"
     },
     {
       "name": "terraform-snowflake-stage",
@@ -1104,7 +1104,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "127 KB"
+      "size_mb": "179 KB"
     }
   ],
   "Terraform Template Repository": [
@@ -1136,7 +1136,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "265 KB"
+      "size_mb": "317 KB"
     }
   ],
   "Terraform AWS Module": [
@@ -1183,7 +1183,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "154 KB"
+      "size_mb": "205 KB"
     },
     {
       "name": "terraform-aws-glue-catalog-table",
