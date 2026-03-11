@@ -201,7 +201,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 | Repository | Description | Status | Stats |
 |------------|-------------|--------|-------|
-| [terraform-aws-iceberg-table](https://github.com/subhamay-bhattacharyya/terraform-aws-iceberg-table)<br><sub><img alt="Updated 2026-03-04" src="https://img.shields.io/badge/Updated-2026--03--04-22c55e?style=flat" title="Updated 2026-03-04" /></sub> | Terraform project to provision Apache Iceberg tables on AWS S3 using AWS Glue Da...<br>![experimental](https://img.shields.io/badge/experimental-f97316?style=flat)<br><sub><sup><b><i>Not Available</i></b></sup></sub> | ⚪ | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">2</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">1</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">221 KB</span> |
+| [terraform-aws-iceberg-table](https://github.com/subhamay-bhattacharyya/terraform-aws-iceberg-table)<br><sub><img alt="Updated 2026-03-04" src="https://img.shields.io/badge/Updated-2026--03--04-eab308?style=flat" title="Updated 2026-03-04" /></sub> | Terraform project to provision Apache Iceberg tables on AWS S3 using AWS Glue Da...<br>![experimental](https://img.shields.io/badge/experimental-f97316?style=flat)<br><sub><sup><b><i>Not Available</i></b></sup></sub> | ⚪ | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">2</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">1</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">221 KB</span> |
 
 </details>
 
@@ -299,5 +299,5 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 ---
 
-*Last generated: 2026-03-11 14:17:06 EST*  
+*Last generated: 2026-03-11 15:18:03 EST*  
 *Total repositories: 79*
