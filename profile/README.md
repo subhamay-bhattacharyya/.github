@@ -296,8 +296,17 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 </details>
 
+<details>
+<summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ Terraform GCP Module</span></h3></summary>
+
+| Repository | Description | Status | Stats |
+|------------|-------------|--------|-------|
+| [terraform-google-project-hierarchy](https://github.com/subhamay-bhattacharyya-tf/terraform-google-project-hierarchy)<br><sub><img alt="Updated 2026-03-16" src="https://img.shields.io/badge/Updated-2026--03--16-22c55e?style=flat" title="Updated 2026-03-16" /></sub> | Terraform module for managing GCP organization folder and project hierarchies wi...<br>![experimental](https://img.shields.io/badge/experimental-f97316?style=flat)<br><sub><sup><b><i>Not Available</i></b></sup></sub> | ⚪ | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">3</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">2</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">0 KB</span> |
+
+</details>
+
 
 ---
 
-*Last generated: 2026-03-16 08:15:14 EST*  
-*Total repositories: 79*
+*Last generated: 2026-03-16 09:31:31 EST*  
+*Total repositories: 80*
