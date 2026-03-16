@@ -1220,7 +1220,7 @@
     {
       "name": "terraform-google-project-hierarchy",
       "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-google-project-hierarchy",
-      "description": "Terraform module for managing GCP organization folder and project hierarchies with billing and service enablement.",
+      "description": "\ud83c\udfaf Terraform module for managing GCP organization folder and project hierarchies with billing and service enablement.",
       "status": "Initialized",
       "cloud_service_provider": "Google Cloud Platform",
       "maturity": "experimental",
