@@ -16,6 +16,21 @@
       "size_mb": "177 KB"
     },
     {
+      "name": "gcp-terraform-bootstrap",
+      "html_url": "https://github.com/subhamay-bhattacharyya/gcp-terraform-bootstrap",
+      "description": "Bootstrap Google Cloud projects using Terraform with secure, keyless authentication via GitHub Actions OIDC and Workload Identity Federation, and remote state management using HCP Terraform.",
+      "status": "Initialized",
+      "cloud_service_provider": "Google Cloud Platform",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2025-12-29\" src=\"https://img.shields.io/badge/Updated-2025--12--29-f97316?style=flat\" title=\"Updated 2025-12-29\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "latest_release_tag": "Rel-003-20251229194748",
+      "size_mb": "74 KB"
+    },
+    {
       "name": "event-driven-etl-automation",
       "html_url": "https://github.com/subhamay-bhattacharyya/event-driven-etl-automation",
       "description": "Event-driven, serverless ETL pipeline on AWS that automates data ingestion, transformation, cataloging, analytics, and notifications using S3, Lambda, Step Functions, Glue, Athena, and SNS.",
