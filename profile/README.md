@@ -212,6 +212,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 | Repository | Description | Status | Stats |
 |------------|-------------|--------|-------|
 | [cloud-champion-team-challenge](https://github.com/subhamay-bhattacharyya/cloud-champion-team-challenge)<br><sub><img alt="Updated 2026-03-05" src="https://img.shields.io/badge/Updated-2026--03--05-eab308?style=flat" title="Updated 2026-03-05" /></sub> | 🎯 Cloud Champion Bootcamp Team Challenge project by Team Cloud Catalyst demonstr...<br>![experimental](https://img.shields.io/badge/experimental-f97316?style=flat)<br><sub><sup><b><i>Not Available</i></b></sup></sub> | 🟡 | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">2</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">1</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">221 KB</span> |
+| [snowflake-dynamic-tables-declarative-pipelines](https://github.com/subhamay-bhattacharyya/snowflake-dynamic-tables-declarative-pipelines)<br><sub><img alt="Updated 2026-03-18" src="https://img.shields.io/badge/Updated-2026--03--18-22c55e?style=flat" title="Updated 2026-03-18" /></sub> | Advanced implementation of declarative data pipelines in Snowflake using Dynamic...<br>![experimental](https://img.shields.io/badge/experimental-f97316?style=flat)<br><sub><sup><b><i>Not Available</i></b></sup></sub> | ⚪ | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">2</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">1</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">0 KB</span> |
 
 </details>
 
@@ -309,5 +310,5 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 ---
 
-*Last generated: 2026-03-18 12:24:34 EST*  
-*Total repositories: 81*
+*Last generated: 2026-03-18 13:24:27 EST*  
+*Total repositories: 82*

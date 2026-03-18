@@ -707,6 +707,21 @@
       "open_prs": null,
       "latest_release_tag": null,
       "size_mb": "221 KB"
+    },
+    {
+      "name": "snowflake-dynamic-tables-declarative-pipelines",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-dynamic-tables-declarative-pipelines",
+      "description": "Advanced implementation of declarative data pipelines in Snowflake using Dynamic Tables, covering chained transformations, autonomous refresh orchestration, cost optimization with dual warehouses, and enterprise-grade design patterns.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-03-18\" src=\"https://img.shields.io/badge/Updated-2026--03--18-22c55e?style=flat\" title=\"Updated 2026-03-18\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     }
   ],
   "GitHub Reusable Action": [
