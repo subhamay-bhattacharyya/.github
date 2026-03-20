@@ -1261,6 +1261,21 @@
       "open_prs": null,
       "latest_release_tag": null,
       "size_mb": "179 KB"
+    },
+    {
+      "name": "terraform-google-module-template",
+      "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-google-module-template",
+      "description": "\ud83c\udfd7\ufe0f A reusable, opinionated Terraform module template for provisioning and managing Google Cloud Platform resources \u2014 designed for consistency, scalability, and best practices.",
+      "status": "Initialized",
+      "cloud_service_provider": "Google Cloud Platform",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-03-20\" src=\"https://img.shields.io/badge/Updated-2026--03--20-22c55e?style=flat\" title=\"Updated 2026-03-20\" /></sub>",
+      "open_issues": 1,
+      "branches": 1,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     }
   ]
 }
