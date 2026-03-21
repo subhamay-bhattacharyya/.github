@@ -28,7 +28,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": "Rel-003-20251229194748",
-      "size_mb": "83 KB"
+      "size_mb": "85 KB"
     },
     {
       "name": "event-driven-etl-automation",
@@ -1041,7 +1041,7 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "stable",
       "notes": "Working as expected.",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-19\" src=\"https://img.shields.io/badge/Updated-2026--02--19-eab308?style=flat\" title=\"Updated 2026-02-19\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-19\" src=\"https://img.shields.io/badge/Updated-2026--02--19-f97316?style=flat\" title=\"Updated 2026-02-19\" /></sub>",
       "open_issues": 2,
       "branches": 3,
       "open_prs": null,
