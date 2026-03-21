@@ -724,6 +724,23 @@
       "size_mb": "29 KB"
     }
   ],
+  "Uncatrgorised": [
+    {
+      "name": "terraform-gcp-practice",
+      "html_url": "https://github.com/subhamay-bhattacharyya/terraform-gcp-practice",
+      "description": "Terraform with GCP practice",
+      "status": "Initialized",
+      "cloud_service_provider": "Google Cloud Platform",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-03-20\" src=\"https://img.shields.io/badge/Updated-2026--03--20-22c55e?style=flat\" title=\"Updated 2026-03-20\" /></sub>",
+      "open_issues": 2,
+      "branches": 3,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "166 KB"
+    }
+  ],
   "GitHub Reusable Action": [
     {
       "name": "checkov-report-action",
