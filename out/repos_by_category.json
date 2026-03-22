@@ -23,12 +23,12 @@
       "cloud_service_provider": "Google Cloud Platform",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2025-12-29\" src=\"https://img.shields.io/badge/Updated-2025--12--29-f97316?style=flat\" title=\"Updated 2025-12-29\" /></sub>",
-      "open_issues": 2,
-      "branches": 2,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-03-21\" src=\"https://img.shields.io/badge/Updated-2026--03--21-22c55e?style=flat\" title=\"Updated 2026-03-21\" /></sub>",
+      "open_issues": 1,
+      "branches": 1,
       "open_prs": null,
-      "latest_release_tag": "Rel-003-20251229194748",
-      "size_mb": "85 KB"
+      "latest_release_tag": "Rel-004-20260322013337",
+      "size_mb": "91 KB"
     },
     {
       "name": "event-driven-etl-automation",
@@ -964,12 +964,12 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-01-23\" src=\"https://img.shields.io/badge/Updated-2026--01--23-f97316?style=flat\" title=\"Updated 2026-01-23\" /></sub>",
-      "open_issues": 3,
-      "branches": 4,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-03-21\" src=\"https://img.shields.io/badge/Updated-2026--03--21-22c55e?style=flat\" title=\"Updated 2026-03-21\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
-      "latest_release_tag": "v1.0.0",
-      "size_mb": "283 KB"
+      "latest_release_tag": "v1.1.0",
+      "size_mb": "354 KB"
     }
   ],
   "Terraform Snowflake Module": [
