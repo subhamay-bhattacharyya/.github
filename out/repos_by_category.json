@@ -815,7 +815,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.3.0",
-      "size_mb": "402 KB"
+      "size_mb": "420 KB"
     },
     {
       "name": "tf-apply-action",
@@ -830,7 +830,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.3.0",
-      "size_mb": "183 KB"
+      "size_mb": "199 KB"
     },
     {
       "name": "tf-destroy-action",
@@ -964,12 +964,12 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-03-21\" src=\"https://img.shields.io/badge/Updated-2026--03--21-22c55e?style=flat\" title=\"Updated 2026-03-21\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-03-22\" src=\"https://img.shields.io/badge/Updated-2026--03--22-22c55e?style=flat\" title=\"Updated 2026-03-22\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
-      "latest_release_tag": "v1.1.0",
-      "size_mb": "354 KB"
+      "latest_release_tag": "v1.1.1",
+      "size_mb": "129 KB"
     }
   ],
   "Terraform Snowflake Module": [
