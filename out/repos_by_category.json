@@ -815,7 +815,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.3.0",
-      "size_mb": "420 KB"
+      "size_mb": "426 KB"
     },
     {
       "name": "tf-apply-action",
@@ -830,7 +830,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.3.0",
-      "size_mb": "199 KB"
+      "size_mb": "214 KB"
     },
     {
       "name": "tf-destroy-action",
@@ -845,7 +845,7 @@
       "branches": 7,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "221 KB"
+      "size_mb": "227 KB"
     },
     {
       "name": "tf-yor-action",
@@ -909,7 +909,7 @@
       "branches": 6,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "145 KB"
+      "size_mb": "149 KB"
     },
     {
       "name": "tf-ci-reusable-wf",
