@@ -23,11 +23,11 @@
       "cloud_service_provider": "Google Cloud Platform",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-03-23\" src=\"https://img.shields.io/badge/Updated-2026--03--23-22c55e?style=flat\" title=\"Updated 2026-03-23\" /></sub>",
-      "open_issues": 1,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-03-25\" src=\"https://img.shields.io/badge/Updated-2026--03--25-22c55e?style=flat\" title=\"Updated 2026-03-25\" /></sub>",
+      "open_issues": 2,
       "branches": 2,
       "open_prs": null,
-      "latest_release_tag": "Rel-011-20260324021840",
+      "latest_release_tag": "Rel-012-20260325154000",
       "size_mb": "102 KB"
     },
     {
@@ -1267,17 +1267,17 @@
     {
       "name": "terraform-google-project-hierarchy",
       "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-google-project-hierarchy",
-      "description": "\ud83c\udfaf Terraform module for managing GCP organization folder and project hierarchies with billing and service enablement.",
-      "status": "Initialized",
+      "description": "\u2705 Terraform module for managing GCP organization folder and project hierarchies with billing and service enablement.",
+      "status": "Complete",
       "cloud_service_provider": "Google Cloud Platform",
-      "maturity": "experimental",
+      "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-03-16\" src=\"https://img.shields.io/badge/Updated-2026--03--16-eab308?style=flat\" title=\"Updated 2026-03-16\" /></sub>",
-      "open_issues": 2,
-      "branches": 3,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-03-25\" src=\"https://img.shields.io/badge/Updated-2026--03--25-22c55e?style=flat\" title=\"Updated 2026-03-25\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
-      "latest_release_tag": null,
-      "size_mb": "89 KB"
+      "latest_release_tag": "1.0.0",
+      "size_mb": "101 KB"
     },
     {
       "name": "terraform-google-module-template",
