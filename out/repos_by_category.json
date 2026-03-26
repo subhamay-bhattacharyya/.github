@@ -741,6 +741,23 @@
       "size_mb": "166 KB"
     }
   ],
+  "GCP Demo Projects": [
+    {
+      "name": "terraform-gcs-bucket-demo",
+      "html_url": "https://github.com/subhamay-bhattacharyya/terraform-gcs-bucket-demo",
+      "description": "\ud83c\udfd7\ufe0f Terraform demo project provisioning a GCS bucket on Google Cloud with configurable storage class, access control, encryption, versioning, and lifecycle management.",
+      "status": "In Progress",
+      "cloud_service_provider": "Google Cloud Platform",
+      "maturity": "beta",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-03-26\" src=\"https://img.shields.io/badge/Updated-2026--03--26-22c55e?style=flat\" title=\"Updated 2026-03-26\" /></sub>",
+      "open_issues": 3,
+      "branches": 4,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    }
+  ],
   "GitHub Reusable Action": [
     {
       "name": "checkov-report-action",
@@ -1282,17 +1299,17 @@
     {
       "name": "terraform-google-module-template",
       "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-google-module-template",
-      "description": "\ud83c\udfd7\ufe0f A reusable, opinionated Terraform module template for provisioning and managing Google Cloud Platform resources \u2014 designed for consistency, scalability, and best practices.",
-      "status": "Initialized",
+      "description": "\u2705 A reusable, opinionated Terraform module template for provisioning and managing Google Cloud Platform resources \u2014 designed for consistency, scalability, and best practices.",
+      "status": "Complete",
       "cloud_service_provider": "Google Cloud Platform",
-      "maturity": "experimental",
+      "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-03-26\" src=\"https://img.shields.io/badge/Updated-2026--03--26-22c55e?style=flat\" title=\"Updated 2026-03-26\" /></sub>",
-      "open_issues": 4,
-      "branches": 5,
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
-      "latest_release_tag": null,
-      "size_mb": "63 KB"
+      "latest_release_tag": "v1.0.0",
+      "size_mb": "147 KB"
     }
   ]
 }

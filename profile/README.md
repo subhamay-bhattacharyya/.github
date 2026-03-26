@@ -226,6 +226,15 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 </details>
 
 <details>
+<summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ GCP Demo Projects</span></h3></summary>
+
+| Repository | Description | Status | Stats |
+|------------|-------------|--------|-------|
+| [terraform-gcs-bucket-demo](https://github.com/subhamay-bhattacharyya/terraform-gcs-bucket-demo)<br><sub><img alt="Updated 2026-03-26" src="https://img.shields.io/badge/Updated-2026--03--26-22c55e?style=flat" title="Updated 2026-03-26" /></sub> | 🏗️ Terraform demo project provisioning a GCS bucket on Google Cloud with configu...<br>![beta](https://img.shields.io/badge/beta-3b82f6?style=flat)<br><sub><sup><b><i>Not Available</i></b></sup></sub> | 🟡 | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">4</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">3</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">0 KB</span> |
+
+</details>
+
+<details>
 <summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ GitHub Reusable Action</span></h3></summary>
 
 | Repository | Description | Status | Stats |
@@ -313,12 +322,12 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 | Repository | Description | Status | Stats |
 |------------|-------------|--------|-------|
 | [terraform-google-project-hierarchy](https://github.com/subhamay-bhattacharyya-tf/terraform-google-project-hierarchy)<br><sub><img alt="Updated 2026-03-25" src="https://img.shields.io/badge/Updated-2026--03--25-22c55e?style=flat" title="Updated 2026-03-25" /></sub> | ✅ Terraform module for managing GCP organization folder and project hierarchies ...<br>![beta](https://img.shields.io/badge/beta-3b82f6?style=flat)<br><sub><sup>![release 1.0.0](https://img.shields.io/badge/release-1.0.0-2563eb?style=flat)</sup></sub><br><sub><sup><b><i>Not Available</i></b></sup></sub> | 🟢 | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">1</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">104 KB</span> |
-| [terraform-google-module-template](https://github.com/subhamay-bhattacharyya-tf/terraform-google-module-template)<br><sub><img alt="Updated 2026-03-26" src="https://img.shields.io/badge/Updated-2026--03--26-22c55e?style=flat" title="Updated 2026-03-26" /></sub> | 🏗️ A reusable, opinionated Terraform module template for provisioning and managi...<br>![experimental](https://img.shields.io/badge/experimental-f97316?style=flat)<br><sub><sup><b><i>Not Available</i></b></sup></sub> | ⚪ | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">5</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">4</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">63 KB</span> |
+| [terraform-google-module-template](https://github.com/subhamay-bhattacharyya-tf/terraform-google-module-template)<br><sub><img alt="Updated 2026-03-26" src="https://img.shields.io/badge/Updated-2026--03--26-22c55e?style=flat" title="Updated 2026-03-26" /></sub> | ✅ A reusable, opinionated Terraform module template for provisioning and managin...<br>![beta](https://img.shields.io/badge/beta-3b82f6?style=flat)<br><sub><sup>![release v1.0.0](https://img.shields.io/badge/release-v1.0.0-2563eb?style=flat)</sup></sub><br><sub><sup><b><i>Not Available</i></b></sup></sub> | 🟢 | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">1</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">147 KB</span> |
 
 </details>
 
 
 ---
 
-*Last generated: 2026-03-26 13:23:47 EST*  
-*Total repositories: 84*
+*Last generated: 2026-03-26 14:20:01 EST*  
+*Total repositories: 85*
