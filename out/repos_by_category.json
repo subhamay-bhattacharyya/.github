@@ -1287,9 +1287,9 @@
       "cloud_service_provider": "Google Cloud Platform",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-03-20\" src=\"https://img.shields.io/badge/Updated-2026--03--20-22c55e?style=flat\" title=\"Updated 2026-03-20\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-03-26\" src=\"https://img.shields.io/badge/Updated-2026--03--26-22c55e?style=flat\" title=\"Updated 2026-03-26\" /></sub>",
+      "open_issues": 4,
+      "branches": 5,
       "open_prs": null,
       "latest_release_tag": null,
       "size_mb": "63 KB"
