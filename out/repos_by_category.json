@@ -1369,7 +1369,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "60 KB"
     },
     {
       "name": "terraform-google-spanner-database",
@@ -1384,7 +1384,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "60 KB"
     },
     {
       "name": "terraform-google-cloud-sql-instance",
@@ -1399,7 +1399,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "60 KB"
     },
     {
       "name": "terraform-google-cloud-sql-database",
@@ -1414,7 +1414,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "60 KB"
     },
     {
       "name": "terraform-google-alloydb-cluster",
@@ -1429,7 +1429,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "60 KB"
     },
     {
       "name": "terraform-google-alloydb-instance",
@@ -1444,7 +1444,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "60 KB"
     },
     {
       "name": "terraform-google-firestore",
@@ -1459,7 +1459,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "60 KB"
     },
     {
       "name": "terraform-google-datastore",
@@ -1474,7 +1474,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "60 KB"
     },
     {
       "name": "terraform-google-bigtable-table",
@@ -1489,7 +1489,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "60 KB"
     },
     {
       "name": "terraform-google-bigquery-dataset",
@@ -1504,7 +1504,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "60 KB"
     },
     {
       "name": "terraform-google-kms",
@@ -1519,7 +1519,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "60 KB"
     },
     {
       "name": "terraform-google-dataproc",
@@ -1534,7 +1534,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "60 KB"
     },
     {
       "name": "terraform-google-pubsub-topic",
@@ -1549,7 +1549,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "60 KB"
     },
     {
       "name": "terraform-google-pubsub-subscription",
@@ -1564,7 +1564,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "60 KB"
     },
     {
       "name": "terraform-google-compute-instance",
@@ -1579,7 +1579,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "60 KB"
     },
     {
       "name": "terraform-google-compute-mig",
@@ -1594,7 +1594,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "60 KB"
     }
   ]
 }
