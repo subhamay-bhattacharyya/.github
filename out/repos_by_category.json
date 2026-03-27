@@ -1357,19 +1357,34 @@
       "size_mb": "60 KB"
     },
     {
-      "name": "terraform-google-spanner",
-      "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-google-spanner",
-      "description": "\ud83c\udfd7\ufe0f Terraform module to provision Cloud Spanner instances, databases, backups, and IAM configuration.",
+      "name": "terraform-google-spanner-instance",
+      "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-google-spanner-instance",
+      "description": "\ud83c\udfd7\ufe0f Terraform module to provision and manage Google Cloud Spanner instances with configurable capacity, regional settings, and enterprise-grade controls.",
       "status": "Initialized",
       "cloud_service_provider": "Google Cloud Platform",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-03-26\" src=\"https://img.shields.io/badge/Updated-2026--03--26-22c55e?style=flat\" title=\"Updated 2026-03-26\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-03-27\" src=\"https://img.shields.io/badge/Updated-2026--03--27-22c55e?style=flat\" title=\"Updated 2026-03-27\" /></sub>",
       "open_issues": 0,
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "60 KB"
+      "size_mb": "0 KB"
+    },
+    {
+      "name": "terraform-google-vpc",
+      "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-google-vpc",
+      "description": "\ud83c\udfd7\ufe0f Terraform module to create and manage VPC networks, subnets, routes, firewall rules, private service access, and related networking components.",
+      "status": "Initialized",
+      "cloud_service_provider": "Google Cloud Platform",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-03-27\" src=\"https://img.shields.io/badge/Updated-2026--03--27-22c55e?style=flat\" title=\"Updated 2026-03-27\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     }
   ]
 }
