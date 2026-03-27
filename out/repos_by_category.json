@@ -1324,7 +1324,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "60 KB"
     },
     {
       "name": "terraform-google-cloud-sql",
@@ -1339,7 +1339,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "60 KB"
     },
     {
       "name": "terraform-google-dataflow",
@@ -1354,7 +1354,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "60 KB"
     },
     {
       "name": "terraform-google-spanner",
@@ -1369,7 +1369,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "60 KB"
     }
   ]
 }
