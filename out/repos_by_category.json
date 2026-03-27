@@ -1310,6 +1310,66 @@
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
       "size_mb": "203 KB"
+    },
+    {
+      "name": "terraform-google-gcs-bucket",
+      "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-google-gcs-bucket",
+      "description": "\ud83c\udfd7\ufe0f Terraform module to provision and manage Cloud Storage buckets, lifecycle rules, versioning, retention policies, encryption, and IAM access.",
+      "status": "Initialized",
+      "cloud_service_provider": "Google Cloud Platform",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-03-26\" src=\"https://img.shields.io/badge/Updated-2026--03--26-22c55e?style=flat\" title=\"Updated 2026-03-26\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    },
+    {
+      "name": "terraform-google-cloud-sql",
+      "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-google-cloud-sql",
+      "description": "\ud83c\udfd7\ufe0f Terraform module to provision and manage Cloud SQL instances, databases, users, backups, high availability, and private connectivity.",
+      "status": "Initialized",
+      "cloud_service_provider": "Google Cloud Platform",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-03-26\" src=\"https://img.shields.io/badge/Updated-2026--03--26-22c55e?style=flat\" title=\"Updated 2026-03-26\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    },
+    {
+      "name": "terraform-google-dataflow",
+      "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-google-dataflow",
+      "description": "\ud83c\udfd7\ufe0f Terraform module to deploy and manage Dataflow jobs, templates, staging configuration, worker settings, and service accounts.",
+      "status": "Initialized",
+      "cloud_service_provider": "Google Cloud Platform",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-03-26\" src=\"https://img.shields.io/badge/Updated-2026--03--26-22c55e?style=flat\" title=\"Updated 2026-03-26\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    },
+    {
+      "name": "terraform-google-spanner",
+      "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-google-spanner",
+      "description": "\ud83c\udfd7\ufe0f Terraform module to provision Cloud Spanner instances, databases, backups, and IAM configuration.",
+      "status": "Initialized",
+      "cloud_service_provider": "Google Cloud Platform",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-03-26\" src=\"https://img.shields.io/badge/Updated-2026--03--26-22c55e?style=flat\" title=\"Updated 2026-03-26\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     }
   ]
 }
