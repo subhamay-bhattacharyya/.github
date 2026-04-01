@@ -1317,7 +1317,7 @@
       "description": "\ud83c\udfd7\ufe0f Terraform module to provision and manage Cloud Storage buckets, lifecycle rules, versioning, retention policies, encryption, and IAM access.",
       "status": "In Progress",
       "cloud_service_provider": "Google Cloud Platform",
-      "maturity": "experimental",
+      "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-03-26\" src=\"https://img.shields.io/badge/Updated-2026--03--26-22c55e?style=flat\" title=\"Updated 2026-03-26\" /></sub>",
       "open_issues": 2,
