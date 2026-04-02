@@ -24,8 +24,8 @@
       "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-03-25\" src=\"https://img.shields.io/badge/Updated-2026--03--25-eab308?style=flat\" title=\"Updated 2026-03-25\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
       "latest_release_tag": "Rel-013-20260325162733",
       "size_mb": "110 KB"
