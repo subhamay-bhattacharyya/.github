@@ -1339,7 +1339,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "188 KB"
+      "size_mb": "195 KB"
     },
     {
       "name": "terraform-google-dataflow",
