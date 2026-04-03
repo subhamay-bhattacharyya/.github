@@ -847,7 +847,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "45 KB"
     },
     {
       "name": "terraform-gce-demo",
@@ -862,7 +862,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "45 KB"
     },
     {
       "name": "terraform-cloud-function-demo",
@@ -877,7 +877,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "45 KB"
     },
     {
       "name": "terraform-cloud-sql-demo",
@@ -892,7 +892,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "45 KB"
     },
     {
       "name": "terraform-cloud-spanner-demo",
@@ -907,7 +907,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "45 KB"
     },
     {
       "name": "terraform-cloud-datastore-demo",
@@ -922,7 +922,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "45 KB"
     },
     {
       "name": "terraform-cloud-firestore-demo",
@@ -937,7 +937,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "45 KB"
     },
     {
       "name": "terraform-dataflow-demo",
@@ -952,7 +952,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "45 KB"
     },
     {
       "name": "terraform-alloydb-demo",
@@ -967,7 +967,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "45 KB"
     },
     {
       "name": "terraform-dataproc-demo",
@@ -982,7 +982,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "45 KB"
     },
     {
       "name": "terraform-vpc-subnet-demo",
@@ -997,7 +997,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "45 KB"
     },
     {
       "name": "terraform-kms-demo",
@@ -1012,7 +1012,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "45 KB"
     },
     {
       "name": "terraform-compute-mig-demo",
@@ -1027,7 +1027,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "45 KB"
     }
   ],
   "GitHub Reusable Action": [
