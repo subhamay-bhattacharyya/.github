@@ -235,6 +235,17 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 </details>
 
 <details>
+<summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ Terraform Template Repository</span></h3></summary>
+
+| Repository | Description | Status | Stats |
+|------------|-------------|--------|-------|
+| [terraform-google-service-demo](https://github.com/subhamay-bhattacharyya/terraform-google-service-demo)<br><sub><img alt="Updated 2026-04-02" src="https://img.shields.io/badge/Updated-2026--04--02-22c55e?style=flat" title="Updated 2026-04-02" /></sub> | 🏗️ A template repository to be used to create Google Services Demo<br>![beta](https://img.shields.io/badge/beta-3b82f6?style=flat)<br><sub><sup><b><i>Not Available</i></b></sup></sub> | 🟡 | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">1</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">70 KB</span> |
+| [terraform-snowflake-module-template](https://github.com/subhamay-bhattacharyya-tf/terraform-snowflake-module-template)<br><sub><img alt="Updated 2026-02-25" src="https://img.shields.io/badge/Updated-2026--02--25-f97316?style=flat" title="Updated 2026-02-25" /></sub> | ✅ Terraform Snowflake module GitHub repository template<br>![beta](https://img.shields.io/badge/beta-3b82f6?style=flat)<br><sub><sup>![release v1.0.0](https://img.shields.io/badge/release-v1.0.0-2563eb?style=flat)</sup></sub><br><sub><sup><b><i>Not Available</i></b></sup></sub> | 🟢 | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">3</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">2</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">239 KB</span> |
+| [terraform-aws-module-template](https://github.com/subhamay-bhattacharyya-tf/terraform-aws-module-template)<br><sub><img alt="Updated 2026-03-04" src="https://img.shields.io/badge/Updated-2026--03--04-eab308?style=flat" title="Updated 2026-03-04" /></sub> | ✅ Terraform AWS Module Template<br>![beta](https://img.shields.io/badge/beta-3b82f6?style=flat)<br><sub><sup><b><i>Not Available</i></b></sup></sub> | 🟢 | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">2</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">1</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">317 KB</span> |
+
+</details>
+
+<details>
 <summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ GitHub Reusable Action</span></h3></summary>
 
 | Repository | Description | Status | Stats |
@@ -294,16 +305,6 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 </details>
 
 <details>
-<summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ Terraform Template Repository</span></h3></summary>
-
-| Repository | Description | Status | Stats |
-|------------|-------------|--------|-------|
-| [terraform-snowflake-module-template](https://github.com/subhamay-bhattacharyya-tf/terraform-snowflake-module-template)<br><sub><img alt="Updated 2026-02-25" src="https://img.shields.io/badge/Updated-2026--02--25-f97316?style=flat" title="Updated 2026-02-25" /></sub> | ✅ Terraform Snowflake module GitHub repository template<br>![beta](https://img.shields.io/badge/beta-3b82f6?style=flat)<br><sub><sup>![release v1.0.0](https://img.shields.io/badge/release-v1.0.0-2563eb?style=flat)</sup></sub><br><sub><sup><b><i>Not Available</i></b></sup></sub> | 🟢 | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">3</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">2</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">239 KB</span> |
-| [terraform-aws-module-template](https://github.com/subhamay-bhattacharyya-tf/terraform-aws-module-template)<br><sub><img alt="Updated 2026-03-04" src="https://img.shields.io/badge/Updated-2026--03--04-eab308?style=flat" title="Updated 2026-03-04" /></sub> | ✅ Terraform AWS Module Template<br>![beta](https://img.shields.io/badge/beta-3b82f6?style=flat)<br><sub><sup><b><i>Not Available</i></b></sup></sub> | 🟢 | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">2</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">1</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">317 KB</span> |
-
-</details>
-
-<details>
 <summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ Terraform AWS Module</span></h3></summary>
 
 | Repository | Description | Status | Stats |
@@ -348,5 +349,5 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 ---
 
-*Last generated: 2026-04-02 20:20:58 EST*  
-*Total repositories: 104*
+*Last generated: 2026-04-02 21:33:11 EST*  
+*Total repositories: 105*
