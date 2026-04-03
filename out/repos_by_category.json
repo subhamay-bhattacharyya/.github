@@ -741,23 +741,6 @@
       "size_mb": "166 KB"
     }
   ],
-  "GCP Demo Projects": [
-    {
-      "name": "terraform-gcs-bucket-demo",
-      "html_url": "https://github.com/subhamay-bhattacharyya/terraform-gcs-bucket-demo",
-      "description": "\ud83c\udfd7\ufe0f Terraform demo project provisioning a GCS bucket on Google Cloud with configurable storage class, access control, encryption, versioning, and lifecycle management.",
-      "status": "In Progress",
-      "cloud_service_provider": "Google Cloud Platform",
-      "maturity": "beta",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-03-26\" src=\"https://img.shields.io/badge/Updated-2026--03--26-eab308?style=flat\" title=\"Updated 2026-03-26\" /></sub>",
-      "open_issues": 3,
-      "branches": 4,
-      "open_prs": null,
-      "latest_release_tag": null,
-      "size_mb": "166 KB"
-    }
-  ],
   "Terraform Template Repository": [
     {
       "name": "terraform-google-service-demo",
@@ -803,6 +786,23 @@
       "open_prs": null,
       "latest_release_tag": null,
       "size_mb": "317 KB"
+    }
+  ],
+  "GCP Demo Projects": [
+    {
+      "name": "terraform-gcs-bucket-demo",
+      "html_url": "https://github.com/subhamay-bhattacharyya/terraform-gcs-bucket-demo",
+      "description": "\ud83c\udfd7\ufe0f Terraform demo project provisioning a GCS bucket on Google Cloud with configurable storage class, access control, encryption, versioning, and lifecycle management.",
+      "status": "Initialized",
+      "cloud_service_provider": "Google Cloud Platform",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-03\" src=\"https://img.shields.io/badge/Updated-2026--04--03-22c55e?style=flat\" title=\"Updated 2026-04-03\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     }
   ],
   "GitHub Reusable Action": [
