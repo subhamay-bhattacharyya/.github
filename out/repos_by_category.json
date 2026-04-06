@@ -1829,14 +1829,14 @@
       "description": "\ud83c\udfd7\ufe0f Terraform module to create and manage Dataproc clusters, batches (serverless), workflow templates, autoscaling policies, and job execution.",
       "status": "In Progress",
       "cloud_service_provider": "Google Cloud Platform",
-      "maturity": "experimental",
-      "notes": "Working on Claude SKILL",
+      "maturity": "alpha",
+      "notes": "Initial build successful",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-06\" src=\"https://img.shields.io/badge/Updated-2026--04--06-22c55e?style=flat\" title=\"Updated 2026-04-06\" /></sub>",
       "open_issues": 2,
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "112 KB"
+      "size_mb": "154 KB"
     },
     {
       "name": "terraform-google-pubsub-topic",
