@@ -751,8 +751,8 @@
       "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-02\" src=\"https://img.shields.io/badge/Updated-2026--04--02-22c55e?style=flat\" title=\"Updated 2026-04-02\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
       "size_mb": "103 KB"
@@ -1290,7 +1290,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "8 KB"
+      "size_mb": "95 KB"
     },
     {
       "name": "terraform-checkov-scan-detector",
