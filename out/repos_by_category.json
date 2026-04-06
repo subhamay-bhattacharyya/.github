@@ -1764,6 +1764,21 @@
       "size_mb": "112 KB"
     },
     {
+      "name": "terraform-google-bigtable-instance",
+      "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-google-bigtable-instance",
+      "description": "\ud83c\udfd7\ufe0f Terraform module to provision Bigtable instances, clusters, autoscaling, storage configuration, and IAM settings.",
+      "status": "In Progress",
+      "cloud_service_provider": "Google Cloud Platform",
+      "maturity": "alpha",
+      "notes": "Initial build is successful.",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-01\" src=\"https://img.shields.io/badge/Updated-2026--04--01-22c55e?style=flat\" title=\"Updated 2026-04-01\" /></sub>",
+      "open_issues": 2,
+      "branches": 3,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "170 KB"
+    },
+    {
       "name": "terraform-google-bigtable-table",
       "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-google-bigtable-table",
       "description": "\ud83c\udfd7\ufe0f Terraform module to create and manage Bigtable tables, including column families, GC policies, and application-level schema design.",
