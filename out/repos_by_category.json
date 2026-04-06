@@ -1276,6 +1276,38 @@
       "size_mb": "129 KB"
     }
   ],
+  "Security Scan": [
+    {
+      "name": "terraform-checkov-custom-policies",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/terraform-checkov-custom-policies",
+      "description": "\ud83c\udfd7\ufe0f A centralized repository for reusable custom Checkov policies, metadata-driven service-to-scan mappings, Terraform module detection logic, pass/fail test cases, and GitHub Actions automation. It enables consistent, scalable, and organization-wide IaC governance across Terraform repositories and cloud services.",
+      "status": "Initiated",
+      "cloud_service_provider": null,
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-05\" src=\"https://img.shields.io/badge/Updated-2026--04--05-22c55e?style=flat\" title=\"Updated 2026-04-05\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    },
+    {
+      "name": "terraform-checkov-scan-detector",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/terraform-checkov-scan-detector",
+      "description": "\ud83c\udfd7\ufe0f GitHub Action to scan Terraform configurations, detect which cloud services and modules are used, and dynamically determine the relevant Checkov custom policy folders, built-in checks, custom checks, and skip rules to execute.",
+      "status": "Initiated",
+      "cloud_service_provider": null,
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-05\" src=\"https://img.shields.io/badge/Updated-2026--04--05-22c55e?style=flat\" title=\"Updated 2026-04-05\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    }
+  ],
   "Terraform Snowflake Module": [
     {
       "name": "terraform-snowflake-warehouse",
