@@ -28,7 +28,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": "Rel-017-20260407175941",
-      "size_mb": "102 KB"
+      "size_mb": "108 KB"
     },
     {
       "name": "event-driven-etl-automation",
@@ -1179,7 +1179,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "215 KB"
+      "size_mb": "283 KB"
     }
   ],
   "GitHub Action Template Repository": [
