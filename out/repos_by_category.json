@@ -25,9 +25,9 @@
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-07\" src=\"https://img.shields.io/badge/Updated-2026--04--07-22c55e?style=flat\" title=\"Updated 2026-04-07\" /></sub>",
       "open_issues": 1,
-      "branches": 2,
+      "branches": 1,
       "open_prs": null,
-      "latest_release_tag": "Rel-015-20260407154846",
+      "latest_release_tag": "Rel-017-20260407175941",
       "size_mb": "102 KB"
     },
     {
@@ -1174,9 +1174,9 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2025-12-29\" src=\"https://img.shields.io/badge/Updated-2025--12--29-ef4444?style=flat\" title=\"Updated 2025-12-29\" /></sub>",
-      "open_issues": 3,
-      "branches": 4,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-07\" src=\"https://img.shields.io/badge/Updated-2026--04--07-22c55e?style=flat\" title=\"Updated 2026-04-07\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
       "size_mb": "215 KB"
