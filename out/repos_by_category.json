@@ -1791,7 +1791,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "112 KB"
+      "size_mb": "156 KB"
     },
     {
       "name": "terraform-google-bigquery-dataset",
