@@ -786,6 +786,21 @@
       "open_prs": null,
       "latest_release_tag": null,
       "size_mb": "317 KB"
+    },
+    {
+      "name": "terraform-google-module-template",
+      "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-google-module-template",
+      "description": "\u2705 A reusable, opinionated Terraform module template for provisioning and managing Google Cloud Platform resources \u2014 designed for consistency, scalability, and best practices.",
+      "status": "Complete",
+      "cloud_service_provider": "Google Cloud Platform",
+      "maturity": "beta",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-03-26\" src=\"https://img.shields.io/badge/Updated-2026--03--26-eab308?style=flat\" title=\"Updated 2026-03-26\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "latest_release_tag": "v1.0.0",
+      "size_mb": "255 KB"
     }
   ],
   "GCP Demo Projects": [
@@ -1584,21 +1599,6 @@
       "size_mb": "177 KB"
     },
     {
-      "name": "terraform-google-module-template",
-      "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-google-module-template",
-      "description": "\u2705 A reusable, opinionated Terraform module template for provisioning and managing Google Cloud Platform resources \u2014 designed for consistency, scalability, and best practices.",
-      "status": "Complete",
-      "cloud_service_provider": "Google Cloud Platform",
-      "maturity": "beta",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-03-26\" src=\"https://img.shields.io/badge/Updated-2026--03--26-eab308?style=flat\" title=\"Updated 2026-03-26\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
-      "open_prs": null,
-      "latest_release_tag": "v1.0.0",
-      "size_mb": "255 KB"
-    },
-    {
       "name": "terraform-google-gcs-bucket",
       "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-google-gcs-bucket",
       "description": "\ud83c\udfd7\ufe0f Terraform module to provision and manage Cloud Storage buckets, lifecycle rules, versioning, retention policies, encryption, and IAM access.",
@@ -1784,8 +1784,8 @@
       "description": "\ud83c\udfd7\ufe0f Terraform module to create and manage Bigtable tables, including column families, GC policies, and application-level schema design.",
       "status": "In Progress",
       "cloud_service_provider": "Google Cloud Platform",
-      "maturity": "experimental",
-      "notes": "Working on Claude SKILL",
+      "maturity": "alpha",
+      "notes": "Initial build successful",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-01\" src=\"https://img.shields.io/badge/Updated-2026--04--01-22c55e?style=flat\" title=\"Updated 2026-04-01\" /></sub>",
       "open_issues": 2,
       "branches": 3,
@@ -1799,8 +1799,8 @@
       "description": "\ud83c\udfd7\ufe0f Terraform module to manage BigQuery datasets, including location, access controls, IAM policies, and data governance settings.",
       "status": "In Progress",
       "cloud_service_provider": "Google Cloud Platform",
-      "maturity": "experimental",
-      "notes": "Working on Claude SKILL",
+      "maturity": "beta",
+      "notes": "Initial build successful",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-01\" src=\"https://img.shields.io/badge/Updated-2026--04--01-22c55e?style=flat\" title=\"Updated 2026-04-01\" /></sub>",
       "open_issues": 2,
       "branches": 3,
