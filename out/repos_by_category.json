@@ -732,11 +732,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-08\" src=\"https://img.shields.io/badge/Updated-2026--04--08-22c55e?style=flat\" title=\"Updated 2026-04-08\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "29 KB"
     }
   ],
   "Uncatrgorised": [
@@ -1622,11 +1622,11 @@
       "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-08\" src=\"https://img.shields.io/badge/Updated-2026--04--08-22c55e?style=flat\" title=\"Updated 2026-04-08\" /></sub>",
-      "open_issues": 2,
+      "open_issues": 1,
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": "1.0.0",
-      "size_mb": "177 KB"
+      "size_mb": "196 KB"
     },
     {
       "name": "terraform-google-gcs-bucket",
