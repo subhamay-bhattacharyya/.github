@@ -1338,17 +1338,17 @@
     {
       "name": "aws-project-onboarding",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/aws-project-onboarding",
-      "description": "\ud83c\udfd7\ufe0f Reusable GitHub Actions workflow for standardized AWS project onboarding. Provisions HCP Terraform workspaces, GitHub Environments with AWS account variables, environment-tier deployment approval gates, and repository branch protection \u2014 all configured from a single project-config.json file per application repo.",
-      "status": "Initiated",
+      "description": "\u2705  Reusable GitHub Actions workflow for standardized AWS project onboarding. Provisions HCP Terraform workspaces, GitHub Environments with AWS account variables, environment-tier deployment approval gates, and repository branch protection \u2014 all configured from a single project-config.json file per application repo.",
+      "status": "Complete",
       "cloud_service_provider": null,
-      "maturity": "experimental",
-      "notes": "Not Available",
+      "maturity": "beta",
+      "notes": "Ready to release",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-10\" src=\"https://img.shields.io/badge/Updated-2026--04--10-22c55e?style=flat\" title=\"Updated 2026-04-10\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
-      "latest_release_tag": null,
-      "size_mb": "32 KB"
+      "latest_release_tag": "v1.0.0",
+      "size_mb": "44 KB"
     }
   ],
   "Security Scan": [
