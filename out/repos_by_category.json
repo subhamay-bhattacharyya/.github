@@ -53,9 +53,9 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "beta",
       "notes": "Need to progress further with the Udemy course resource.",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-01-29\" src=\"https://img.shields.io/badge/Updated-2026--01--29-f97316?style=flat\" title=\"Updated 2026-01-29\" /></sub>",
-      "open_issues": 3,
-      "branches": 3,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-09\" src=\"https://img.shields.io/badge/Updated-2026--04--09-22c55e?style=flat\" title=\"Updated 2026-04-09\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
       "latest_release_tag": "Rel-004-20260129194422",
       "size_mb": "185 KB"
@@ -1100,11 +1100,11 @@
       "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-09\" src=\"https://img.shields.io/badge/Updated-2026--04--09-22c55e?style=flat\" title=\"Updated 2026-04-09\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "222 KB"
+      "size_mb": "356 KB"
     },
     {
       "name": "tf-validate-action",
@@ -1269,8 +1269,8 @@
       "maturity": "beta",
       "notes": "Current - Working for AWS,Azure, GCP, Databricks. Next-Test for Snowflake",
       "last_updated": "<br><sub><img alt=\"Updated 2026-02-26\" src=\"https://img.shields.io/badge/Updated-2026--02--26-f97316?style=flat\" title=\"Updated 2026-02-26\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
       "size_mb": "244 KB"
@@ -1361,11 +1361,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-09\" src=\"https://img.shields.io/badge/Updated-2026--04--09-22c55e?style=flat\" title=\"Updated 2026-04-09\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
-      "latest_release_tag": null,
-      "size_mb": "25 KB"
+      "latest_release_tag": "v1.0.0",
+      "size_mb": "31 KB"
     }
   ],
   "Terraform Snowflake Module": [
