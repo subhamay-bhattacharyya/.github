@@ -732,11 +732,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-12\" src=\"https://img.shields.io/badge/Updated-2026--04--12-22c55e?style=flat\" title=\"Updated 2026-04-12\" /></sub>",
-      "open_issues": 2,
-      "branches": 1,
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "48 KB"
+      "size_mb": "74 KB"
     }
   ],
   "Uncatrgorised": [
@@ -1273,7 +1273,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "250 KB"
+      "size_mb": "256 KB"
     },
     {
       "name": "slack-notification-wf",
