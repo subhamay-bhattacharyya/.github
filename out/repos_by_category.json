@@ -736,7 +736,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "128 KB"
+      "size_mb": "130 KB"
     }
   ],
   "Uncatrgorised": [
@@ -1104,7 +1104,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "422 KB"
+      "size_mb": "427 KB"
     },
     {
       "name": "tf-validate-action",
@@ -1376,8 +1376,8 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-09\" src=\"https://img.shields.io/badge/Updated-2026--04--09-22c55e?style=flat\" title=\"Updated 2026-04-09\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
       "size_mb": "31 KB"
