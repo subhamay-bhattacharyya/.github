@@ -736,7 +736,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "130 KB"
+      "size_mb": "136 KB"
     }
   ],
   "Uncatrgorised": [
@@ -1104,7 +1104,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "427 KB"
+      "size_mb": "434 KB"
     },
     {
       "name": "tf-validate-action",
@@ -1273,7 +1273,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "259 KB"
+      "size_mb": "261 KB"
     },
     {
       "name": "slack-notification-wf",
@@ -1380,7 +1380,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "31 KB"
+      "size_mb": "268 KB"
     }
   ],
   "Terraform Snowflake Module": [
