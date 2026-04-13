@@ -736,7 +736,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "136 KB"
+      "size_mb": "143 KB"
     }
   ],
   "Uncatrgorised": [
@@ -1089,7 +1089,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "1.0.0",
-      "size_mb": "465 KB"
+      "size_mb": "467 KB"
     },
     {
       "name": "checkov-scan-action",
@@ -1104,7 +1104,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "434 KB"
+      "size_mb": "140 KB"
     },
     {
       "name": "tf-validate-action",
