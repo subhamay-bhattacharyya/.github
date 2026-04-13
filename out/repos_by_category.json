@@ -1104,7 +1104,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "358 KB"
+      "size_mb": "422 KB"
     },
     {
       "name": "tf-validate-action",
@@ -1656,7 +1656,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "1.0.0",
-      "size_mb": "196 KB"
+      "size_mb": "200 KB"
     },
     {
       "name": "terraform-google-gcs-bucket",
