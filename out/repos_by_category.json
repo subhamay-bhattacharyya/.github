@@ -736,7 +736,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "200 KB"
+      "size_mb": "203 KB"
     }
   ],
   "Uncatrgorised": [
@@ -1104,7 +1104,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "166 KB"
+      "size_mb": "178 KB"
     },
     {
       "name": "tf-validate-action",
@@ -1209,7 +1209,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "224 KB"
+      "size_mb": "365 KB"
     },
     {
       "name": "create-release-action",
@@ -1273,7 +1273,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "270 KB"
+      "size_mb": "124 KB"
     },
     {
       "name": "slack-notification-wf",
