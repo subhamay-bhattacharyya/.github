@@ -736,7 +736,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "194 KB"
+      "size_mb": "200 KB"
     }
   ],
   "Uncatrgorised": [
@@ -1104,7 +1104,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "140 KB"
+      "size_mb": "166 KB"
     },
     {
       "name": "tf-validate-action",
@@ -1204,11 +1204,11 @@
       "cloud_service_provider": null,
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2025-08-22\" src=\"https://img.shields.io/badge/Updated-2025--08--22-ef4444?style=flat\" title=\"Updated 2025-08-22\" /></sub>",
-      "open_issues": 6,
-      "branches": 7,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-14\" src=\"https://img.shields.io/badge/Updated-2026--04--14-22c55e?style=flat\" title=\"Updated 2026-04-14\" /></sub>",
+      "open_issues": 1,
+      "branches": 1,
       "open_prs": null,
-      "latest_release_tag": "v1.0.0",
+      "latest_release_tag": "v1.0.1",
       "size_mb": "224 KB"
     },
     {
@@ -1273,7 +1273,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "267 KB"
+      "size_mb": "270 KB"
     },
     {
       "name": "slack-notification-wf",
