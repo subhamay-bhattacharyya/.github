@@ -736,7 +736,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "208 KB"
+      "size_mb": "212 KB"
     }
   ],
   "Uncatrgorised": [
@@ -1104,17 +1104,17 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "178 KB"
+      "size_mb": "183 KB"
     },
     {
       "name": "tf-validate-action",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-validate-action",
-      "description": "GitHub Composite Action - Terraform Format Check and Validation.",
+      "description": "\u2705 GitHub Composite Action - Terraform Format Check and Validation.",
       "status": "Complete",
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-03-22\" src=\"https://img.shields.io/badge/Updated-2026--03--22-eab308?style=flat\" title=\"Updated 2026-03-22\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-14\" src=\"https://img.shields.io/badge/Updated-2026--04--14-22c55e?style=flat\" title=\"Updated 2026-04-14\" /></sub>",
       "open_issues": 0,
       "branches": 1,
       "open_prs": null,
@@ -1273,7 +1273,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "125 KB"
+      "size_mb": "127 KB"
     },
     {
       "name": "slack-notification-wf",
