@@ -23,7 +23,7 @@
       "cloud_service_provider": "Google Cloud Platform",
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-04-07\" src=\"https://img.shields.io/badge/Updated-2026--04--07-22c55e?style=flat\" title=\"Updated 2026-04-07\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-07\" src=\"https://img.shields.io/badge/Updated-2026--04--07-eab308?style=flat\" title=\"Updated 2026-04-07\" /></sub>",
       "open_issues": 1,
       "branches": 1,
       "open_prs": null,
@@ -736,7 +736,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "212 KB"
+      "size_mb": "226 KB"
     }
   ],
   "Uncatrgorised": [
@@ -1099,9 +1099,9 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-04-09\" src=\"https://img.shields.io/badge/Updated-2026--04--09-22c55e?style=flat\" title=\"Updated 2026-04-09\" /></sub>",
-      "open_issues": 2,
-      "branches": 3,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-14\" src=\"https://img.shields.io/badge/Updated-2026--04--14-22c55e?style=flat\" title=\"Updated 2026-04-14\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.0.1",
       "size_mb": "183 KB"
@@ -1119,7 +1119,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "386 KB"
+      "size_mb": "392 KB"
     },
     {
       "name": "branch-issue-action",
@@ -1160,10 +1160,10 @@
       "maturity": "beta",
       "notes": "Current - Working for AWS,Azure, GCP, Databricks. Next-Test for Snowflake",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-14\" src=\"https://img.shields.io/badge/Updated-2026--04--14-22c55e?style=flat\" title=\"Updated 2026-04-14\" /></sub>",
-      "open_issues": 3,
-      "branches": 4,
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
-      "latest_release_tag": "v1.4.0",
+      "latest_release_tag": "v1.5.0",
       "size_mb": "176 KB"
     },
     {
@@ -1268,12 +1268,12 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Current - Working for AWS,Azure, GCP, Databricks. Next-Test for Snowflake",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-26\" src=\"https://img.shields.io/badge/Updated-2026--02--26-f97316?style=flat\" title=\"Updated 2026-02-26\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-14\" src=\"https://img.shields.io/badge/Updated-2026--04--14-22c55e?style=flat\" title=\"Updated 2026-04-14\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
-      "latest_release_tag": "v1.1.0",
-      "size_mb": "127 KB"
+      "latest_release_tag": "v1.2.0",
+      "size_mb": "130 KB"
     },
     {
       "name": "slack-notification-wf",
