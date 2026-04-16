@@ -115,7 +115,7 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "Current - Repository Initialized. Next - Create the entire stack.",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-01-16\" src=\"https://img.shields.io/badge/Updated-2026--01--16-f97316?style=flat\" title=\"Updated 2026-01-16\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-01-16\" src=\"https://img.shields.io/badge/Updated-2026--01--16-ef4444?style=flat\" title=\"Updated 2026-01-16\" /></sub>",
       "open_issues": 3,
       "branches": 4,
       "open_prs": null,
@@ -810,9 +810,9 @@
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-16\" src=\"https://img.shields.io/badge/Updated-2026--04--16-22c55e?style=flat\" title=\"Updated 2026-04-16\" /></sub>",
       "open_issues": 1,
-      "branches": 2,
+      "branches": 1,
       "open_prs": null,
-      "latest_release_tag": "Rel-001-20260415171708",
+      "latest_release_tag": "Rel-002-20260416203436",
       "size_mb": "356 KB"
     }
   ],
@@ -1288,7 +1288,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.2.0",
-      "size_mb": "136 KB"
+      "size_mb": "145 KB"
     },
     {
       "name": "slack-notification-wf",
