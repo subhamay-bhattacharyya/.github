@@ -733,7 +733,7 @@
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-16\" src=\"https://img.shields.io/badge/Updated-2026--04--16-22c55e?style=flat\" title=\"Updated 2026-04-16\" /></sub>",
       "open_issues": 1,
-      "branches": 1,
+      "branches": 2,
       "open_prs": null,
       "latest_release_tag": "Rel-001-20260415171708",
       "size_mb": "385 KB"
@@ -1344,8 +1344,8 @@
       "maturity": "beta",
       "notes": "Ready to release",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-10\" src=\"https://img.shields.io/badge/Updated-2026--04--10-22c55e?style=flat\" title=\"Updated 2026-04-10\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
       "size_mb": "44 KB"
