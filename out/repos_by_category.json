@@ -808,11 +808,11 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-04-16\" src=\"https://img.shields.io/badge/Updated-2026--04--16-22c55e?style=flat\" title=\"Updated 2026-04-16\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-17\" src=\"https://img.shields.io/badge/Updated-2026--04--17-22c55e?style=flat\" title=\"Updated 2026-04-17\" /></sub>",
       "open_issues": 1,
-      "branches": 2,
+      "branches": 1,
       "open_prs": null,
-      "latest_release_tag": "Rel-005-20260417015954",
+      "latest_release_tag": "Rel-006-20260417135118",
       "size_mb": "379 KB"
     }
   ],
