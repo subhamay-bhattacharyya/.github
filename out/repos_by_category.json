@@ -1194,7 +1194,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.3.0",
-      "size_mb": "214 KB"
+      "size_mb": "225 KB"
     },
     {
       "name": "tf-destroy-action",
@@ -1333,7 +1333,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.1.1",
-      "size_mb": "130 KB"
+      "size_mb": "135 KB"
     },
     {
       "name": "gcp-project-onboarding",
