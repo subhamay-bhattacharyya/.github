@@ -80,7 +80,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 ---
 
-![GitHub Stats](https://github-readme-stats-rho-mauve-12.vercel.app/api?username=bsubhamay&show_icons=true&theme=blueberry&cache_seconds=7200)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bsubhamay&show_icons=true&count_private=true&theme=radical)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bsubhamay&theme=blueberry)
 
@@ -386,5 +386,5 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 ---
 
-*Last generated: 2026-04-19 20:59:31 EST*  
+*Last generated: 2026-04-19 21:21:34 EST*  
 *Total repositories: 129*
