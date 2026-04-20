@@ -1115,8 +1115,8 @@
       "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-14\" src=\"https://img.shields.io/badge/Updated-2026--04--14-22c55e?style=flat\" title=\"Updated 2026-04-14\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.0.1",
       "size_mb": "185 KB"
@@ -1175,8 +1175,8 @@
       "maturity": "beta",
       "notes": "Current - Working for AWS,Azure, GCP, Databricks. Next-Test for Snowflake",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-14\" src=\"https://img.shields.io/badge/Updated-2026--04--14-22c55e?style=flat\" title=\"Updated 2026-04-14\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.5.0",
       "size_mb": "181 KB"
@@ -1220,8 +1220,8 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-14\" src=\"https://img.shields.io/badge/Updated-2026--04--14-22c55e?style=flat\" title=\"Updated 2026-04-14\" /></sub>",
-      "open_issues": 1,
-      "branches": 1,
+      "open_issues": 2,
+      "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.0.1",
       "size_mb": "365 KB"
