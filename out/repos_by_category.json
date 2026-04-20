@@ -1119,7 +1119,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "185 KB"
+      "size_mb": "189 KB"
     },
     {
       "name": "tf-validate-action",
@@ -1179,7 +1179,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.5.0",
-      "size_mb": "181 KB"
+      "size_mb": "183 KB"
     },
     {
       "name": "tf-apply-action",
@@ -1224,7 +1224,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "365 KB"
+      "size_mb": "430 KB"
     },
     {
       "name": "create-release-action",
