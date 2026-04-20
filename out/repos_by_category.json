@@ -810,10 +810,10 @@
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-20\" src=\"https://img.shields.io/badge/Updated-2026--04--20-22c55e?style=flat\" title=\"Updated 2026-04-20\" /></sub>",
       "open_issues": 1,
-      "branches": 2,
+      "branches": 1,
       "open_prs": null,
-      "latest_release_tag": "Rel-007-20260420135105",
-      "size_mb": "386 KB"
+      "latest_release_tag": "Rel-009-20260420152720",
+      "size_mb": "390 KB"
     }
   ],
   "Uncatrgorised": [
