@@ -1219,7 +1219,7 @@
       "cloud_service_provider": null,
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-04-14\" src=\"https://img.shields.io/badge/Updated-2026--04--14-22c55e?style=flat\" title=\"Updated 2026-04-14\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-14\" src=\"https://img.shields.io/badge/Updated-2026--04--14-eab308?style=flat\" title=\"Updated 2026-04-14\" /></sub>",
       "open_issues": 2,
       "branches": 2,
       "open_prs": null,
@@ -1669,7 +1669,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "76 KB"
+      "size_mb": "77 KB"
     }
   ],
   "Terraform GCP Module": [
