@@ -1328,7 +1328,7 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-03-22\" src=\"https://img.shields.io/badge/Updated-2026--03--22-eab308?style=flat\" title=\"Updated 2026-03-22\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-03-22\" src=\"https://img.shields.io/badge/Updated-2026--03--22-f97316?style=flat\" title=\"Updated 2026-03-22\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
@@ -1655,6 +1655,21 @@
       "open_prs": null,
       "latest_release_tag": null,
       "size_mb": "129 KB"
+    },
+    {
+      "name": "terraform-aws-glue",
+      "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-aws-glue",
+      "description": "\ud83c\udfd7\ufe0f Terraform module to create and manage AWS Glue resources, including Data Catalog databases, crawlers, catalog tables, and Glue Jobs for scalable ETL workflows, automated schema discovery, metadata management, and serverless data processing across S3, relational databases, and other supported data sources.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-21\" src=\"https://img.shields.io/badge/Updated-2026--04--21-22c55e?style=flat\" title=\"Updated 2026-04-21\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     }
   ],
   "Terraform GCP Module": [
