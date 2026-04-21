@@ -147,7 +147,7 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "Done - S3 bucket created. Next - Create Athena tables",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-01-21\" src=\"https://img.shields.io/badge/Updated-2026--01--21-f97316?style=flat\" title=\"Updated 2026-01-21\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-01-21\" src=\"https://img.shields.io/badge/Updated-2026--01--21-ef4444?style=flat\" title=\"Updated 2026-01-21\" /></sub>",
       "open_issues": 3,
       "branches": 4,
       "open_prs": null,

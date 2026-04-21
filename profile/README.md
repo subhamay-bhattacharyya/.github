@@ -124,7 +124,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 | Repository | Description | Status | Stats |
 |------------|-------------|--------|-------|
-| [aws-athena-iceberg-demo](https://github.com/subhamay-bhattacharyya/aws-athena-iceberg-demo)<br><sub><img alt="Updated 2026-01-21" src="https://img.shields.io/badge/Updated-2026--01--21-f97316?style=flat" title="Updated 2026-01-21" /></sub> | A hands-on demo showcasing Apache Iceberg tables on Amazon S3 queried using Amaz...<br>![experimental](https://img.shields.io/badge/experimental-f97316?style=flat)<br><sub><sup><b><i>Done - S3 bucket created. Next - Create Athena tables</i></b></sup></sub> | 🟡 | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">4</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">3</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">172 KB</span> |
+| [aws-athena-iceberg-demo](https://github.com/subhamay-bhattacharyya/aws-athena-iceberg-demo)<br><sub><img alt="Updated 2026-01-21" src="https://img.shields.io/badge/Updated-2026--01--21-ef4444?style=flat" title="Updated 2026-01-21" /></sub> | A hands-on demo showcasing Apache Iceberg tables on Amazon S3 queried using Amaz...<br>![experimental](https://img.shields.io/badge/experimental-f97316?style=flat)<br><sub><sup><b><i>Done - S3 bucket created. Next - Create Athena tables</i></b></sup></sub> | 🟡 | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">4</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">3</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">172 KB</span> |
 
 </details>
 
@@ -386,5 +386,5 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 ---
 
-*Last generated: 2026-04-21 08:20:20 EST*  
+*Last generated: 2026-04-21 09:35:16 EST*  
 *Total repositories: 129*
