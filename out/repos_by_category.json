@@ -8,7 +8,7 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-04-16\" src=\"https://img.shields.io/badge/Updated-2026--04--16-22c55e?style=flat\" title=\"Updated 2026-04-16\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-16\" src=\"https://img.shields.io/badge/Updated-2026--04--16-eab308?style=flat\" title=\"Updated 2026-04-16\" /></sub>",
       "open_issues": 3,
       "branches": 4,
       "open_prs": null,
@@ -814,6 +814,21 @@
       "open_prs": null,
       "latest_release_tag": "Rel-013-20260420205108",
       "size_mb": "411 KB"
+    },
+    {
+      "name": "snowflake-streams-tasks-etl",
+      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-streams-tasks-etl",
+      "description": "\ud83c\udfd7\ufe0f End-to-end Snowflake ETL pipeline using Streams and Tasks to automate customer and order data flow through a medallion architecture (Source \u2192 Raw \u2192 Clean \u2192 Consumption). Streams capture incremental changes while Tasks orchestrate the load, producing customer, date, and priority dimension tables along with an order fact table for analytics.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-23\" src=\"https://img.shields.io/badge/Updated-2026--04--23-22c55e?style=flat\" title=\"Updated 2026-04-23\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     }
   ],
   "Uncatrgorised": [
