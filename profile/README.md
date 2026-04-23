@@ -133,7 +133,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 | Repository | Description | Status | Stats |
 |------------|-------------|--------|-------|
-| [databricks-terraform-bootstrap](https://github.com/subhamay-bhattacharyya/databricks-terraform-bootstrap)<br><sub><img alt="Updated 2026-01-23" src="https://img.shields.io/badge/Updated-2026--01--23-f97316?style=flat" title="Updated 2026-01-23" /></sub> | Terraform-based bootstrap for provisioning a Databricks workspace, clusters, and...<br>![experimental](https://img.shields.io/badge/experimental-f97316?style=flat)<br><sub><sup>![release Rel-003-20260123214855](https://img.shields.io/badge/release-Rel--003--20260123214855-2563eb?style=flat)</sup></sub><br><sub><sup><b><i>Not Available</i></b></sup></sub> | ⚪ | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">3</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">3</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">198 KB</span> |
+| [databricks-terraform-bootstrap](https://github.com/subhamay-bhattacharyya/databricks-terraform-bootstrap)<br><sub><img alt="Updated 2026-01-23" src="https://img.shields.io/badge/Updated-2026--01--23-ef4444?style=flat" title="Updated 2026-01-23" /></sub> | Terraform-based bootstrap for provisioning a Databricks workspace, clusters, and...<br>![experimental](https://img.shields.io/badge/experimental-f97316?style=flat)<br><sub><sup>![release Rel-003-20260123214855](https://img.shields.io/badge/release-Rel--003--20260123214855-2563eb?style=flat)</sup></sub><br><sub><sup><b><i>Not Available</i></b></sup></sub> | ⚪ | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">3</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">3</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">198 KB</span> |
 
 </details>
 
@@ -389,5 +389,5 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 ---
 
-*Last generated: 2026-04-23 16:20:14 EST*  
+*Last generated: 2026-04-23 17:17:34 EST*  
 *Total repositories: 132*

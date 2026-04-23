@@ -164,7 +164,7 @@
       "cloud_service_provider": "Databricks",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-01-23\" src=\"https://img.shields.io/badge/Updated-2026--01--23-f97316?style=flat\" title=\"Updated 2026-01-23\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-01-23\" src=\"https://img.shields.io/badge/Updated-2026--01--23-ef4444?style=flat\" title=\"Updated 2026-01-23\" /></sub>",
       "open_issues": 3,
       "branches": 3,
       "open_prs": null,
