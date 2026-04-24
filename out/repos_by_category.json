@@ -58,7 +58,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "317 KB"
+      "size_mb": "318 KB"
     },
     {
       "name": "terraform-google-module-template",
@@ -1714,7 +1714,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "24 KB"
     }
   ],
   "Terraform GCP Module": [
