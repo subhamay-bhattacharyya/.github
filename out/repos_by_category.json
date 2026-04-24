@@ -54,11 +54,11 @@
       "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-24\" src=\"https://img.shields.io/badge/Updated-2026--04--24-22c55e?style=flat\" title=\"Updated 2026-04-24\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
-      "latest_release_tag": null,
-      "size_mb": "318 KB"
+      "latest_release_tag": "v1.0.0",
+      "size_mb": "426 KB"
     },
     {
       "name": "terraform-google-module-template",
@@ -1687,21 +1687,6 @@
       "size_mb": "129 KB"
     },
     {
-      "name": "terraform-aws-glue",
-      "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-aws-glue",
-      "description": "\ud83c\udfd7\ufe0f Terraform module to create and manage AWS Glue resources, including Data Catalog databases, crawlers, catalog tables, and Glue Jobs for scalable ETL workflows, automated schema discovery, metadata management, and serverless data processing across S3, relational databases, and other supported data sources.",
-      "status": "Initialized",
-      "cloud_service_provider": "AWS",
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-04-21\" src=\"https://img.shields.io/badge/Updated-2026--04--21-22c55e?style=flat\" title=\"Updated 2026-04-21\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
-      "open_prs": null,
-      "latest_release_tag": null,
-      "size_mb": "77 KB"
-    },
-    {
       "name": "terraform-aws-security-group",
       "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-aws-security-group",
       "description": "\ud83c\udfd7\ufe0f A reusable Terraform module for provisioning and managing AWS security groups and their ingress/egress rules. Designed to simplify network access control with flexible, configurable inputs and support for cross-referencing security groups, following least-privilege best practices across AWS environments.",
@@ -1714,7 +1699,37 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "80 KB"
+      "size_mb": "82 KB"
+    },
+    {
+      "name": "terraform-aws-glue",
+      "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-aws-glue",
+      "description": "\ud83c\udfd7\ufe0f Terraform module to create and manage AWS Glue resources, including Data Catalog databases, crawlers, catalog tables, and Glue Jobs for scalable ETL workflows, automated schema discovery, metadata management, and serverless data processing across S3, relational databases, and other supported data sources.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-24\" src=\"https://img.shields.io/badge/Updated-2026--04--24-22c55e?style=flat\" title=\"Updated 2026-04-24\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    },
+    {
+      "name": "terraform-aws-ec2-instance",
+      "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-aws-ec2-instance",
+      "description": "\ud83c\udfd7\ufe0f A flexible Terraform module for provisioning AWS EC2 instances with support for custom AMIs, configurable instance types, EBS volumes, security groups, IAM instance profiles, user data scripts, and consistent tagging. Includes multiple ready-to-use examples, input validation, native Terraform tests, and GitHub Actions CI workflows.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-24\" src=\"https://img.shields.io/badge/Updated-2026--04--24-22c55e?style=flat\" title=\"Updated 2026-04-24\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     }
   ],
   "Terraform GCP Module": [
