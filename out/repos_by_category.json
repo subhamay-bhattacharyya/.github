@@ -1639,7 +1639,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "161 KB"
+      "size_mb": "163 KB"
     },
     {
       "name": "terraform-aws-glue-database",
@@ -1710,8 +1710,8 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-24\" src=\"https://img.shields.io/badge/Updated-2026--04--24-22c55e?style=flat\" title=\"Updated 2026-04-24\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
       "size_mb": "0 KB"
