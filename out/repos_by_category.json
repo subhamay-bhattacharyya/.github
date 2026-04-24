@@ -1634,9 +1634,9 @@
       "cloud_service_provider": "AWS",
       "maturity": "beta",
       "notes": "Working as expected",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-18\" src=\"https://img.shields.io/badge/Updated-2026--02--18-f97316?style=flat\" title=\"Updated 2026-02-18\" /></sub>",
-      "open_issues": 2,
-      "branches": 3,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-24\" src=\"https://img.shields.io/badge/Updated-2026--04--24-22c55e?style=flat\" title=\"Updated 2026-04-24\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
       "size_mb": "161 KB"
