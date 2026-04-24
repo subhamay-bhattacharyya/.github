@@ -48,7 +48,7 @@
     {
       "name": "terraform-aws-module-template",
       "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-aws-module-template",
-      "description": "\u2705 Terraform AWS Module Template",
+      "description": "\u2705 A GitHub template repository for bootstrapping reusable Terraform AWS modules. Provides a standardized layout with submodules, examples, Terratest integration tests, CI workflows using OIDC, semantic-release, and Conventional Commits \u2014 so new AWS modules start with consistent structure, validation, and release automation.",
       "status": "Complete",
       "cloud_service_provider": "AWS",
       "maturity": "beta",
