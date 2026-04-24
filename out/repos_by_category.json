@@ -53,9 +53,9 @@
       "cloud_service_provider": "AWS",
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-03-04\" src=\"https://img.shields.io/badge/Updated-2026--03--04-f97316?style=flat\" title=\"Updated 2026-03-04\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-24\" src=\"https://img.shields.io/badge/Updated-2026--04--24-22c55e?style=flat\" title=\"Updated 2026-04-24\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
       "size_mb": "317 KB"
@@ -1629,7 +1629,7 @@
     {
       "name": "terraform-aws-iam",
       "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-aws-iam",
-      "description": "\u2705 Terraform AWS Module for IAM",
+      "description": "\u2705 A reusable Terraform module for provisioning and managing AWS IAM resources, including users, groups, roles, policies, and instance profiles. Designed to simplify identity and access management with flexible, configurable inputs and follow least-privilege best practices across AWS environments.",
       "status": "Complete",
       "cloud_service_provider": "AWS",
       "maturity": "beta",
@@ -1700,6 +1700,21 @@
       "open_prs": null,
       "latest_release_tag": null,
       "size_mb": "77 KB"
+    },
+    {
+      "name": "terraform-aws-security-group",
+      "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-aws-security-group",
+      "description": "\ud83c\udfd7\ufe0f A reusable Terraform module for provisioning and managing AWS security groups and their ingress/egress rules. Designed to simplify network access control with flexible, configurable inputs and support for cross-referencing security groups, following least-privilege best practices across AWS environments.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-24\" src=\"https://img.shields.io/badge/Updated-2026--04--24-22c55e?style=flat\" title=\"Updated 2026-04-24\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     }
   ],
   "Terraform GCP Module": [
