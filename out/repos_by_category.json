@@ -1134,7 +1134,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "179 KB"
+      "size_mb": "180 KB"
     }
   ],
   "GitHub Reusable Action": [
@@ -1747,6 +1747,21 @@
       "open_prs": null,
       "latest_release_tag": null,
       "size_mb": "25 KB"
+    },
+    {
+      "name": "terraform-aws-dynamodb",
+      "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-aws-dynamodb",
+      "description": "\ud83c\udfd7\ufe0f Terraform module for provisioning and managing AWS DynamoDB tables with support for on-demand and provisioned billing modes, global secondary indexes, local secondary indexes, auto-scaling, point-in-time recovery, encryption at rest, TTL, streams, and global tables. Production-ready, configurable, and follows AWS best practices.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-27\" src=\"https://img.shields.io/badge/Updated-2026--04--27-22c55e?style=flat\" title=\"Updated 2026-04-27\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     }
   ],
   "Terraform GCP Module": [
