@@ -272,6 +272,15 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 </details>
 
 <details>
+<summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ Serverless Patterns</span></h3></summary>
+
+| Repository | Description | Status | Stats |
+|------------|-------------|--------|-------|
+| [aws-serverless-security](https://github.com/subhamay-bhattacharyya/aws-serverless-security)<br><sub><img alt="Updated 2026-04-27" src="https://img.shields.io/badge/Updated-2026--04--27-22c55e?style=flat" title="Updated 2026-04-27" /></sub> | 🏗️ Hands-on workshop to secure a serverless AWS application across seven defense...<br>![experimental](https://img.shields.io/badge/experimental-f97316?style=flat)<br><sub><sup><b><i>Not Available</i></b></sup></sub> | ⚪ | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">3</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">2</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">0 KB</span> |
+
+</details>
+
+<details>
 <summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ GitHub Reusable Action</span></h3></summary>
 
 | Repository | Description | Status | Stats |
@@ -391,5 +400,5 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 ---
 
-*Last generated: 2026-04-27 08:30:10 EST*  
-*Total repositories: 134*
+*Last generated: 2026-04-27 09:34:14 EST*  
+*Total repositories: 135*

@@ -1120,6 +1120,23 @@
       "size_mb": "45 KB"
     }
   ],
+  "Serverless Patterns": [
+    {
+      "name": "aws-serverless-security",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-serverless-security",
+      "description": "\ud83c\udfd7\ufe0f Hands-on workshop to secure a serverless AWS application across seven defense-in-depth layers using AI-powered automation. Covers Cognito adaptive auth, WAF edge protection, VPC isolation, Lambda hardening with Kiro, Secrets Manager, DynamoDB encryption, and a Bedrock AI agent for GuardDuty incident response via EventBridge.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-27\" src=\"https://img.shields.io/badge/Updated-2026--04--27-22c55e?style=flat\" title=\"Updated 2026-04-27\" /></sub>",
+      "open_issues": 2,
+      "branches": 3,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    }
+  ],
   "GitHub Reusable Action": [
     {
       "name": "checkov-report-action",
