@@ -813,7 +813,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": "Rel-013-20260420205108",
-      "size_mb": "424 KB"
+      "size_mb": "444 KB"
     },
     {
       "name": "snowflake-streams-tasks-etl",
