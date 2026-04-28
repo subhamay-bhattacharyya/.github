@@ -38,9 +38,9 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-25\" src=\"https://img.shields.io/badge/Updated-2026--02--25-f97316?style=flat\" title=\"Updated 2026-02-25\" /></sub>",
-      "open_issues": 2,
-      "branches": 3,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-28\" src=\"https://img.shields.io/badge/Updated-2026--04--28-22c55e?style=flat\" title=\"Updated 2026-04-28\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
       "size_mb": "239 KB"
@@ -1625,6 +1625,21 @@
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
       "size_mb": "179 KB"
+    },
+    {
+      "name": "terraform-snowflake-api-integration",
+      "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-snowflake-api-integration",
+      "description": "\ud83c\udfd7\ufe0f Reusable Terraform module for creating and managing Snowflake API integrations using infrastructure as code.",
+      "status": "Initialized",
+      "cloud_service_provider": "Snowflake",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-28\" src=\"https://img.shields.io/badge/Updated-2026--04--28-22c55e?style=flat\" title=\"Updated 2026-04-28\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     }
   ],
   "Terraform AWS Module": [
