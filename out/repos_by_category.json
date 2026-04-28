@@ -43,7 +43,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "239 KB"
+      "size_mb": "242 KB"
     },
     {
       "name": "terraform-aws-module-template",
@@ -813,7 +813,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": "Rel-013-20260420205108",
-      "size_mb": "411 KB"
+      "size_mb": "424 KB"
     },
     {
       "name": "snowflake-streams-tasks-etl",
