@@ -1335,7 +1335,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.3.0",
-      "size_mb": "145 KB"
+      "size_mb": "148 KB"
     },
     {
       "name": "slack-notification-wf",
