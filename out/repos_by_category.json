@@ -78,21 +78,6 @@
   ],
   "Complete Project": [
     {
-      "name": "image-labeling",
-      "html_url": "https://github.com/subhamay-bhattacharyya/image-labeling",
-      "description": "This project demonstrates how to build a simple image labeling pipeline using AWS services. Images are uploaded to Amazon S3, analyzed with Amazon Rekognition, and processed through a Python script configured via the AWS CLI to automatically detect and display labels with confidence scores. It\u2019s a hands-on way to learn cloud-based computer vision.",
-      "status": "In Progress",
-      "cloud_service_provider": "AWS",
-      "maturity": "beta",
-      "notes": "Current - Stack created. Next - Fix the S3 notification",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-01-09\" src=\"https://img.shields.io/badge/Updated-2026--01--09-ef4444?style=flat\" title=\"Updated 2026-01-09\" /></sub>",
-      "open_issues": 3,
-      "branches": 4,
-      "open_prs": null,
-      "latest_release_tag": null,
-      "size_mb": "177 KB"
-    },
-    {
       "name": "gcp-terraform-bootstrap",
       "html_url": "https://github.com/subhamay-bhattacharyya/gcp-terraform-bootstrap",
       "description": "\u2705 Bootstrap Google Cloud projects using Terraform with secure, keyless authentication via GitHub Actions OIDC and Workload Identity Federation, and remote state management using HCP Terraform.",
@@ -1120,6 +1105,23 @@
       "open_prs": null,
       "latest_release_tag": null,
       "size_mb": "180 KB"
+    }
+  ],
+  "Lucy Wang Projects": [
+    {
+      "name": "aws-csv-data-pipeline",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-csv-data-pipeline",
+      "description": "\ud83c\udfd7\ufe0f Serverless, event-driven data pipeline on AWS for processing CSV files end-to-end. Raw uploads to S3 trigger a Lambda preprocessor, AWS Glue crawls and catalogs the cleaned data, a Glue ETL job transforms it into the final dataset, and Amazon QuickSight delivers interactive dashboards for analytics and reporting. ",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-30\" src=\"https://img.shields.io/badge/Updated-2026--04--30-22c55e?style=flat\" title=\"Updated 2026-04-30\" /></sub>",
+      "open_issues": 0,
+      "branches": 3,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     }
   ],
   "GitHub Reusable Action": [
