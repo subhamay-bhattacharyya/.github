@@ -151,7 +151,7 @@
       "cloud_service_provider": "Google Cloud Platform",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-01-30\" src=\"https://img.shields.io/badge/Updated-2026--01--30-f97316?style=flat\" title=\"Updated 2026-01-30\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-01-30\" src=\"https://img.shields.io/badge/Updated-2026--01--30-ef4444?style=flat\" title=\"Updated 2026-01-30\" /></sub>",
       "open_issues": 3,
       "branches": 3,
       "open_prs": null,
@@ -1088,6 +1088,66 @@
       "open_prs": null,
       "latest_release_tag": null,
       "size_mb": "45 KB"
+    },
+    {
+      "name": "aws-csv-data-pipeline",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-csv-data-pipeline",
+      "description": "\ud83c\udfd7\ufe0f Serverless, event-driven data pipeline on AWS for processing CSV files end-to-end. Raw uploads to S3 trigger a Lambda preprocessor, AWS Glue crawls and catalogs the cleaned data, a Glue ETL job transforms it into the final dataset, and Amazon QuickSight delivers interactive dashboards for analytics and reporting. ",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-30\" src=\"https://img.shields.io/badge/Updated-2026--04--30-22c55e?style=flat\" title=\"Updated 2026-04-30\" /></sub>",
+      "open_issues": 2,
+      "branches": 3,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "166 KB"
+    },
+    {
+      "name": "aws-receipt-processing-system",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-receipt-processing-system",
+      "description": "\ud83c\udfd7\ufe0f Serverless, event-driven receipt processing system on AWS. Users upload receipts to Amazon S3, which triggers a Lambda function to extract structured data via Amazon Textract, persist results to DynamoDB, and dispatch email notifications through Amazon SES. Fully infrastructure-as-code managed for reproducible deployments. ",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-30\" src=\"https://img.shields.io/badge/Updated-2026--04--30-22c55e?style=flat\" title=\"Updated 2026-04-30\" /></sub>",
+      "open_issues": 2,
+      "branches": 3,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    },
+    {
+      "name": "aws-two-tier-todo-app",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-two-tier-todo-app",
+      "description": "\ud83c\udfd7\ufe0f Highly available two-tier Todo web application on AWS. Deploys an Application Load Balancer fronting EC2 instances across two Availability Zones, with Amazon RDS hosted in private subnets for secure data persistence. Includes VPC, subnets, route tables, and security groups \u2014 all provisioned via infrastructure-as-code. ",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-30\" src=\"https://img.shields.io/badge/Updated-2026--04--30-22c55e?style=flat\" title=\"Updated 2026-04-30\" /></sub>",
+      "open_issues": 2,
+      "branches": 3,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    },
+    {
+      "name": "serverless-cloud-dictionary",
+      "html_url": "https://github.com/subhamay-bhattacharyya/serverless-cloud-dictionary",
+      "description": "\ud83c\udfd7\ufe0f Serverless cloud terminology dictionary on AWS. A React frontend hosted on AWS Amplify queries an API Gateway endpoint backed by a Lambda function that fetches term definitions from DynamoDB. Includes a CLI-driven bulk loader using batch-write-item to seed the dataset, with the full stack provisioned via infrastructure-as-code.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-30\" src=\"https://img.shields.io/badge/Updated-2026--04--30-22c55e?style=flat\" title=\"Updated 2026-04-30\" /></sub>",
+      "open_issues": 2,
+      "branches": 3,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     }
   ],
   "Serverless Patterns": [
@@ -1105,23 +1165,6 @@
       "open_prs": null,
       "latest_release_tag": null,
       "size_mb": "180 KB"
-    }
-  ],
-  "Lucy Wang Projects": [
-    {
-      "name": "aws-csv-data-pipeline",
-      "html_url": "https://github.com/subhamay-bhattacharyya/aws-csv-data-pipeline",
-      "description": "\ud83c\udfd7\ufe0f Serverless, event-driven data pipeline on AWS for processing CSV files end-to-end. Raw uploads to S3 trigger a Lambda preprocessor, AWS Glue crawls and catalogs the cleaned data, a Glue ETL job transforms it into the final dataset, and Amazon QuickSight delivers interactive dashboards for analytics and reporting. ",
-      "status": "Initialized",
-      "cloud_service_provider": "AWS",
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-04-30\" src=\"https://img.shields.io/badge/Updated-2026--04--30-22c55e?style=flat\" title=\"Updated 2026-04-30\" /></sub>",
-      "open_issues": 2,
-      "branches": 3,
-      "open_prs": null,
-      "latest_release_tag": null,
-      "size_mb": "166 KB"
     }
   ],
   "GitHub Reusable Action": [
