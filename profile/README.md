@@ -112,7 +112,6 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 | Repository | Description | Status | Stats |
 |------------|-------------|--------|-------|
-| [image-labeling](https://github.com/subhamay-bhattacharyya/image-labeling)<br><sub><img alt="Updated 2026-01-09" src="https://img.shields.io/badge/Updated-2026--01--09-ef4444?style=flat" title="Updated 2026-01-09" /></sub> | This project demonstrates how to build a simple image labeling pipeline using AW...<br>![beta](https://img.shields.io/badge/beta-3b82f6?style=flat)<br><sub><sup><b><i>Current - Stack created. Next - Fix the S3 notification</i></b></sup></sub> | 🟡 | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">4</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">3</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">177 KB</span> |
 | [gcp-terraform-bootstrap](https://github.com/subhamay-bhattacharyya/gcp-terraform-bootstrap)<br><sub><img alt="Updated 2026-04-07" src="https://img.shields.io/badge/Updated-2026--04--07-eab308?style=flat" title="Updated 2026-04-07" /></sub> | ✅ Bootstrap Google Cloud projects using Terraform with secure, keyless authentic...<br>![beta](https://img.shields.io/badge/beta-3b82f6?style=flat)<br><sub><sup>![release Rel-019-20260408003726](https://img.shields.io/badge/release-Rel--019--20260408003726-2563eb?style=flat)</sup></sub><br><sub><sup><b><i>Not Available</i></b></sup></sub> | 🟢 | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">1</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">1</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">114 KB</span> |
 | [aws-snowflake-e2e-project](https://github.com/subhamay-bhattacharyya/aws-snowflake-e2e-project)<br><sub><img alt="Updated 2026-04-09" src="https://img.shields.io/badge/Updated-2026--04--09-eab308?style=flat" title="Updated 2026-04-09" /></sub> | End-to-end Snowflake data engineering project: layered stage/raw/curated design,...<br>![beta](https://img.shields.io/badge/beta-3b82f6?style=flat)<br><sub><sup>![release Rel-004-20260129194422](https://img.shields.io/badge/release-Rel--004--20260129194422-2563eb?style=flat)</sup></sub><br><sub><sup><b><i>Need to progress further with the Udemy course resource.</i></b></sup></sub> | 🟢 | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">2</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">1</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">186 KB</span> |
 
@@ -280,6 +279,15 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 </details>
 
 <details>
+<summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ Lucy Wang Projects</span></h3></summary>
+
+| Repository | Description | Status | Stats |
+|------------|-------------|--------|-------|
+| [aws-csv-data-pipeline](https://github.com/subhamay-bhattacharyya/aws-csv-data-pipeline)<br><sub><img alt="Updated 2026-04-30" src="https://img.shields.io/badge/Updated-2026--04--30-22c55e?style=flat" title="Updated 2026-04-30" /></sub> | 🏗️ Serverless, event-driven data pipeline on AWS for processing CSV files end-to...<br>![experimental](https://img.shields.io/badge/experimental-f97316?style=flat)<br><sub><sup><b><i>Not Available</i></b></sup></sub> | ⚪ | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">3</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">0 KB</span> |
+
+</details>
+
+<details>
 <summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ GitHub Reusable Action</span></h3></summary>
 
 | Repository | Description | Status | Stats |
@@ -401,5 +409,5 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 ---
 
-*Last generated: 2026-04-30 12:33:10 EST*  
+*Last generated: 2026-04-30 13:31:20 EST*  
 *Total repositories: 136*
