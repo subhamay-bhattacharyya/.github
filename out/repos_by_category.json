@@ -1184,6 +1184,23 @@
       "size_mb": "166 KB"
     }
   ],
+  "AWS Skills Lab": [
+    {
+      "name": "aws-data-lake-cart-abandonment",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-data-lake-cart-abandonment",
+      "description": "\ud83c\udfd7\ufe0f Layered AWS data lake for analyzing e-commerce cart abandonment. Raw events from the backend land in an S3 raw zone, EventBridge-triggered Lambda functions process and aggregate them into a consumption zone, and a promotions Lambda reads the curated data to generate targeted discount offers for customers. Built as an AWS SimuLearn solution.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-05-01\" src=\"https://img.shields.io/badge/Updated-2026--05--01-22c55e?style=flat\" title=\"Updated 2026-05-01\" /></sub>",
+      "open_issues": 2,
+      "branches": 3,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    }
+  ],
   "GitHub Reusable Action": [
     {
       "name": "checkov-report-action",
