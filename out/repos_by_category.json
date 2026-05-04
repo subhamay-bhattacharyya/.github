@@ -528,7 +528,7 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-03\" src=\"https://img.shields.io/badge/Updated-2026--02--03-f97316?style=flat\" title=\"Updated 2026-02-03\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-03\" src=\"https://img.shields.io/badge/Updated-2026--02--03-ef4444?style=flat\" title=\"Updated 2026-02-03\" /></sub>",
       "open_issues": 1,
       "branches": 1,
       "open_prs": null,
