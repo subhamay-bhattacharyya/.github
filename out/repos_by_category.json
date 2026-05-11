@@ -43,7 +43,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "242 KB"
+      "size_mb": "345 KB"
     },
     {
       "name": "terraform-aws-module-template",
@@ -58,7 +58,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "426 KB"
+      "size_mb": "525 KB"
     },
     {
       "name": "terraform-google-module-template",
@@ -73,7 +73,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "255 KB"
+      "size_mb": "358 KB"
     }
   ],
   "Complete Project": [
@@ -597,7 +597,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "233 KB"
+      "size_mb": "339 KB"
     }
   ],
   "Snowflake Tutorials": [
@@ -736,7 +736,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "221 KB"
+      "size_mb": "327 KB"
     }
   ],
   "Snowflake Project": [
@@ -753,7 +753,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "221 KB"
+      "size_mb": "327 KB"
     },
     {
       "name": "snowflake-dynamic-tables-declarative-pipelines",
@@ -830,7 +830,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "166 KB"
+      "size_mb": "219 KB"
     }
   ],
   "GCP Demo Projects": [
@@ -1136,7 +1136,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "166 KB"
+      "size_mb": "219 KB"
     },
     {
       "name": "aws-two-tier-todo-app",
@@ -1151,7 +1151,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "166 KB"
+      "size_mb": "219 KB"
     },
     {
       "name": "serverless-cloud-dictionary",
@@ -1166,7 +1166,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "166 KB"
+      "size_mb": "219 KB"
     },
     {
       "name": "aws-event-announcement-site",
@@ -1181,7 +1181,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "166 KB"
+      "size_mb": "219 KB"
     }
   ],
   "AWS Skills Lab": [
@@ -1198,7 +1198,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "166 KB"
+      "size_mb": "219 KB"
     }
   ],
   "GitHub Reusable Action": [
@@ -1230,7 +1230,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "189 KB"
+      "size_mb": "317 KB"
     },
     {
       "name": "tf-validate-action",
@@ -1245,7 +1245,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "392 KB"
+      "size_mb": "522 KB"
     },
     {
       "name": "branch-issue-action",
@@ -1260,7 +1260,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "152 KB"
+      "size_mb": "280 KB"
     },
     {
       "name": "tf-lint-action",
@@ -1290,7 +1290,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": "v1.5.0",
-      "size_mb": "183 KB"
+      "size_mb": "313 KB"
     },
     {
       "name": "tf-apply-action",
@@ -1305,7 +1305,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": "v1.3.0",
-      "size_mb": "225 KB"
+      "size_mb": "355 KB"
     },
     {
       "name": "tf-destroy-action",
@@ -1335,7 +1335,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "430 KB"
+      "size_mb": "494 KB"
     },
     {
       "name": "create-release-action",
@@ -1350,7 +1350,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "283 KB"
+      "size_mb": "412 KB"
     }
   ],
   "GitHub Action Template Repository": [
@@ -1367,7 +1367,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.1.2",
-      "size_mb": "316 KB"
+      "size_mb": "446 KB"
     }
   ],
   "GitHub Reusable Workflow": [
@@ -1399,7 +1399,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.3.0",
-      "size_mb": "148 KB"
+      "size_mb": "278 KB"
     },
     {
       "name": "slack-notification-wf",
@@ -1414,7 +1414,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "418 KB"
+      "size_mb": "483 KB"
     },
     {
       "name": "tf-release-wf",
@@ -1444,7 +1444,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": "v1.1.1",
-      "size_mb": "135 KB"
+      "size_mb": "265 KB"
     },
     {
       "name": "gcp-project-onboarding",
@@ -1459,7 +1459,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "53 KB"
+      "size_mb": "183 KB"
     },
     {
       "name": "aws-project-onboarding",
@@ -1474,7 +1474,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "51 KB"
+      "size_mb": "181 KB"
     }
   ],
   "Security Scan": [
@@ -1491,7 +1491,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "95 KB"
+      "size_mb": "225 KB"
     },
     {
       "name": "terraform-checkov-scan-detector",
@@ -1506,7 +1506,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "270 KB"
+      "size_mb": "396 KB"
     }
   ],
   "Terraform Snowflake Module": [
@@ -1523,7 +1523,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": "v3.0.0",
-      "size_mb": "291 KB"
+      "size_mb": "394 KB"
     },
     {
       "name": "terraform-snowflake-external-volume",
@@ -1553,7 +1553,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "148 KB"
+      "size_mb": "251 KB"
     },
     {
       "name": "terraform-snowflake-database-schema",
@@ -1568,7 +1568,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": "v1.3.0",
-      "size_mb": "174 KB"
+      "size_mb": "277 KB"
     },
     {
       "name": "terraform-snowflake-file-format",
@@ -1583,7 +1583,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": "v1.2.0",
-      "size_mb": "152 KB"
+      "size_mb": "255 KB"
     },
     {
       "name": "terraform-snowflake-storage-integration",
@@ -1598,7 +1598,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": "v1.2.0",
-      "size_mb": "183 KB"
+      "size_mb": "287 KB"
     },
     {
       "name": "terraform-snowflake-pipe",
@@ -1613,7 +1613,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": "v2.1.0",
-      "size_mb": "160 KB"
+      "size_mb": "264 KB"
     },
     {
       "name": "terraform-snowflake-task",
@@ -1628,7 +1628,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": "v2.0.0",
-      "size_mb": "98 KB"
+      "size_mb": "202 KB"
     },
     {
       "name": "terraform-snowflake-stage",
@@ -1643,7 +1643,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": "v1.2.0",
-      "size_mb": "160 KB"
+      "size_mb": "263 KB"
     },
     {
       "name": "terraform-snowflake-stream",
@@ -1658,7 +1658,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "184 KB"
+      "size_mb": "287 KB"
     },
     {
       "name": "terraform-snowflake-table",
@@ -1673,7 +1673,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": "v3.0.0",
-      "size_mb": "175 KB"
+      "size_mb": "278 KB"
     },
     {
       "name": "terraform-snowflake-seed-data",
@@ -1688,7 +1688,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "179 KB"
+      "size_mb": "282 KB"
     },
     {
       "name": "terraform-snowflake-api-integration",
@@ -1703,7 +1703,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "170 KB"
+      "size_mb": "273 KB"
     }
   ],
   "Terraform AWS Module": [
@@ -1720,7 +1720,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "233 KB"
+      "size_mb": "336 KB"
     },
     {
       "name": "terraform-aws-iam",
@@ -1735,7 +1735,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "163 KB"
+      "size_mb": "266 KB"
     },
     {
       "name": "terraform-aws-glue-database",
@@ -1750,7 +1750,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "205 KB"
+      "size_mb": "308 KB"
     },
     {
       "name": "terraform-aws-glue-catalog-table",
@@ -1765,7 +1765,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "150 KB"
+      "size_mb": "253 KB"
     },
     {
       "name": "terraform-aws-cloudwatch",
@@ -1780,7 +1780,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "129 KB"
+      "size_mb": "232 KB"
     },
     {
       "name": "terraform-aws-security-group",
@@ -1795,7 +1795,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "82 KB"
+      "size_mb": "235 KB"
     },
     {
       "name": "terraform-aws-glue",
@@ -1810,7 +1810,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "25 KB"
+      "size_mb": "124 KB"
     },
     {
       "name": "terraform-aws-ec2-instance",
@@ -1825,7 +1825,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "25 KB"
+      "size_mb": "124 KB"
     },
     {
       "name": "terraform-aws-dynamodb",
@@ -1857,7 +1857,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": "1.0.0",
-      "size_mb": "200 KB"
+      "size_mb": "304 KB"
     },
     {
       "name": "terraform-google-gcs-bucket",
@@ -1872,7 +1872,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "195 KB"
+      "size_mb": "297 KB"
     },
     {
       "name": "terraform-google-dataflow",
@@ -1887,7 +1887,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "155 KB"
+      "size_mb": "258 KB"
     },
     {
       "name": "terraform-google-spanner-instance",
@@ -1902,7 +1902,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "112 KB"
+      "size_mb": "216 KB"
     },
     {
       "name": "terraform-google-vpc",
@@ -1917,7 +1917,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "149 KB"
+      "size_mb": "252 KB"
     },
     {
       "name": "terraform-google-spanner-database",
@@ -1932,7 +1932,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "112 KB"
+      "size_mb": "216 KB"
     },
     {
       "name": "terraform-google-cloud-sql-instance",
@@ -1947,7 +1947,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "181 KB"
+      "size_mb": "284 KB"
     },
     {
       "name": "terraform-google-cloud-sql-database",
@@ -1962,7 +1962,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "112 KB"
+      "size_mb": "216 KB"
     },
     {
       "name": "terraform-google-alloydb-cluster",
@@ -1977,7 +1977,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "112 KB"
+      "size_mb": "216 KB"
     },
     {
       "name": "terraform-google-alloydb-instance",
@@ -1992,7 +1992,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "112 KB"
+      "size_mb": "216 KB"
     },
     {
       "name": "terraform-google-firestore",
@@ -2007,7 +2007,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "148 KB"
+      "size_mb": "251 KB"
     },
     {
       "name": "terraform-google-datastore",
@@ -2022,7 +2022,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "112 KB"
+      "size_mb": "216 KB"
     },
     {
       "name": "terraform-google-bigtable-instance",
@@ -2037,7 +2037,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "170 KB"
+      "size_mb": "274 KB"
     },
     {
       "name": "terraform-google-bigtable-table",
@@ -2052,7 +2052,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "156 KB"
+      "size_mb": "259 KB"
     },
     {
       "name": "terraform-google-bigquery-dataset",
@@ -2067,7 +2067,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "147 KB"
+      "size_mb": "250 KB"
     },
     {
       "name": "terraform-google-kms",
@@ -2082,7 +2082,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "155 KB"
+      "size_mb": "258 KB"
     },
     {
       "name": "terraform-google-dataproc-cluster",
@@ -2097,7 +2097,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "154 KB"
+      "size_mb": "257 KB"
     },
     {
       "name": "terraform-google-pubsub-topic",
@@ -2112,7 +2112,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "147 KB"
+      "size_mb": "250 KB"
     },
     {
       "name": "terraform-google-pubsub-subscription",
@@ -2127,7 +2127,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "149 KB"
+      "size_mb": "252 KB"
     },
     {
       "name": "terraform-google-compute-instance",
@@ -2142,7 +2142,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "148 KB"
+      "size_mb": "251 KB"
     },
     {
       "name": "terraform-google-compute-mig",
@@ -2157,7 +2157,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "155 KB"
+      "size_mb": "258 KB"
     }
   ]
 }
