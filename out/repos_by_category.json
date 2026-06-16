@@ -1394,11 +1394,11 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-01-27\" src=\"https://img.shields.io/badge/Updated-2026--01--27-ef4444?style=flat\" title=\"Updated 2026-01-27\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-06-15\" src=\"https://img.shields.io/badge/Updated-2026--06--15-22c55e?style=flat\" title=\"Updated 2026-06-15\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
-      "latest_release_tag": "v1.0.0",
+      "latest_release_tag": "v1.1.0",
       "size_mb": "149 KB"
     },
     {
@@ -1441,7 +1441,7 @@
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-06-15\" src=\"https://img.shields.io/badge/Updated-2026--06--15-22c55e?style=flat\" title=\"Updated 2026-06-15\" /></sub>",
       "open_issues": 1,
-      "branches": 2,
+      "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
       "size_mb": "42 KB"
