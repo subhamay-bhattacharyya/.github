@@ -1283,7 +1283,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": "v1.5.0",
-      "size_mb": "443 KB"
+      "size_mb": "444 KB"
     },
     {
       "name": "tf-apply-action",
@@ -1298,7 +1298,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.3.0",
-      "size_mb": "485 KB"
+      "size_mb": "488 KB"
     },
     {
       "name": "tf-destroy-action",
