@@ -560,7 +560,7 @@
       "size_mb": "59 KB"
     }
   ],
-  "Databricks": [
+  "Databricks - Terraform": [
     {
       "name": "databricks-terraform-bootstrap",
       "html_url": "https://github.com/subhamay-bhattacharyya/databricks-terraform-bootstrap",

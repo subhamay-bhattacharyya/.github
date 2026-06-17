@@ -156,7 +156,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 </details>
 
 <details>
-<summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ Databricks</span></h3></summary>
+<summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ Databricks - Terraform</span></h3></summary>
 
 | Repository | Description | Status | Stats |
 |------------|-------------|--------|-------|
@@ -319,5 +319,5 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 ---
 
-*Last generated: 2026-06-17 15:43:31 EST*  
+*Last generated: 2026-06-17 16:42:06 EST*  
 *Total repositories: 142*
