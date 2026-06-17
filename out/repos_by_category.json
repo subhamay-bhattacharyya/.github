@@ -1124,6 +1124,23 @@
       "size_mb": "255 KB"
     },
     {
+      "name": "secure-website-oac-waf",
+      "html_url": "https://github.com/subhamay-bhattacharyya/secure-website-oac-waf",
+      "description": "\ud83c\udfd7\ufe0f Secure, serverless static website hosted on AWS S3 with CloudFront, Origin Access Control, and HTTPS enforced. Protected by AWS WAF against SQLi, XSS, bots, and malicious traffic, with least-privilege IAM policies across all resources. CloudWatch and CloudTrail provide full logging, monitoring, and anomaly detection.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-06-15\" src=\"https://img.shields.io/badge/Updated-2026--06--15-22c55e?style=flat\" title=\"Updated 2026-06-15\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "59 KB"
+    }
+  ],
+  "Amazon Web Services - Terraform": [
+    {
       "name": "aws-receipt-processing-system",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-receipt-processing-system",
       "description": "\ud83c\udfd7\ufe0f Serverless, event-driven receipt processing system on AWS. Users upload receipts to Amazon S3, which triggers a Lambda function to extract structured data via Amazon Textract, persist results to DynamoDB, and dispatch email notifications through Amazon SES. Fully infrastructure-as-code managed for reproducible deployments. ",
@@ -1184,23 +1201,6 @@
       "size_mb": "219 KB"
     },
     {
-      "name": "secure-website-oac-waf",
-      "html_url": "https://github.com/subhamay-bhattacharyya/secure-website-oac-waf",
-      "description": "\ud83c\udfd7\ufe0f Secure, serverless static website hosted on AWS S3 with CloudFront, Origin Access Control, and HTTPS enforced. Protected by AWS WAF against SQLi, XSS, bots, and malicious traffic, with least-privilege IAM policies across all resources. CloudWatch and CloudTrail provide full logging, monitoring, and anomaly detection.",
-      "status": "Initialized",
-      "cloud_service_provider": "AWS",
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-06-15\" src=\"https://img.shields.io/badge/Updated-2026--06--15-22c55e?style=flat\" title=\"Updated 2026-06-15\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": null,
-      "latest_release_tag": null,
-      "size_mb": "59 KB"
-    }
-  ],
-  "AWS Skills Lab": [
-    {
       "name": "aws-data-lake-cart-abandonment",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-data-lake-cart-abandonment",
       "description": "\ud83c\udfd7\ufe0f Layered AWS data lake for analyzing e-commerce cart abandonment. Raw events from the backend land in an S3 raw zone, EventBridge-triggered Lambda functions process and aggregate them into a consumption zone, and a promotions Lambda reads the curated data to generate targeted discount offers for customers. Built as an AWS SimuLearn solution.",
@@ -1216,7 +1216,7 @@
       "size_mb": "219 KB"
     }
   ],
-  "GitHub Reusable Action": [
+  "GitHub Reusable Action / Workflow": [
     {
       "name": "checkov-report-action",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/checkov-report-action",
@@ -1224,7 +1224,7 @@
       "status": "In Progress",
       "cloud_service_provider": null,
       "maturity": "beta",
-      "notes": "Not Available",
+      "notes": "Next enhancement not planned yet",
       "last_updated": "<br><sub><img alt=\"Updated 2026-06-16\" src=\"https://img.shields.io/badge/Updated-2026--06--16-22c55e?style=flat\" title=\"Updated 2026-06-16\" /></sub>",
       "open_issues": 0,
       "branches": 1,
@@ -1254,7 +1254,7 @@
       "status": "Complete",
       "cloud_service_provider": null,
       "maturity": "beta",
-      "notes": "Not Available",
+      "notes": "Next enhancement not planned yet",
       "last_updated": "<br><sub><img alt=\"Updated 2026-06-17\" src=\"https://img.shields.io/badge/Updated-2026--06--17-22c55e?style=flat\" title=\"Updated 2026-06-17\" /></sub>",
       "open_issues": 0,
       "branches": 1,
@@ -1284,13 +1284,13 @@
       "status": "Complete",
       "cloud_service_provider": null,
       "maturity": "stable",
-      "notes": "Not Available",
+      "notes": "Next enhancement not planned yet",
       "last_updated": "<br><sub><img alt=\"Updated 2026-06-17\" src=\"https://img.shields.io/badge/Updated-2026--06--17-22c55e?style=flat\" title=\"Updated 2026-06-17\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "158 KB"
+      "size_mb": "224 KB"
     },
     {
       "name": "tf-plan-action",
@@ -1300,9 +1300,9 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Current - Working for AWS,Azure, GCP, Databricks. Next-Test for Snowflake",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-04-14\" src=\"https://img.shields.io/badge/Updated-2026--04--14-f97316?style=flat\" title=\"Updated 2026-04-14\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-06-17\" src=\"https://img.shields.io/badge/Updated-2026--06--17-22c55e?style=flat\" title=\"Updated 2026-06-17\" /></sub>",
+      "open_issues": 4,
+      "branches": 5,
       "open_prs": null,
       "latest_release_tag": "v1.5.0",
       "size_mb": "443 KB"
@@ -1315,9 +1315,9 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-04-16\" src=\"https://img.shields.io/badge/Updated-2026--04--16-f97316?style=flat\" title=\"Updated 2026-04-16\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-06-17\" src=\"https://img.shields.io/badge/Updated-2026--06--17-22c55e?style=flat\" title=\"Updated 2026-06-17\" /></sub>",
+      "open_issues": 4,
+      "branches": 5,
       "open_prs": null,
       "latest_release_tag": "v1.3.0",
       "size_mb": "485 KB"
@@ -1338,55 +1338,6 @@
       "size_mb": "305 KB"
     },
     {
-      "name": "tf-yor-action",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-yor-action",
-      "description": "GitHub Composite Action - Add Git metadata tags .",
-      "status": "In Progress",
-      "cloud_service_provider": null,
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-04-14\" src=\"https://img.shields.io/badge/Updated-2026--04--14-f97316?style=flat\" title=\"Updated 2026-04-14\" /></sub>",
-      "open_issues": 5,
-      "branches": 5,
-      "open_prs": null,
-      "latest_release_tag": "v1.0.1",
-      "size_mb": "625 KB"
-    },
-    {
-      "name": "create-release-action",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/create-release-action",
-      "description": "GitHub Composite Action - Create Draft Release with a clickable link to create the release.",
-      "status": "Complete",
-      "cloud_service_provider": null,
-      "maturity": "beta",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-06-16\" src=\"https://img.shields.io/badge/Updated-2026--06--16-22c55e?style=flat\" title=\"Updated 2026-06-16\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": null,
-      "latest_release_tag": "v1.0.0",
-      "size_mb": "610 KB"
-    }
-  ],
-  "GitHub Action Template Repository": [
-    {
-      "name": "github-action-template",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/github-action-template",
-      "description": "\u2705 GitHub Composite Action: A Starter Template for GitHub Composite Action",
-      "status": "Complete",
-      "cloud_service_provider": null,
-      "maturity": "stable",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-26\" src=\"https://img.shields.io/badge/Updated-2026--02--26-ef4444?style=flat\" title=\"Updated 2026-02-26\" /></sub>",
-      "open_issues": 4,
-      "branches": 5,
-      "open_prs": null,
-      "latest_release_tag": "v1.1.2",
-      "size_mb": "577 KB"
-    }
-  ],
-  "GitHub Reusable Workflow": [
-    {
       "name": "terraform-destroy-wf",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/terraform-destroy-wf",
       "description": "GitHub Reusable Workflow to tear down a stack using Terraform Destroy",
@@ -1402,6 +1353,21 @@
       "size_mb": "229 KB"
     },
     {
+      "name": "tf-yor-action",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-yor-action",
+      "description": "GitHub Composite Action - Add Git metadata tags .",
+      "status": "In Progress",
+      "cloud_service_provider": null,
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-14\" src=\"https://img.shields.io/badge/Updated-2026--04--14-f97316?style=flat\" title=\"Updated 2026-04-14\" /></sub>",
+      "open_issues": 5,
+      "branches": 5,
+      "open_prs": null,
+      "latest_release_tag": "v1.0.1",
+      "size_mb": "625 KB"
+    },
+    {
       "name": "tf-ci-reusable-wf",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-ci-reusable-wf",
       "description": "GitHub Reusable Workflow: CI Pipeline using Terraform as IaC",
@@ -1415,6 +1381,21 @@
       "open_prs": null,
       "latest_release_tag": "v1.3.0",
       "size_mb": "350 KB"
+    },
+    {
+      "name": "create-release-action",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/create-release-action",
+      "description": "GitHub Composite Action - Create Draft Release with a clickable link to create the release.",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "beta",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-06-16\" src=\"https://img.shields.io/badge/Updated-2026--06--16-22c55e?style=flat\" title=\"Updated 2026-06-16\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": null,
+      "latest_release_tag": "v1.0.0",
+      "size_mb": "610 KB"
     },
     {
       "name": "slack-notification-wf",
@@ -1462,6 +1443,36 @@
       "size_mb": "463 KB"
     },
     {
+      "name": "checkov-custom-policies",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/checkov-custom-policies",
+      "description": "\ud83c\udfd7\ufe0f A centralized repository for reusable custom Checkov policies, metadata-driven service-to-scan mappings, Terraform module detection logic, pass/fail test cases, and GitHub Actions automation. It enables consistent, scalable, and organization-wide IaC governance across Terraform repositories and cloud services.",
+      "status": "Initiated",
+      "cloud_service_provider": null,
+      "maturity": "alpha",
+      "notes": "Initial build successful",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-05\" src=\"https://img.shields.io/badge/Updated-2026--04--05-f97316?style=flat\" title=\"Updated 2026-04-05\" /></sub>",
+      "open_issues": 5,
+      "branches": 6,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "355 KB"
+    },
+    {
+      "name": "terraform-checkov-scan-detector",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/terraform-checkov-scan-detector",
+      "description": "\ud83c\udfd7\ufe0f GitHub Action to scan Terraform configurations, detect which cloud services and modules are used, and dynamically determine the relevant Checkov custom policy folders, built-in checks, custom checks, and skip rules to execute.",
+      "status": "Initiated",
+      "cloud_service_provider": null,
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-09\" src=\"https://img.shields.io/badge/Updated-2026--04--09-f97316?style=flat\" title=\"Updated 2026-04-09\" /></sub>",
+      "open_issues": 5,
+      "branches": 6,
+      "open_prs": null,
+      "latest_release_tag": "v1.0.0",
+      "size_mb": "526 KB"
+    },
+    {
       "name": "gcp-project-onboarding",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/gcp-project-onboarding",
       "description": "\ud83c\udfd7\ufe0f Reusable GitHub Actions workflow for standardised GCP project onboarding. Provisions HCP Terraform workspaces, GitHub Environments with GCP project variables, environment-tier deployment approval gates, and repository branch protection \u2014 all configured from a single project-config.json file per application repo.",
@@ -1492,36 +1503,21 @@
       "size_mb": "311 KB"
     }
   ],
-  "Security Scan": [
+  "Template Repository": [
     {
-      "name": "checkov-custom-policies",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/checkov-custom-policies",
-      "description": "\ud83c\udfd7\ufe0f A centralized repository for reusable custom Checkov policies, metadata-driven service-to-scan mappings, Terraform module detection logic, pass/fail test cases, and GitHub Actions automation. It enables consistent, scalable, and organization-wide IaC governance across Terraform repositories and cloud services.",
-      "status": "Initiated",
+      "name": "github-action-template",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/github-action-template",
+      "description": "\u2705 GitHub Composite Action: A Starter Template for GitHub Composite Action",
+      "status": "Complete",
       "cloud_service_provider": null,
-      "maturity": "alpha",
-      "notes": "Initial build successful",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-04-05\" src=\"https://img.shields.io/badge/Updated-2026--04--05-f97316?style=flat\" title=\"Updated 2026-04-05\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
-      "open_prs": null,
-      "latest_release_tag": null,
-      "size_mb": "355 KB"
-    },
-    {
-      "name": "terraform-checkov-scan-detector",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/terraform-checkov-scan-detector",
-      "description": "\ud83c\udfd7\ufe0f GitHub Action to scan Terraform configurations, detect which cloud services and modules are used, and dynamically determine the relevant Checkov custom policy folders, built-in checks, custom checks, and skip rules to execute.",
-      "status": "Initiated",
-      "cloud_service_provider": null,
-      "maturity": "experimental",
+      "maturity": "stable",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-04-09\" src=\"https://img.shields.io/badge/Updated-2026--04--09-f97316?style=flat\" title=\"Updated 2026-04-09\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-02-26\" src=\"https://img.shields.io/badge/Updated-2026--02--26-ef4444?style=flat\" title=\"Updated 2026-02-26\" /></sub>",
+      "open_issues": 4,
+      "branches": 5,
       "open_prs": null,
-      "latest_release_tag": "v1.0.0",
-      "size_mb": "526 KB"
+      "latest_release_tag": "v1.1.2",
+      "size_mb": "577 KB"
     }
   ],
   "Terraform Snowflake Module": [
