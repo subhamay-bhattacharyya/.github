@@ -1230,7 +1230,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": "1.0.0",
-      "size_mb": "467 KB"
+      "size_mb": "468 KB"
     },
     {
       "name": "checkov-scan-action",
@@ -1240,12 +1240,12 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-04-14\" src=\"https://img.shields.io/badge/Updated-2026--04--14-f97316?style=flat\" title=\"Updated 2026-04-14\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-06-16\" src=\"https://img.shields.io/badge/Updated-2026--06--16-22c55e?style=flat\" title=\"Updated 2026-06-16\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "446 KB"
+      "size_mb": "451 KB"
     },
     {
       "name": "tf-validate-action",
@@ -1255,12 +1255,12 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-04-14\" src=\"https://img.shields.io/badge/Updated-2026--04--14-f97316?style=flat\" title=\"Updated 2026-04-14\" /></sub>",
-      "open_issues": 4,
-      "branches": 5,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-06-17\" src=\"https://img.shields.io/badge/Updated-2026--06--17-22c55e?style=flat\" title=\"Updated 2026-06-17\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "652 KB"
+      "size_mb": "223 KB"
     },
     {
       "name": "branch-issue-action",
@@ -1270,12 +1270,12 @@
       "cloud_service_provider": null,
       "maturity": "stable",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-26\" src=\"https://img.shields.io/badge/Updated-2026--02--26-ef4444?style=flat\" title=\"Updated 2026-02-26\" /></sub>",
-      "open_issues": 4,
-      "branches": 5,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-06-17\" src=\"https://img.shields.io/badge/Updated-2026--06--17-22c55e?style=flat\" title=\"Updated 2026-06-17\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "409 KB"
+      "size_mb": "413 KB"
     },
     {
       "name": "tf-lint-action",
@@ -1335,7 +1335,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "227 KB"
+      "size_mb": "305 KB"
     },
     {
       "name": "tf-yor-action",
@@ -1365,7 +1365,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "543 KB"
+      "size_mb": "610 KB"
     }
   ],
   "GitHub Action Template Repository": [
