@@ -763,7 +763,7 @@
       "cloud_service_provider": "Snowflake",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-03-18\" src=\"https://img.shields.io/badge/Updated-2026--03--18-f97316?style=flat\" title=\"Updated 2026-03-18\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-03-18\" src=\"https://img.shields.io/badge/Updated-2026--03--18-ef4444?style=flat\" title=\"Updated 2026-03-18\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
@@ -1225,9 +1225,9 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-04-13\" src=\"https://img.shields.io/badge/Updated-2026--04--13-f97316?style=flat\" title=\"Updated 2026-04-13\" /></sub>",
-      "open_issues": 1,
-      "branches": 3,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-06-16\" src=\"https://img.shields.io/badge/Updated-2026--06--16-22c55e?style=flat\" title=\"Updated 2026-06-16\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
       "latest_release_tag": "1.0.0",
       "size_mb": "467 KB"
@@ -1330,9 +1330,9 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-01-23\" src=\"https://img.shields.io/badge/Updated-2026--01--23-ef4444?style=flat\" title=\"Updated 2026-01-23\" /></sub>",
-      "open_issues": 6,
-      "branches": 7,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-06-16\" src=\"https://img.shields.io/badge/Updated-2026--06--16-22c55e?style=flat\" title=\"Updated 2026-06-16\" /></sub>",
+      "open_issues": 0,
+      "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
       "size_mb": "227 KB"
@@ -1360,9 +1360,9 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-04-07\" src=\"https://img.shields.io/badge/Updated-2026--04--07-f97316?style=flat\" title=\"Updated 2026-04-07\" /></sub>",
-      "open_issues": 4,
-      "branches": 5,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-06-16\" src=\"https://img.shields.io/badge/Updated-2026--06--16-22c55e?style=flat\" title=\"Updated 2026-06-16\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
       "size_mb": "543 KB"
@@ -1399,7 +1399,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "149 KB"
+      "size_mb": "229 KB"
     },
     {
       "name": "tf-ci-reusable-wf",
@@ -1424,12 +1424,12 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-12\" src=\"https://img.shields.io/badge/Updated-2026--02--12-ef4444?style=flat\" title=\"Updated 2026-02-12\" /></sub>",
-      "open_issues": 2,
-      "branches": 3,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-06-16\" src=\"https://img.shields.io/badge/Updated-2026--06--16-22c55e?style=flat\" title=\"Updated 2026-06-16\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "483 KB"
+      "size_mb": "486 KB"
     },
     {
       "name": "tf-release-wf",
@@ -1444,7 +1444,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "42 KB"
+      "size_mb": "107 KB"
     },
     {
       "name": "tf-deploy-multi-reusable-wf",
@@ -1454,12 +1454,12 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-03-22\" src=\"https://img.shields.io/badge/Updated-2026--03--22-f97316?style=flat\" title=\"Updated 2026-03-22\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-06-16\" src=\"https://img.shields.io/badge/Updated-2026--06--16-22c55e?style=flat\" title=\"Updated 2026-06-16\" /></sub>",
+      "open_issues": 0,
+      "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.1.1",
-      "size_mb": "395 KB"
+      "size_mb": "463 KB"
     },
     {
       "name": "gcp-project-onboarding",
