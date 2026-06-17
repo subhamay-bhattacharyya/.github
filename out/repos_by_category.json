@@ -93,6 +93,21 @@
       "size_mb": "114 KB"
     },
     {
+      "name": "gcp-webhook-to-slack-function",
+      "html_url": "https://github.com/subhamay-bhattacharyya/gcp-webhook-to-slack-function",
+      "description": "Provision a Google Cloud project and deploy a Python HTTP Cloud Function with Terraform + GitHub Actions. The function is invoked by a GitHub Webhook and posts event notifications to a Slack channel via Slack API.",
+      "status": "Initialized",
+      "cloud_service_provider": "Google Cloud Platform",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-01-30\" src=\"https://img.shields.io/badge/Updated-2026--01--30-ef4444?style=flat\" title=\"Updated 2026-01-30\" /></sub>",
+      "open_issues": 3,
+      "branches": 3,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "166 KB"
+    },
+    {
       "name": "terraform-gcp-practice",
       "html_url": "https://github.com/subhamay-bhattacharyya/terraform-gcp-practice",
       "description": "Terraform with GCP practice",
@@ -1014,23 +1029,6 @@
       "size_mb": "65 KB"
     }
   ],
-  "Google Cloud Function": [
-    {
-      "name": "gcp-webhook-to-slack-function",
-      "html_url": "https://github.com/subhamay-bhattacharyya/gcp-webhook-to-slack-function",
-      "description": "Provision a Google Cloud project and deploy a Python HTTP Cloud Function with Terraform + GitHub Actions. The function is invoked by a GitHub Webhook and posts event notifications to a Slack channel via Slack API.",
-      "status": "Initialized",
-      "cloud_service_provider": "Google Cloud Platform",
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-01-30\" src=\"https://img.shields.io/badge/Updated-2026--01--30-ef4444?style=flat\" title=\"Updated 2026-01-30\" /></sub>",
-      "open_issues": 3,
-      "branches": 3,
-      "open_prs": null,
-      "latest_release_tag": null,
-      "size_mb": "166 KB"
-    }
-  ],
   "Google Compute Engine": [
     {
       "name": "terraform-gcp-lab-01-gce",
@@ -1048,7 +1046,7 @@
       "size_mb": "274 KB"
     }
   ],
-  "Storage": [
+  "Amazon Web Services - Terraform": [
     {
       "name": "s3-storage-best-practice",
       "html_url": "https://github.com/subhamay-bhattacharyya/s3-storage-best-practice",
@@ -1063,43 +1061,7 @@
       "open_prs": null,
       "latest_release_tag": null,
       "size_mb": "339 KB"
-    }
-  ],
-  "Data Lake": [
-    {
-      "name": "terraform-aws-iceberg-table",
-      "html_url": "https://github.com/subhamay-bhattacharyya/terraform-aws-iceberg-table",
-      "description": "Terraform project to provision Apache Iceberg tables on AWS S3 using AWS Glue Data Catalog, integrating S3 storage, Glue databases, catalog tables, and crawlers for a scalable data lakehouse architecture.",
-      "status": "Initialized",
-      "cloud_service_provider": "AWS",
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-03-04\" src=\"https://img.shields.io/badge/Updated-2026--03--04-ef4444?style=flat\" title=\"Updated 2026-03-04\" /></sub>",
-      "open_issues": 3,
-      "branches": 4,
-      "open_prs": null,
-      "latest_release_tag": null,
-      "size_mb": "327 KB"
-    }
-  ],
-  "Serverless Patterns": [
-    {
-      "name": "aws-serverless-security",
-      "html_url": "https://github.com/subhamay-bhattacharyya/aws-serverless-security",
-      "description": "\ud83c\udfd7\ufe0f Hands-on workshop to secure a serverless AWS application across seven defense-in-depth layers using AI-powered automation. Covers Cognito adaptive auth, WAF edge protection, VPC isolation, Lambda hardening with Kiro, Secrets Manager, DynamoDB encryption, and a Bedrock AI agent for GuardDuty incident response via EventBridge.",
-      "status": "Initialized",
-      "cloud_service_provider": "AWS",
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-04-27\" src=\"https://img.shields.io/badge/Updated-2026--04--27-f97316?style=flat\" title=\"Updated 2026-04-27\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
-      "open_prs": null,
-      "latest_release_tag": null,
-      "size_mb": "180 KB"
-    }
-  ],
-  "Zero To Cloud Projects": [
+    },
     {
       "name": "aws-csv-data-pipeline",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-csv-data-pipeline",
@@ -1115,23 +1077,6 @@
       "latest_release_tag": null,
       "size_mb": "255 KB"
     },
-    {
-      "name": "secure-website-oac-waf",
-      "html_url": "https://github.com/subhamay-bhattacharyya/secure-website-oac-waf",
-      "description": "\ud83c\udfd7\ufe0f Secure, serverless static website hosted on AWS S3 with CloudFront, Origin Access Control, and HTTPS enforced. Protected by AWS WAF against SQLi, XSS, bots, and malicious traffic, with least-privilege IAM policies across all resources. CloudWatch and CloudTrail provide full logging, monitoring, and anomaly detection.",
-      "status": "Initialized",
-      "cloud_service_provider": "AWS",
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-06-15\" src=\"https://img.shields.io/badge/Updated-2026--06--15-22c55e?style=flat\" title=\"Updated 2026-06-15\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": null,
-      "latest_release_tag": null,
-      "size_mb": "59 KB"
-    }
-  ],
-  "Amazon Web Services - Terraform": [
     {
       "name": "aws-receipt-processing-system",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-receipt-processing-system",
@@ -1206,6 +1151,55 @@
       "open_prs": null,
       "latest_release_tag": null,
       "size_mb": "219 KB"
+    },
+    {
+      "name": "secure-website-oac-waf",
+      "html_url": "https://github.com/subhamay-bhattacharyya/secure-website-oac-waf",
+      "description": "\ud83c\udfd7\ufe0f Secure, serverless static website hosted on AWS S3 with CloudFront, Origin Access Control, and HTTPS enforced. Protected by AWS WAF against SQLi, XSS, bots, and malicious traffic, with least-privilege IAM policies across all resources. CloudWatch and CloudTrail provide full logging, monitoring, and anomaly detection.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-06-15\" src=\"https://img.shields.io/badge/Updated-2026--06--15-22c55e?style=flat\" title=\"Updated 2026-06-15\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "59 KB"
+    }
+  ],
+  "Data Lake": [
+    {
+      "name": "terraform-aws-iceberg-table",
+      "html_url": "https://github.com/subhamay-bhattacharyya/terraform-aws-iceberg-table",
+      "description": "Terraform project to provision Apache Iceberg tables on AWS S3 using AWS Glue Data Catalog, integrating S3 storage, Glue databases, catalog tables, and crawlers for a scalable data lakehouse architecture.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-03-04\" src=\"https://img.shields.io/badge/Updated-2026--03--04-ef4444?style=flat\" title=\"Updated 2026-03-04\" /></sub>",
+      "open_issues": 3,
+      "branches": 4,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "327 KB"
+    }
+  ],
+  "Serverless Patterns": [
+    {
+      "name": "aws-serverless-security",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-serverless-security",
+      "description": "\ud83c\udfd7\ufe0f Hands-on workshop to secure a serverless AWS application across seven defense-in-depth layers using AI-powered automation. Covers Cognito adaptive auth, WAF edge protection, VPC isolation, Lambda hardening with Kiro, Secrets Manager, DynamoDB encryption, and a Bedrock AI agent for GuardDuty incident response via EventBridge.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-27\" src=\"https://img.shields.io/badge/Updated-2026--04--27-f97316?style=flat\" title=\"Updated 2026-04-27\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "180 KB"
     }
   ],
   "GitHub Reusable Action / Workflow": [
@@ -1308,8 +1302,8 @@
       "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-06-17\" src=\"https://img.shields.io/badge/Updated-2026--06--17-22c55e?style=flat\" title=\"Updated 2026-06-17\" /></sub>",
-      "open_issues": 3,
-      "branches": 4,
+      "open_issues": 2,
+      "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.3.0",
       "size_mb": "485 KB"
