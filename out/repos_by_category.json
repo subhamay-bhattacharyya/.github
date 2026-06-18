@@ -1473,9 +1473,9 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Ready to release",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-04-10\" src=\"https://img.shields.io/badge/Updated-2026--04--10-f97316?style=flat\" title=\"Updated 2026-04-10\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "last_updated": "<br><sub><img alt=\"Updated 2026-06-18\" src=\"https://img.shields.io/badge/Updated-2026--06--18-22c55e?style=flat\" title=\"Updated 2026-06-18\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
       "size_mb": "311 KB"
