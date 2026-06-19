@@ -552,12 +552,12 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-06-15\" src=\"https://img.shields.io/badge/Updated-2026--06--15-22c55e?style=flat\" title=\"Updated 2026-06-15\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-06-18\" src=\"https://img.shields.io/badge/Updated-2026--06--18-22c55e?style=flat\" title=\"Updated 2026-06-18\" /></sub>",
       "open_issues": 1,
-      "branches": 2,
+      "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "59 KB"
+      "size_mb": "71 KB"
     }
   ],
   "Databricks - Terraform": [
