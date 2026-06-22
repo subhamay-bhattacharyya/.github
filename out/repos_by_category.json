@@ -39,11 +39,11 @@
       "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-28\" src=\"https://img.shields.io/badge/Updated-2026--04--28-f97316?style=flat\" title=\"Updated 2026-04-28\" /></sub>",
-      "open_issues": 3,
-      "branches": 4,
+      "open_issues": 4,
+      "branches": 5,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "397 KB"
+      "size_mb": "401 KB"
     },
     {
       "name": "terraform-aws-module-template",
@@ -54,11 +54,11 @@
       "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-24\" src=\"https://img.shields.io/badge/Updated-2026--04--24-f97316?style=flat\" title=\"Updated 2026-04-24\" /></sub>",
-      "open_issues": 3,
-      "branches": 4,
+      "open_issues": 4,
+      "branches": 5,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "575 KB"
+      "size_mb": "579 KB"
     },
     {
       "name": "terraform-google-module-template",
@@ -69,11 +69,11 @@
       "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-03-26\" src=\"https://img.shields.io/badge/Updated-2026--03--26-f97316?style=flat\" title=\"Updated 2026-03-26\" /></sub>",
-      "open_issues": 4,
-      "branches": 5,
+      "open_issues": 5,
+      "branches": 6,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "410 KB"
+      "size_mb": "414 KB"
     }
   ],
   "Google Cloud Platform - Terraform": [
@@ -1219,11 +1219,11 @@
       "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-06-16\" src=\"https://img.shields.io/badge/Updated-2026--06--16-22c55e?style=flat\" title=\"Updated 2026-06-16\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
+      "open_issues": 2,
+      "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "451 KB"
+      "size_mb": "455 KB"
     },
     {
       "name": "tf-validate-action",
@@ -1234,11 +1234,11 @@
       "maturity": "beta",
       "notes": "Next enhancement not planned yet",
       "last_updated": "<br><sub><img alt=\"Updated 2026-06-17\" src=\"https://img.shields.io/badge/Updated-2026--06--17-22c55e?style=flat\" title=\"Updated 2026-06-17\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "223 KB"
+      "size_mb": "227 KB"
     },
     {
       "name": "branch-issue-action",
@@ -1249,11 +1249,11 @@
       "maturity": "stable",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-06-17\" src=\"https://img.shields.io/badge/Updated-2026--06--17-22c55e?style=flat\" title=\"Updated 2026-06-17\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "413 KB"
+      "size_mb": "415 KB"
     },
     {
       "name": "tf-lint-action",
@@ -1264,11 +1264,11 @@
       "maturity": "stable",
       "notes": "Next enhancement not planned yet",
       "last_updated": "<br><sub><img alt=\"Updated 2026-06-17\" src=\"https://img.shields.io/badge/Updated-2026--06--17-22c55e?style=flat\" title=\"Updated 2026-06-17\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 5,
+      "branches": 6,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "224 KB"
+      "size_mb": "489 KB"
     },
     {
       "name": "tf-plan-action",
@@ -1279,11 +1279,11 @@
       "maturity": "beta",
       "notes": "Current - Working for AWS,Azure, GCP, Databricks. Next-Test for Snowflake",
       "last_updated": "<br><sub><img alt=\"Updated 2026-06-17\" src=\"https://img.shields.io/badge/Updated-2026--06--17-22c55e?style=flat\" title=\"Updated 2026-06-17\" /></sub>",
-      "open_issues": 4,
-      "branches": 5,
+      "open_issues": 5,
+      "branches": 6,
       "open_prs": null,
       "latest_release_tag": "v1.5.0",
-      "size_mb": "444 KB"
+      "size_mb": "452 KB"
     },
     {
       "name": "tf-apply-action",
@@ -1294,11 +1294,11 @@
       "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-06-17\" src=\"https://img.shields.io/badge/Updated-2026--06--17-22c55e?style=flat\" title=\"Updated 2026-06-17\" /></sub>",
-      "open_issues": 2,
-      "branches": 3,
+      "open_issues": 3,
+      "branches": 4,
       "open_prs": null,
       "latest_release_tag": "v1.3.0",
-      "size_mb": "488 KB"
+      "size_mb": "497 KB"
     },
     {
       "name": "tf-destroy-action",
@@ -1309,11 +1309,11 @@
       "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-06-16\" src=\"https://img.shields.io/badge/Updated-2026--06--16-22c55e?style=flat\" title=\"Updated 2026-06-16\" /></sub>",
-      "open_issues": 0,
-      "branches": 2,
+      "open_issues": 5,
+      "branches": 7,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "305 KB"
+      "size_mb": "572 KB"
     },
     {
       "name": "terraform-destroy-wf",
@@ -1324,11 +1324,11 @@
       "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-06-15\" src=\"https://img.shields.io/badge/Updated-2026--06--15-22c55e?style=flat\" title=\"Updated 2026-06-15\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 5,
+      "branches": 6,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "229 KB"
+      "size_mb": "495 KB"
     },
     {
       "name": "tf-yor-action",
@@ -1339,11 +1339,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-14\" src=\"https://img.shields.io/badge/Updated-2026--04--14-f97316?style=flat\" title=\"Updated 2026-04-14\" /></sub>",
-      "open_issues": 5,
-      "branches": 5,
+      "open_issues": 6,
+      "branches": 6,
       "open_prs": null,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "625 KB"
+      "size_mb": "628 KB"
     },
     {
       "name": "tf-ci-reusable-wf",
@@ -1354,11 +1354,11 @@
       "maturity": "beta",
       "notes": "Current - Working for AWS,Azure, GCP, Databricks. Next-Test for Snowflake",
       "last_updated": "<br><sub><img alt=\"Updated 2026-06-15\" src=\"https://img.shields.io/badge/Updated-2026--06--15-22c55e?style=flat\" title=\"Updated 2026-06-15\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.3.0",
-      "size_mb": "350 KB"
+      "size_mb": "357 KB"
     },
     {
       "name": "create-release-action",
@@ -1369,11 +1369,11 @@
       "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-06-16\" src=\"https://img.shields.io/badge/Updated-2026--06--16-22c55e?style=flat\" title=\"Updated 2026-06-16\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "610 KB"
+      "size_mb": "614 KB"
     },
     {
       "name": "slack-notification-wf",
@@ -1384,11 +1384,11 @@
       "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-06-16\" src=\"https://img.shields.io/badge/Updated-2026--06--16-22c55e?style=flat\" title=\"Updated 2026-06-16\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 3,
+      "branches": 4,
       "open_prs": null,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "486 KB"
+      "size_mb": "618 KB"
     },
     {
       "name": "tf-release-wf",
@@ -1399,11 +1399,11 @@
       "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-06-15\" src=\"https://img.shields.io/badge/Updated-2026--06--15-22c55e?style=flat\" title=\"Updated 2026-06-15\" /></sub>",
-      "open_issues": 1,
-      "branches": 1,
+      "open_issues": 9,
+      "branches": 9,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "107 KB"
+      "size_mb": "380 KB"
     },
     {
       "name": "tf-deploy-multi-reusable-wf",
@@ -1414,11 +1414,11 @@
       "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-06-16\" src=\"https://img.shields.io/badge/Updated-2026--06--16-22c55e?style=flat\" title=\"Updated 2026-06-16\" /></sub>",
-      "open_issues": 0,
-      "branches": 2,
+      "open_issues": 1,
+      "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.1.1",
-      "size_mb": "463 KB"
+      "size_mb": "465 KB"
     },
     {
       "name": "checkov-custom-policies",
@@ -1429,11 +1429,11 @@
       "maturity": "alpha",
       "notes": "Initial build successful",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-05\" src=\"https://img.shields.io/badge/Updated-2026--04--05-f97316?style=flat\" title=\"Updated 2026-04-05\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "open_issues": 6,
+      "branches": 7,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "355 KB"
+      "size_mb": "294 KB"
     },
     {
       "name": "terraform-checkov-scan-detector",
@@ -1444,11 +1444,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-09\" src=\"https://img.shields.io/badge/Updated-2026--04--09-f97316?style=flat\" title=\"Updated 2026-04-09\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "open_issues": 6,
+      "branches": 7,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "526 KB"
+      "size_mb": "529 KB"
     },
     {
       "name": "gcp-project-onboarding",
@@ -1459,11 +1459,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-08\" src=\"https://img.shields.io/badge/Updated-2026--04--08-f97316?style=flat\" title=\"Updated 2026-04-08\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "open_issues": 6,
+      "branches": 7,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "313 KB"
+      "size_mb": "316 KB"
     },
     {
       "name": "aws-project-onboarding",
@@ -1474,11 +1474,11 @@
       "maturity": "beta",
       "notes": "Ready to release",
       "last_updated": "<br><sub><img alt=\"Updated 2026-06-18\" src=\"https://img.shields.io/badge/Updated-2026--06--18-22c55e?style=flat\" title=\"Updated 2026-06-18\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "68 KB"
+      "size_mb": "81 KB"
     }
   ],
   "Template Repository": [
@@ -1491,11 +1491,11 @@
       "maturity": "stable",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-02-26\" src=\"https://img.shields.io/badge/Updated-2026--02--26-ef4444?style=flat\" title=\"Updated 2026-02-26\" /></sub>",
-      "open_issues": 4,
-      "branches": 5,
+      "open_issues": 5,
+      "branches": 6,
       "open_prs": null,
       "latest_release_tag": "v1.1.2",
-      "size_mb": "577 KB"
+      "size_mb": "579 KB"
     }
   ],
   "Terraform Snowflake Module": [
@@ -1688,11 +1688,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-28\" src=\"https://img.shields.io/badge/Updated-2026--04--28-f97316?style=flat\" title=\"Updated 2026-04-28\" /></sub>",
-      "open_issues": 4,
-      "branches": 5,
+      "open_issues": 5,
+      "branches": 6,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "325 KB"
+      "size_mb": "328 KB"
     }
   ],
   "Terraform AWS Module": [
@@ -1720,11 +1720,11 @@
       "maturity": "beta",
       "notes": "Working as expected",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-24\" src=\"https://img.shields.io/badge/Updated-2026--04--24-f97316?style=flat\" title=\"Updated 2026-04-24\" /></sub>",
-      "open_issues": 3,
-      "branches": 4,
+      "open_issues": 4,
+      "branches": 5,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "318 KB"
+      "size_mb": "321 KB"
     },
     {
       "name": "terraform-aws-glue-database",
@@ -1750,11 +1750,11 @@
       "maturity": "beta",
       "notes": "Ready for merge to main",
       "last_updated": "<br><sub><img alt=\"Updated 2026-03-04\" src=\"https://img.shields.io/badge/Updated-2026--03--04-ef4444?style=flat\" title=\"Updated 2026-03-04\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "open_issues": 6,
+      "branches": 7,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "305 KB"
+      "size_mb": "309 KB"
     },
     {
       "name": "terraform-aws-cloudwatch",
@@ -1765,11 +1765,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-03-05\" src=\"https://img.shields.io/badge/Updated-2026--03--05-ef4444?style=flat\" title=\"Updated 2026-03-05\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "open_issues": 6,
+      "branches": 7,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "283 KB"
+      "size_mb": "287 KB"
     },
     {
       "name": "terraform-aws-security-group",
@@ -1780,11 +1780,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-24\" src=\"https://img.shields.io/badge/Updated-2026--04--24-f97316?style=flat\" title=\"Updated 2026-04-24\" /></sub>",
-      "open_issues": 4,
-      "branches": 5,
+      "open_issues": 5,
+      "branches": 6,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "286 KB"
+      "size_mb": "240 KB"
     },
     {
       "name": "terraform-aws-glue",
@@ -1795,11 +1795,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-24\" src=\"https://img.shields.io/badge/Updated-2026--04--24-f97316?style=flat\" title=\"Updated 2026-04-24\" /></sub>",
-      "open_issues": 3,
-      "branches": 4,
+      "open_issues": 4,
+      "branches": 5,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "173 KB"
+      "size_mb": "177 KB"
     },
     {
       "name": "terraform-aws-ec2-instance",
@@ -1810,11 +1810,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-24\" src=\"https://img.shields.io/badge/Updated-2026--04--24-f97316?style=flat\" title=\"Updated 2026-04-24\" /></sub>",
-      "open_issues": 4,
-      "branches": 5,
+      "open_issues": 5,
+      "branches": 6,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "173 KB"
+      "size_mb": "177 KB"
     },
     {
       "name": "terraform-aws-dynamodb",
@@ -1842,11 +1842,11 @@
       "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-08\" src=\"https://img.shields.io/badge/Updated-2026--04--08-f97316?style=flat\" title=\"Updated 2026-04-08\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "open_issues": 6,
+      "branches": 7,
       "open_prs": null,
       "latest_release_tag": "1.0.0",
-      "size_mb": "356 KB"
+      "size_mb": "360 KB"
     },
     {
       "name": "terraform-google-gcs-bucket",
@@ -1857,11 +1857,11 @@
       "maturity": "alpha",
       "notes": "Initial build successful",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-01\" src=\"https://img.shields.io/badge/Updated-2026--04--01-f97316?style=flat\" title=\"Updated 2026-04-01\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "open_issues": 6,
+      "branches": 7,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "349 KB"
+      "size_mb": "345 KB"
     },
     {
       "name": "terraform-google-dataflow",
@@ -1872,11 +1872,11 @@
       "maturity": "alpha",
       "notes": "Initial build successful",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-01\" src=\"https://img.shields.io/badge/Updated-2026--04--01-f97316?style=flat\" title=\"Updated 2026-04-01\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "open_issues": 6,
+      "branches": 7,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "310 KB"
+      "size_mb": "314 KB"
     },
     {
       "name": "terraform-google-spanner-instance",
@@ -1887,11 +1887,11 @@
       "maturity": "experimental",
       "notes": "Working on Claude SKILL",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-01\" src=\"https://img.shields.io/badge/Updated-2026--04--01-f97316?style=flat\" title=\"Updated 2026-04-01\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "open_issues": 6,
+      "branches": 7,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "267 KB"
+      "size_mb": "271 KB"
     },
     {
       "name": "terraform-google-vpc",
@@ -1902,11 +1902,11 @@
       "maturity": "alpha",
       "notes": "Initial release successful",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-01\" src=\"https://img.shields.io/badge/Updated-2026--04--01-f97316?style=flat\" title=\"Updated 2026-04-01\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "open_issues": 6,
+      "branches": 7,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "304 KB"
+      "size_mb": "308 KB"
     },
     {
       "name": "terraform-google-spanner-database",
@@ -1917,11 +1917,11 @@
       "maturity": "experimental",
       "notes": "Working on Claude SKILL",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-01\" src=\"https://img.shields.io/badge/Updated-2026--04--01-f97316?style=flat\" title=\"Updated 2026-04-01\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "open_issues": 6,
+      "branches": 7,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "267 KB"
+      "size_mb": "271 KB"
     },
     {
       "name": "terraform-google-cloud-sql-instance",
@@ -1932,11 +1932,11 @@
       "maturity": "alpha",
       "notes": "Initial build successful",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-01\" src=\"https://img.shields.io/badge/Updated-2026--04--01-f97316?style=flat\" title=\"Updated 2026-04-01\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "open_issues": 6,
+      "branches": 7,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "336 KB"
+      "size_mb": "339 KB"
     },
     {
       "name": "terraform-google-cloud-sql-database",
@@ -1947,11 +1947,11 @@
       "maturity": "experimental",
       "notes": "Working on Claude SKILL",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-01\" src=\"https://img.shields.io/badge/Updated-2026--04--01-f97316?style=flat\" title=\"Updated 2026-04-01\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "open_issues": 6,
+      "branches": 7,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "267 KB"
+      "size_mb": "271 KB"
     },
     {
       "name": "terraform-google-alloydb-cluster",
@@ -1962,11 +1962,11 @@
       "maturity": "experimental",
       "notes": "Working on Claude SKILL",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-01\" src=\"https://img.shields.io/badge/Updated-2026--04--01-f97316?style=flat\" title=\"Updated 2026-04-01\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "open_issues": 6,
+      "branches": 7,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "267 KB"
+      "size_mb": "271 KB"
     },
     {
       "name": "terraform-google-alloydb-instance",
@@ -1977,11 +1977,11 @@
       "maturity": "experimental",
       "notes": "Working on Claude SKILL",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-01\" src=\"https://img.shields.io/badge/Updated-2026--04--01-f97316?style=flat\" title=\"Updated 2026-04-01\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "open_issues": 6,
+      "branches": 7,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "267 KB"
+      "size_mb": "271 KB"
     },
     {
       "name": "terraform-google-firestore",
@@ -1992,11 +1992,11 @@
       "maturity": "experimental",
       "notes": "Working on Claude SKILL",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-01\" src=\"https://img.shields.io/badge/Updated-2026--04--01-f97316?style=flat\" title=\"Updated 2026-04-01\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "open_issues": 6,
+      "branches": 7,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "303 KB"
+      "size_mb": "306 KB"
     },
     {
       "name": "terraform-google-datastore",
@@ -2007,11 +2007,11 @@
       "maturity": "experimental",
       "notes": "Working on Claude SKILL",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-01\" src=\"https://img.shields.io/badge/Updated-2026--04--01-f97316?style=flat\" title=\"Updated 2026-04-01\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "open_issues": 6,
+      "branches": 7,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "267 KB"
+      "size_mb": "271 KB"
     },
     {
       "name": "terraform-google-bigtable-instance",
@@ -2022,11 +2022,11 @@
       "maturity": "alpha",
       "notes": "Initial build successful",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-01\" src=\"https://img.shields.io/badge/Updated-2026--04--01-f97316?style=flat\" title=\"Updated 2026-04-01\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "open_issues": 6,
+      "branches": 7,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "325 KB"
+      "size_mb": "329 KB"
     },
     {
       "name": "terraform-google-bigtable-table",
@@ -2037,11 +2037,11 @@
       "maturity": "alpha",
       "notes": "Initial build successful",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-01\" src=\"https://img.shields.io/badge/Updated-2026--04--01-f97316?style=flat\" title=\"Updated 2026-04-01\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "open_issues": 6,
+      "branches": 7,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "311 KB"
+      "size_mb": "315 KB"
     },
     {
       "name": "terraform-google-bigquery-dataset",
@@ -2052,11 +2052,11 @@
       "maturity": "alpha",
       "notes": "Initial build successful",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-01\" src=\"https://img.shields.io/badge/Updated-2026--04--01-f97316?style=flat\" title=\"Updated 2026-04-01\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "open_issues": 6,
+      "branches": 7,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "302 KB"
+      "size_mb": "305 KB"
     },
     {
       "name": "terraform-google-kms",
@@ -2067,11 +2067,11 @@
       "maturity": "alpha",
       "notes": "Initial build successful",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-01\" src=\"https://img.shields.io/badge/Updated-2026--04--01-f97316?style=flat\" title=\"Updated 2026-04-01\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "open_issues": 6,
+      "branches": 7,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "310 KB"
+      "size_mb": "314 KB"
     },
     {
       "name": "terraform-google-dataproc-cluster",
@@ -2082,11 +2082,11 @@
       "maturity": "alpha",
       "notes": "Initial build successful",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-06\" src=\"https://img.shields.io/badge/Updated-2026--04--06-f97316?style=flat\" title=\"Updated 2026-04-06\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "open_issues": 6,
+      "branches": 7,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "309 KB"
+      "size_mb": "313 KB"
     },
     {
       "name": "terraform-google-pubsub-topic",
@@ -2097,11 +2097,11 @@
       "maturity": "alpha",
       "notes": "Initial build successful",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-01\" src=\"https://img.shields.io/badge/Updated-2026--04--01-f97316?style=flat\" title=\"Updated 2026-04-01\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "open_issues": 6,
+      "branches": 7,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "302 KB"
+      "size_mb": "306 KB"
     },
     {
       "name": "terraform-google-pubsub-subscription",
@@ -2112,11 +2112,11 @@
       "maturity": "alpha",
       "notes": "Initial build successful",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-01\" src=\"https://img.shields.io/badge/Updated-2026--04--01-f97316?style=flat\" title=\"Updated 2026-04-01\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "open_issues": 6,
+      "branches": 7,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "304 KB"
+      "size_mb": "308 KB"
     },
     {
       "name": "terraform-google-compute-instance",
@@ -2127,11 +2127,11 @@
       "maturity": "alpha",
       "notes": "Initial build successful",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-01\" src=\"https://img.shields.io/badge/Updated-2026--04--01-f97316?style=flat\" title=\"Updated 2026-04-01\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "open_issues": 6,
+      "branches": 7,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "303 KB"
+      "size_mb": "307 KB"
     },
     {
       "name": "terraform-google-compute-mig",
@@ -2142,11 +2142,11 @@
       "maturity": "experimental",
       "notes": "Working on Claude SKILL",
       "last_updated": "<br><sub><img alt=\"Updated 2026-04-01\" src=\"https://img.shields.io/badge/Updated-2026--04--01-f97316?style=flat\" title=\"Updated 2026-04-01\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
+      "open_issues": 6,
+      "branches": 7,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "310 KB"
+      "size_mb": "314 KB"
     }
   ]
 }
