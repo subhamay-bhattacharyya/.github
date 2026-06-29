@@ -43,7 +43,7 @@
       "branches": 6,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "401 KB"
+      "size_mb": "453 KB"
     },
     {
       "name": "terraform-aws-module-template",
@@ -58,7 +58,7 @@
       "branches": 6,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "579 KB"
+      "size_mb": "629 KB"
     },
     {
       "name": "terraform-google-module-template",
@@ -1268,7 +1268,7 @@
       "branches": 7,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "489 KB"
+      "size_mb": "492 KB"
     },
     {
       "name": "tf-plan-action",
@@ -1692,7 +1692,7 @@
       "branches": 7,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "328 KB"
+      "size_mb": "380 KB"
     }
   ],
   "Terraform AWS Module": [
@@ -1724,7 +1724,7 @@
       "branches": 6,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "321 KB"
+      "size_mb": "373 KB"
     },
     {
       "name": "terraform-aws-glue-database",
@@ -1784,7 +1784,7 @@
       "branches": 7,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "240 KB"
+      "size_mb": "292 KB"
     },
     {
       "name": "terraform-aws-glue",
@@ -1799,7 +1799,7 @@
       "branches": 6,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "177 KB"
+      "size_mb": "227 KB"
     },
     {
       "name": "terraform-aws-ec2-instance",
@@ -1814,7 +1814,7 @@
       "branches": 7,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "177 KB"
+      "size_mb": "227 KB"
     },
     {
       "name": "terraform-aws-dynamodb",
@@ -1846,7 +1846,7 @@
       "branches": 8,
       "open_prs": null,
       "latest_release_tag": "1.0.0",
-      "size_mb": "360 KB"
+      "size_mb": "413 KB"
     },
     {
       "name": "terraform-google-gcs-bucket",
