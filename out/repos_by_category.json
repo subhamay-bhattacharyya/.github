@@ -145,7 +145,7 @@
       "cloud_service_provider": "Google Cloud Platform",
       "maturity": "experimental",
       "notes": "Basic and Lifecycle enabled. Need to create others.",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-04-04\" src=\"https://img.shields.io/badge/Updated-2026--04--04-f97316?style=flat\" title=\"Updated 2026-04-04\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-04\" src=\"https://img.shields.io/badge/Updated-2026--04--04-ef4444?style=flat\" title=\"Updated 2026-04-04\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": null,
