@@ -2081,7 +2081,7 @@
       "cloud_service_provider": "Google Cloud Platform",
       "maturity": "alpha",
       "notes": "Initial build successful",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-04-06\" src=\"https://img.shields.io/badge/Updated-2026--04--06-f97316?style=flat\" title=\"Updated 2026-04-06\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-06\" src=\"https://img.shields.io/badge/Updated-2026--04--06-ef4444?style=flat\" title=\"Updated 2026-04-06\" /></sub>",
       "open_issues": 6,
       "branches": 7,
       "open_prs": null,
