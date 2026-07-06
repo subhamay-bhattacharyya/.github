@@ -1223,7 +1223,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "455 KB"
+      "size_mb": "519 KB"
     },
     {
       "name": "tf-validate-action",
@@ -1238,7 +1238,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "227 KB"
+      "size_mb": "291 KB"
     },
     {
       "name": "branch-issue-action",
@@ -1253,7 +1253,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "415 KB"
+      "size_mb": "479 KB"
     },
     {
       "name": "tf-lint-action",
@@ -1298,7 +1298,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": "v1.3.0",
-      "size_mb": "497 KB"
+      "size_mb": "562 KB"
     },
     {
       "name": "tf-destroy-action",
@@ -1358,7 +1358,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.3.0",
-      "size_mb": "357 KB"
+      "size_mb": "421 KB"
     },
     {
       "name": "create-release-action",
@@ -1373,7 +1373,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "614 KB"
+      "size_mb": "679 KB"
     },
     {
       "name": "slack-notification-wf",
@@ -1388,7 +1388,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "618 KB"
+      "size_mb": "683 KB"
     },
     {
       "name": "tf-release-wf",
@@ -1418,7 +1418,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": "v1.1.1",
-      "size_mb": "465 KB"
+      "size_mb": "529 KB"
     },
     {
       "name": "checkov-custom-policies",
@@ -1478,7 +1478,7 @@
       "branches": 3,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "81 KB"
+      "size_mb": "146 KB"
     }
   ],
   "Template Repository": [
@@ -1692,7 +1692,7 @@
       "branches": 7,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "380 KB"
+      "size_mb": "381 KB"
     }
   ],
   "Terraform AWS Module": [
@@ -1724,7 +1724,7 @@
       "branches": 6,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "373 KB"
+      "size_mb": "374 KB"
     },
     {
       "name": "terraform-aws-glue-database",
@@ -1784,7 +1784,7 @@
       "branches": 7,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "292 KB"
+      "size_mb": "293 KB"
     },
     {
       "name": "terraform-aws-glue",
