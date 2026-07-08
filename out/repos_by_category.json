@@ -1841,7 +1841,7 @@
       "cloud_service_provider": "Google Cloud Platform",
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-04-08\" src=\"https://img.shields.io/badge/Updated-2026--04--08-f97316?style=flat\" title=\"Updated 2026-04-08\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-04-08\" src=\"https://img.shields.io/badge/Updated-2026--04--08-ef4444?style=flat\" title=\"Updated 2026-04-08\" /></sub>",
       "open_issues": 7,
       "branches": 8,
       "open_prs": null,
