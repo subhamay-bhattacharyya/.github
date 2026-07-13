@@ -1238,7 +1238,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "291 KB"
+      "size_mb": "356 KB"
     },
     {
       "name": "branch-issue-action",
@@ -1253,7 +1253,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "479 KB"
+      "size_mb": "543 KB"
     },
     {
       "name": "tf-lint-action",
@@ -1358,7 +1358,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": "v1.3.0",
-      "size_mb": "421 KB"
+      "size_mb": "486 KB"
     },
     {
       "name": "create-release-action",
@@ -1373,7 +1373,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "679 KB"
+      "size_mb": "743 KB"
     },
     {
       "name": "slack-notification-wf",
@@ -1418,7 +1418,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": "v1.1.1",
-      "size_mb": "529 KB"
+      "size_mb": "594 KB"
     },
     {
       "name": "checkov-custom-policies",
@@ -1478,7 +1478,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "146 KB"
+      "size_mb": "210 KB"
     }
   ],
   "Template Repository": [
