@@ -43,7 +43,7 @@
       "branches": 8,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "453 KB"
+      "size_mb": "460 KB"
     },
     {
       "name": "terraform-aws-module-template",
@@ -58,7 +58,7 @@
       "branches": 8,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "629 KB"
+      "size_mb": "637 KB"
     },
     {
       "name": "terraform-google-module-template",
@@ -1223,7 +1223,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "519 KB"
+      "size_mb": "521 KB"
     },
     {
       "name": "tf-validate-action",
@@ -1238,7 +1238,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "356 KB"
+      "size_mb": "358 KB"
     },
     {
       "name": "branch-issue-action",
@@ -1253,7 +1253,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "543 KB"
+      "size_mb": "545 KB"
     },
     {
       "name": "tf-lint-action",
@@ -1268,7 +1268,7 @@
       "branches": 8,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "492 KB"
+      "size_mb": "494 KB"
     },
     {
       "name": "tf-plan-action",
@@ -1283,7 +1283,7 @@
       "branches": 7,
       "open_prs": null,
       "latest_release_tag": "v1.5.0",
-      "size_mb": "452 KB"
+      "size_mb": "454 KB"
     },
     {
       "name": "tf-apply-action",
@@ -1298,7 +1298,7 @@
       "branches": 6,
       "open_prs": null,
       "latest_release_tag": "v1.3.0",
-      "size_mb": "562 KB"
+      "size_mb": "564 KB"
     },
     {
       "name": "tf-destroy-action",
@@ -1313,7 +1313,7 @@
       "branches": 8,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "572 KB"
+      "size_mb": "574 KB"
     },
     {
       "name": "terraform-destroy-wf",
@@ -1328,7 +1328,7 @@
       "branches": 7,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "495 KB"
+      "size_mb": "497 KB"
     },
     {
       "name": "tf-yor-action",
@@ -1358,7 +1358,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": "v1.3.0",
-      "size_mb": "486 KB"
+      "size_mb": "488 KB"
     },
     {
       "name": "create-release-action",
@@ -1373,7 +1373,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "743 KB"
+      "size_mb": "745 KB"
     },
     {
       "name": "slack-notification-wf",
@@ -1388,7 +1388,7 @@
       "branches": 6,
       "open_prs": null,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "683 KB"
+      "size_mb": "685 KB"
     },
     {
       "name": "tf-release-wf",
@@ -1403,7 +1403,7 @@
       "branches": 10,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "380 KB"
+      "size_mb": "382 KB"
     },
     {
       "name": "tf-deploy-multi-reusable-wf",
@@ -1418,7 +1418,7 @@
       "branches": 6,
       "open_prs": null,
       "latest_release_tag": "v1.1.1",
-      "size_mb": "594 KB"
+      "size_mb": "596 KB"
     },
     {
       "name": "checkov-custom-policies",
@@ -1433,7 +1433,7 @@
       "branches": 9,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "294 KB"
+      "size_mb": "299 KB"
     },
     {
       "name": "terraform-checkov-scan-detector",
@@ -1448,7 +1448,7 @@
       "branches": 9,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "529 KB"
+      "size_mb": "533 KB"
     },
     {
       "name": "gcp-project-onboarding",
@@ -1463,7 +1463,7 @@
       "branches": 9,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "316 KB"
+      "size_mb": "320 KB"
     },
     {
       "name": "aws-project-onboarding",
@@ -1478,7 +1478,7 @@
       "branches": 5,
       "open_prs": null,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "210 KB"
+      "size_mb": "212 KB"
     }
   ],
   "Template Repository": [
@@ -1495,7 +1495,7 @@
       "branches": 7,
       "open_prs": null,
       "latest_release_tag": "v1.1.2",
-      "size_mb": "579 KB"
+      "size_mb": "581 KB"
     }
   ],
   "Terraform Snowflake Module": [
@@ -1692,7 +1692,7 @@
       "branches": 9,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "381 KB"
+      "size_mb": "388 KB"
     }
   ],
   "Terraform AWS Module": [
@@ -1724,7 +1724,7 @@
       "branches": 8,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "374 KB"
+      "size_mb": "381 KB"
     },
     {
       "name": "terraform-aws-glue-database",
@@ -1784,7 +1784,7 @@
       "branches": 9,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "293 KB"
+      "size_mb": "300 KB"
     },
     {
       "name": "terraform-aws-glue",
@@ -1799,7 +1799,7 @@
       "branches": 8,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "227 KB"
+      "size_mb": "235 KB"
     },
     {
       "name": "terraform-aws-ec2-instance",
@@ -1814,7 +1814,7 @@
       "branches": 9,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "227 KB"
+      "size_mb": "235 KB"
     },
     {
       "name": "terraform-aws-dynamodb",
