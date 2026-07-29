@@ -58,19 +58,16 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 [<img src="https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" width="110" height="110">](https://www.credly.com/users/subhamay-bhattacharyya.4c48cb98/edit#credly)
 [<img src="https://images.credly.com/size/110x110/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" alt="AWS Certified Data Engineer – Associate" width="110" height="110">](https://www.credly.com/earner/earned/badge/90fa65c0-2b2b-4b72-bcd6-de60ec3af12a9)
 [<img src="https://images.credly.com/size/110x110/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob" alt="AWS Certified CloudOps Engineer – Associate" width="110" height="110">](https://www.credly.com/badges/60924b03-ef2d-4250-b9bb-2dc99e4fab5c/public_url)
-[<img src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="AWS Certified Security Speciality" width="110" height="110">](https://www.credly.com/badges/7eaa1d99-4036-4272-a7a1-c290d027fe37/public_url)
+[<img src="https://images.credly.com/size/110x110/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob" alt="HashiCorp Certified: Terraform Associate (004)" width="110" height="110">](https://www.credly.com/badges/f4ed68ad-d145-4b0c-ab85-277d549a9a9b/public_url)
 
 [<img src="https://images.credly.com/size/110x110/images/3e3f6d8b-b37e-4a3d-93d0-6f2bafa5f03c/blob" alt="Associate Data Practitioner Certification" width="110" height="110">](https://www.credly.com/users/subhamay-bhattacharyya.4c48cb98/edit#credly)
 [<img src="https://images.credly.com/size/110x110/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" alt="Cloud Digital Leader Certification" width="110" height="110">](https://www.credly.com/earner/earned/badge/fcb7b9c4-4b5c-45b4-901a-c1b268caebb1)
 [<img src="https://images.credly.com/size/110x110/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Microsoft Certified: Azure Data Fundamentals" width="110" height="110">](https://www.credly.com/earner/earned/badge/3c74bc0a-3abc-40e3-bba7-16af5c1c52dd)
-[<img src="https://images.credly.com/size/110x110/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob" alt="HashiCorp Certified: Terraform Associate (004)" width="110" height="110">](https://www.credly.com/badges/f4ed68ad-d145-4b0c-ab85-277d549a9a9b/public_url)
-
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2jNi2iUnupgzdZyOBSFx2T8eDYqWvEHIqVjMpT7PNdQ&s=10?max=110&_mzcb=_1742484011671" alt="SnowPro Associate: Platform Certification" width="110" height="110">](https://achieve.snowflake.com/06b5046f-e964-4124-b825-fb13f9256fd8#acc.MnUcbPwq)
-[<img src="https://images.credly.com/images/7a2ed5ab-2bed-4b5c-84e9-fc7c71275da4/twitter_thumb_201604_SnowProCoreTM600.png?max=110&_mzcb=_1742484011671" alt="SnowPro Core" width="120" height="120">](https://achieve.snowflake.com/7eedb483-a6be-4e06-8cde-f37295200ac2#acc.xCAbwY52)
-[<img src="https://miro.medium.com/v2/resize:fit:1400/1*A5twCFbWTvI4zQ2XqXiyVg.png?max=110&_mzcb=_1742484011671" alt="SnowPro Advanced Data Engineer" width="150" height="120">](https://achieve.snowflake.com/75fb0bef-d9e9-44d5-adb8-a93054e2d079#acc.GEWCo06m$0)
-[<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*BPKexaUT2SAxj_Dzsh-K1Q.png?max=110&_mzcb=_1742484011671" alt="SnowPro Advanced Data Architect" width="130" height="110">](https://achieve.snowflake.com/75fb0bef-d9e9-44d5-adb8-a93054e2d079#acc.GEWCo06m$0)
 
 
+[<img src="https://cdn-tp2.mozu.com/16951-52804/cms/52804/files/c5e759d0-8262-47be-88b6-413e3c35ebfb?max=110&_mzcb=_1742484011671" alt="SnowPro Associate: Platform Certification" width="110" height="110">](https://achieve.snowflake.com/06b5046f-e964-4124-b825-fb13f9256fd8#acc.MnUcbPwq)
+[<img src="https://cdn-tp2.mozu.com/16951-52804/cms/52804/files/056c42d6-8856-46e6-9fe3-53b2e12a95e7?max=110&_mzcb=_1742484011671" alt="SnowPro Core" width="110" height="110">](https://achieve.snowflake.com/7eedb483-a6be-4e06-8cde-f37295200ac2#acc.xCAbwY52)
+[<img src="https://cdn-tp2.mozu.com/16951-52804/cms/52804/files/056c42d6-8856-46e6-9fe3-53b2e12a95e7?max=110&_mzcb=_1742484011671" alt="SnowPro Advanced Data Engineer" width="110" height="110">](https://achieve.snowflake.com/7eedb483-a6be-4e06-8cde-f37295200ac2#acc.xCAbwY52)
 [<img src="https://www.databricks.com/sites/default/files/2025-10/associate-badge-de.png?v=1761149691" alt="Databricks Certified Data Engineer Associate" width="110" height="110">](https://credentials.databricks.com/15c8dc6a-6245-4af8-86d6-1584a7fdfd43#acc.ocj68f3F)
 
 [<img src="https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" width="110" height="110">](https://www.credly.com/earner/earned/badge/d5dccf85-eb23-487e-87de-e5531c2d95a1)
@@ -322,5 +319,5 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 ---
 
-*Last generated: 2026-07-29 00:08:04 EST*  
+*Last generated: 2026-07-29 00:33:20 EST*  
 *Total repositories: 142*
