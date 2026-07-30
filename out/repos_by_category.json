@@ -729,21 +729,6 @@
       "size_mb": "61 KB"
     },
     {
-      "name": "snowflake-de-data-exchange",
-      "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-de-data-exchange",
-      "description": "Demo exploring Snowflake Marketplace and Data Exchange, including querying and deriving insights from shared datasets.",
-      "status": "Initialized",
-      "cloud_service_provider": "Snowflake",
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"Updated 2026-02-01\" src=\"https://img.shields.io/badge/Updated-2026--02--01-ef4444?style=flat\" title=\"Updated 2026-02-01\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
-      "open_prs": null,
-      "latest_release_tag": null,
-      "size_mb": "61 KB"
-    },
-    {
       "name": "snowflake-de-snowpark-notebooks",
       "html_url": "https://github.com/subhamay-bhattacharyya/snowflake-de-snowpark-notebooks",
       "description": "Introduction to Snowpark using notebooks, showing data processing and transformations using Snowpark APIs.",
