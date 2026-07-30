@@ -1,6 +1,6 @@
 # Subhamay Bhattacharyya
 
-### Hi there 👋, I am Subhamay Bhattacharyya, 7x AWS, 1x Azure, 2x GitHub and 1x HashiCorp Terraform, 4 x Snowflake and 1 x Databricks Certified Data Engineer and a AWS Cloud Enthusiast
+### Hi there 👋, I am Subhamay Bhattacharyya, 6x AWS, 1x Azure, 2x GitHub and 1x HashiCorp Terraform, 2 x Snowflake and 1 x Databricks Certified Data Engineer and a AWS Cloud Enthusiast
 
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/142895397?v=4" alt="Profile Picture" width="200" />
@@ -122,24 +122,16 @@ To design and operate **cloud platforms that are secure, automated, observable, 
   <tr>
     <td style="text-align:center; padding:10px;"><img src="../badges/astronomer-certification-for-apache-airflow-3-funda.png" alt="Astronomer Certification for Apache Airflow 3 Fundamentals" width="110" /><br /><sub>Issued: Nov 10, 2025 | No Expiry</sub></td>
     <td style="text-align:center; padding:10px;"><img src="../badges/astronomer-certification-dag-authoring-for-apache-a.png" alt="Astronomer Certification DAG Authoring for Apache Airflow 3" width="110" /><br /><sub>Issued: Nov 16, 2025 | No Expiry</sub></td>
-    <td style="text-align:center; padding:10px;">&nbsp;<br /><sub></sub></td>
-    <td style="text-align:center; padding:10px;">&nbsp;<br /><sub></sub></td>
-    <td style="text-align:center; padding:10px;">&nbsp;<br /><sub></sub></td>
+    <td style="text-align:center; padding:10px;"><img src="../badges/astronomer-certification-dag-authoring-for-apache-a-2.png" alt="Astronomer Certification DAG Authoring for Apache Airflow 3" width="110" /><br /><sub>Issued: Nov 16, 2025 | No Expiry</sub></td>
+    <td style="text-align:center; padding:10px;"><img src="../badges/astronomer-certification-dag-authoring-for-apache-a-2.png" alt="Astronomer Certification DAG Authoring for Apache Airflow 3" width="110" /><br /><sub>Issued: Nov 16, 2025 | No Expiry</sub></td>
+    <td style="text-align:center; padding:10px;"><img src="../badges/astronomer-certification-dag-authoring-for-apache-a-2.png" alt="Astronomer Certification DAG Authoring for Apache Airflow 3" width="110" /><br /><sub>Issued: Nov 16, 2025 | No Expiry</sub></td>
   </tr>
 </table>
 </details>
 
 ---
- 
-## 📝 Latest Blog Posts & Articles
- 
- 
-### 📖 Featured Articles
-- [How I built AWS architecture pattern](https://subhamay-bhattacharyya.github.io/.github/blogs/how-subhamay-built-aws-architecture-pattern)
 
----
-
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bsubhamay&show_icons=true&count_private=true&theme=radical) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bsubhamay&show_icons=true&count_private=true&theme=radical)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bsubhamay&theme=blueberry)
 
@@ -377,5 +369,5 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 ---
 
-*Last generated: 2026-07-29 21:33:24 EST*  
+*Last generated: 2026-07-29 21:57:12 EST*  
 *Total repositories: 141*
