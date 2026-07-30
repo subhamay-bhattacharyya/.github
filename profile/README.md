@@ -3,7 +3,7 @@
 ### Hi there 👋, I am Subhamay Bhattacharyya, 6x AWS, 1x Azure, 2x GitHub and 1x HashiCorp Terraform, 2 x Snowflake and 1 x Databricks Certified Data Engineer and a AWS Cloud Enthusiast
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/142895397?v=4" alt="Profile Picture" width="200" />
+  <img src="https://avatars.githubusercontent.com/u/142895397?v=4" alt="Profile Picture" width="200" style="border: 3px solid #293950ca; border-radius: 20px; padding: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </div>
 
 I'm a Senior Manager & Cloud Data Engineer with a strong focus on **multi-cloud architecture, DevOps automation, and data platforms**. I build **production-grade cloud systems** across **AWS, Azure, and GCP** using **Terraform, GitHub Actions, Ansible, and serverless services**, with a deep emphasis on **security, observability, and cost-efficient design**.
@@ -19,6 +19,7 @@ I’m currently developing a **multi-cloud Cloud Resume Challenge platform**, wh
 - **AWS** — S3, CloudFront, Route 53, Lambda, DynamoDB, Kinesis, RDS, VPC, EC2, Athena, API Gateway, Glue, Step Functions, SNS, SQS, EventBridge, CloudWatch, IAM, KMS, Secrets Manager  
 - **GCP** — Cloud Storage, Cloud CDN, Cloud DNS, Workload Identity Federation  
 - **Azure** — Storage Static Website, Azure Front Door, Azure DNS  
+- **Snowflake** — Developing ETL and ELT pipelines using Snowflake 
 
 Everything is provisioned using **Terraform modules**, deployed via **GitHub Actions with OIDC**, and validated with **Ansible-driven configuration management**—mirroring how real-world cloud platforms are built and operated.
 
