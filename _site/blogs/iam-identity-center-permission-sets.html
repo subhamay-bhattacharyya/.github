@@ -4,17 +4,17 @@
   <!-- ===== Meta ===== -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title | default: site.title }}</title>
-  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines | truncate: 160 }}">
+  <title>Designing IAM Identity Center Permission Sets That Scale</title>
+  <meta name="description" content="Test site for Jekyll layout">
 
   <!-- Open Graph / Twitter (optional but professional) -->
-  <meta property="og:title" content="{{ page.title | default: site.title }}">
-  <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines | truncate: 160 }}">
+  <meta property="og:title" content="Designing IAM Identity Center Permission Sets That Scale">
+  <meta property="og:description" content="Test site for Jekyll layout">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:url" content="http://localhost:4000/blogs/iam-identity-center-permission-sets.html">
   <meta name="twitter:card" content="summary_large_image">
 
-  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="canonical" href="http://localhost:4000/blogs/iam-identity-center-permission-sets.html">
 
   <!-- ===== Base Styles (inline for simplicity; move to /assets/css/site.css if you prefer) ===== -->
   <style>
@@ -151,33 +151,15 @@
 <body>
   <a class="skip-link" href="#content">Skip to content</a>
 
-  <!-- ===== Header / Navigation ===== -->
-  {%- unless page.hide_header or site.hide_header -%}
-  <header class="site-header">
+  <!-- ===== Header / Navigation ===== --><header class="site-header">
     <div class="container">
       <div id="navWrap" class="nav-wrap">
-        <a href="{{ '/' | relative_url }}" class="brand">
+        <a href="/" class="brand">
           <span class="logo" aria-hidden="true"></span>
-          <span>{{ site.title | default: "Site Title" }}</span>
+          <span>Subhamay Bhattacharyya</span>
         </a>
 
-        <nav class="primary" aria-label="Primary">
-          {%- comment -%}
-            Prefer a custom nav via _data/nav.yml (items: [ {title, url} ])
-          {%- endcomment -%}
-          {%- if site.data.nav and site.data.nav.items -%}
-            {%- for item in site.data.nav.items -%}
-              {%- assign is_external = item.url | slice: 0, 4 -%}
-              <a class="nav-link{% if page.url == item.url %} active{% endif %}" href="{% if is_external == 'http' %}{{ item.url }}{% else %}{{ item.url | relative_url }}{% endif %}"{% if is_external == 'http' %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ item.title }}</a>
-            {%- endfor -%}
-          {%- else -%}
-            <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
-            {%- assign docs = site.pages | where_exp:'p','p.url != "/"' | sort: 'nav_order' -%}
-            {%- for p in docs limit:5 -%}
-              <a class="nav-link{% if page.url == p.url %} active{% endif %}" href="{{ p.url | relative_url }}">{{ p.title | default: p.name }}</a>
-            {%- endfor -%}
-          {%- endif -%}
-        </nav>
+        <nav class="primary" aria-label="Primary"><a class="nav-link" href="/">Home</a><a class="nav-link" href="/blog">Blog</a><a class="nav-link" href="https://github.com/subhamay-bhattacharyya" target="_blank" rel="noopener noreferrer">GitHub</a></nav>
 
         <button id="menuToggle" class="menu-btn" aria-expanded="false" aria-controls="drawer">
           ☰ Menu
@@ -185,53 +167,94 @@
       </div>
 
       <!-- Mobile drawer -->
-      <div id="drawer" class="drawer container" role="region" aria-label="Mobile Navigation">
-        {%- if site.data.nav and site.data.nav.items -%}
-          {%- for item in site.data.nav.items -%}
-            {%- assign is_external = item.url | slice: 0, 4 -%}
-            <a class="nav-link{% if page.url == item.url %} active{% endif %}" href="{% if is_external == 'http' %}{{ item.url }}{% else %}{{ item.url | relative_url }}{% endif %}"{% if is_external == 'http' %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ item.title }}</a>
-          {%- endfor -%}
-        {%- else -%}
-          <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
-          {%- for p in docs limit:8 -%}
-            <a class="nav-link{% if page.url == p.url %} active{% endif %}" href="{{ p.url | relative_url }}">{{ p.title | default: p.name }}</a>
-          {%- endfor -%}
-        {%- endif -%}
-      </div>
+      <div id="drawer" class="drawer container" role="region" aria-label="Mobile Navigation"><a class="nav-link" href="/">Home</a><a class="nav-link" href="/blog">Blog</a><a class="nav-link" href="https://github.com/subhamay-bhattacharyya" target="_blank" rel="noopener noreferrer">GitHub</a></div>
     </div>
-  </header>
-  {%- endunless -%}
-
-  <!-- ===== Hero (optional subtitle from page.front-matter) ===== -->
-  {%- unless page.hide_hero or site.hide_hero -%}
-  <section class="hero">
-    <div class="container">
-      <h1 style="margin:.2rem 0 0">{{ page.title | default: site.title }}</h1>
-      {%- if page.subtitle or site.description -%}
-      <p style="margin:.5rem 0 0; color:var(--muted)">{{ page.subtitle | default: site.description }}</p>
-      {%- endif -%}
-    </div>
-  </section>
-  {%- endunless -%}
-
-  <!-- ===== Main Grid ===== -->
+  </header><!-- ===== Hero (optional subtitle from page.front-matter) ===== --><!-- ===== Main Grid ===== -->
   <div class="container">
     <div class="grid">
       <aside class="sidebar" aria-label="Blog posts">
         <h2>Blog Posts</h2>
-        <nav>
-          {%- assign blog_pages = site.pages | where_exp: 'p', 'p.url contains "/blogs/"' | sort: 'title' -%}
-          {%- for post in blog_pages -%}
-            <a class="side-link{% if page.url == post.url %} active{% endif %}" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-          {%- else -%}
-            <p style="color:var(--muted);font-size:.875rem">No posts yet.</p>
-          {%- endfor -%}
-        </nav>
+        <nav><a class="side-link" href="/blogs/cloudtrail-observability-strategy.html">A Practical CloudTrail Observability Strategy</a><a class="side-link" href="/blogs/building-multi-account-aws-landing-zone.html">Building a Multi-Account AWS Landing Zone from Scratch</a><a class="side-link active" href="/blogs/iam-identity-center-permission-sets.html">Designing IAM Identity Center Permission Sets That Scale</a><a class="side-link" href="/blogs/github-actions-for-infrastructure-automation.html">GitHub Actions for Infrastructure Automation at Scale</a><a class="side-link" href="/blogs/how-subhamay-built-aws-architecture-pattern.html">How Subhamay Built the AWS Architecture Pattern Everyone Now Uses</a><a class="side-link" href="/blogs/terraform-module-versioning-conventions.html">Terraform Module Versioning Conventions That Actually Work</a></nav>
       </aside>
 
       <main id="content" class="content">
         <article class="card markdown-body">
-          {{ content }}
+          <h2 id="designing-iam-identity-center-permission-sets-that-scale">Designing IAM Identity Center Permission Sets That Scale</h2>
+
+<p>IAM Identity Center (formerly AWS SSO) is the right way to manage human access across a multi-account AWS organization. But most implementations start with too-broad permission sets and never tighten them. Here’s how to design them to scale.</p>
+
+<h3 id="the-three-tier-model">The Three-Tier Model</h3>
+
+<p>Resist the urge to create a permission set per team. Instead, model access in three tiers:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Tier</th>
+      <th>Permission Set</th>
+      <th>Who</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td><code class="language-plaintext highlighter-rouge">ReadOnly</code></td>
+      <td>Everyone by default</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td><code class="language-plaintext highlighter-rouge">PowerUser</code></td>
+      <td>Engineers working in non-prod</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td><code class="language-plaintext highlighter-rouge">AdministratorAccess</code></td>
+      <td>Senior engineers, prod break-glass only</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Most work happens at tier 2. Tier 3 access to production should require a JIRA ticket and auto-expire after 8 hours.</p>
+
+<h3 id="attribute-based-access-control">Attribute-Based Access Control</h3>
+
+<p>Use ABAC to reduce the number of permission sets you need to maintain. Tag IAM Identity Center users with their team:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"Condition"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"StringEquals"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+      </span><span class="nl">"aws:PrincipalTag/Team"</span><span class="p">:</span><span class="w"> </span><span class="s2">"${aws:ResourceTag/Team}"</span><span class="w">
+    </span><span class="p">}</span><span class="w">
+  </span><span class="p">}</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<p>Engineers can only touch resources tagged with their own team. One permission set covers all teams.</p>
+
+<h3 id="terraform-management">Terraform Management</h3>
+
+<p>Manage permission sets in code:</p>
+
+<div class="language-hcl highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">resource</span> <span class="s2">"aws_ssoadmin_permission_set"</span> <span class="s2">"power_user"</span> <span class="p">{</span>
+  <span class="nx">name</span>             <span class="o">=</span> <span class="s2">"PowerUser"</span>
+  <span class="nx">instance_arn</span>     <span class="o">=</span> <span class="nx">local</span><span class="p">.</span><span class="nx">sso_instance_arn</span>
+  <span class="nx">session_duration</span> <span class="o">=</span> <span class="s2">"PT8H"</span>
+  <span class="nx">relay_state</span>      <span class="o">=</span> <span class="s2">"https://console.aws.amazon.com/"</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>Every assignment — which group gets which permission set in which account — is a Terraform resource. Drift is impossible because the nightly plan run catches it.</p>
+
+<h3 id="break-glass-access">Break-Glass Access</h3>
+
+<p>Even with a solid permission set structure, you need an emergency access path. Keep one <code class="language-plaintext highlighter-rouge">BreakGlass</code> permission set that grants full admin. It should be:</p>
+
+<ul>
+  <li>Unassigned by default</li>
+  <li>Assignable only via an automated runbook that requires two approvals</li>
+  <li>Logged via CloudTrail with an SNS alert on any use</li>
+</ul>
+
         </article>
       </main>
     </div>
@@ -239,7 +262,7 @@
 
   <footer class="site-footer">
     <div class="container">
-      <div>© {{ site.time | date: "%Y" }} {{ site.author | default: site.title }} · Built with Jekyll · Last updated {{ site.time | date: "%b %d, %Y" }}</div>
+      <div>© 2026 Subhamay · Built with Jekyll · Last updated Jul 29, 2026</div>
     </div>
   </footer>
 

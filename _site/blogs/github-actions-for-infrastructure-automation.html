@@ -4,17 +4,17 @@
   <!-- ===== Meta ===== -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title | default: site.title }}</title>
-  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines | truncate: 160 }}">
+  <title>GitHub Actions for Infrastructure Automation at Scale</title>
+  <meta name="description" content="Test site for Jekyll layout">
 
   <!-- Open Graph / Twitter (optional but professional) -->
-  <meta property="og:title" content="{{ page.title | default: site.title }}">
-  <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines | truncate: 160 }}">
+  <meta property="og:title" content="GitHub Actions for Infrastructure Automation at Scale">
+  <meta property="og:description" content="Test site for Jekyll layout">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:url" content="http://localhost:4000/blogs/github-actions-for-infrastructure-automation.html">
   <meta name="twitter:card" content="summary_large_image">
 
-  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="canonical" href="http://localhost:4000/blogs/github-actions-for-infrastructure-automation.html">
 
   <!-- ===== Base Styles (inline for simplicity; move to /assets/css/site.css if you prefer) ===== -->
   <style>
@@ -151,33 +151,15 @@
 <body>
   <a class="skip-link" href="#content">Skip to content</a>
 
-  <!-- ===== Header / Navigation ===== -->
-  {%- unless page.hide_header or site.hide_header -%}
-  <header class="site-header">
+  <!-- ===== Header / Navigation ===== --><header class="site-header">
     <div class="container">
       <div id="navWrap" class="nav-wrap">
-        <a href="{{ '/' | relative_url }}" class="brand">
+        <a href="/" class="brand">
           <span class="logo" aria-hidden="true"></span>
-          <span>{{ site.title | default: "Site Title" }}</span>
+          <span>Subhamay Bhattacharyya</span>
         </a>
 
-        <nav class="primary" aria-label="Primary">
-          {%- comment -%}
-            Prefer a custom nav via _data/nav.yml (items: [ {title, url} ])
-          {%- endcomment -%}
-          {%- if site.data.nav and site.data.nav.items -%}
-            {%- for item in site.data.nav.items -%}
-              {%- assign is_external = item.url | slice: 0, 4 -%}
-              <a class="nav-link{% if page.url == item.url %} active{% endif %}" href="{% if is_external == 'http' %}{{ item.url }}{% else %}{{ item.url | relative_url }}{% endif %}"{% if is_external == 'http' %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ item.title }}</a>
-            {%- endfor -%}
-          {%- else -%}
-            <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
-            {%- assign docs = site.pages | where_exp:'p','p.url != "/"' | sort: 'nav_order' -%}
-            {%- for p in docs limit:5 -%}
-              <a class="nav-link{% if page.url == p.url %} active{% endif %}" href="{{ p.url | relative_url }}">{{ p.title | default: p.name }}</a>
-            {%- endfor -%}
-          {%- endif -%}
-        </nav>
+        <nav class="primary" aria-label="Primary"><a class="nav-link" href="/">Home</a><a class="nav-link" href="/blog">Blog</a><a class="nav-link" href="https://github.com/subhamay-bhattacharyya" target="_blank" rel="noopener noreferrer">GitHub</a></nav>
 
         <button id="menuToggle" class="menu-btn" aria-expanded="false" aria-controls="drawer">
           ☰ Menu
@@ -185,53 +167,70 @@
       </div>
 
       <!-- Mobile drawer -->
-      <div id="drawer" class="drawer container" role="region" aria-label="Mobile Navigation">
-        {%- if site.data.nav and site.data.nav.items -%}
-          {%- for item in site.data.nav.items -%}
-            {%- assign is_external = item.url | slice: 0, 4 -%}
-            <a class="nav-link{% if page.url == item.url %} active{% endif %}" href="{% if is_external == 'http' %}{{ item.url }}{% else %}{{ item.url | relative_url }}{% endif %}"{% if is_external == 'http' %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ item.title }}</a>
-          {%- endfor -%}
-        {%- else -%}
-          <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
-          {%- for p in docs limit:8 -%}
-            <a class="nav-link{% if page.url == p.url %} active{% endif %}" href="{{ p.url | relative_url }}">{{ p.title | default: p.name }}</a>
-          {%- endfor -%}
-        {%- endif -%}
-      </div>
+      <div id="drawer" class="drawer container" role="region" aria-label="Mobile Navigation"><a class="nav-link" href="/">Home</a><a class="nav-link" href="/blog">Blog</a><a class="nav-link" href="https://github.com/subhamay-bhattacharyya" target="_blank" rel="noopener noreferrer">GitHub</a></div>
     </div>
-  </header>
-  {%- endunless -%}
-
-  <!-- ===== Hero (optional subtitle from page.front-matter) ===== -->
-  {%- unless page.hide_hero or site.hide_hero -%}
-  <section class="hero">
-    <div class="container">
-      <h1 style="margin:.2rem 0 0">{{ page.title | default: site.title }}</h1>
-      {%- if page.subtitle or site.description -%}
-      <p style="margin:.5rem 0 0; color:var(--muted)">{{ page.subtitle | default: site.description }}</p>
-      {%- endif -%}
-    </div>
-  </section>
-  {%- endunless -%}
-
-  <!-- ===== Main Grid ===== -->
+  </header><!-- ===== Hero (optional subtitle from page.front-matter) ===== --><!-- ===== Main Grid ===== -->
   <div class="container">
     <div class="grid">
       <aside class="sidebar" aria-label="Blog posts">
         <h2>Blog Posts</h2>
-        <nav>
-          {%- assign blog_pages = site.pages | where_exp: 'p', 'p.url contains "/blogs/"' | sort: 'title' -%}
-          {%- for post in blog_pages -%}
-            <a class="side-link{% if page.url == post.url %} active{% endif %}" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-          {%- else -%}
-            <p style="color:var(--muted);font-size:.875rem">No posts yet.</p>
-          {%- endfor -%}
-        </nav>
+        <nav><a class="side-link" href="/blogs/cloudtrail-observability-strategy.html">A Practical CloudTrail Observability Strategy</a><a class="side-link" href="/blogs/building-multi-account-aws-landing-zone.html">Building a Multi-Account AWS Landing Zone from Scratch</a><a class="side-link" href="/blogs/iam-identity-center-permission-sets.html">Designing IAM Identity Center Permission Sets That Scale</a><a class="side-link active" href="/blogs/github-actions-for-infrastructure-automation.html">GitHub Actions for Infrastructure Automation at Scale</a><a class="side-link" href="/blogs/how-subhamay-built-aws-architecture-pattern.html">How Subhamay Built the AWS Architecture Pattern Everyone Now Uses</a><a class="side-link" href="/blogs/terraform-module-versioning-conventions.html">Terraform Module Versioning Conventions That Actually Work</a></nav>
       </aside>
 
       <main id="content" class="content">
         <article class="card markdown-body">
-          {{ content }}
+          <h2 id="github-actions-for-infrastructure-automation-at-scale">GitHub Actions for Infrastructure Automation at Scale</h2>
+
+<p>CI/CD for application code is solved. Infrastructure CI/CD is still where most teams cut corners — manual applies, shared credentials, no drift detection. GitHub Actions, combined with OIDC and reusable workflows, changes that.</p>
+
+<h3 id="oidc-instead-of-long-lived-keys">OIDC Instead of Long-Lived Keys</h3>
+
+<p>Never store AWS access keys in GitHub secrets. Use OpenID Connect to let GitHub Actions assume an IAM role directly:</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="pi">-</span> <span class="na">name</span><span class="pi">:</span> <span class="s">Configure AWS credentials</span>
+  <span class="na">uses</span><span class="pi">:</span> <span class="s">aws-actions/configure-aws-credentials@v4</span>
+  <span class="na">with</span><span class="pi">:</span>
+    <span class="na">role-to-assume</span><span class="pi">:</span> <span class="s">arn:aws:iam::123456789012:role/github-actions-deploy</span>
+    <span class="na">aws-region</span><span class="pi">:</span> <span class="s">us-east-1</span>
+</code></pre></div></div>
+
+<p>The IAM role trust policy restricts which repos and branches can assume it. No keys to rotate, no secrets to leak.</p>
+
+<h3 id="reusable-workflow-pattern">Reusable Workflow Pattern</h3>
+
+<p>Define your Terraform workflow once and call it from every repo:</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># .github/workflows/terraform.yml (in the shared repo)</span>
+<span class="na">on</span><span class="pi">:</span>
+  <span class="na">workflow_call</span><span class="pi">:</span>
+    <span class="na">inputs</span><span class="pi">:</span>
+      <span class="na">environment</span><span class="pi">:</span>
+        <span class="na">required</span><span class="pi">:</span> <span class="kc">true</span>
+        <span class="na">type</span><span class="pi">:</span> <span class="s">string</span>
+      <span class="na">working_directory</span><span class="pi">:</span>
+        <span class="na">required</span><span class="pi">:</span> <span class="kc">true</span>
+        <span class="na">type</span><span class="pi">:</span> <span class="s">string</span>
+</code></pre></div></div>
+
+<p>Individual repos call it with two lines. Consistency at zero maintenance cost.</p>
+
+<h3 id="plan-on-pr-apply-on-merge">Plan on PR, Apply on Merge</h3>
+
+<p>The standard gate: <code class="language-plaintext highlighter-rouge">terraform plan</code> runs on every pull request and posts the diff as a comment. <code class="language-plaintext highlighter-rouge">terraform apply</code> runs only after the PR merges to main. This keeps humans in the loop without blocking automation.</p>
+
+<h3 id="drift-detection">Drift Detection</h3>
+
+<p>Schedule a nightly workflow that runs <code class="language-plaintext highlighter-rouge">terraform plan</code> against every environment and opens a GitHub issue if drift is detected. Infrastructure that drifts silently is infrastructure that will surprise you at the worst time.</p>
+
+<h3 id="semantic-versioning-for-modules">Semantic Versioning for Modules</h3>
+
+<p>Tag every module release. Workflows pin to a specific version:</p>
+
+<div class="language-hcl highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">source</span> <span class="o">=</span> <span class="s2">"github.com/subhamay-bhattacharyya-tf/s3-module?ref=v2.1.0"</span>
+</code></pre></div></div>
+
+<p>Unpinned modules are a supply chain risk. Pin everything; upgrade deliberately.</p>
+
         </article>
       </main>
     </div>
@@ -239,7 +238,7 @@
 
   <footer class="site-footer">
     <div class="container">
-      <div>© {{ site.time | date: "%Y" }} {{ site.author | default: site.title }} · Built with Jekyll · Last updated {{ site.time | date: "%b %d, %Y" }}</div>
+      <div>© 2026 Subhamay · Built with Jekyll · Last updated Jul 29, 2026</div>
     </div>
   </footer>
 

@@ -4,17 +4,17 @@
   <!-- ===== Meta ===== -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title | default: site.title }}</title>
-  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines | truncate: 160 }}">
+  <title>How Subhamay Built the AWS Architecture Pattern Everyone Now Uses</title>
+  <meta name="description" content="Test site for Jekyll layout">
 
   <!-- Open Graph / Twitter (optional but professional) -->
-  <meta property="og:title" content="{{ page.title | default: site.title }}">
-  <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines | truncate: 160 }}">
+  <meta property="og:title" content="How Subhamay Built the AWS Architecture Pattern Everyone Now Uses">
+  <meta property="og:description" content="Test site for Jekyll layout">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:url" content="http://localhost:4000/blogs/how-subhamay-built-aws-architecture-pattern.html">
   <meta name="twitter:card" content="summary_large_image">
 
-  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="canonical" href="http://localhost:4000/blogs/how-subhamay-built-aws-architecture-pattern.html">
 
   <!-- ===== Base Styles (inline for simplicity; move to /assets/css/site.css if you prefer) ===== -->
   <style>
@@ -151,33 +151,15 @@
 <body>
   <a class="skip-link" href="#content">Skip to content</a>
 
-  <!-- ===== Header / Navigation ===== -->
-  {%- unless page.hide_header or site.hide_header -%}
-  <header class="site-header">
+  <!-- ===== Header / Navigation ===== --><header class="site-header">
     <div class="container">
       <div id="navWrap" class="nav-wrap">
-        <a href="{{ '/' | relative_url }}" class="brand">
+        <a href="/" class="brand">
           <span class="logo" aria-hidden="true"></span>
-          <span>{{ site.title | default: "Site Title" }}</span>
+          <span>Subhamay Bhattacharyya</span>
         </a>
 
-        <nav class="primary" aria-label="Primary">
-          {%- comment -%}
-            Prefer a custom nav via _data/nav.yml (items: [ {title, url} ])
-          {%- endcomment -%}
-          {%- if site.data.nav and site.data.nav.items -%}
-            {%- for item in site.data.nav.items -%}
-              {%- assign is_external = item.url | slice: 0, 4 -%}
-              <a class="nav-link{% if page.url == item.url %} active{% endif %}" href="{% if is_external == 'http' %}{{ item.url }}{% else %}{{ item.url | relative_url }}{% endif %}"{% if is_external == 'http' %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ item.title }}</a>
-            {%- endfor -%}
-          {%- else -%}
-            <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
-            {%- assign docs = site.pages | where_exp:'p','p.url != "/"' | sort: 'nav_order' -%}
-            {%- for p in docs limit:5 -%}
-              <a class="nav-link{% if page.url == p.url %} active{% endif %}" href="{{ p.url | relative_url }}">{{ p.title | default: p.name }}</a>
-            {%- endfor -%}
-          {%- endif -%}
-        </nav>
+        <nav class="primary" aria-label="Primary"><a class="nav-link" href="/">Home</a><a class="nav-link" href="/blog">Blog</a><a class="nav-link" href="https://github.com/subhamay-bhattacharyya" target="_blank" rel="noopener noreferrer">GitHub</a></nav>
 
         <button id="menuToggle" class="menu-btn" aria-expanded="false" aria-controls="drawer">
           ☰ Menu
@@ -185,53 +167,58 @@
       </div>
 
       <!-- Mobile drawer -->
-      <div id="drawer" class="drawer container" role="region" aria-label="Mobile Navigation">
-        {%- if site.data.nav and site.data.nav.items -%}
-          {%- for item in site.data.nav.items -%}
-            {%- assign is_external = item.url | slice: 0, 4 -%}
-            <a class="nav-link{% if page.url == item.url %} active{% endif %}" href="{% if is_external == 'http' %}{{ item.url }}{% else %}{{ item.url | relative_url }}{% endif %}"{% if is_external == 'http' %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ item.title }}</a>
-          {%- endfor -%}
-        {%- else -%}
-          <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
-          {%- for p in docs limit:8 -%}
-            <a class="nav-link{% if page.url == p.url %} active{% endif %}" href="{{ p.url | relative_url }}">{{ p.title | default: p.name }}</a>
-          {%- endfor -%}
-        {%- endif -%}
-      </div>
+      <div id="drawer" class="drawer container" role="region" aria-label="Mobile Navigation"><a class="nav-link" href="/">Home</a><a class="nav-link" href="/blog">Blog</a><a class="nav-link" href="https://github.com/subhamay-bhattacharyya" target="_blank" rel="noopener noreferrer">GitHub</a></div>
     </div>
-  </header>
-  {%- endunless -%}
-
-  <!-- ===== Hero (optional subtitle from page.front-matter) ===== -->
-  {%- unless page.hide_hero or site.hide_hero -%}
-  <section class="hero">
-    <div class="container">
-      <h1 style="margin:.2rem 0 0">{{ page.title | default: site.title }}</h1>
-      {%- if page.subtitle or site.description -%}
-      <p style="margin:.5rem 0 0; color:var(--muted)">{{ page.subtitle | default: site.description }}</p>
-      {%- endif -%}
-    </div>
-  </section>
-  {%- endunless -%}
-
-  <!-- ===== Main Grid ===== -->
+  </header><!-- ===== Hero (optional subtitle from page.front-matter) ===== --><!-- ===== Main Grid ===== -->
   <div class="container">
     <div class="grid">
       <aside class="sidebar" aria-label="Blog posts">
         <h2>Blog Posts</h2>
-        <nav>
-          {%- assign blog_pages = site.pages | where_exp: 'p', 'p.url contains "/blogs/"' | sort: 'title' -%}
-          {%- for post in blog_pages -%}
-            <a class="side-link{% if page.url == post.url %} active{% endif %}" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-          {%- else -%}
-            <p style="color:var(--muted);font-size:.875rem">No posts yet.</p>
-          {%- endfor -%}
-        </nav>
+        <nav><a class="side-link" href="/blogs/cloudtrail-observability-strategy.html">A Practical CloudTrail Observability Strategy</a><a class="side-link" href="/blogs/building-multi-account-aws-landing-zone.html">Building a Multi-Account AWS Landing Zone from Scratch</a><a class="side-link" href="/blogs/iam-identity-center-permission-sets.html">Designing IAM Identity Center Permission Sets That Scale</a><a class="side-link" href="/blogs/github-actions-for-infrastructure-automation.html">GitHub Actions for Infrastructure Automation at Scale</a><a class="side-link active" href="/blogs/how-subhamay-built-aws-architecture-pattern.html">How Subhamay Built the AWS Architecture Pattern Everyone Now Uses</a><a class="side-link" href="/blogs/terraform-module-versioning-conventions.html">Terraform Module Versioning Conventions That Actually Work</a></nav>
       </aside>
 
       <main id="content" class="content">
         <article class="card markdown-body">
-          {{ content }}
+          <h3 id="how-subhamay-built-the-aws-architecture-pattern-everyone-now-uses">How Subhamay Built the AWS Architecture Pattern Everyone Now Uses</h3>
+
+<p>The engineer who turned cloud governance into infrastructure-as-code that scales</p>
+
+<p>By late 2029, Subhamay had become the architect other architects consulted. It wasn’t through self-promotion or thought leadership threads—it was through relentless building and public documentation.</p>
+
+<h4 id="the-projects-that-proved-it">The Projects That Proved It</h4>
+
+<p>Five years earlier, he began architecting a multi-account AWS landing zone (org o-v5ewdoo4w0, HCP Terraform org subhamay-bhattacharyya). He built sophisticated SCP/RCP governance, IAM Identity Center permission sets, CloudTrail encryption, and EC2 declarative policies. He didn’t hide the work—he shipped it openly.</p>
+
+<h4 id="the-github-impact">The GitHub Impact</h4>
+
+<p>He published modular, production-grade Terraform code across two GitHub organizations: subhamay-bhattacharyya-tf (infrastructure modules) and subhamay-bhattacharyya-gha (GitHub Actions automation). His repositories followed obsessive conventions—semantic versioning, conventional commits, comprehensive documentation. By 2027, dozens of enterprises had forked his SCP patterns and organizational governance code. His GitHub portfolio became a portfolio: thousands of stars, hundreds of forks, real adoption.</p>
+
+<h4 id="the-certifications-he-earned">The Certifications He Earned</h4>
+
+<p>Between 2024 and 2029, he earned AWS Certified Security Specialty (SCS-C03), Atlassian Certified Agile DevOps Specialist, Atlassian Cloud Fundamentals, and ACP-120 Jira Administration certifications. But certifications were proof of method, not destination. Each exam fueled the projects; each project validated the learning.</p>
+
+<h4 id="the-blogs-he-published">The Blogs He Published</h4>
+
+<p>He maintained a technical blog documenting his journey: certification strategies, Terraform module design patterns, SCP gotchas, AWS landing zone architecture. He published detailed implementation guides for integrating Claude into CI/CD pipelines, attracting readers from across the industry.</p>
+
+<h4 id="the-community-he-built">The Community He Built</h4>
+
+<p>His open-source contributions became reference implementations. terraform-snowflake-view, terraform-snowflake-api-integration, terraform-checkov-scan-detector, and tf-yor-action were forked and built upon by engineers he’d never met. He mentored junior engineers through his disciplined approach: certification + project + documentation.</p>
+
+<h4 id="the-job-role-that-mattered">The Job Role That Mattered</h4>
+
+<p>At Capgemini, he evolved from implementing solutions to architecting them. He led ML pipeline validation at major financial institutions, debugged SageMaker deployments, and mentored teams through rigorous cloud security practices. His job title was senior technology professional; his actual role was trusted architect.</p>
+
+<h4 id="the-claude-masterclass">The Claude Masterclass</h4>
+
+<p>In 2028, he pivoted toward AI-powered infrastructure. The claude-masterclass Python project evolved into a framework for integrating Claude directly into infrastructure validation and policy analysis. He became an Anthropic partner, contributing to the Claude ecosystem documentation and best practices.</p>
+
+<h4 id="the-real-credential">The Real Credential</h4>
+
+<p>By 2029, the credential that mattered most wasn’t on his LinkedIn profile. It was the infrastructure running in production at companies he’d never worked for, built on patterns he’d open-sourced years earlier. It was engineers around the world using his Terraform modules, referencing his documentation, and building on his work.</p>
+
+<p>P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: <a href="https://dmi.pravinmishra.com/s/subhamay-bhattacharyya.html">https://dmi.pravinmishra.com/s/subhamay-bhattacharyya.html</a> · Start your DevOps journey: <a href="https://dmi.pravinmishra.com/?utm_source=student&amp;utm_medium=ps-blog&amp;utm_campaign=cohort3">https://dmi.pravinmishra.com/?utm_source=student&amp;utm_medium=ps-blog&amp;utm_campaign=cohort3</a></p>
+
         </article>
       </main>
     </div>
@@ -239,7 +226,7 @@
 
   <footer class="site-footer">
     <div class="container">
-      <div>© {{ site.time | date: "%Y" }} {{ site.author | default: site.title }} · Built with Jekyll · Last updated {{ site.time | date: "%b %d, %Y" }}</div>
+      <div>© 2026 Subhamay · Built with Jekyll · Last updated Jul 29, 2026</div>
     </div>
   </footer>
 

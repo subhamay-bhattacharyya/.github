@@ -4,17 +4,17 @@
   <!-- ===== Meta ===== -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title | default: site.title }}</title>
-  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines | truncate: 160 }}">
+  <title>A Practical CloudTrail Observability Strategy</title>
+  <meta name="description" content="Test site for Jekyll layout">
 
   <!-- Open Graph / Twitter (optional but professional) -->
-  <meta property="og:title" content="{{ page.title | default: site.title }}">
-  <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines | truncate: 160 }}">
+  <meta property="og:title" content="A Practical CloudTrail Observability Strategy">
+  <meta property="og:description" content="Test site for Jekyll layout">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:url" content="http://localhost:4000/blogs/cloudtrail-observability-strategy.html">
   <meta name="twitter:card" content="summary_large_image">
 
-  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="canonical" href="http://localhost:4000/blogs/cloudtrail-observability-strategy.html">
 
   <!-- ===== Base Styles (inline for simplicity; move to /assets/css/site.css if you prefer) ===== -->
   <style>
@@ -151,33 +151,15 @@
 <body>
   <a class="skip-link" href="#content">Skip to content</a>
 
-  <!-- ===== Header / Navigation ===== -->
-  {%- unless page.hide_header or site.hide_header -%}
-  <header class="site-header">
+  <!-- ===== Header / Navigation ===== --><header class="site-header">
     <div class="container">
       <div id="navWrap" class="nav-wrap">
-        <a href="{{ '/' | relative_url }}" class="brand">
+        <a href="/" class="brand">
           <span class="logo" aria-hidden="true"></span>
-          <span>{{ site.title | default: "Site Title" }}</span>
+          <span>Subhamay Bhattacharyya</span>
         </a>
 
-        <nav class="primary" aria-label="Primary">
-          {%- comment -%}
-            Prefer a custom nav via _data/nav.yml (items: [ {title, url} ])
-          {%- endcomment -%}
-          {%- if site.data.nav and site.data.nav.items -%}
-            {%- for item in site.data.nav.items -%}
-              {%- assign is_external = item.url | slice: 0, 4 -%}
-              <a class="nav-link{% if page.url == item.url %} active{% endif %}" href="{% if is_external == 'http' %}{{ item.url }}{% else %}{{ item.url | relative_url }}{% endif %}"{% if is_external == 'http' %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ item.title }}</a>
-            {%- endfor -%}
-          {%- else -%}
-            <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
-            {%- assign docs = site.pages | where_exp:'p','p.url != "/"' | sort: 'nav_order' -%}
-            {%- for p in docs limit:5 -%}
-              <a class="nav-link{% if page.url == p.url %} active{% endif %}" href="{{ p.url | relative_url }}">{{ p.title | default: p.name }}</a>
-            {%- endfor -%}
-          {%- endif -%}
-        </nav>
+        <nav class="primary" aria-label="Primary"><a class="nav-link" href="/">Home</a><a class="nav-link" href="/blog">Blog</a><a class="nav-link" href="https://github.com/subhamay-bhattacharyya" target="_blank" rel="noopener noreferrer">GitHub</a></nav>
 
         <button id="menuToggle" class="menu-btn" aria-expanded="false" aria-controls="drawer">
           ☰ Menu
@@ -185,53 +167,77 @@
       </div>
 
       <!-- Mobile drawer -->
-      <div id="drawer" class="drawer container" role="region" aria-label="Mobile Navigation">
-        {%- if site.data.nav and site.data.nav.items -%}
-          {%- for item in site.data.nav.items -%}
-            {%- assign is_external = item.url | slice: 0, 4 -%}
-            <a class="nav-link{% if page.url == item.url %} active{% endif %}" href="{% if is_external == 'http' %}{{ item.url }}{% else %}{{ item.url | relative_url }}{% endif %}"{% if is_external == 'http' %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ item.title }}</a>
-          {%- endfor -%}
-        {%- else -%}
-          <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
-          {%- for p in docs limit:8 -%}
-            <a class="nav-link{% if page.url == p.url %} active{% endif %}" href="{{ p.url | relative_url }}">{{ p.title | default: p.name }}</a>
-          {%- endfor -%}
-        {%- endif -%}
-      </div>
+      <div id="drawer" class="drawer container" role="region" aria-label="Mobile Navigation"><a class="nav-link" href="/">Home</a><a class="nav-link" href="/blog">Blog</a><a class="nav-link" href="https://github.com/subhamay-bhattacharyya" target="_blank" rel="noopener noreferrer">GitHub</a></div>
     </div>
-  </header>
-  {%- endunless -%}
-
-  <!-- ===== Hero (optional subtitle from page.front-matter) ===== -->
-  {%- unless page.hide_hero or site.hide_hero -%}
-  <section class="hero">
-    <div class="container">
-      <h1 style="margin:.2rem 0 0">{{ page.title | default: site.title }}</h1>
-      {%- if page.subtitle or site.description -%}
-      <p style="margin:.5rem 0 0; color:var(--muted)">{{ page.subtitle | default: site.description }}</p>
-      {%- endif -%}
-    </div>
-  </section>
-  {%- endunless -%}
-
-  <!-- ===== Main Grid ===== -->
+  </header><!-- ===== Hero (optional subtitle from page.front-matter) ===== --><!-- ===== Main Grid ===== -->
   <div class="container">
     <div class="grid">
       <aside class="sidebar" aria-label="Blog posts">
         <h2>Blog Posts</h2>
-        <nav>
-          {%- assign blog_pages = site.pages | where_exp: 'p', 'p.url contains "/blogs/"' | sort: 'title' -%}
-          {%- for post in blog_pages -%}
-            <a class="side-link{% if page.url == post.url %} active{% endif %}" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-          {%- else -%}
-            <p style="color:var(--muted);font-size:.875rem">No posts yet.</p>
-          {%- endfor -%}
-        </nav>
+        <nav><a class="side-link active" href="/blogs/cloudtrail-observability-strategy.html">A Practical CloudTrail Observability Strategy</a><a class="side-link" href="/blogs/building-multi-account-aws-landing-zone.html">Building a Multi-Account AWS Landing Zone from Scratch</a><a class="side-link" href="/blogs/iam-identity-center-permission-sets.html">Designing IAM Identity Center Permission Sets That Scale</a><a class="side-link" href="/blogs/github-actions-for-infrastructure-automation.html">GitHub Actions for Infrastructure Automation at Scale</a><a class="side-link" href="/blogs/how-subhamay-built-aws-architecture-pattern.html">How Subhamay Built the AWS Architecture Pattern Everyone Now Uses</a><a class="side-link" href="/blogs/terraform-module-versioning-conventions.html">Terraform Module Versioning Conventions That Actually Work</a></nav>
       </aside>
 
       <main id="content" class="content">
         <article class="card markdown-body">
-          {{ content }}
+          <h2 id="a-practical-cloudtrail-observability-strategy">A Practical CloudTrail Observability Strategy</h2>
+
+<p>CloudTrail is enabled by default in most accounts, then ignored. Logs pile up in S3 and nobody looks at them until an incident forces it. A real observability strategy means acting on CloudTrail data continuously, not retroactively.</p>
+
+<h3 id="centralize-first">Centralize First</h3>
+
+<p>All CloudTrail logs should flow to a dedicated log archive account — an S3 bucket that workload accounts can write to but never delete from. Use S3 Object Lock in compliance mode with a 7-year retention period. This makes logs tamper-proof even if a workload account is compromised.</p>
+
+<div class="language-hcl highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">resource</span> <span class="s2">"aws_s3_bucket_object_lock_configuration"</span> <span class="s2">"trail"</span> <span class="p">{</span>
+  <span class="nx">bucket</span> <span class="o">=</span> <span class="nx">aws_s3_bucket</span><span class="p">.</span><span class="nx">log_archive</span><span class="p">.</span><span class="nx">id</span>
+
+  <span class="nx">rule</span> <span class="p">{</span>
+    <span class="nx">default_retention</span> <span class="p">{</span>
+      <span class="nx">mode</span> <span class="o">=</span> <span class="s2">"COMPLIANCE"</span>
+      <span class="nx">years</span> <span class="o">=</span> <span class="mi">7</span>
+    <span class="p">}</span>
+  <span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<h3 id="encrypt-with-a-customer-managed-key">Encrypt with a Customer-Managed Key</h3>
+
+<p>The default CloudTrail encryption is fine for compliance checkboxes. For real security, use a CMK in the security account:</p>
+
+<ul>
+  <li>Key policy allows CloudTrail to encrypt</li>
+  <li>Key policy allows log archive S3 to decrypt for reading</li>
+  <li>Workload account roles cannot decrypt — they can write logs but not read them</li>
+</ul>
+
+<h3 id="what-to-alert-on">What to Alert On</h3>
+
+<p>Don’t alert on everything — alert fatigue is real. Start with high-signal events:</p>
+
+<ul>
+  <li>Root account login (any account)</li>
+  <li>Changes to SCPs or OU structure</li>
+  <li>IAM role creation with <code class="language-plaintext highlighter-rouge">*</code> actions</li>
+  <li>Security group rules opening <code class="language-plaintext highlighter-rouge">0.0.0.0/0</code> on port 22 or 3389</li>
+  <li>CloudTrail being stopped or deleted</li>
+</ul>
+
+<p>Route these through EventBridge → SNS → PagerDuty. Everything else goes to S3 for later analysis.</p>
+
+<h3 id="athena-for-ad-hoc-queries">Athena for Ad-Hoc Queries</h3>
+
+<p>When you need to investigate an incident, Athena over the centralized S3 bucket is your fastest path:</p>
+
+<div class="language-sql highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">SELECT</span> <span class="n">eventtime</span><span class="p">,</span> <span class="n">useridentity</span><span class="p">.</span><span class="n">arn</span><span class="p">,</span> <span class="n">eventname</span><span class="p">,</span> <span class="n">sourceipaddress</span>
+<span class="k">FROM</span> <span class="n">cloudtrail_logs</span>
+<span class="k">WHERE</span> <span class="n">eventtime</span> <span class="o">&gt;</span> <span class="s1">'2029-01-01'</span>
+  <span class="k">AND</span> <span class="n">errorcode</span> <span class="k">IS</span> <span class="k">NULL</span>
+  <span class="k">AND</span> <span class="n">eventname</span> <span class="k">IN</span> <span class="p">(</span><span class="s1">'AssumeRole'</span><span class="p">,</span> <span class="s1">'GetSecretValue'</span><span class="p">,</span> <span class="s1">'DeleteBucket'</span><span class="p">)</span>
+<span class="k">ORDER</span> <span class="k">BY</span> <span class="n">eventtime</span> <span class="k">DESC</span>
+<span class="k">LIMIT</span> <span class="mi">100</span><span class="p">;</span>
+</code></pre></div></div>
+
+<p>Partition the table by account ID and date so queries stay cheap even across years of logs.</p>
+
         </article>
       </main>
     </div>
@@ -239,7 +245,7 @@
 
   <footer class="site-footer">
     <div class="container">
-      <div>© {{ site.time | date: "%Y" }} {{ site.author | default: site.title }} · Built with Jekyll · Last updated {{ site.time | date: "%b %d, %Y" }}</div>
+      <div>© 2026 Subhamay · Built with Jekyll · Last updated Jul 29, 2026</div>
     </div>
   </footer>
 

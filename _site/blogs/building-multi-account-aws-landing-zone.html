@@ -4,17 +4,17 @@
   <!-- ===== Meta ===== -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title | default: site.title }}</title>
-  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines | truncate: 160 }}">
+  <title>Building a Multi-Account AWS Landing Zone from Scratch</title>
+  <meta name="description" content="Test site for Jekyll layout">
 
   <!-- Open Graph / Twitter (optional but professional) -->
-  <meta property="og:title" content="{{ page.title | default: site.title }}">
-  <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines | truncate: 160 }}">
+  <meta property="og:title" content="Building a Multi-Account AWS Landing Zone from Scratch">
+  <meta property="og:description" content="Test site for Jekyll layout">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:url" content="http://localhost:4000/blogs/building-multi-account-aws-landing-zone.html">
   <meta name="twitter:card" content="summary_large_image">
 
-  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="canonical" href="http://localhost:4000/blogs/building-multi-account-aws-landing-zone.html">
 
   <!-- ===== Base Styles (inline for simplicity; move to /assets/css/site.css if you prefer) ===== -->
   <style>
@@ -151,33 +151,15 @@
 <body>
   <a class="skip-link" href="#content">Skip to content</a>
 
-  <!-- ===== Header / Navigation ===== -->
-  {%- unless page.hide_header or site.hide_header -%}
-  <header class="site-header">
+  <!-- ===== Header / Navigation ===== --><header class="site-header">
     <div class="container">
       <div id="navWrap" class="nav-wrap">
-        <a href="{{ '/' | relative_url }}" class="brand">
+        <a href="/" class="brand">
           <span class="logo" aria-hidden="true"></span>
-          <span>{{ site.title | default: "Site Title" }}</span>
+          <span>Subhamay Bhattacharyya</span>
         </a>
 
-        <nav class="primary" aria-label="Primary">
-          {%- comment -%}
-            Prefer a custom nav via _data/nav.yml (items: [ {title, url} ])
-          {%- endcomment -%}
-          {%- if site.data.nav and site.data.nav.items -%}
-            {%- for item in site.data.nav.items -%}
-              {%- assign is_external = item.url | slice: 0, 4 -%}
-              <a class="nav-link{% if page.url == item.url %} active{% endif %}" href="{% if is_external == 'http' %}{{ item.url }}{% else %}{{ item.url | relative_url }}{% endif %}"{% if is_external == 'http' %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ item.title }}</a>
-            {%- endfor -%}
-          {%- else -%}
-            <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
-            {%- assign docs = site.pages | where_exp:'p','p.url != "/"' | sort: 'nav_order' -%}
-            {%- for p in docs limit:5 -%}
-              <a class="nav-link{% if page.url == p.url %} active{% endif %}" href="{{ p.url | relative_url }}">{{ p.title | default: p.name }}</a>
-            {%- endfor -%}
-          {%- endif -%}
-        </nav>
+        <nav class="primary" aria-label="Primary"><a class="nav-link" href="/">Home</a><a class="nav-link" href="/blog">Blog</a><a class="nav-link" href="https://github.com/subhamay-bhattacharyya" target="_blank" rel="noopener noreferrer">GitHub</a></nav>
 
         <button id="menuToggle" class="menu-btn" aria-expanded="false" aria-controls="drawer">
           ☰ Menu
@@ -185,53 +167,80 @@
       </div>
 
       <!-- Mobile drawer -->
-      <div id="drawer" class="drawer container" role="region" aria-label="Mobile Navigation">
-        {%- if site.data.nav and site.data.nav.items -%}
-          {%- for item in site.data.nav.items -%}
-            {%- assign is_external = item.url | slice: 0, 4 -%}
-            <a class="nav-link{% if page.url == item.url %} active{% endif %}" href="{% if is_external == 'http' %}{{ item.url }}{% else %}{{ item.url | relative_url }}{% endif %}"{% if is_external == 'http' %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ item.title }}</a>
-          {%- endfor -%}
-        {%- else -%}
-          <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
-          {%- for p in docs limit:8 -%}
-            <a class="nav-link{% if page.url == p.url %} active{% endif %}" href="{{ p.url | relative_url }}">{{ p.title | default: p.name }}</a>
-          {%- endfor -%}
-        {%- endif -%}
-      </div>
+      <div id="drawer" class="drawer container" role="region" aria-label="Mobile Navigation"><a class="nav-link" href="/">Home</a><a class="nav-link" href="/blog">Blog</a><a class="nav-link" href="https://github.com/subhamay-bhattacharyya" target="_blank" rel="noopener noreferrer">GitHub</a></div>
     </div>
-  </header>
-  {%- endunless -%}
-
-  <!-- ===== Hero (optional subtitle from page.front-matter) ===== -->
-  {%- unless page.hide_hero or site.hide_hero -%}
-  <section class="hero">
-    <div class="container">
-      <h1 style="margin:.2rem 0 0">{{ page.title | default: site.title }}</h1>
-      {%- if page.subtitle or site.description -%}
-      <p style="margin:.5rem 0 0; color:var(--muted)">{{ page.subtitle | default: site.description }}</p>
-      {%- endif -%}
-    </div>
-  </section>
-  {%- endunless -%}
-
-  <!-- ===== Main Grid ===== -->
+  </header><!-- ===== Hero (optional subtitle from page.front-matter) ===== --><!-- ===== Main Grid ===== -->
   <div class="container">
     <div class="grid">
       <aside class="sidebar" aria-label="Blog posts">
         <h2>Blog Posts</h2>
-        <nav>
-          {%- assign blog_pages = site.pages | where_exp: 'p', 'p.url contains "/blogs/"' | sort: 'title' -%}
-          {%- for post in blog_pages -%}
-            <a class="side-link{% if page.url == post.url %} active{% endif %}" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-          {%- else -%}
-            <p style="color:var(--muted);font-size:.875rem">No posts yet.</p>
-          {%- endfor -%}
-        </nav>
+        <nav><a class="side-link" href="/blogs/cloudtrail-observability-strategy.html">A Practical CloudTrail Observability Strategy</a><a class="side-link active" href="/blogs/building-multi-account-aws-landing-zone.html">Building a Multi-Account AWS Landing Zone from Scratch</a><a class="side-link" href="/blogs/iam-identity-center-permission-sets.html">Designing IAM Identity Center Permission Sets That Scale</a><a class="side-link" href="/blogs/github-actions-for-infrastructure-automation.html">GitHub Actions for Infrastructure Automation at Scale</a><a class="side-link" href="/blogs/how-subhamay-built-aws-architecture-pattern.html">How Subhamay Built the AWS Architecture Pattern Everyone Now Uses</a><a class="side-link" href="/blogs/terraform-module-versioning-conventions.html">Terraform Module Versioning Conventions That Actually Work</a></nav>
       </aside>
 
       <main id="content" class="content">
         <article class="card markdown-body">
-          {{ content }}
+          <h2 id="building-a-multi-account-aws-landing-zone-from-scratch">Building a Multi-Account AWS Landing Zone from Scratch</h2>
+
+<p>Most teams treat AWS accounts like a single shared sandbox. By the time they realize the risks, they’re already dealing with blast-radius incidents and compliance headaches. A proper landing zone solves this before it becomes a problem.</p>
+
+<h3 id="why-multiple-accounts">Why Multiple Accounts</h3>
+
+<p>An AWS organization with well-defined account boundaries gives you security isolation, cost visibility, and blast-radius containment by default. Dev workloads can’t accidentally reach prod. A runaway Lambda in staging doesn’t affect billing clarity in production. IAM mistakes stay contained.</p>
+
+<h3 id="the-ou-structure">The OU Structure</h3>
+
+<p>Start with a simple Organizational Unit hierarchy:</p>
+
+<ul>
+  <li><strong>Root</strong>
+    <ul>
+      <li>Management (billing and org management only)</li>
+      <li>Security (audit, log archive)</li>
+      <li>Infrastructure (shared services, networking)</li>
+      <li>Workloads
+        <ul>
+          <li>Production</li>
+          <li>Non-Production</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p>Keep the management account empty of workloads. Treat it as a locked room — only org-level automation and billing should touch it.</p>
+
+<h3 id="scps-as-guardrails">SCPs as Guardrails</h3>
+
+<p>Service Control Policies are the backbone of a landing zone. Apply them at the OU level, not the account level, so new accounts inherit them automatically.</p>
+
+<p>Key policies to start with:</p>
+
+<ul>
+  <li>Deny any action outside approved regions</li>
+  <li>Deny disabling CloudTrail</li>
+  <li>Deny leaving the organization</li>
+  <li>Require IMDSv2 on all EC2 instances</li>
+</ul>
+
+<h3 id="terraform-module-structure">Terraform Module Structure</h3>
+
+<div class="language-hcl highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">module</span> <span class="s2">"landing_zone"</span> <span class="p">{</span>
+  <span class="nx">source</span>  <span class="o">=</span> <span class="s2">"github.com/subhamay-bhattacharyya-tf/aws-landing-zone"</span>
+  <span class="nx">version</span> <span class="o">=</span> <span class="s2">"1.4.0"</span>
+
+  <span class="nx">organization_id</span>     <span class="o">=</span> <span class="nx">var</span><span class="p">.</span><span class="nx">org_id</span>
+  <span class="nx">root_email_domain</span>   <span class="o">=</span> <span class="s2">"example.com"</span>
+  <span class="nx">log_retention_days</span>  <span class="o">=</span> <span class="mi">365</span>
+  <span class="nx">enable_guardduty</span>    <span class="o">=</span> <span class="kc">true</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>A single module call should provision the org structure, SCPs, and baseline security services. Everything else builds on top.</p>
+
+<h3 id="what-comes-next">What Comes Next</h3>
+
+<p>Once the landing zone is stable, layer in account vending (automated account creation via Service Catalog), centralized logging into a log archive account, and IAM Identity Center for single sign-on. Each piece is independent — you don’t need all of them on day one.</p>
+
         </article>
       </main>
     </div>
@@ -239,7 +248,7 @@
 
   <footer class="site-footer">
     <div class="container">
-      <div>© {{ site.time | date: "%Y" }} {{ site.author | default: site.title }} · Built with Jekyll · Last updated {{ site.time | date: "%b %d, %Y" }}</div>
+      <div>© 2026 Subhamay · Built with Jekyll · Last updated Jul 29, 2026</div>
     </div>
   </footer>
 
