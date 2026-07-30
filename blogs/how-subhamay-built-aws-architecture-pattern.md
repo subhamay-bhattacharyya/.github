@@ -1,3 +1,9 @@
+---
+layout: default
+title: How Subhamay Built the AWS Architecture Pattern Everyone Now Uses
+hide_hero: true
+---
+
 ### How Subhamay Built the AWS Architecture Pattern Everyone Now Uses
 
 The engineer who turned cloud governance into infrastructure-as-code that scales

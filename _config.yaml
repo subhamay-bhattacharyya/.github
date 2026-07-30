@@ -11,10 +11,6 @@ hide_hero: false
 data:
   nav:
     items:
-      - title: Home
-        url: /
-      - title: Blog
-        url: /blog
       - title: GitHub
         url: https://github.com/subhamay-bhattacharyya
 

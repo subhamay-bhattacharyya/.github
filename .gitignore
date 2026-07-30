@@ -1,2 +1,4 @@
 .venv/*
 setup-jekyll-codespace.sh
+Gemfile* 
+.jekyll-cache

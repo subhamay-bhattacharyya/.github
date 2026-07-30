@@ -82,20 +82,21 @@
       .nav-wrap.open nav.primary{display:none}
       .nav-wrap.open + .drawer{display:block}
     }
-    @media (min-width: 761px){ .menu-btn{display:none} }
+    .menu-btn{display:none}
 
     /* ===== Layout ===== */
     .hero{padding:2rem 0 1rem; border-bottom:1px solid var(--border); background:linear-gradient(180deg, color-mix(in oklab,var(--card) 50%, transparent), transparent 90%)}
     .grid{display:grid; grid-template-columns: 1fr; gap:1.25rem; padding:1.5rem 0}
-    @media (min-width: 1000px){ .grid{grid-template-columns: 220px 1fr} }
+    @media (min-width: 1000px){ .grid{grid-template-columns: 240px 1fr} }
 
     aside.sidebar{
       position:sticky; top:64px; height:fit-content; align-self:start;
       background:var(--card); border:1px solid var(--border); border-radius:.6rem; padding:1rem
     }
     aside.sidebar h2{margin:.2rem 0 .6rem; font-size:.95rem; color:var(--muted)}
-    .side-link{display:block;padding:.3rem .4rem;border-radius:.4rem}
+    .side-link{display:block;padding:.3rem .4rem;border-radius:.4rem;font-size:.9rem}
     .side-link:hover{background:var(--border)}
+    .side-link.active{background:var(--border);font-weight:600}
 
     main.content{
       background:var(--bg);
@@ -216,13 +217,17 @@
   <!-- ===== Main Grid ===== -->
   <div class="container">
     <div class="grid">
-      <!-- <aside class="sidebar" aria-label="On this page">
-        <h2>On this page</h2>
-        <nav class="toc">
-          <!-- Basic in-page TOC (h2 only) -->
-          <div id="toc"></div>
+      <aside class="sidebar" aria-label="Blog posts">
+        <h2>Blog Posts</h2>
+        <nav>
+          {%- assign blog_pages = site.pages | where_exp: 'p', 'p.url contains "/blogs/"' | sort: 'title' -%}
+          {%- for post in blog_pages -%}
+            <a class="side-link{% if page.url == post.url %} active{% endif %}" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          {%- else -%}
+            <p style="color:var(--muted);font-size:.875rem">No posts yet.</p>
+          {%- endfor -%}
         </nav>
-      </aside> -->
+      </aside>
 
       <main id="content" class="content">
         <article class="card markdown-body">
