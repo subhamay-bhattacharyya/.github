@@ -3,7 +3,7 @@
 ### Hi there 👋, I am Subhamay Bhattacharyya, 6x AWS, 1x Azure, 2x GitHub and 1x HashiCorp Terraform, 2 x Snowflake and 1 x Databricks Certified Data Engineer and a AWS Cloud Enthusiast
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/142895397?v=4" alt="Profile Picture" width="200" style="border: 3px solid #8bbdd1; border-radius: 12px;" />
+  <img src="https://avatars.githubusercontent.com/u/142895397?v=4" alt="Profile Picture" width="200" />
 </div>
 
 I'm a Senior Manager & Cloud Data Engineer with a strong focus on **multi-cloud architecture, DevOps automation, and data platforms**. I build **production-grade cloud systems** across **AWS, Azure, and GCP** using **Terraform, GitHub Actions, Ansible, and serverless services**, with a deep emphasis on **security, observability, and cost-efficient design**.
@@ -369,11 +369,5 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 ---
 
-## 📝 Blog
-
-Visit my **[blog](https://subhamay-bhattacharyya.github.io/.github)** for articles on AWS architecture, Terraform, GitHub Actions, IAM, and cloud observability.
-
----
-
-*Last generated: 2026-07-29 22:34:18 EST*  
+*Last generated: 2026-07-29 22:56:09 EST*  
 *Total repositories: 141*
