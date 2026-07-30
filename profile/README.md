@@ -1,6 +1,6 @@
 # Subhamay Bhattacharyya
 
-### Hi there 👋, I am Subhamay Bhattacharyya, 6x AWS, 1x Azure, 2x GitHub and 1x HashiCorp Terraform, 2 x Snowflake and 1 x Databricks Certified Data Engineer and a AWS Cloud Enthusiast
+### Hi there 👋, I am Subhamay Bhattacharyya, 7x AWS, 1x Azure, 2x GitHub and 1x HashiCorp Terraform, 4 x Snowflake and 1 x Databricks Certified Data Engineer and a AWS Cloud Enthusiast
 
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/142895397?v=4" alt="Profile Picture" width="200" />
@@ -48,39 +48,98 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 ## 🏆 Professional Certificates
 
-<div align="center">
+<details open>
+<summary><h3 style="display:inline;">AWS Certifications (10)</h3></summary>
+<table style="width:100%; border-collapse:collapse; margin:8px 0 16px 0;">
+  <tr>
+    <td style="text-align:center; padding:10px;"><img src="../badges/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="110" /><br /><sub>Valid till: Apr 18, 2029</sub></td>
+    <td style="text-align:center; padding:10px;"><img src="../badges/aws-certified-ai-practitioner.png" alt="AWS Certified AI Practitioner" width="110" /><br /><sub>Valid till: Jun 14, 2028</sub></td>
+    <td style="text-align:center; padding:10px;"><img src="../badges/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect Associate" width="110" /><br /><sub>Valid till: May 31, 2028</sub></td>
+    <td style="text-align:center; padding:10px;"><img src="../badges/aws-certified-developer-associate.png" alt="AWS Certified Developer Associate" width="110" /><br /><sub>Valid till: Aug 16, 2028</sub></td>
+    <td style="text-align:center; padding:10px;"><img src="../badges/aws-gen-ai-pro.png" alt="AWS Generative AI Engineer Professional" width="110" style="filter: blur(3px);" /><br /><sub>Preparing</sub></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; padding:10px;"><img src="../badges/aws-certified-data-engineer-associate.png" alt="AWS Certified Data Engineer Associate" width="110" /><br /><sub>Valid till: Dec 20, 2027</sub></td>
+    <td style="text-align:center; padding:10px;"><img src="../badges/aws-certified-cloudops-engineer-associate.png" alt="AWS Certified CloudOps Engineer Associate" width="110" /><br /><sub>Valid till: Apr 18, 2029</sub></td>
+    <td style="text-align:center; padding:10px;"><img src="../badges/aws-certified-security-specialty.png" alt="AWS Certified Security Specialty" width="110" /><br /><sub>Valid till: Jul 25, 2029</sub></td>
+    <td style="text-align:center; padding:10px;"><img src="../badges/aws-ml-eng-associate.png" alt="AWS Machine Learning Engineer Associate" width="110" style="filter: blur(3px);" /><br /><sub>Preparing</sub></td>
+    <td style="text-align:center; padding:10px;"><img src="../badges/aws-sa-pro.png" alt="AWS Solutions Architect Professional" width="110" style="filter: blur(3px);" /><br /><sub>Preparing</sub></td>
+  </tr>
+</table>
+</details>
 
-[<img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="110" height="110">](https://www.credly.com/earner/earned/badge/6ac83ea2-cdd0-452d-ba10-c6632de1204b)
-[<img src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="110" height="110">](https://www.credly.com/earner/earned/badge/0e81af65-63fa-4626-a9f2-c96d738e8d15)
-[<img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="110" height="110">](https://www.credly.com/earner/earned/badge/60276fbf-e64e-4344-963f-b2be80cd7416)
-[<img src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="110" height="110">](https://www.credly.com/earner/earned/badge/60276fbf-e64e-4344-963f-b2be80cd7416)
+<details open>
+<summary><h3 style="display:inline;">Other Cloud Platform Certifications (3)</h3></summary>
+<table style="width:auto; border-collapse:collapse; margin:8px 0 16px 0;">
+  <tr>
+    <td style="text-align:center; padding:10px;"><img src="../badges/associate-data-practitioner-certification.png" alt="Associate Data Practitioner Certification" width="110" /><br /><sub>Valid till: Dec 20, 2028</sub></td>
+    <td style="text-align:center; padding:10px;"><img src="../badges/cloud-digital-leader-certification.png" alt="Cloud Digital Leader Certification" width="110" /><br /><sub>Valid till: 2026-07-29</sub></td>
+    <td style="text-align:center; padding:10px;"><img src="../badges/microsoft-certified-azure-data-fundamentals.png" alt="Microsoft Certified Azure Data Fundamentals" width="110" /><br /><sub>Issued: Dec 18, 2021 | No Expiry</sub></td>
+  </tr>
+</table>
+</details>
 
-[<img src="https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" width="110" height="110">](https://www.credly.com/users/subhamay-bhattacharyya.4c48cb98/edit#credly)
-[<img src="https://images.credly.com/size/110x110/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" alt="AWS Certified Data Engineer – Associate" width="110" height="110">](https://www.credly.com/earner/earned/badge/90fa65c0-2b2b-4b72-bcd6-de60ec3af12a9)
-[<img src="https://images.credly.com/size/110x110/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob" alt="AWS Certified CloudOps Engineer – Associate" width="110" height="110">](https://www.credly.com/badges/60924b03-ef2d-4250-b9bb-2dc99e4fab5c/public_url)
-[<img src="https://images.credly.com/size/110x110/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob" alt="HashiCorp Certified: Terraform Associate (004)" width="110" height="110">](https://www.credly.com/badges/f4ed68ad-d145-4b0c-ab85-277d549a9a9b/public_url)
+<details open>
+<summary><h3 style="display:inline;">CI/CD Certifications (3)</h3></summary>
+<table style="width:auto; border-collapse:collapse; margin:8px 0 16px 0;">
+  <tr>
+    <td style="text-align:center; padding:10px;"><img src="../badges/github-foundations.png" alt="GitHub Foundations" width="110" /><br /><sub>Valid till: May 28, 2028</sub></td>
+    <td style="text-align:center; padding:10px;"><img src="../badges/github-actions.png" alt="GitHub Actions" width="110" /><br /><sub>Valid till: Jun 28, 2028</sub></td>
+    <td style="text-align:center; padding:10px;"><img src="../badges/hashicorp-certified-terraform-associate-004.png" alt="HashiCorp Certified Terraform Associate 004" width="110" /><br /><sub>Valid till: Apr 1, 2028</sub></td>
+  </tr>
+</table>
+</details>
 
-[<img src="https://images.credly.com/size/110x110/images/3e3f6d8b-b37e-4a3d-93d0-6f2bafa5f03c/blob" alt="Associate Data Practitioner Certification" width="110" height="110">](https://www.credly.com/users/subhamay-bhattacharyya.4c48cb98/edit#credly)
-[<img src="https://images.credly.com/size/110x110/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" alt="Cloud Digital Leader Certification" width="110" height="110">](https://www.credly.com/earner/earned/badge/fcb7b9c4-4b5c-45b4-901a-c1b268caebb1)
-[<img src="https://images.credly.com/size/110x110/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Microsoft Certified: Azure Data Fundamentals" width="110" height="110">](https://www.credly.com/earner/earned/badge/3c74bc0a-3abc-40e3-bba7-16af5c1c52dd)
+<details open>
+<summary><h3 style="display:inline;">Atlassian Certifications (5)</h3></summary>
+<table style="width:100%; border-collapse:collapse; margin:8px 0 16px 0;">
+  <tr>
+    <td style="text-align:center; padding:10px;"><img src="../badges/atlassian-cloud-founadtions.png" alt="Atlassian Cloud Foundations" width="110" /><br /><sub>Valid till: 2028-10-21</sub></td>
+    <td style="text-align:center; padding:10px;"><img src="../badges/atlassian-board-configuration.png" alt="Atlassian Board Configuration" width="110" /><br /><sub>Valid till: 2028-10-16</sub></td>
+    <td style="text-align:center; padding:10px;"><img src="../badges/atlassian-jira-essentials.png" alt="Atlassian Jira Essentials" width="110" /><br /><sub>Valid till: 2028-09-26</sub></td>
+    <td style="text-align:center; padding:10px;"><img src="../badges/atlassian-rovo-fundamentals.png" alt="Atlassian Rovo Fundamentals" width="110" /><br /><sub>Valid till: 2027-07-24</sub></td>
+    <td style="text-align:center; padding:10px;"><img src="../badges/atlassian-agile-devops-specialist.png" alt="Atlassian Agile DevOps Specialist" width="110" /><br /><sub>Valid till: 2027-07-24</sub></td>
+  </tr>
+</table>
+</details>
 
+<details open>
+<summary><h3 style="display:inline;">Data and Analytics Certifications (5)</h3></summary>
+<table style="width:100%; border-collapse:collapse; margin:8px 0 16px 0;">
+  <tr>
+    <td style="text-align:center; padding:10px;"><img src="../badges/4d625b8b-a733-4bf6-b6e6-e9415187f9f3.png" alt="SnowPro Associate Platform" width="110" /><br /><sub>Valid till: March 13, 2028</sub></td>
+    <td style="text-align:center; padding:10px;"><img src="../badges/823f38b6-4e66-49e0-bb07-ff8e27e111fb.png" alt="SnowPro Core" width="110" /><br /><sub>Valid till: June 13, 2028</sub></td>
+    <td style="text-align:center; padding:10px;"><img src="../badges/c55e6c6d-3562-4d8e-85cd-8e399e798672.png" alt="SnowPro Advanced Data Engineer" width="110" /><br /><sub>Valid till: June 13, 2028</sub></td>
+    <td style="text-align:center; padding:10px;"><img src="../badges/738591c3-6c4d-4876-8c38-65f84bfe2102.png" alt="SnowPro Advanced Architect" width="110" /><br /><sub>Valid till: June 13, 2028</sub></td>
+    <td style="text-align:center; padding:10px;"><img src="../badges/5e842a18-f814-4521-85b7-a30bdd715d10.png" alt="Databricks Certified Data Engineer Associate" width="110" /><br /><sub>Valid till: January 31, 2028</sub></td>
+  </tr>
+</table>
+</details>
 
-[<img src="https://cdn-tp2.mozu.com/16951-52804/cms/52804/files/c5e759d0-8262-47be-88b6-413e3c35ebfb?max=110&_mzcb=_1742484011671" alt="SnowPro Associate: Platform Certification" width="110" height="110">](https://achieve.snowflake.com/06b5046f-e964-4124-b825-fb13f9256fd8#acc.MnUcbPwq)
-[<img src="https://cdn-tp2.mozu.com/16951-52804/cms/52804/files/056c42d6-8856-46e6-9fe3-53b2e12a95e7?max=110&_mzcb=_1742484011671" alt="SnowPro Core" width="110" height="110">](https://achieve.snowflake.com/7eedb483-a6be-4e06-8cde-f37295200ac2#acc.xCAbwY52)
-[<img src="https://cdn-tp2.mozu.com/16951-52804/cms/52804/files/056c42d6-8856-46e6-9fe3-53b2e12a95e7?max=110&_mzcb=_1742484011671" alt="SnowPro Advanced Data Engineer" width="110" height="110">](https://achieve.snowflake.com/7eedb483-a6be-4e06-8cde-f37295200ac2#acc.xCAbwY52)
-[<img src="https://www.databricks.com/sites/default/files/2025-10/associate-badge-de.png?v=1761149691" alt="Databricks Certified Data Engineer Associate" width="110" height="110">](https://credentials.databricks.com/15c8dc6a-6245-4af8-86d6-1584a7fdfd43#acc.ocj68f3F)
+<details open>
+<summary><h3 style="display:inline;">Workflow Engineering Certifications (2)</h3></summary>
+<table style="width:100%; border-collapse:collapse; margin:8px 0 16px 0;">
+  <tr>
+    <td style="text-align:center; padding:10px;"><img src="../badges/astronomer-certification-for-apache-airflow-3-funda.png" alt="Astronomer Certification for Apache Airflow 3 Fundamentals" width="110" /><br /><sub>Issued: Nov 10, 2025 | No Expiry</sub></td>
+    <td style="text-align:center; padding:10px;"><img src="../badges/astronomer-certification-dag-authoring-for-apache-a.png" alt="Astronomer Certification DAG Authoring for Apache Airflow 3" width="110" /><br /><sub>Issued: Nov 16, 2025 | No Expiry</sub></td>
+    <td style="text-align:center; padding:10px;">&nbsp;<br /><sub></sub></td>
+    <td style="text-align:center; padding:10px;">&nbsp;<br /><sub></sub></td>
+    <td style="text-align:center; padding:10px;">&nbsp;<br /><sub></sub></td>
+  </tr>
+</table>
+</details>
 
-[<img src="https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" width="110" height="110">](https://www.credly.com/earner/earned/badge/d5dccf85-eb23-487e-87de-e5531c2d95a1)
-[<img src="https://images.credly.com/size/110x110/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" alt="GitHub Actions" width="110" height="110">](https://www.credly.com/earner/earned/badge/e8d4889f-f351-4439-8775-1910cc058cf7)
-[<img src="https://images.credly.com/size/110x110/images/b6315b18-8762-40a7-a15b-b97a6dd9c12e/blob" alt="Astronomer Certification for Apache Airflow 3 Fundamentals" width="110" height="110">](https://www.credly.com/earner/earned/badge/224e4704-6268-48e7-a209-e490b136d5d0)
-[<img src="https://images.credly.com/size/110x110/images/6e9570ae-239f-47b9-85ff-0946c3844088/blob" alt="Astronomer Certification DAG Authoring for Apache Airflow 3" width="110" height="110">](https://www.credly.com/earner/earned/badge/aa538171-170d-4f30-8202-d228ee2c2b89)
-
-
-</div>
+---
+ 
+## 📝 Latest Blog Posts & Articles
+ 
+ 
+### 📖 Featured Articles
+- [How I built AWS architecture pattern](https://subhamay-bhattacharyya.github.io/.github/blogs/how-subhamay-built-aws-architecture-pattern)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bsubhamay&show_icons=true&count_private=true&theme=radical)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bsubhamay&show_icons=true&count_private=true&theme=radical) -->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bsubhamay&theme=blueberry)
 

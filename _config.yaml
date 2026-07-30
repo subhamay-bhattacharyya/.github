@@ -1,13 +1,23 @@
-title: "Mermaid Demo Site"
-description: "GitHub Pages with Mermaid"
-markdown: kramdown   # GitHub Pages default Markdown processor
-theme: null          # disable built-in themes so our layout is used
-hide_header: false   # set true to remove top header navigation completely
-hide_hero: true      # set true to remove the large page title band under header
+title: Subhamay Bhattacharyya
+description: Test site for Jekyll layout
+author: Subhamay
 
-# Apply the default layout to all pages
-defaults:
-  - scope:
-      path: ""       # all files in the repo
-    values:
-      layout: "default"
+# Layout settings
+hide_header: false
+hide_hero: false
+# hide_toc: true  # Uncomment to hide TOC globally
+
+# Nav (optional)
+data:
+  nav:
+    items:
+      - title: Home
+        url: /
+      - title: Blog
+        url: /blog
+      - title: GitHub
+        url: https://github.com/subhamay-bhattacharyya
+
+# Build settings
+markdown: kramdown
+theme: minima
