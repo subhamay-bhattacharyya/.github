@@ -2,6 +2,8 @@ title: "Mermaid Demo Site"
 description: "GitHub Pages with Mermaid"
 markdown: kramdown   # GitHub Pages default Markdown processor
 theme: null          # disable built-in themes so our layout is used
+hide_header: false   # set true to remove top header navigation completely
+hide_hero: true      # set true to remove the large page title band under header
 
 # Apply the default layout to all pages
 defaults:
