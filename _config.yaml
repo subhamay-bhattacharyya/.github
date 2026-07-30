@@ -3,8 +3,8 @@ description: Subhamay's personal website and blog
 author: Subhamay
 
 # Layout settings
-hide_header: false
-hide_hero: false
+hide_header: true
+hide_hero: true
 # hide_toc: true  # Uncomment to hide TOC globally
 
 # Nav (optional)
