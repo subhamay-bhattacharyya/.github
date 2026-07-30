@@ -1,0 +1,9 @@
+items:
+  - title: Home
+    url: /
+  - title: Blog
+    url: /blogs/how-subhamay-built-aws-architecture-pattern
+  - title: GitHub Profile
+    url: https://github.com/subhamay-bhattacharyya
+  - title: Subhamay Bhattacharyya
+    url: /profile/

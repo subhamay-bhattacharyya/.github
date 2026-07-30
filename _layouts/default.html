@@ -151,6 +151,7 @@
   <a class="skip-link" href="#content">Skip to content</a>
 
   <!-- ===== Header / Navigation ===== -->
+  {%- unless page.hide_header or site.hide_header -%}
   <header class="site-header">
     <div class="container">
       <div id="navWrap" class="nav-wrap">
@@ -165,7 +166,8 @@
           {%- endcomment -%}
           {%- if site.data.nav and site.data.nav.items -%}
             {%- for item in site.data.nav.items -%}
-              <a class="nav-link{% if page.url == item.url %} active{% endif %}" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+              {%- assign is_external = item.url | slice: 0, 4 -%}
+              <a class="nav-link{% if page.url == item.url %} active{% endif %}" href="{% if is_external == 'http' %}{{ item.url }}{% else %}{{ item.url | relative_url }}{% endif %}"{% if is_external == 'http' %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ item.title }}</a>
             {%- endfor -%}
           {%- else -%}
             <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
@@ -185,7 +187,8 @@
       <div id="drawer" class="drawer container" role="region" aria-label="Mobile Navigation">
         {%- if site.data.nav and site.data.nav.items -%}
           {%- for item in site.data.nav.items -%}
-            <a class="nav-link{% if page.url == item.url %} active{% endif %}" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+            {%- assign is_external = item.url | slice: 0, 4 -%}
+            <a class="nav-link{% if page.url == item.url %} active{% endif %}" href="{% if is_external == 'http' %}{{ item.url }}{% else %}{{ item.url | relative_url }}{% endif %}"{% if is_external == 'http' %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ item.title }}</a>
           {%- endfor -%}
         {%- else -%}
           <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
@@ -196,8 +199,10 @@
       </div>
     </div>
   </header>
+  {%- endunless -%}
 
   <!-- ===== Hero (optional subtitle from page.front-matter) ===== -->
+  {%- unless page.hide_hero or site.hide_hero -%}
   <section class="hero">
     <div class="container">
       <h1 style="margin:.2rem 0 0">{{ page.title | default: site.title }}</h1>
@@ -206,6 +211,7 @@
       {%- endif -%}
     </div>
   </section>
+  {%- endunless -%}
 
   <!-- ===== Main Grid ===== -->
   <div class="container">
