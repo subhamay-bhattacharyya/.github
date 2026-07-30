@@ -1,5 +1,5 @@
 title: Subhamay Bhattacharyya
-description: Test site for Jekyll layout
+description: Subhamay's personal website and blog
 author: Subhamay
 
 # Layout settings
@@ -10,9 +10,7 @@ hide_hero: false
 # Nav (optional)
 data:
   nav:
-    items:
-      - title: GitHub
-        url: https://github.com/subhamay-bhattacharyya
+    items: []
 
 # Build settings
 markdown: kramdown
