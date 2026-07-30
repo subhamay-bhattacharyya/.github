@@ -369,16 +369,5 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 ---
 
-## 📝 Blog Posts
-
-- [How Subhamay Built the AWS Architecture Pattern Everyone Now Uses](https://subhamay-bhattacharyya.github.io/.github/blogs/how-subhamay-built-aws-architecture-pattern/)
-- [Building a Multi-Account AWS Landing Zone from Scratch](https://subhamay-bhattacharyya.github.io/.github/blogs/building-multi-account-aws-landing-zone/)
-- [GitHub Actions for Infrastructure Automation at Scale](https://subhamay-bhattacharyya.github.io/.github/blogs/github-actions-for-infrastructure-automation/)
-- [Designing IAM Identity Center Permission Sets That Scale](https://subhamay-bhattacharyya.github.io/.github/blogs/iam-identity-center-permission-sets/)
-- [A Practical CloudTrail Observability Strategy](https://subhamay-bhattacharyya.github.io/.github/blogs/cloudtrail-observability-strategy/)
-- [Terraform Module Versioning Conventions That Actually Work](https://subhamay-bhattacharyya.github.io/.github/blogs/terraform-module-versioning-conventions/)
-
----
-
-*Last generated: 2026-07-29 21:57:12 EST*  
+*Last generated: 2026-07-29 22:34:18 EST*  
 *Total repositories: 141*
