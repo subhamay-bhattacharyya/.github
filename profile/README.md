@@ -19,7 +19,6 @@ I’m currently developing a **multi-cloud Cloud Resume Challenge platform**, wh
 - **AWS** — S3, CloudFront, Route 53, Lambda, DynamoDB, Kinesis, RDS, VPC, EC2, Athena, API Gateway, Glue, Step Functions, SNS, SQS, EventBridge, CloudWatch, IAM, KMS, Secrets Manager  
 - **GCP** — Cloud Storage, Cloud CDN, Cloud DNS, Workload Identity Federation  
 - **Azure** — Storage Static Website, Azure Front Door, Azure DNS  
-- **Snowflake** — Developing ETL and ELT pipelines using Snowflake 
 
 Everything is provisioned using **Terraform modules**, deployed via **GitHub Actions with OIDC**, and validated with **Ansible-driven configuration management**—mirroring how real-world cloud platforms are built and operated.
 
@@ -375,5 +374,5 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 Visit my **[blog](https://subhamay-bhattacharyya.github.io/.github)** for articles on AWS architecture, Terraform, GitHub Actions, IAM, and cloud observability.
 ---
 
-*Last generated: 2026-07-29 23:21:38 EST*  
+*Last generated: 2026-07-29 23:30:34 EST*  
 *Total repositories: 141*
