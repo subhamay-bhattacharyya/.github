@@ -369,5 +369,10 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 ---
 
-*Last generated: 2026-07-29 22:59:39 EST*  
+## 📝 Blog
+
+Visit my **[blog](https://subhamay-bhattacharyya.github.io/.github)** for articles on AWS architecture, Terraform, GitHub Actions, IAM, and cloud observability.
+---
+
+*Last generated: 2026-07-29 23:21:38 EST*  
 *Total repositories: 141*

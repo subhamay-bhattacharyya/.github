@@ -2,7 +2,7 @@
 hide_hero: true
 ---
 
-# Subhamay Bhattacharyya
+# About me
 
 Senior Manager & Cloud Data Engineer specialising in multi-cloud architecture, DevOps automation, and data platforms. I build production-grade cloud systems across AWS, Azure, and GCP using Terraform, GitHub Actions, and serverless services — with a deep focus on security, observability, and cost-efficient design.
 
