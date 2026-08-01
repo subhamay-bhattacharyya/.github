@@ -6,6 +6,8 @@ Subhamay a Senior Manager & Cloud Data Engineer specialising in multi-cloud arch
 
 Currently building a multi-cloud Cloud Resume Challenge platform and publishing open-source Terraform modules and reusable GitHub Actions workflows that teams can adopt without starting from scratch.
 
-## Featured Blogs
+## DMI - Blogs
 
 - [How Subhamay Built AWS Architecture Pattern](/.github/blogs/how-subhamay-built-aws-architecture-pattern)
+
+- [DMI Week 00 - Internet and Networking Assignemnt](/.github/blogs/dmi-week-00-internet-and-networking-assignment)
