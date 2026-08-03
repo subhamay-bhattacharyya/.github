@@ -11,3 +11,6 @@ Currently building a multi-cloud Cloud Resume Challenge platform and publishing 
 - [How Subhamay Built AWS Architecture Pattern](/.github/blogs/how-subhamay-built-aws-architecture-pattern)
 
 - [DMI Week 00 - Internet and Networking Assignemnt](/.github/blogs/dmi-week-00-internet-and-networking-assignment)
+
+- [DMI Week 01 - Success Mindset](/.github/blogs/dmi-week-01-success-mindset)
+
