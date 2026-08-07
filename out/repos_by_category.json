@@ -31,6 +31,21 @@
       "size_mb": "106 KB"
     },
     {
+      "name": "claude-terraform-aws-template",
+      "html_url": "https://github.com/subhamay-bhattacharyya/claude-terraform-aws-template",
+      "description": "roduction-ready Terraform template for AWS. Includes CI/CD workflows,  pre-commit hooks, security scanning, and conventions for scalable  IaC deployments. Use as a starting point for new infrastructure  projects across cloud providers and data platforms.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-08-06\" src=\"https://img.shields.io/badge/Updated-2026--08--06-22c55e?style=flat\" title=\"Updated 2026-08-06\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    },
+    {
       "name": "terraform-snowflake-module-template",
       "html_url": "https://github.com/subhamay-bhattacharyya-tf/terraform-snowflake-module-template",
       "description": "\u2705 Terraform Snowflake module GitHub repository template",
