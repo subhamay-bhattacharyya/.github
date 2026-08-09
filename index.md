@@ -14,3 +14,5 @@ Currently building a multi-cloud Cloud Resume Challenge platform and publishing 
 
 - [DMI Week 01 - Success Mindset](/.github/blogs/dmi-week-01-success-mindset)
 
+- [DMI Week 02 - Reflection](/.github/blogs/dmi-week-02-reflection)
+
