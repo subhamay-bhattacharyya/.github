@@ -33,4 +33,4 @@ I configured VS Code with essential extensions for cloud infrastructure work: Te
 
 Every step of this journey reinforces that DevOps is about understanding systems—from the network layer to application architecture. Excited to continue learning! 🚀
 
-P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort Self Paced — by Pravin Mishra. My graded progress is public: https://lnkd.in/e8ZJzQra · Start your DevOps journey: https://lnkd.in/eGQ2s9wB
+P.S. This is part of DevOps Micro Internship (DMI) Cohort 3 with Agentic AI, led by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My progress: <https://dmi.pravinmishra.com/s/subhamay-bhattacharyya.html>
