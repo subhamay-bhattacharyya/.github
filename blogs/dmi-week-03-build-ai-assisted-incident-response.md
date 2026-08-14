@@ -1,9 +1,12 @@
+---
+layout: default
+title: DMI - Week 03 - Building Safe AI-Assisted Incident Response: Linux Triage with Claude and Bash
+hide_hero: true
+---
+
 # Building Safe AI-Assisted Incident Response: Linux Triage with Claude and Bash
 
-**Author:** Subhamay Bhattacharyya  
-**Date:** August 14, 2026  
-**Category:** DevOps, AI, Linux, Incident Response  
-**Tags:** #DevOps #Bash #Linux #AgenticAI #ClaudeCode #IncidentResponse
+**By Subhamay Bhattacharyya**
 
 ---
 

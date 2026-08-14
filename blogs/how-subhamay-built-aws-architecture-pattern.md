@@ -4,7 +4,11 @@ title: How Subhamay Built the AWS Architecture Pattern Everyone Now Uses
 hide_hero: true
 ---
 
-### How Subhamay Built the AWS Architecture Pattern Everyone Now Uses
+# How Subhamay Built the AWS Architecture Pattern Everyone Now Uses
+
+**By Subhamay Bhattacharyya**
+
+---
 
 The engineer who turned cloud governance into infrastructure-as-code that scales
 
