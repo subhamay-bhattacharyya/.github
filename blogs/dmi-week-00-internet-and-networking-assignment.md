@@ -4,6 +4,12 @@ title: DMI - Week 00 - Internet and Networking Assignement
 hide_hero: true
 ---
 
+# DMI - Week 00 - Internet and Networking Assignement
+
+**By Subhamay Bhattacharyya**
+
+---
+
 I do not have formal training on DevOps, though I have hands-on experience and certifications in AWS, Terraform, GitHub Actions, Unix/Linux, and AI tools like ChatGPT. So, I decided to start from zero and embarked upon a journey with the DevOps for Beginners Cohort run by Pravin Mishra. Here's what I learned:
 
 🤖 ChatGPT & Prompt Engineering

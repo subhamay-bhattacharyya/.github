@@ -4,6 +4,12 @@ title: DMI - Week 01 - Success Mindset Assignement
 hide_hero: true
 ---
 
+# DMI - Week 01 - Success Mindset 
+
+**By Subhamay Bhattacharyya**
+
+---
+
 Shortcuts don't save time. They move the cost forward. You pay either way.
  
 Early in my career at Genpact, I shipped an Oracle interface without fully validating edge cases. I documented it as "tested" when I'd only tested happy path. For weeks, I carried anxiety—not guilt, but dread of being exposed.
