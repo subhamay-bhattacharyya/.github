@@ -1,10 +1,10 @@
 ---
 layout: default
-title: DMI - Week 03 - Building Safe AI-Assisted Incident Response: Linux Triage with Claude and Bash
+title: DMI - Week 03 - Building Safe AI-Assisted Incident Response
 hide_hero: true
 ---
 
-# Building Safe AI-Assisted Incident Response: Linux Triage with Claude and Bash
+# DMI - Week 03 - Building Safe AI-Assisted Incident Response: Linux Triage with Claude and Bash
 
 **By Subhamay Bhattacharyya**
 

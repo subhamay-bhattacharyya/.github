@@ -1,10 +1,10 @@
 ---
 layout: default
-title: DMI - Week 01 - Success Mindset Assignement
+title: DMI - Week 02 - Success Mindset Assignement
 hide_hero: true
 ---
 
-# Reflection – Week 2
+# DMI - Week 01 - Success Mindset Assignement
 
 **By Subhamay Bhattacharyya**
 
