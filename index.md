@@ -16,3 +16,5 @@ Currently building a multi-cloud Cloud Resume Challenge platform and publishing 
 
 - [DMI Week 02 - Reflection](/.github/blogs/dmi-week-02-reflection)
 
+- [DMI Week 03 - AI Assisted Incident Response](./github/blogs/dmi-week-03-build-ai-assisted-incident-response.md)
+
