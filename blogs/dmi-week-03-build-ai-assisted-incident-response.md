@@ -248,3 +248,5 @@ The proper approach combines:
 ## Technical Details: The Agentic Loop
 
 This project demonstrates the complete **Agentic Loop** — a cycle that separates different responsibilities between AI and humans:
+
+P.S. This is part of DevOps Micro Internship (DMI) Cohort 3 with Agentic AI, led by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My progress: <https://dmi.pravinmishra.com/s/subhamay-bhattacharyya.html>
