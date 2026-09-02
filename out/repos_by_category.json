@@ -1194,6 +1194,23 @@
       "size_mb": "65 KB"
     }
   ],
+  "Uncatrgorised": [
+    {
+      "name": "devops-micro-internship-pravinmishra",
+      "html_url": "https://github.com/subhamay-bhattacharyya/devops-micro-internship-pravinmishra",
+      "description": "DevOps Micro Internship with Agentic AI \u2014 Cohort 3 assignment template by Pravin Mishra. Fork this repo to submit your weekly assignments.",
+      "status": "Not Started",
+      "cloud_service_provider": "AWS",
+      "maturity": "stable",
+      "notes": "DMI by Pravin Mishra",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-09-02\" src=\"https://img.shields.io/badge/Updated-2026--09--02-22c55e?style=flat\" title=\"Updated 2026-09-02\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "130.08 MB"
+    }
+  ],
   "GitHub Reusable Action / Workflow": [
     {
       "name": "checkov-report-action",
