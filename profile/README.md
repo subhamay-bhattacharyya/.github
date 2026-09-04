@@ -284,7 +284,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 | Repository | Description | Status | Stats |
 |------------|-------------|--------|-------|
-| [aws-networking-vpc-fundamentals](https://github.com/subhamay-bhattacharyya/aws-networking-vpc-fundamentals)<br><sub><img alt="Updated 2026-09-04" src="https://img.shields.io/badge/Updated-2026--09--04-22c55e?style=flat" title="Updated 2026-09-04" /></sub> | —<br>![experimental](https://img.shields.io/badge/experimental-f97316?style=flat)<br><sub><sup><b><i>Not Available</i></b></sup></sub> | ⚪ | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">1</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">14 KB</span> |
+| [aws-networking-vpc-fundamentals](https://github.com/subhamay-bhattacharyya/aws-networking-vpc-fundamentals)<br><sub><img alt="Updated 2026-09-04" src="https://img.shields.io/badge/Updated-2026--09--04-22c55e?style=flat" title="Updated 2026-09-04" /></sub> | —<br>![experimental](https://img.shields.io/badge/experimental-f97316?style=flat)<br><sub><sup><b><i>Not Available</i></b></sup></sub> | ⚪ | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">1</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">0 KB</span> |
 
 </details>
 
@@ -399,5 +399,5 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 Visit my **<a href="https://subhamay-bhattacharyya.github.io/.github" target="_blank" rel="noopener noreferrer">blog</a>** for articles on AWS architecture, Terraform, GitHub Actions, IAM, and cloud observability.
 ---
 
-*Last generated: 2026-09-04 11:03:42 EST*  
+*Last generated: 2026-09-04 12:03:32 EST*  
 *Total repositories: 144*
