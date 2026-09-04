@@ -284,7 +284,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 | Repository | Description | Status | Stats |
 |------------|-------------|--------|-------|
-| [aws-networking-vpc-fundamentals](https://github.com/subhamay-bhattacharyya/aws-networking-vpc-fundamentals)<br><sub><img alt="Updated 2026-09-04" src="https://img.shields.io/badge/Updated-2026--09--04-22c55e?style=flat" title="Updated 2026-09-04" /></sub> | —<br>![experimental](https://img.shields.io/badge/experimental-f97316?style=flat)<br><sub><sup><b><i>Not Available</i></b></sup></sub> | ⚪ | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">1</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">17 KB</span> |
+| [aws-networking-vpc-fundamentals](https://github.com/subhamay-bhattacharyya/aws-networking-vpc-fundamentals)<br><sub><img alt="Updated 2026-09-04" src="https://img.shields.io/badge/Updated-2026--09--04-22c55e?style=flat" title="Updated 2026-09-04" /></sub> | —<br>![experimental](https://img.shields.io/badge/experimental-f97316?style=flat)<br><sub><sup><b><i>Not Available</i></b></sup></sub> | ⚪ | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">1</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">27 KB</span> |
 
 </details>
 
@@ -321,6 +321,15 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 | Repository | Description | Status | Stats |
 |------------|-------------|--------|-------|
 | [github-action-template](https://github.com/subhamay-bhattacharyya-gha/github-action-template)<br><sub><img alt="Updated 2026-02-26" src="https://img.shields.io/badge/Updated-2026--02--26-ef4444?style=flat" title="Updated 2026-02-26" /></sub> | ✅ GitHub Composite Action: A Starter Template for GitHub Composite Action<br>![stable](https://img.shields.io/badge/stable-22c55e?style=flat)<br><sub><sup>![release v1.1.2](https://img.shields.io/badge/release-v1.1.2-2563eb?style=flat)</sup></sub><br><sub><sup><b><i>Not Available</i></b></sup></sub> | 🟢 | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">9</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">8</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">648 KB</span> |
+
+</details>
+
+<details>
+<summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ GitHub Reusable Action</span></h3></summary>
+
+| Repository | Description | Status | Stats |
+|------------|-------------|--------|-------|
+| [cfn-deploy-action](https://github.com/subhamay-bhattacharyya-gha/cfn-deploy-action)<br><sub><img alt="Updated 2026-09-04" src="https://img.shields.io/badge/Updated-2026--09--04-22c55e?style=flat" title="Updated 2026-09-04" /></sub> | ⏳ GitHub reusable action for CloudFormation stack deployments with built-in OIDC...<br>![experimental](https://img.shields.io/badge/experimental-f97316?style=flat)<br><sub><sup><b><i>Not Available</i></b></sup></sub> | ⚪ | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">9</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">8</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">0</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">0 KB</span> |
 
 </details>
 
@@ -399,5 +408,5 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 Visit my **<a href="https://subhamay-bhattacharyya.github.io/.github" target="_blank" rel="noopener noreferrer">blog</a>** for articles on AWS architecture, Terraform, GitHub Actions, IAM, and cloud observability.
 ---
 
-*Last generated: 2026-09-04 13:03:27 EST*  
-*Total repositories: 144*
+*Last generated: 2026-09-04 14:04:06 EST*  
+*Total repositories: 145*

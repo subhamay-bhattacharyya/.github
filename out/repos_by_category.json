@@ -1225,7 +1225,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "17 KB"
+      "size_mb": "27 KB"
     }
   ],
   "GitHub Reusable Action / Workflow": [
@@ -1530,6 +1530,23 @@
       "open_prs": null,
       "latest_release_tag": "v1.1.2",
       "size_mb": "648 KB"
+    }
+  ],
+  "GitHub Reusable Action": [
+    {
+      "name": "cfn-deploy-action",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/cfn-deploy-action",
+      "description": "\u23f3 GitHub reusable action for CloudFormation stack deployments with built-in OIDC authentication, template versioning via S3, changeset validation, and automated step summary output with stack outputs and resources.",
+      "status": "Initiated",
+      "cloud_service_provider": null,
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-09-04\" src=\"https://img.shields.io/badge/Updated-2026--09--04-22c55e?style=flat\" title=\"Updated 2026-09-04\" /></sub>",
+      "open_issues": 8,
+      "branches": 9,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     }
   ],
   "Terraform Snowflake Module": [
