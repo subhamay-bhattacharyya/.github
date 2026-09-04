@@ -1211,6 +1211,23 @@
       "size_mb": "134.94 MB"
     }
   ],
+  "Uncatrgorised": [
+    {
+      "name": "aws-networking-vpc-fundamentals",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-networking-vpc-fundamentals",
+      "description": null,
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-09-04\" src=\"https://img.shields.io/badge/Updated-2026--09--04-22c55e?style=flat\" title=\"Updated 2026-09-04\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    }
+  ],
   "GitHub Reusable Action / Workflow": [
     {
       "name": "checkov-report-action",
