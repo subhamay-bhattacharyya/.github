@@ -1225,7 +1225,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "42 KB"
+      "size_mb": "43 KB"
     }
   ],
   "GitHub Reusable Action / Workflow": [
@@ -1692,7 +1692,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "155 KB"
+      "size_mb": "176 KB"
     }
   ],
   "Terraform Snowflake Module": [
