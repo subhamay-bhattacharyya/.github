@@ -1693,6 +1693,21 @@
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
       "size_mb": "176 KB"
+    },
+    {
+      "name": "cloudformation-destroy-wf",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/cloudformation-destroy-wf",
+      "description": "\u23f3 GitHub workflow for automated CloudFormation stack deletion with safety checks and validation",
+      "status": "Initiated",
+      "cloud_service_provider": null,
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"Updated 2026-09-05\" src=\"https://img.shields.io/badge/Updated-2026--09--05-22c55e?style=flat\" title=\"Updated 2026-09-05\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": null,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     }
   ],
   "Terraform Snowflake Module": [
