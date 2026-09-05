@@ -1225,7 +1225,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": null,
-      "size_mb": "52 KB"
+      "size_mb": "42 KB"
     }
   ],
   "GitHub Reusable Action / Workflow": [
@@ -1682,16 +1682,16 @@
     {
       "name": "cloudformation-deploy-wf",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/cloudformation-deploy-wf",
-      "description": "A reusable GitHub Actions workflow for deploying AWS CloudFormation stacks with validation, linting, and safety checks. Standardizes IaC deployment pipelines across repositories.",
-      "status": "Initiated",
+      "description": "\u2705  A reusable GitHub Actions workflow for deploying AWS CloudFormation stacks with validation, linting, and safety checks. Standardizes IaC deployment pipelines across repositories.",
+      "status": "Complete",
       "cloud_service_provider": null,
-      "maturity": "experimental",
+      "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-09-04\" src=\"https://img.shields.io/badge/Updated-2026--09--04-22c55e?style=flat\" title=\"Updated 2026-09-04\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
-      "latest_release_tag": null,
+      "latest_release_tag": "v1.0.0",
       "size_mb": "155 KB"
     }
   ],
