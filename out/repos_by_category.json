@@ -1302,7 +1302,7 @@
       "branches": 4,
       "open_prs": null,
       "latest_release_tag": "v1.1.2",
-      "size_mb": "149 KB"
+      "size_mb": "277 KB"
     },
     {
       "name": "checkov-scan-action",
@@ -1677,7 +1677,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "416 KB"
+      "size_mb": "480 KB"
     },
     {
       "name": "cloudformation-deploy-wf",
@@ -1692,7 +1692,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "176 KB"
+      "size_mb": "177 KB"
     },
     {
       "name": "cloudformation-destroy-wf",
