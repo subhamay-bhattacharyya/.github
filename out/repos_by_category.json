@@ -1298,8 +1298,8 @@
       "maturity": "stable",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-09-06\" src=\"https://img.shields.io/badge/Updated-2026--09--06-22c55e?style=flat\" title=\"Updated 2026-09-06\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
+      "open_issues": 3,
+      "branches": 4,
       "open_prs": null,
       "latest_release_tag": "v1.1.2",
       "size_mb": "149 KB"
@@ -1673,8 +1673,8 @@
       "maturity": "stable",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-09-04\" src=\"https://img.shields.io/badge/Updated-2026--09--04-22c55e?style=flat\" title=\"Updated 2026-09-04\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
       "size_mb": "416 KB"
@@ -1688,8 +1688,8 @@
       "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"Updated 2026-09-04\" src=\"https://img.shields.io/badge/Updated-2026--09--04-22c55e?style=flat\" title=\"Updated 2026-09-04\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
       "size_mb": "176 KB"
