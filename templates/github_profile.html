@@ -159,8 +159,8 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 <summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ {{ category }} ({{ repositories|length }})</span></h3></summary>
 
-| # | Repository | Description | Badges | {{ branch_icon }} |{{ issue_icon }}|{{ pr_icon }}| {{ size_icon }}|
-|---|------------|-------------|--------|-------------------|----------------|-------------|----------------|
+| # | Repository | Description | {{ branch_icon }} |{{ issue_icon }}|{{ pr_icon }}| {{ size_icon }}|
+|---|------------|-------------|-------------------|----------------|-------------|----------------|
 {% for repo in repositories -%}
 {% set branches = repo.branches if repo.branches is not none else 0 -%}
 {% set issues = repo.open_issues if repo.open_issues is not none else 0 -%}
@@ -197,7 +197,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 {% set release_badge = '![v' + latest_release_tag + '](https://img.shields.io/badge/release-' + (latest_release_tag | badge_label) + '-2563eb?style=flat)' if latest_release_tag else '' -%}
 {% set note_text = repo.notes | plain_text -%}
 {% set clean_note = (note_text if note_text and (note_text | lower) != 'not available' else '') -%}
-| {{ loop.index }} | {{ status_icon }} [{{ repo.name | plain_text }}]({{ repo.html_url | repo_url }}) | {{ (repo.description or '—') | plain_text }}{% if clean_note %}<br><sub>📝 {{ clean_note }}</sub>{% endif %} | {{ maturity_badge }}{% if release_badge %}<br>{{ release_badge }}{% endif %}<br>{{ last_updated }} | {{ branches }} | {{ issues }} | {{ prs }} | {{ size }} |
+| {{ loop.index }} | {{ status_icon }} [{{ repo.name | plain_text }}]({{ repo.html_url | repo_url }}) | {{ (repo.description or '—') | plain_text }}{% if clean_note %}<br><sub>📝 {{ clean_note }}</sub>{% endif %}<br>{{ maturity_badge }}{% if release_badge %}&nbsp;{{ release_badge }}{% endif %}&nbsp;{{ last_updated }} | {{ branches }} | {{ issues }} | {{ prs }} | {{ size }} |
 {% endfor %}
 
 </details>
