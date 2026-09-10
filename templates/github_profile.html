@@ -153,14 +153,15 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 <details markdown="1"{% if loop.first %} open{% endif %}>
 
 <summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ {{ category }} ({{ repositories|length }})</span></h3></summary>
-| Seq | Repository | Description | Status | Stats |
-|-----|------------|-------------|--------|-------|
+
+| # | Repository | Description | Status | Maturity | Updated | Stats |
+|---|------------|-------------|--------|----------|---------|-------|
 {% for repo in repositories -%}
 {% set branches = repo.branches if repo.branches is not none else 0 -%}
 {% set issues = repo.open_issues if repo.open_issues is not none else 0 -%}
 {% set prs = repo.open_prs if repo.open_prs is not none else 0 -%}
 {% set latest_release_tag = repo.latest_release_tag if repo.latest_release_tag else '' -%}
-{% set last_updated = repo.last_updated if repo.last_updated else '<sup><span title="N/A" style="cursor: help; color: #6b7280;">&nbsp;</span></sup>' -%}
+{% set last_updated = repo.last_updated if repo.last_updated else 'N/A' -%}
 {% set size = repo.size_mb if repo.size_mb else '0' -%}
 {% set s = (repo.status or 'unknown') | lower -%}
 {% if s in ['complete'] -%}
@@ -178,24 +179,25 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 {% endif -%}
 {% set m = (repo.maturity or '') | lower -%}
 {% if m == 'stable' or m == 'production' -%}
-{% set maturity_color = '22c55e' -%}
+{% set maturity_badge = '![stable](https://img.shields.io/badge/stable-22c55e?style=flat)' -%}
 {% elif m == 'beta' -%}
-{% set maturity_color = '3b82f6' -%}
+{% set maturity_badge = '![beta](https://img.shields.io/badge/beta-3b82f6?style=flat)' -%}
 {% elif m == 'experimental' -%}
-{% set maturity_color = 'f97316' -%}
+{% set maturity_badge = '![experimental](https://img.shields.io/badge/experimental-f97316?style=flat)' -%}
 {% elif m == 'alpha' -%}
-{% set maturity_color = 'ef4444' -%}
+{% set maturity_badge = '![alpha](https://img.shields.io/badge/alpha-ef4444?style=flat)' -%}
 {% else -%}
-{% set maturity_color = '6b7280' -%}
+{% set maturity_badge = '' -%}
 {% endif -%}
+{% set release_badge = '![v' + latest_release_tag + '](https://img.shields.io/badge/release-' + (latest_release_tag | badge_label) + '-2563eb?style=flat)' if latest_release_tag else '' -%}
 {% set note_text = repo.notes | plain_text -%}
-| {{ loop.index }} | <a href="{{ repo.html_url | repo_url }}">{{ repo.name | plain_text }}</a>{{ last_updated | safe }} | {{ repo.description[:80] if repo.description and repo.description|length > 80 else (repo.description or '—') | plain_text }}{% if repo.description and repo.description|length > 80 %}...{% endif %}{% if repo.maturity %}<br><img alt="{{ repo.maturity | plain_text }}" src="https://img.shields.io/badge/{{ repo.maturity | badge_label }}-{{ maturity_color }}?style=flat" />{% endif %}{% if latest_release_tag %}<br><sub><sup><img alt="release {{ latest_release_tag | plain_text }}" src="https://img.shields.io/badge/release-{{ latest_release_tag | badge_label }}-2563eb?style=flat" /></sup></sub>{% endif %}{% if note_text and (note_text | lower) != 'not available' %}<br><sub><sup><b><i>{{ note_text }}</i></b></sup></sub>{% endif %} | {{ status_icon }} | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">{{ branches }}</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">{{ issues }}</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">{{ prs }}</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">{{ size }}</span> |
+{% set clean_note = (note_text if note_text and (note_text | lower) != 'not available' else '') -%}
+| {{ loop.index }} | [{{ repo.name | plain_text }}]({{ repo.html_url | repo_url }}) | {{ repo.description[:75] if repo.description and repo.description|length > 75 else (repo.description or '—') | plain_text }}{% if repo.description and repo.description|length > 75 %}…{% endif %}{% if clean_note %}<br><sub>📝 {{ clean_note }}</sub>{% endif %} | {{ status_icon }} | {{ maturity_badge }}{% if release_badge %}<br>{{ release_badge }}{% endif %} | {{ last_updated }} | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> {{ branches }} • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> {{ issues }} • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pr" width="14" /> {{ prs }} • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="size" width="12" /> {{ size }} MB |
 {% endfor %}
 
 </details>
 
 {% endfor %}
-
 ---
 
 ## 📝 Blog
