@@ -28,7 +28,7 @@ jobs:
     steps:
       - name: Checkout Repo
         id: checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7.0.1
         with:
           fetch-depth: 0  # Fetch all history for proper branching
 
@@ -49,9 +49,9 @@ jobs:
 
       - name: Set up Python
         id: setup-python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v7
         with:
-          python-version: "3.12"
+          python-version: "3.13"
           cache: "pip"
 
       - name: Install dependencies (if any)
