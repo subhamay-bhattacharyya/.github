@@ -95,8 +95,6 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 <table style="width:auto; border-collapse:collapse; margin:8px 0 16px 0; border:none">
   <tr>
     <td style="text-align:center; padding:10px;"><img src="../badges/claude-certified-architect-foundations.png" alt="Claude Certified Architect Foundation" width="110" /><br /><sub>Valid till: Aug 28, 2027</sub></td>
-    <td style="text-align:center; padding:10px;">&nbsp;</td>
-    <td style="text-align:center; padding:10px;">&nbsp;</td>
   </tr>
 </table>
 </details>
@@ -153,10 +151,10 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 {% for category, repositories in repos_by_category.items() %}
 <details{% if loop.first %} open{% endif %}>
-<summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ {{ category }}</span></h3></summary>
 
-| Repository | Description | Status | Stats |
-|------------|-------------|--------|-------|
+<summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ {{ category }} ({{ repositories|length }})</span></h3></summary>
+| Seq | Repository | Description | Status | Stats |
+|-----|------------|-------------|--------|-------|
 {% for repo in repositories -%}
 {% set branches = repo.branches if repo.branches is not none else 0 -%}
 {% set issues = repo.open_issues if repo.open_issues is not none else 0 -%}
@@ -190,7 +188,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 {% else -%}
 {% set maturity_color = '6b7280' -%}
 {% endif -%}
-| [{{ repo.name }}]({{ repo.html_url }}){{ last_updated | safe }} | {{ repo.description[:80] if repo.description and repo.description|length > 80 else (repo.description or '—') }}{% if repo.description and repo.description|length > 80 %}...{% endif %}{% if repo.maturity %}<br>![{{ repo.maturity }}](https://img.shields.io/badge/{{ repo.maturity }}-{{ maturity_color }}?style=flat){% endif %}{% if latest_release_tag %}<br><sub><sup>![release {{ latest_release_tag }}](https://img.shields.io/badge/release-{{ latest_release_tag | replace('-', '--') }}-2563eb?style=flat)</sup></sub>{% endif %}{% if repo.notes %}<br><sub><sup><b><i>{{ repo.notes }}</i></b></sup></sub>{% endif %} | {{ status_icon }} | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">{{ branches }}</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">{{ issues }}</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">{{ prs }}</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">{{ size }}</span> |
+| {{ loop.index }} | [{{ repo.name }}]({{ repo.html_url }}){{ last_updated | safe }} | {{ repo.description[:80] if repo.description and repo.description|length > 80 else (repo.description or '—') }}{% if repo.description and repo.description|length > 80 %}...{% endif %}{% if repo.maturity %}<br>![{{ repo.maturity }}](https://img.shields.io/badge/{{ repo.maturity }}-{{ maturity_color }}?style=flat){% endif %}{% if latest_release_tag %}<br><sub><sup>![release {{ latest_release_tag }}](https://img.shields.io/badge/release-{{ latest_release_tag | replace('-', '--') }}-2563eb?style=flat)</sup></sub>{% endif %}{% if repo.notes %}<br><sub><sup><b><i>{{ repo.notes }}</i></b></sup></sub>{% endif %} | {{ status_icon }} | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> <span style="font-size: 0.85em;">{{ branches }}</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" /> <span style="font-size: 0.85em;">{{ issues }}</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pull request" width="14" /> <span style="font-size: 0.85em;">{{ prs }}</span> • <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="repo size" width="12" /> <span style="font-size: 0.85em;">{{ size }}</span> |
 {% endfor %}
 
 </details>

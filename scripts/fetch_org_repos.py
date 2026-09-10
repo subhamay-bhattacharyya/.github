@@ -172,7 +172,7 @@ def fetch_latest_release_tag(org: str, repo: str) -> Optional[str]:
 def main() -> None:
     # Support multiple organizations - can be comma-separated env var or default list
     orgs_env = os.getenv("GITHUB_ORGS")
-    orgs_env = "subhamay-bhattacharyya,subhamay-bhattacharyya-gha, subhamay-bhattacharyya-tf"
+    orgs_env = "subhamay-bhattacharyya,subhamay-bhattacharyya-gha, subhamay-bhattacharyya-tf, subhamay-bhattacharyya-cfn"
     if orgs_env:
         orgs = [org.strip() for org in orgs_env.split(",")]
     else:
