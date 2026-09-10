@@ -16,7 +16,7 @@ GITHUB_API = "https://api.github.com"
 def get_relative_time_with_color(dt: datetime) -> str:
     """
     Convert datetime to a date string badge with color coding.
-    Displays small, color-coded text on a new line.
+    Displays a compact calendar badge with the date value.
     Color coding based on freshness:
     - Green: < 7 days
     - Yellow: 7-30 days
@@ -25,13 +25,13 @@ def get_relative_time_with_color(dt: datetime) -> str:
     """
     now = datetime.now(ZoneInfo("America/New_York"))
     diff = now - dt
-    
+
     # Calculate time units
     days = diff.days
-    
+
     # Display the actual date instead of relative time
     time_str = dt.strftime("%Y-%m-%d")
-    
+
     # Determine flag color based on age
     if days < 7:
         color = "#22c55e"  # Green - very fresh
@@ -41,18 +41,20 @@ def get_relative_time_with_color(dt: datetime) -> str:
         color = "#f97316"  # Orange - getting old
     else:
         color = "#ef4444"  # Red - stale
-    
-    # Shields uses '-' as a separator. Escape date dashes with '--'.
+
+    # Shields uses '-' as a separator. Escape the date dashes with '--'.
+    # Keep the label compact by using a calendar emoji instead of the word "Updated".
+    badge_label = quote("📆")
     badge_message = quote(time_str.replace("-", "--"))
     badge_color = color.lstrip("#")
     badge_url = (
-        f"https://img.shields.io/badge/Updated-{badge_message}-{badge_color}"
+        f"https://img.shields.io/badge/{badge_label}-{badge_message}-{badge_color}"
         "?style=flat"
     )
 
     return (
-        f'<br><sub><img alt="Updated {time_str}" '
-        f'src="{badge_url}" title="Updated {time_str}" /></sub>'
+        f'<br><sub><img alt="{time_str}" '
+        f'src="{badge_url}" title="{time_str}" /></sub>'
     )
 
 

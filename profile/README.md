@@ -147,7 +147,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 **Legend:** ⚪ Initialized &nbsp; 🟡 In Progress &nbsp; 🟢 Complete &nbsp; 🔴 Blocked
 
-**Update Age:** <img alt="Updated < 7 days" src="https://img.shields.io/badge/Updated-%3C%207%20days-22c55e?style=flat" /> &nbsp; <img alt="Updated 7-30 days" src="https://img.shields.io/badge/Updated-7--30%20days-eab308?style=flat" /> &nbsp; <img alt="Updated 30-90 days" src="https://img.shields.io/badge/Updated-30--90%20days-f97316?style=flat" /> &nbsp; <img alt="Updated 90+ days" src="https://img.shields.io/badge/Updated-%3E%2090%20days-ef4444?style=flat" />
+**Update Age:** <img alt="< 7 days" src="https://img.shields.io/badge/%F0%9F%93%86-%3C%207%20days-22c55e?style=flat" /> &nbsp; <img alt="7-30 days" src="https://img.shields.io/badge/%F0%9F%93%86-7--30%20days-eab308?style=flat" /> &nbsp; <img alt="30-90 days" src="https://img.shields.io/badge/%F0%9F%93%86-30--90%20days-f97316?style=flat" /> &nbsp; <img alt="90+ days" src="https://img.shields.io/badge/%F0%9F%93%86-%3E%2090%20days-ef4444?style=flat" />
 
 <details markdown="1" open>
 
