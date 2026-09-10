@@ -149,7 +149,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 **Update Age:** <img alt="Updated < 7 days" src="https://img.shields.io/badge/Updated-%3C%207%20days-22c55e?style=flat" /> &nbsp; <img alt="Updated 7-30 days" src="https://img.shields.io/badge/Updated-7--30%20days-eab308?style=flat" /> &nbsp; <img alt="Updated 30-90 days" src="https://img.shields.io/badge/Updated-30--90%20days-f97316?style=flat" /> &nbsp; <img alt="Updated 90+ days" src="https://img.shields.io/badge/Updated-%3E%2090%20days-ef4444?style=flat" />
 
-<details open>
+<details markdown="1" open>
 
 <summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ Terraform Template Repository (6)</span></h3></summary>
 | Seq | Repository | Description | Status | Stats |
@@ -163,7 +163,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ Google Cloud Platform - Terraform (21)</span></h3></summary>
 | Seq | Repository | Description | Status | Stats |
@@ -192,7 +192,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ Amazon Web Services - Terraform (11)</span></h3></summary>
 | Seq | Repository | Description | Status | Stats |
@@ -211,7 +211,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ Databricks - Terraform (1)</span></h3></summary>
 | Seq | Repository | Description | Status | Stats |
@@ -220,7 +220,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ Snowflake - Terraform (40)</span></h3></summary>
 | Seq | Repository | Description | Status | Stats |
@@ -268,7 +268,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ Bootcamps (1)</span></h3></summary>
 | Seq | Repository | Description | Status | Stats |
@@ -277,7 +277,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ AWS Networking Speciality Certification (1)</span></h3></summary>
 | Seq | Repository | Description | Status | Stats |
@@ -286,7 +286,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ GitHub Reusable Action / Workflow (32)</span></h3></summary>
 | Seq | Repository | Description | Status | Stats |
@@ -326,7 +326,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ Terraform Snowflake Module (13)</span></h3></summary>
 | Seq | Repository | Description | Status | Stats |
@@ -347,7 +347,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ Terraform AWS Module (9)</span></h3></summary>
 | Seq | Repository | Description | Status | Stats |
@@ -364,7 +364,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ Terraform GCP Module (21)</span></h3></summary>
 | Seq | Repository | Description | Status | Stats |
@@ -393,7 +393,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 </details>
 
-<details>
+<details markdown="1">
 
 <summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ CloudFormation Nested Stack (1)</span></h3></summary>
 | Seq | Repository | Description | Status | Stats |
@@ -410,5 +410,5 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 Visit my **<a href="https://subhamay-bhattacharyya.github.io/.github" target="_blank" rel="noopener noreferrer">blog</a>** for articles on AWS architecture, Terraform, GitHub Actions, IAM, and cloud observability.
 ---
 
-*Last generated: 2026-09-10 08:03:40 EST*  
+*Last generated: 2026-09-10 08:32:43 EST*  
 *Total repositories: 157*
