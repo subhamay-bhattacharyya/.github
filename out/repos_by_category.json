@@ -1332,7 +1332,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.1.1",
-      "size_mb": "236 KB"
+      "size_mb": "239 KB"
     },
     {
       "name": "checkov-scan-action",
