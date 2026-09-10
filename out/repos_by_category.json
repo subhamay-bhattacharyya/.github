@@ -1272,7 +1272,7 @@
       "branches": 2,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "4 KB"
+      "size_mb": "5 KB"
     },
     {
       "name": "tf-modules-wf",
@@ -1328,11 +1328,11 @@
       "maturity": "production",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"2026-09-10\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--10-22c55e?style=flat\" title=\"2026-09-10\" /></sub>",
-      "open_issues": 4,
-      "branches": 4,
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.1.1",
-      "size_mb": "163 KB"
+      "size_mb": "236 KB"
     },
     {
       "name": "checkov-scan-action",
@@ -1362,7 +1362,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "170 KB"
+      "size_mb": "244 KB"
     },
     {
       "name": "tf-validate-action",
@@ -2037,7 +2037,7 @@
       "branches": 1,
       "open_prs": null,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "480 KB"
+      "size_mb": "481 KB"
     },
     {
       "name": "cloudformation-deploy-wf",
