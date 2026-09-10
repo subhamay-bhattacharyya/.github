@@ -3,9 +3,59 @@
 import os
 import sys
 import json
+import re
 from jinja2 import Environment, FileSystemLoader
 from datetime import datetime
+from urllib.parse import quote
 from zoneinfo import ZoneInfo
+
+
+def normalize_repo_url(value: str) -> str:
+    """
+    Normalize repository URL values that may already be wrapped in markdown links.
+    """
+    if not value:
+        return ""
+
+    raw = str(value).strip()
+    if raw.startswith("http://") or raw.startswith("https://"):
+        return raw
+
+    # Handle markdown-wrapped links like [repo](https://example.com)
+    md_link_match = re.match(r"^\[[^\]]+\]\((https?://[^)]+)\)$", raw)
+    if md_link_match:
+        return md_link_match.group(1).strip()
+
+    # Fall back to any URL found in the string.
+    urls = re.findall(r"https?://[^\s)]+", raw)
+    return urls[-1].rstrip("]") if urls else raw
+
+
+def plain_text(value) -> str:
+    """
+    Convert markdown-like text into plain text for stable table rendering.
+    """
+    if value is None:
+        return ""
+
+    text = str(value)
+    text = re.sub(r"!\[([^\]]*)\]\((https?://[^)]+)\)", r"\1", text)
+    text = re.sub(r"\[([^\]]+)\]\((https?://[^)]+)\)", r"\1", text)
+    text = re.sub(r"[*_`~]", "", text)
+    text = re.sub(r"\s+", " ", text).strip()
+
+    if text.lower() in {"not available", "n/a", "na"}:
+        return "Not available"
+
+    return text
+
+
+def badge_label(value) -> str:
+    """
+    Encode badge labels safely for shields.io URLs.
+    """
+    text = plain_text(value)
+    return quote(text.replace("-", "--")) if text else ""
 
 
 def load_repos_data(json_file: str) -> dict:
@@ -34,6 +84,10 @@ def generate_profile_readme(repos_by_category: dict, template_name: str, output_
         trim_blocks=True,
         lstrip_blocks=True
     )
+
+    env.filters["repo_url"] = normalize_repo_url
+    env.filters["plain_text"] = plain_text
+    env.filters["badge_label"] = badge_label
     
     # Load template
     template = env.get_template(template_name)
