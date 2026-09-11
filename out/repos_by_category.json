@@ -1722,7 +1722,7 @@
       "branches": 6,
       "open_prs": 5,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "182 KB"
+      "size_mb": "184 KB"
     },
     {
       "name": "cfn-delete-stack-action",
@@ -1902,7 +1902,7 @@
       "branches": 3,
       "open_prs": 1,
       "latest_release_tag": null,
-      "size_mb": "357 KB"
+      "size_mb": "358 KB"
     },
     {
       "name": "checkov-report-action",
@@ -2007,7 +2007,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "v1.3.0",
-      "size_mb": "151 KB"
+      "size_mb": "350 KB"
     },
     {
       "name": "tf-release-wf",
