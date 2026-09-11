@@ -186,9 +186,10 @@ To design and operate **cloud platforms that are secure, automated, observable, 
   'unknown': ['Unknown', '6b7280']
 } -%}
 {% set maturity_label = maturity_map.get(maturity_value, [maturity_value.replace('_', ' ') | title, '6b7280']) -%}
-{% set maturity_badge_display = '<img src="https://img.shields.io/badge/Maturity-' ~ (maturity_label[0] | replace(' ', '%20')) ~ '-' ~ maturity_label[1] ~ '?style=flat" alt="Maturity: ' ~ maturity_label[0] ~ '" />' -%}
+{% set maturity_badge_display = '<img src="https://img.shields.io/badge/' ~ (maturity_label[0] | replace(' ', '%20')) ~ '-' ~ maturity_label[1] ~ '?style=flat" alt="Maturity: ' ~ maturity_label[0] ~ '" />' -%}
 {% set last_commit_badge = 'https://img.shields.io/github/last-commit/' ~ repo_owner ~ '/' ~ repo_name -%}
 {% set release_date_badge = 'https://img.shields.io/github/release-date/' ~ repo_owner ~ '/' ~ repo_name -%}
+{% set release_tag_badge = 'https://img.shields.io/github/v/release/' ~ repo_owner ~ '/' ~ repo_name ~ '?label=Tag' -%}
 {% set size = repo.size_mb if repo.size_mb else '0' -%}
 {% set s = (repo.status or 'unknown') | lower -%}
 {% if s in ['complete'] -%}
@@ -211,7 +212,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 {% else -%}
 {% set release_badge_display = '<span style="color:#6b7280; font-size:11px;">Not available</span>' -%}
 {% endif -%}
-| {{ loop.index }} | {{ status_icon }} [{{ repo.name | plain_text }}]({{ repo.html_url | repo_url }}) | {{ (repo.description or '—') | plain_text }}{% if clean_note %} <sub><br>📝 {{ clean_note }}</sub>{% endif %}<br>{{ maturity_badge_display }}&nbsp;{{ release_badge_display }}&nbsp;![Last Commit]({{ last_commit_badge }})&nbsp;![Release Date]({{ release_date_badge }}) | {{ branches }} | {{ issues }} | {{ prs }} | {{ size }} |
+| {{ loop.index }} | {{ status_icon }} [{{ repo.name | plain_text }}]({{ repo.html_url | repo_url }}) <br> {{ release_badge_display }}&nbsp;![Release Tag]({{ release_tag_badge }})| {{ (repo.description or '—') | plain_text }}{% if clean_note %} <sub><br>📝 {{ clean_note }}</sub>{% endif %}<br>{{ maturity_badge_display }}&nbsp;![Last Commit]({{ last_commit_badge }})&nbsp;![Release Date]({{ release_date_badge }}) | {{ branches }} | {{ issues }} | {{ prs }} | {{ size }} |
 {% endfor %}
 
 </details>
