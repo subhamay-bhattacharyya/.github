@@ -155,6 +155,37 @@ def fetch_branch_count(org: str, repo: str) -> int:
     return total_count
 
 
+def fetch_open_pr_count(org: str, repo: str) -> int:
+    """
+    Fetch the number of open pull requests for a repository.
+    The repo object itself does not include an open_prs_count field.
+    """
+    url = f"{GITHUB_API}/repos/{org}/{repo}/pulls"
+    params = {"state": "open", "per_page": 100, "page": 1}
+    total_count = 0
+
+    while True:
+        resp = requests.get(url, headers=github_headers(), params=params)
+
+        if resp.status_code == 404:
+            return 0
+
+        resp.raise_for_status()
+
+        batch = resp.json()
+        if not batch:
+            break
+
+        total_count += len(batch)
+
+        if len(batch) < params["per_page"]:
+            break
+
+        params["page"] += 1
+
+    return total_count
+
+
 def fetch_latest_release_tag(org: str, repo: str) -> Optional[str]:
     """
     Fetch the latest release tag for a repository.
@@ -201,6 +232,7 @@ def main() -> None:
                 # pprint(repo)
                 # break
                 branch_count = fetch_branch_count(org, name)
+                open_pr_count = fetch_open_pr_count(org, name)
                 latest_release_tag = fetch_latest_release_tag(org, name)
                 
                 # Convert updated_at to relative time with color
@@ -228,7 +260,7 @@ def main() -> None:
                     "last_updated": last_updated,
                     "open_issues": repo.get("open_issues_count"),
                     "branches": branch_count,
-                    "open_prs": repo.get("open_prs_count"),
+                    "open_prs": open_pr_count,
                     "latest_release_tag": latest_release_tag,
                     "size_mb": f"{repo.get('size') / 1024:.2f} MB" if repo.get("size", 0) >= 1024 else f"{repo.get('size', 0)} KB"
                     }
@@ -240,6 +272,7 @@ def main() -> None:
                 if project_category not in repos_by_category:
                     repos_by_category[project_category] = []
                 repos_by_category[project_category].append(repo_details)
+                repos_by_category[project_category] = sorted(repos_by_category[project_category], key=lambda x: x['open_prs'], reverse=True)
 
 
     # Get the repository root (one level up from scripts directory)
