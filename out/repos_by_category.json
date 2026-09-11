@@ -1230,21 +1230,6 @@
   ],
   "GitHub Reusable Action / Workflow": [
     {
-      "name": "tf-lint-action",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-lint-action",
-      "description": "\u2705 GitHub Composite Action - Terraform Lint.",
-      "status": "Complete",
-      "cloud_service_provider": null,
-      "maturity": "stable",
-      "notes": "Next enhancement not planned yet",
-      "last_updated": "<br><sub><img alt=\"2026-06-17\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--06--17-f97316?style=flat\" title=\"2026-06-17\" /></sub>",
-      "open_issues": 8,
-      "branches": 9,
-      "open_prs": 8,
-      "latest_release_tag": "v1.1.0",
-      "size_mb": "559 KB"
-    },
-    {
       "name": "cfn-stack-params-action",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/cfn-stack-params-action",
       "description": "GitHub JavaScript Action - Prepare CloudFormation Stack Creation Parameters",
@@ -1753,6 +1738,21 @@
       "open_prs": 5,
       "latest_release_tag": "v1.1.0",
       "size_mb": "280 KB"
+    },
+    {
+      "name": "tf-lint-action",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-lint-action",
+      "description": "\u2705 A reusable GitHub Composite Action for linting Terraform configurations using TFLint. Supports version control via organization variables, plugin caching, multiple output formats (default, compact, json, checkstyle), and multi-cloud infrastructure setups. Logs results to GitHub Actions Summary and fails the workflow on lint issues",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "stable",
+      "notes": "Next enhancement not planned yet",
+      "last_updated": "<br><sub><img alt=\"2026-09-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--11-22c55e?style=flat\" title=\"2026-09-11\" /></sub>",
+      "open_issues": 3,
+      "branches": 4,
+      "open_prs": 3,
+      "latest_release_tag": "v1.1.0",
+      "size_mb": "559 KB"
     },
     {
       "name": "tf-yor-action",
