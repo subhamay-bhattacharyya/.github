@@ -1620,21 +1620,6 @@
       "size_mb": "260 KB"
     },
     {
-      "name": "tf-deploy-multi-reusable-wf",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-deploy-multi-reusable-wf",
-      "description": "GitHub Reusable workflow to deploy a stack using Terraform multi-cloud environment",
-      "status": "Complete",
-      "cloud_service_provider": null,
-      "maturity": "stable",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-06-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--06--16-f97316?style=flat\" title=\"2026-06-16\" /></sub>",
-      "open_issues": 6,
-      "branches": 8,
-      "open_prs": 6,
-      "latest_release_tag": "v1.1.1",
-      "size_mb": "725 KB"
-    },
-    {
       "name": "aws-project-onboarding",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/aws-project-onboarding",
       "description": "\u2705  Reusable GitHub Actions workflow for standardized AWS project onboarding. Provisions HCP Terraform workspaces, GitHub Environments with AWS account variables, environment-tier deployment approval gates, and repository branch protection \u2014 all configured from a single project-config.json file per application repo.",
@@ -1710,36 +1695,6 @@
       "size_mb": "280 KB"
     },
     {
-      "name": "tf-yor-action",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-yor-action",
-      "description": "GitHub Composite Action - Add Git metadata tags .",
-      "status": "Complete",
-      "cloud_service_provider": null,
-      "maturity": "stable",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-10\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--10-22c55e?style=flat\" title=\"2026-09-10\" /></sub>",
-      "open_issues": 4,
-      "branches": 4,
-      "open_prs": 3,
-      "latest_release_tag": "v1.0.1",
-      "size_mb": "122 KB"
-    },
-    {
-      "name": "slack-notification-wf",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/slack-notification-wf",
-      "description": "\u2705 Reusable GitHub Actions workflow that sends formatted Slack notifications to a channel via webhook when new issues or pull requests are created. Automatically formats messages based on event type for seamless team communication and issue tracking integration.",
-      "status": "Complete",
-      "cloud_service_provider": null,
-      "maturity": "production",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--11-22c55e?style=flat\" title=\"2026-09-11\" /></sub>",
-      "open_issues": 3,
-      "branches": 4,
-      "open_prs": 3,
-      "latest_release_tag": "v1.0.1",
-      "size_mb": "814 KB"
-    },
-    {
       "name": "run-ansible-playbook-wf",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/run-ansible-playbook-wf",
       "description": "Reusable GitHub Actions workflow for Ansible automation with built-in GitHub OIDC support for secure, keyless access to AWS, GCP, and Azure.",
@@ -1783,6 +1738,21 @@
       "open_prs": 2,
       "latest_release_tag": "v1.1.2",
       "size_mb": "277 KB"
+    },
+    {
+      "name": "tf-deploy-multi-reusable-wf",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-deploy-multi-reusable-wf",
+      "description": "\u2705 Terraform Multi-Cloud Deploy Workflow: Reusable GitHub Actions for AWS, GCP, Azure, Snowflake, and Databricks deployments. Complete pipeline (TFLint \u2192 Validate \u2192 Plan \u2192 Apply), platform mode for automatic multi-cloud detection, S3/HCP TFC backend support, OIDC authentication, and concurrency control.",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "stable",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--11-22c55e?style=flat\" title=\"2026-09-11\" /></sub>",
+      "open_issues": 2,
+      "branches": 4,
+      "open_prs": 2,
+      "latest_release_tag": "v1.1.1",
+      "size_mb": "725 KB"
     },
     {
       "name": "deploy-lambda-action",
@@ -1995,6 +1965,21 @@
       "size_mb": "789 KB"
     },
     {
+      "name": "tf-yor-action",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-yor-action",
+      "description": "\u2705GitHub Composite Action that automatically tags Terraform files with Yor Git metadata including author, commit SHA, and timestamp. Supports custom terraform directory paths, release tag checkout, and optional auto-commit of changes back to the repository.",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "stable",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--11-22c55e?style=flat\" title=\"2026-09-11\" /></sub>",
+      "open_issues": 1,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": "v1.0.1",
+      "size_mb": "122 KB"
+    },
+    {
       "name": "tf-ci-reusable-wf",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-ci-reusable-wf",
       "description": "\u2705 Reusable GitHub Actions workflow for multi-cloud Terraform CI across AWS, GCP, Azure, Snowflake, and Databricks. Automates linting, validation, and planning with multi-backend support (S3/HCP TFC), cloud-native authentication, and platform mode for automatic provider detection.",
@@ -2008,6 +1993,21 @@
       "open_prs": 0,
       "latest_release_tag": "v1.3.0",
       "size_mb": "350 KB"
+    },
+    {
+      "name": "slack-notification-wf",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/slack-notification-wf",
+      "description": "\u2705 Reusable GitHub Actions workflow that sends formatted Slack notifications to a channel via webhook when new issues or pull requests are created. Automatically formats messages based on event type for seamless team communication and issue tracking integration.",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "production",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--11-22c55e?style=flat\" title=\"2026-09-11\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": "v1.0.1",
+      "size_mb": "270 KB"
     },
     {
       "name": "tf-release-wf",
