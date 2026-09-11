@@ -1230,21 +1230,6 @@
   ],
   "GitHub Reusable Action / Workflow": [
     {
-      "name": "cfn-stack-params-action",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/cfn-stack-params-action",
-      "description": "GitHub JavaScript Action - Prepare CloudFormation Stack Creation Parameters",
-      "status": "Initiated",
-      "cloud_service_provider": null,
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2025-08-22\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2025--08--22-ef4444?style=flat\" title=\"2025-08-22\" /></sub>",
-      "open_issues": 9,
-      "branches": 9,
-      "open_prs": 8,
-      "latest_release_tag": "v1.2.0",
-      "size_mb": "96 KB"
-    },
-    {
       "name": "checkov-custom-policies",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/checkov-custom-policies",
       "description": "\ud83c\udfd7\ufe0f A centralized repository for reusable custom Checkov policies, metadata-driven service-to-scan mappings, Terraform module detection logic, pass/fail test cases, and GitHub Actions automation. It enables consistent, scalable, and organization-wide IaC governance across Terraform repositories and cloud services.",
