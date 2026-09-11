@@ -1590,21 +1590,6 @@
       "size_mb": "280 KB"
     },
     {
-      "name": "cfn-parameters-action",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/cfn-parameters-action",
-      "description": "GitHub JavaScript Action - Prepare CloudFormation Stack Creation Parameters",
-      "status": "Initiated",
-      "cloud_service_provider": null,
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2025-08-22\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2025--08--22-ef4444?style=flat\" title=\"2025-08-22\" /></sub>",
-      "open_issues": 2,
-      "branches": 5,
-      "open_prs": 2,
-      "latest_release_tag": null,
-      "size_mb": "1.24 MB"
-    },
-    {
       "name": "github-action-template",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/github-action-template",
       "description": "\u2705 GitHub Composite Action: A Starter Template for GitHub Composite Action",
