@@ -1365,36 +1365,6 @@
       "size_mb": "252 KB"
     },
     {
-      "name": "branch-issue-action",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/branch-issue-action",
-      "description": "\u2705 GitHub Composite Action - Check Branch Issue, to prevent pushing the code to any branch created directly using GitHub UI.",
-      "status": "Complete",
-      "cloud_service_provider": null,
-      "maturity": "stable",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-06-17\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--06--17-f97316?style=flat\" title=\"2026-06-17\" /></sub>",
-      "open_issues": 6,
-      "branches": 7,
-      "open_prs": 6,
-      "latest_release_tag": "v1.0.0",
-      "size_mb": "672 KB"
-    },
-    {
-      "name": "tf-apply-action",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-apply-action",
-      "description": "\u2705 GitHub Composite Action - Terraform Apply.",
-      "status": "Complete",
-      "cloud_service_provider": null,
-      "maturity": "stable",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-06-17\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--06--17-f97316?style=flat\" title=\"2026-06-17\" /></sub>",
-      "open_issues": 7,
-      "branches": 8,
-      "open_prs": 6,
-      "latest_release_tag": "v1.3.0",
-      "size_mb": "693 KB"
-    },
-    {
       "name": "terraform-apply-wf",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/terraform-apply-wf",
       "description": "GitHub Reusable Workflow to create a stack using Terraform Apply",
@@ -1725,21 +1695,6 @@
       "size_mb": "147 KB"
     },
     {
-      "name": "run-ansible-playbook-wf",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/run-ansible-playbook-wf",
-      "description": "Reusable GitHub Actions workflow for Ansible automation with built-in GitHub OIDC support for secure, keyless access to AWS, GCP, and Azure.",
-      "status": "Complete",
-      "cloud_service_provider": null,
-      "maturity": "stable",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--11-22c55e?style=flat\" title=\"2026-09-11\" /></sub>",
-      "open_issues": 3,
-      "branches": 4,
-      "open_prs": 2,
-      "latest_release_tag": "v1.0.0",
-      "size_mb": "217 KB"
-    },
-    {
       "name": "multicloud-snowflake-stages-wf",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/multicloud-snowflake-stages-wf",
       "description": "Provision Snowflake external stages across AWS S3, Google Cloud Storage, and Azure Blob using a single reusable GitHub workflow with Terraform + secure cloud identity (OIDC) and Snowflake key-pair auth.",
@@ -1785,6 +1740,21 @@
       "size_mb": "7 KB"
     },
     {
+      "name": "branch-issue-action",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/branch-issue-action",
+      "description": "\u2705 Composite GitHub Action for enforcing issue-based branch naming conventions. Extracts and validates issue numbers from branch names (format: type/PROJECT-seq.issue-slug), checks API for issue existence, and prevents code pushes from branches created directly in the UI.",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "stable",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--11-22c55e?style=flat\" title=\"2026-09-11\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 1,
+      "latest_release_tag": "v1.0.0",
+      "size_mb": "672 KB"
+    },
+    {
       "name": "setup-multi-cloud-environments-wf",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/setup-multi-cloud-environments-wf",
       "description": "GitHub Reusable Workflow to bootstrap Multi Cloud  Environments for (AWS, GCP and Azure). This version only supports one environment (devl). In future I have plans to support development, test and productions ",
@@ -1797,7 +1767,7 @@
       "branches": 3,
       "open_prs": 1,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "358 KB"
+      "size_mb": "423 KB"
     },
     {
       "name": "checkov-report-action",
@@ -1920,6 +1890,21 @@
       "size_mb": "789 KB"
     },
     {
+      "name": "tf-apply-action",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-apply-action",
+      "description": "\u2705 GitHub composite action orchestrating terraform apply with multi-cloud support (AWS, Azure, GCP, Snowflake, Databricks), configurable backends (S3/HCP Terraform Cloud), platform mode for simultaneous multi-provider deployments, and built-in OIDC authentication.",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "stable",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--11-22c55e?style=flat\" title=\"2026-09-11\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": "v1.3.0",
+      "size_mb": "693 KB"
+    },
+    {
       "name": "terraform-destroy-wf",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/terraform-destroy-wf",
       "description": "GitHub Reusable Workflow to tear down a stack using Terraform Destroy",
@@ -1932,7 +1917,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "562 KB"
+      "size_mb": "826 KB"
     },
     {
       "name": "tf-yor-action",
@@ -1977,7 +1962,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "184 KB"
+      "size_mb": "383 KB"
     },
     {
       "name": "slack-notification-wf",
@@ -2023,6 +2008,21 @@
       "open_prs": 0,
       "latest_release_tag": "v1.1.1",
       "size_mb": "924 KB"
+    },
+    {
+      "name": "run-ansible-playbook-wf",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/run-ansible-playbook-wf",
+      "description": "\u2705 Reusable GitHub Actions workflow for Ansible automation with built-in GitHub OIDC support for keyless, secure access to AWS, GCP, and Azure. Automates multi-cloud infrastructure provisioning without managing credentials, streamlines CI/CD pipelines with federated identity, and maintains audit-ready access logs.",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "stable",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--11-22c55e?style=flat\" title=\"2026-09-11\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": "v1.0.0",
+      "size_mb": "346 KB"
     },
     {
       "name": "cfn-deploy-action",
