@@ -2022,7 +2022,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "623 KB"
+      "size_mb": "487 KB"
     },
     {
       "name": "cfn-deploy-action",
