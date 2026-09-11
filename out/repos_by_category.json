@@ -1365,21 +1365,6 @@
       "size_mb": "252 KB"
     },
     {
-      "name": "terraform-destroy-wf",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/terraform-destroy-wf",
-      "description": "GitHub Reusable Workflow to tear down a stack using Terraform Destroy",
-      "status": "Complete",
-      "cloud_service_provider": null,
-      "maturity": "stable",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-06-15\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--06--15-f97316?style=flat\" title=\"2026-06-15\" /></sub>",
-      "open_issues": 7,
-      "branches": 8,
-      "open_prs": 7,
-      "latest_release_tag": "v1.1.0",
-      "size_mb": "562 KB"
-    },
-    {
       "name": "branch-issue-action",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/branch-issue-action",
       "description": "\u2705 GitHub Composite Action - Check Branch Issue, to prevent pushing the code to any branch created directly using GitHub UI.",
@@ -1650,21 +1635,6 @@
       "size_mb": "96 KB"
     },
     {
-      "name": "create-release-action",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/create-release-action",
-      "description": "GitHub Composite Action - Create Draft Release with a clickable link to create the release.",
-      "status": "Complete",
-      "cloud_service_provider": null,
-      "maturity": "stable",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-10\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--10-22c55e?style=flat\" title=\"2026-09-10\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
-      "open_prs": 5,
-      "latest_release_tag": "v1.0.0",
-      "size_mb": "184 KB"
-    },
-    {
       "name": "cfn-delete-stack-action",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/cfn-delete-stack-action",
       "description": "GitHub Composite Action - CloudFormation Delete Stack",
@@ -1693,21 +1663,6 @@
       "open_prs": 5,
       "latest_release_tag": "v1.1.0",
       "size_mb": "280 KB"
-    },
-    {
-      "name": "run-ansible-playbook-wf",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/run-ansible-playbook-wf",
-      "description": "Reusable GitHub Actions workflow for Ansible automation with built-in GitHub OIDC support for secure, keyless access to AWS, GCP, and Azure.",
-      "status": "Complete",
-      "cloud_service_provider": null,
-      "maturity": "stable",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-01-05\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--01--05-ef4444?style=flat\" title=\"2026-01-05\" /></sub>",
-      "open_issues": 4,
-      "branches": 5,
-      "open_prs": 3,
-      "latest_release_tag": "v1.0.0",
-      "size_mb": "217 KB"
     },
     {
       "name": "cfn-parameters-action",
@@ -1740,21 +1695,6 @@
       "size_mb": "277 KB"
     },
     {
-      "name": "tf-deploy-multi-reusable-wf",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-deploy-multi-reusable-wf",
-      "description": "\u2705 Terraform Multi-Cloud Deploy Workflow: Reusable GitHub Actions for AWS, GCP, Azure, Snowflake, and Databricks deployments. Complete pipeline (TFLint \u2192 Validate \u2192 Plan \u2192 Apply), platform mode for automatic multi-cloud detection, S3/HCP TFC backend support, OIDC authentication, and concurrency control.",
-      "status": "Complete",
-      "cloud_service_provider": null,
-      "maturity": "stable",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--11-22c55e?style=flat\" title=\"2026-09-11\" /></sub>",
-      "open_issues": 2,
-      "branches": 4,
-      "open_prs": 2,
-      "latest_release_tag": "v1.1.1",
-      "size_mb": "725 KB"
-    },
-    {
       "name": "deploy-lambda-action",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/deploy-lambda-action",
       "description": "GitHub Composite Action - Package and deploy Lambda package",
@@ -1783,6 +1723,21 @@
       "open_prs": 2,
       "latest_release_tag": null,
       "size_mb": "147 KB"
+    },
+    {
+      "name": "run-ansible-playbook-wf",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/run-ansible-playbook-wf",
+      "description": "Reusable GitHub Actions workflow for Ansible automation with built-in GitHub OIDC support for secure, keyless access to AWS, GCP, and Azure.",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "stable",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--11-22c55e?style=flat\" title=\"2026-09-11\" /></sub>",
+      "open_issues": 3,
+      "branches": 4,
+      "open_prs": 2,
+      "latest_release_tag": "v1.0.0",
+      "size_mb": "217 KB"
     },
     {
       "name": "multicloud-snowflake-stages-wf",
@@ -1841,7 +1796,7 @@
       "open_issues": 2,
       "branches": 3,
       "open_prs": 1,
-      "latest_release_tag": null,
+      "latest_release_tag": "v1.0.0",
       "size_mb": "358 KB"
     },
     {
@@ -1965,6 +1920,21 @@
       "size_mb": "789 KB"
     },
     {
+      "name": "terraform-destroy-wf",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/terraform-destroy-wf",
+      "description": "GitHub Reusable Workflow to tear down a stack using Terraform Destroy",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "stable",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--11-22c55e?style=flat\" title=\"2026-09-11\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": "v1.1.0",
+      "size_mb": "562 KB"
+    },
+    {
       "name": "tf-yor-action",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-yor-action",
       "description": "\u2705GitHub Composite Action that automatically tags Terraform files with Yor Git metadata including author, commit SHA, and timestamp. Supports custom terraform directory paths, release tag checkout, and optional auto-commit of changes back to the repository.",
@@ -1977,7 +1947,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "122 KB"
+      "size_mb": "254 KB"
     },
     {
       "name": "tf-ci-reusable-wf",
@@ -1993,6 +1963,21 @@
       "open_prs": 0,
       "latest_release_tag": "v1.3.0",
       "size_mb": "350 KB"
+    },
+    {
+      "name": "create-release-action",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/create-release-action",
+      "description": "\u2705 Composite GitHub Action automating timestamped release tags and draft releases. Generates sequential tags (Rel-<sequence>-YYYYMMDDHHMMSS), auto-generates changelogs from commits, and supports attaching release assets. Ideal for teams needing streamlined, auditable release management.",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "stable",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--11-22c55e?style=flat\" title=\"2026-09-11\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": "v1.0.0",
+      "size_mb": "184 KB"
     },
     {
       "name": "slack-notification-wf",
@@ -2023,6 +2008,21 @@
       "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "140 KB"
+    },
+    {
+      "name": "tf-deploy-multi-reusable-wf",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-deploy-multi-reusable-wf",
+      "description": "\u2705 Terraform Multi-Cloud Deploy Workflow: Reusable GitHub Actions for AWS, GCP, Azure, Snowflake, and Databricks deployments. Complete pipeline (TFLint \u2192 Validate \u2192 Plan \u2192 Apply), platform mode for automatic multi-cloud detection, S3/HCP TFC backend support, OIDC authentication, and concurrency control.",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "stable",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--11-22c55e?style=flat\" title=\"2026-09-11\" /></sub>",
+      "open_issues": 0,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": "v1.1.1",
+      "size_mb": "924 KB"
     },
     {
       "name": "cfn-deploy-action",
