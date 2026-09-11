@@ -182,6 +182,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
   'stable': ['Stable', 'brightgreen'],
   'retired': ['Retired', 'red'],
   'decommissioned': ['Decommissioned', 'red'],
+  'marked_for_deletetion': ['Marked for Deletion', '374151'],
   'unknown': ['Unknown', '6b7280']
 } -%}
 {% set maturity_label = maturity_map.get(maturity_value, [maturity_value.replace('_', ' ') | title, '6b7280']) -%}
@@ -210,7 +211,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 {% else -%}
 {% set release_badge_display = '<span style="color:#6b7280; font-size:11px;">Not available</span>' -%}
 {% endif -%}
-| {{ loop.index }} | {{ status_icon }} [{{ repo.name | plain_text }}]({{ repo.html_url | repo_url }}) | {{ (repo.description or '—') | plain_text }}{% if clean_note %} <sub>📝 {{ clean_note }}</sub>{% endif %}<br>{{ maturity_badge_display }}&nbsp;{{ release_badge_display }}&nbsp;![Last Commit]({{ last_commit_badge }})&nbsp;![Release Date]({{ release_date_badge }}) | {{ branches }} | {{ issues }} | {{ prs }} | {{ size }} |
+| {{ loop.index }} | {{ status_icon }} [{{ repo.name | plain_text }}]({{ repo.html_url | repo_url }}) | {{ (repo.description or '—') | plain_text }}{% if clean_note %} <sub><br>📝 {{ clean_note }}</sub>{% endif %}<br>{{ maturity_badge_display }}&nbsp;{{ release_badge_display }}&nbsp;![Last Commit]({{ last_commit_badge }})&nbsp;![Release Date]({{ release_date_badge }}) | {{ branches }} | {{ issues }} | {{ prs }} | {{ size }} |
 {% endfor %}
 
 </details>
