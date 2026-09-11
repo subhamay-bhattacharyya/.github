@@ -1410,21 +1410,6 @@
       "size_mb": "562 KB"
     },
     {
-      "name": "create-release-action",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/create-release-action",
-      "description": "GitHub Composite Action - Create Draft Release with a clickable link to create the release.",
-      "status": "Complete",
-      "cloud_service_provider": null,
-      "maturity": "stable",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-06-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--06--16-f97316?style=flat\" title=\"2026-06-16\" /></sub>",
-      "open_issues": 7,
-      "branches": 8,
-      "open_prs": 7,
-      "latest_release_tag": "v1.0.0",
-      "size_mb": "182 KB"
-    },
-    {
       "name": "slack-notification-wf",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/slack-notification-wf",
       "description": "GitHub Reusable Workflow : Send Slack Notification on opening an issue of pull request.",
@@ -1528,21 +1513,6 @@
       "open_prs": 6,
       "latest_release_tag": null,
       "size_mb": "261 KB"
-    },
-    {
-      "name": "tf-ci-reusable-wf",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-ci-reusable-wf",
-      "description": "GitHub Reusable Workflow: CI Pipeline using Terraform as IaC",
-      "status": "Complete",
-      "cloud_service_provider": null,
-      "maturity": "stable",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-06-15\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--06--15-f97316?style=flat\" title=\"2026-06-15\" /></sub>",
-      "open_issues": 6,
-      "branches": 7,
-      "open_prs": 6,
-      "latest_release_tag": "v1.3.0",
-      "size_mb": "151 KB"
     },
     {
       "name": "cfn-create-stack-action",
@@ -1740,19 +1710,19 @@
       "size_mb": "96 KB"
     },
     {
-      "name": "tf-release-wf",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-release-wf",
-      "description": "GitHub Reusable Workflow: Terraform Release",
+      "name": "create-release-action",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/create-release-action",
+      "description": "GitHub Composite Action - Create Draft Release with a clickable link to create the release.",
       "status": "Complete",
       "cloud_service_provider": null,
       "maturity": "stable",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"2026-09-10\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--10-22c55e?style=flat\" title=\"2026-09-10\" /></sub>",
-      "open_issues": 6,
+      "open_issues": 5,
       "branches": 6,
       "open_prs": 5,
-      "latest_release_tag": null,
-      "size_mb": "447 KB"
+      "latest_release_tag": "v1.0.0",
+      "size_mb": "182 KB"
     },
     {
       "name": "cfn-delete-stack-action",
@@ -1797,7 +1767,7 @@
       "branches": 4,
       "open_prs": 3,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "628 KB"
+      "size_mb": "122 KB"
     },
     {
       "name": "run-ansible-playbook-wf",
@@ -1843,21 +1813,6 @@
       "open_prs": 2,
       "latest_release_tag": "v1.1.2",
       "size_mb": "277 KB"
-    },
-    {
-      "name": "setup-multi-cloud-environments-wf",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/setup-multi-cloud-environments-wf",
-      "description": "GitHub Reusable Workflow to bootstrap Multi Cloud  Environments for (AWS, GCP and Azure). This version only supports one environment (devl). In future I have plans to support development, test and productions ",
-      "status": "Complete",
-      "cloud_service_provider": null,
-      "maturity": "stable",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2025-11-27\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2025--11--27-ef4444?style=flat\" title=\"2025-11-27\" /></sub>",
-      "open_issues": 3,
-      "branches": 4,
-      "open_prs": 2,
-      "latest_release_tag": null,
-      "size_mb": "357 KB"
     },
     {
       "name": "deploy-lambda-action",
@@ -1923,7 +1878,7 @@
       "name": "terraform-plugin-action",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/terraform-plugin-action",
       "description": "GitHub Composite Action - Install and cache Terraform plugin",
-      "status": "Complete",
+      "status": "Marked for Delete",
       "cloud_service_provider": null,
       "maturity": "stable",
       "notes": "Not Available",
@@ -1935,13 +1890,28 @@
       "size_mb": "7 KB"
     },
     {
+      "name": "setup-multi-cloud-environments-wf",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/setup-multi-cloud-environments-wf",
+      "description": "GitHub Reusable Workflow to bootstrap Multi Cloud  Environments for (AWS, GCP and Azure). This version only supports one environment (devl). In future I have plans to support development, test and productions ",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "stable",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-10\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--10-22c55e?style=flat\" title=\"2026-09-10\" /></sub>",
+      "open_issues": 2,
+      "branches": 3,
+      "open_prs": 1,
+      "latest_release_tag": null,
+      "size_mb": "357 KB"
+    },
+    {
       "name": "checkov-report-action",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/checkov-report-action",
       "description": "\u2705 GitHub JavaScript Action - Print Checkov Scan Report",
       "status": "Complete",
       "cloud_service_provider": null,
       "maturity": "stable",
-      "notes": "Next enhancement not planned yet",
+      "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"2026-06-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--06--16-f97316?style=flat\" title=\"2026-06-16\" /></sub>",
       "open_issues": 0,
       "branches": 1,
@@ -2023,6 +1993,36 @@
       "open_prs": 0,
       "latest_release_tag": "v1.1.0",
       "size_mb": "623 KB"
+    },
+    {
+      "name": "tf-ci-reusable-wf",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-ci-reusable-wf",
+      "description": "GitHub Reusable Workflow: CI Pipeline using Terraform as IaC",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "stable",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-10\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--10-22c55e?style=flat\" title=\"2026-09-10\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": "v1.3.0",
+      "size_mb": "151 KB"
+    },
+    {
+      "name": "tf-release-wf",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-release-wf",
+      "description": "GitHub Reusable Workflow: Terraform Release",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "stable",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-10\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--10-22c55e?style=flat\" title=\"2026-09-10\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "140 KB"
     },
     {
       "name": "cfn-deploy-action",
