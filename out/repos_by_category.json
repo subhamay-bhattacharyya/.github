@@ -1335,21 +1335,6 @@
       "size_mb": "1.83 MB"
     },
     {
-      "name": "tf-plan-action",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-plan-action",
-      "description": "\u2705 GitHub Composite Action - Terraform Plan.",
-      "status": "Complete",
-      "cloud_service_provider": null,
-      "maturity": "stable",
-      "notes": "Current - Working for AWS,Azure, GCP, Databricks. Next-Test for Snowflake",
-      "last_updated": "<br><sub><img alt=\"2026-06-17\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--06--17-f97316?style=flat\" title=\"2026-06-17\" /></sub>",
-      "open_issues": 7,
-      "branches": 8,
-      "open_prs": 7,
-      "latest_release_tag": "v1.5.0",
-      "size_mb": "520 KB"
-    },
-    {
       "name": "tf-destroy-action",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-destroy-action",
       "description": "GitHub Composite Action - Terraform Destroy.",
@@ -1740,21 +1725,6 @@
       "size_mb": "280 KB"
     },
     {
-      "name": "tf-lint-action",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-lint-action",
-      "description": "\u2705 A reusable GitHub Composite Action for linting Terraform configurations using TFLint. Supports version control via organization variables, plugin caching, multiple output formats (default, compact, json, checkstyle), and multi-cloud infrastructure setups. Logs results to GitHub Actions Summary and fails the workflow on lint issues",
-      "status": "Complete",
-      "cloud_service_provider": null,
-      "maturity": "stable",
-      "notes": "Next enhancement not planned yet",
-      "last_updated": "<br><sub><img alt=\"2026-09-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--11-22c55e?style=flat\" title=\"2026-09-11\" /></sub>",
-      "open_issues": 3,
-      "branches": 4,
-      "open_prs": 3,
-      "latest_release_tag": "v1.1.0",
-      "size_mb": "559 KB"
-    },
-    {
       "name": "tf-yor-action",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-yor-action",
       "description": "GitHub Composite Action - Add Git metadata tags .",
@@ -1993,6 +1963,36 @@
       "open_prs": 0,
       "latest_release_tag": "v1.1.0",
       "size_mb": "623 KB"
+    },
+    {
+      "name": "tf-lint-action",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-lint-action",
+      "description": "\u2705 A reusable GitHub Composite Action for linting Terraform configurations using TFLint. Supports version control via organization variables, plugin caching, multiple output formats (default, compact, json, checkstyle), and multi-cloud infrastructure setups. Logs results to GitHub Actions Summary and fails the workflow on lint issues",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "stable",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--11-22c55e?style=flat\" title=\"2026-09-11\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": "v1.1.0",
+      "size_mb": "826 KB"
+    },
+    {
+      "name": "tf-plan-action",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-plan-action",
+      "description": "\u2705GitHub Composite Action for running Terraform plan operations across multiple backends and cloud providers. Supports S3 and HCP Terraform Cloud backends with built-in OIDC authentication for AWS, GCP, Azure, Snowflake, and Databricks. Includes platform mode for multi-cloud infrastructure, artifact management, and GitHub Actions Summary integration",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "stable",
+      "notes": "Current - Working for AWS,Azure, GCP, Databricks. Next-Test for Snowflake",
+      "last_updated": "<br><sub><img alt=\"2026-09-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--11-22c55e?style=flat\" title=\"2026-09-11\" /></sub>",
+      "open_issues": 1,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": "v1.6.0",
+      "size_mb": "520 KB"
     },
     {
       "name": "tf-ci-reusable-wf",
