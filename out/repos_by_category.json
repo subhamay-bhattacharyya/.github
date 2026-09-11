@@ -1380,21 +1380,6 @@
       "size_mb": "562 KB"
     },
     {
-      "name": "slack-notification-wf",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/slack-notification-wf",
-      "description": "\u2705 Reusable GitHub Actions workflow that sends formatted Slack notifications to a channel via webhook when new issues or pull requests are created. Automatically formats messages based on event type for seamless team communication and issue tracking integration.",
-      "status": "Complete",
-      "cloud_service_provider": null,
-      "maturity": "stable",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--11-22c55e?style=flat\" title=\"2026-09-11\" /></sub>",
-      "open_issues": 7,
-      "branches": 8,
-      "open_prs": 7,
-      "latest_release_tag": "v1.0.1",
-      "size_mb": "814 KB"
-    },
-    {
       "name": "branch-issue-action",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/branch-issue-action",
       "description": "\u2705 GitHub Composite Action - Check Branch Issue, to prevent pushing the code to any branch created directly using GitHub UI.",
@@ -1738,6 +1723,21 @@
       "open_prs": 3,
       "latest_release_tag": "v1.0.1",
       "size_mb": "122 KB"
+    },
+    {
+      "name": "slack-notification-wf",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/slack-notification-wf",
+      "description": "\u2705 Reusable GitHub Actions workflow that sends formatted Slack notifications to a channel via webhook when new issues or pull requests are created. Automatically formats messages based on event type for seamless team communication and issue tracking integration.",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "production",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--11-22c55e?style=flat\" title=\"2026-09-11\" /></sub>",
+      "open_issues": 3,
+      "branches": 4,
+      "open_prs": 3,
+      "latest_release_tag": "v1.0.1",
+      "size_mb": "814 KB"
     },
     {
       "name": "run-ansible-playbook-wf",
