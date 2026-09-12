@@ -1742,16 +1742,16 @@
     {
       "name": "setup-aws-environments-wf",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/setup-aws-environments-wf",
-      "description": "GitHub Reusable Workflow to bootstrap AWS Environments",
+      "description": "\u23f3 Reusable GitHub Actions workflows for automated, configuration-driven AWS  environment bootstrapping with dynamic environment management, branch  protection rules, and AI-powered context for seamless multi-account AWS  infrastructure provisioning.",
       "status": "Initiated",
       "cloud_service_provider": null,
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"2026-09-12\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--12-22c55e?style=flat\" title=\"2026-09-12\" /></sub>",
       "open_issues": 1,
-      "branches": 1,
+      "branches": 2,
       "open_prs": 0,
-      "latest_release_tag": "v1.0.0",
+      "latest_release_tag": "v1.1.0",
       "size_mb": "244 KB"
     },
     {
