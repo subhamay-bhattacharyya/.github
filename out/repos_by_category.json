@@ -1242,7 +1242,7 @@
       "branches": 10,
       "open_prs": 8,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "423 KB"
+      "size_mb": "687 KB"
     },
     {
       "name": "run-ansible-playbook-wf",
@@ -1257,7 +1257,7 @@
       "branches": 10,
       "open_prs": 8,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "346 KB"
+      "size_mb": "682 KB"
     },
     {
       "name": "checkov-custom-policies",
@@ -1317,7 +1317,7 @@
       "branches": 8,
       "open_prs": 7,
       "latest_release_tag": "v1.1.1",
-      "size_mb": "239 KB"
+      "size_mb": "570 KB"
     },
     {
       "name": "check-environments-action",
@@ -1407,7 +1407,7 @@
       "branches": 8,
       "open_prs": 6,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "259 KB"
+      "size_mb": "583 KB"
     },
     {
       "name": "terraform-apply-wf",
@@ -1647,7 +1647,7 @@
       "branches": 5,
       "open_prs": 4,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "254 KB"
+      "size_mb": "448 KB"
     },
     {
       "name": "tf-release-wf",
@@ -1662,7 +1662,7 @@
       "branches": 4,
       "open_prs": 3,
       "latest_release_tag": null,
-      "size_mb": "140 KB"
+      "size_mb": "268 KB"
     },
     {
       "name": "cloudformation-deploy-wf",
@@ -1677,7 +1677,7 @@
       "branches": 4,
       "open_prs": 3,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "224 KB"
+      "size_mb": "241 KB"
     },
     {
       "name": "github-action-template",
@@ -1707,7 +1707,7 @@
       "branches": 3,
       "open_prs": 2,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "826 KB"
+      "size_mb": "954 KB"
     },
     {
       "name": "tf-plan-action",
@@ -1722,7 +1722,7 @@
       "branches": 3,
       "open_prs": 2,
       "latest_release_tag": "v1.6.0",
-      "size_mb": "789 KB"
+      "size_mb": "405 KB"
     },
     {
       "name": "terraform-destroy-wf",
@@ -1737,7 +1737,7 @@
       "branches": 3,
       "open_prs": 2,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "826 KB"
+      "size_mb": "313 KB"
     },
     {
       "name": "deploy-lambda-action",
@@ -1827,7 +1827,7 @@
       "branches": 2,
       "open_prs": 1,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "270 KB"
+      "size_mb": "334 KB"
     },
     {
       "name": "checkov-report-action",
