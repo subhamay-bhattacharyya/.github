@@ -1395,21 +1395,6 @@
       "size_mb": "252 KB"
     },
     {
-      "name": "setup-aws-environments-wf",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/setup-aws-environments-wf",
-      "description": "\u23f3 Reusable GitHub Actions workflows for automated, configuration-driven AWS  environment bootstrapping with dynamic environment management, branch  protection rules, and AI-powered context for seamless multi-account AWS  infrastructure provisioning.",
-      "status": "Upgrading",
-      "cloud_service_provider": null,
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-12\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--12-22c55e?style=flat\" title=\"2026-09-12\" /></sub>",
-      "open_issues": 7,
-      "branches": 8,
-      "open_prs": 6,
-      "latest_release_tag": "v1.1.0",
-      "size_mb": "583 KB"
-    },
-    {
       "name": "terraform-apply-wf",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/terraform-apply-wf",
       "description": "GitHub Reusable Workflow to create a stack using Terraform Apply",
@@ -1873,6 +1858,21 @@
       "open_prs": 0,
       "latest_release_tag": "v1.0.1",
       "size_mb": "247 KB"
+    },
+    {
+      "name": "setup-aws-environments-wf",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/setup-aws-environments-wf",
+      "description": "\u23f3 Reusable GitHub Actions workflows for automated, configuration-driven AWS  environment bootstrapping with dynamic environment management, branch  protection rules, and AI-powered context for seamless multi-account AWS  infrastructure provisioning.",
+      "status": "Upgrading",
+      "cloud_service_provider": null,
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-14\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--14-22c55e?style=flat\" title=\"2026-09-14\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": "v1.1.0",
+      "size_mb": "583 KB"
     },
     {
       "name": "tf-validate-action",
