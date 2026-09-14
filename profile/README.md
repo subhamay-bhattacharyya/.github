@@ -428,7 +428,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 | # | Repository | Description | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> |<img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" />|<img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pr" width="14" />| <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="size" width="12" />|
 |---|------------|-------------|-------------------|----------------|-------------|----------------|
-| 1 | 🟢 [cloudformation-template](https://github.com/subhamay-bhattacharyya-cfn/cloudformation-template) <br> ![Release](https://github.com/subhamay-bhattacharyya-cfn/cloudformation-template/actions/workflows/release.yaml/badge.svg)&nbsp;![Release Tag](https://img.shields.io/github/v/release/subhamay-bhattacharyya-cfn/cloudformation-template?label=Tag)| ✅ AWS CloudFormation template repository with CLAUDE.md documentation and integrated Claude skills for infrastructure-as-code generation. Provides a structured foundation for building reusable CloudFormation templates with AI-assisted code generation, validation, and documentation workflows.<br><img src="https://img.shields.io/badge/Beta-blueviolet?style=flat" alt="Maturity: Beta" />&nbsp;![Last Commit](https://img.shields.io/github/last-commit/subhamay-bhattacharyya-cfn/cloudformation-template)&nbsp;![Release Date](https://img.shields.io/github/release-date/subhamay-bhattacharyya-cfn/cloudformation-template) | 1 | 0 | 0 | 130 KB |
+| 1 | 🟢 [cloudformation-template](https://github.com/subhamay-bhattacharyya-cfn/cloudformation-template) <br> ![Release](https://github.com/subhamay-bhattacharyya-cfn/cloudformation-template/actions/workflows/release.yaml/badge.svg)&nbsp;![Release Tag](https://img.shields.io/github/v/release/subhamay-bhattacharyya-cfn/cloudformation-template?label=Tag)| ✅ AWS CloudFormation template repository with CLAUDE.md documentation and integrated Claude skills for infrastructure-as-code generation. Provides a structured foundation for building reusable CloudFormation templates with AI-assisted code generation, validation, and documentation workflows.<br><img src="https://img.shields.io/badge/Beta-blueviolet?style=flat" alt="Maturity: Beta" />&nbsp;![Last Commit](https://img.shields.io/github/last-commit/subhamay-bhattacharyya-cfn/cloudformation-template)&nbsp;![Release Date](https://img.shields.io/github/release-date/subhamay-bhattacharyya-cfn/cloudformation-template) | 1 | 1 | 0 | 139 KB |
 
 </details>
 
@@ -439,5 +439,5 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 Visit my **<a href="https://subhamay-bhattacharyya.github.io/.github" target="_blank" rel="noopener noreferrer">blog</a>** for articles on AWS architecture, Terraform, GitHub Actions, IAM, and cloud observability.
 ---
 
-*Last generated: 2026-09-14 13:03:49 EST*  
+*Last generated: 2026-09-14 15:06:01 EST*  
 *Total repositories: 176*
