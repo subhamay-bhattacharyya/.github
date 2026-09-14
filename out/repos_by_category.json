@@ -2660,7 +2660,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": "v1.2.0",
-      "size_mb": "139 KB"
+      "size_mb": "147 KB"
     },
     {
       "name": "cfn-nested-aws-ha-multi-az-vpc-subnets",
@@ -2675,7 +2675,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "78 KB"
     }
   ]
 }
