@@ -1872,7 +1872,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "647 KB"
+      "size_mb": "683 KB"
     },
     {
       "name": "tf-validate-action",
