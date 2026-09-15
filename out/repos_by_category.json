@@ -1242,7 +1242,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "v1.2.1",
-      "size_mb": "111 KB"
+      "size_mb": "116 KB"
     },
     {
       "name": "branch-issue-action",
@@ -2655,12 +2655,12 @@
       "cloud_service_provider": "AWS",
       "maturity": "beta",
       "notes": null,
-      "last_updated": "<br><sub><img alt=\"2026-09-14\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--14-22c55e?style=flat\" title=\"2026-09-14\" /></sub>",
-      "open_issues": 2,
-      "branches": 2,
-      "open_prs": 1,
+      "last_updated": "<br><sub><img alt=\"2026-09-15\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--15-22c55e?style=flat\" title=\"2026-09-15\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
       "latest_release_tag": "v1.2.0",
-      "size_mb": "176 KB"
+      "size_mb": "181 KB"
     },
     {
       "name": "cfn-nested-aws-ha-multi-az-vpc-subnets",
@@ -2670,12 +2670,12 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": null,
-      "last_updated": "<br><sub><img alt=\"2026-09-14\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--14-22c55e?style=flat\" title=\"2026-09-14\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
+      "last_updated": "<br><sub><img alt=\"2026-09-15\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--15-22c55e?style=flat\" title=\"2026-09-15\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "78 KB"
+      "size_mb": "0 KB"
     }
   ]
 }
