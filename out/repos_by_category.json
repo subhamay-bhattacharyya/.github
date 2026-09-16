@@ -1230,6 +1230,21 @@
   ],
   "GitHub Reusable Action / Workflow": [
     {
+      "name": "github-action-template",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/github-action-template",
+      "description": "\u2705 Starter template repository for building GitHub Composite Actions. Includes standardized project structure, action.yaml configuration, shell scripts, comprehensive documentation, and CI/CD workflows. Accelerates composite action development with pre-built scaffolding, examples, and best practices. Streamlines creation of reusable GitHub Actions f",
+      "status": "Upgrading",
+      "cloud_service_provider": null,
+      "maturity": "beta",
+      "notes": "Implementing Claude Code",
+      "last_updated": "<br><sub><img alt=\"2026-09-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--16-22c55e?style=flat\" title=\"2026-09-16\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": "v1.1.2",
+      "size_mb": "277 KB"
+    },
+    {
       "name": "create-branch-action",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/create-branch-action",
       "description": "\u2705 GitHub Composite Action that automates feature branch creation from issues. Automatically generates standardized branch names based on issue details, validates branch uniqueness, and creates branches with predefined naming conventions. Streamlines development workflow initialization and reduces manual branch management overhead.",
@@ -1273,6 +1288,21 @@
       "open_prs": 0,
       "latest_release_tag": "v1.0.0",
       "size_mb": "869 KB"
+    },
+    {
+      "name": "check-environments-action",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/check-environments-action",
+      "description": "\u23f3 GitHub JavaScript Action that retrieves and lists all available GitHub environments for a repository. Queries environment metadata including protection rules, deployment branches, and reviewer requirements. Enables dynamic workflow decisions based on environment availability. ",
+      "status": "Upgrading",
+      "cloud_service_provider": null,
+      "maturity": "beta",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--16-22c55e?style=flat\" title=\"2026-09-16\" /></sub>",
+      "open_issues": 2,
+      "branches": 3,
+      "open_prs": 2,
+      "latest_release_tag": "v1.1.0",
+      "size_mb": "693 KB"
     },
     {
       "name": "slack-notification-wf",
@@ -1380,21 +1410,6 @@
       "size_mb": "7 KB"
     },
     {
-      "name": "github-action-template",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/github-action-template",
-      "description": "\u2705 GitHub Composite Action: A Starter Template for GitHub Composite Action",
-      "status": "Upgrading",
-      "cloud_service_provider": null,
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-06\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--06-eab308?style=flat\" title=\"2026-09-06\" /></sub>",
-      "open_issues": 3,
-      "branches": 4,
-      "open_prs": 2,
-      "latest_release_tag": "v1.1.2",
-      "size_mb": "277 KB"
-    },
-    {
       "name": "checkov-scan-action",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/checkov-scan-action",
       "description": "GitHub Composite Action - Checkov Scan",
@@ -1423,51 +1438,6 @@
       "open_prs": 0,
       "latest_release_tag": "v1.1.0",
       "size_mb": "623 KB"
-    },
-    {
-      "name": "check-environments-action",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/check-environments-action",
-      "description": "GitHub JavaScript Action - Check Available GitHub Environments",
-      "status": "Initiated",
-      "cloud_service_provider": null,
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2025-08-22\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2025--08--22-ef4444?style=flat\" title=\"2025-08-22\" /></sub>",
-      "open_issues": 7,
-      "branches": 8,
-      "open_prs": 7,
-      "latest_release_tag": "v1.1.0",
-      "size_mb": "693 KB"
-    },
-    {
-      "name": "list-updated-files-action",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/list-updated-files-action",
-      "description": "GitHub Composite Action - List the files modified since the last commit.",
-      "status": "Marked for Deletion",
-      "cloud_service_provider": null,
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2025-08-22\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2025--08--22-ef4444?style=flat\" title=\"2025-08-22\" /></sub>",
-      "open_issues": 6,
-      "branches": 7,
-      "open_prs": 5,
-      "latest_release_tag": "v1.0.0",
-      "size_mb": "96 KB"
-    },
-    {
-      "name": "scan-aws-services-action",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/scan-aws-services-action",
-      "description": "GitHub JavaScript Action - Scan for the AWS Services (Lambda / Lambda Layer / Glue / State Machine) used in the repository.",
-      "status": "Initiated",
-      "cloud_service_provider": null,
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2025-08-22\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2025--08--22-ef4444?style=flat\" title=\"2025-08-22\" /></sub>",
-      "open_issues": 7,
-      "branches": 8,
-      "open_prs": 7,
-      "latest_release_tag": "v1.1.0",
-      "size_mb": "477 KB"
     },
     {
       "name": "exec-path-action",
