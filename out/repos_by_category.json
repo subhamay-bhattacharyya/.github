@@ -1329,7 +1329,7 @@
       "notes": "Need to Upgrade",
       "last_updated": "<br><sub><img alt=\"2026-09-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--16-22c55e?style=flat\" title=\"2026-09-16\" /></sub>",
       "open_issues": 1,
-      "branches": 1,
+      "branches": 2,
       "open_prs": 0,
       "latest_release_tag": "v1.6.0",
       "size_mb": "469 KB"
@@ -1395,6 +1395,21 @@
       "size_mb": "428 KB"
     },
     {
+      "name": "cfn-deploy-action",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/cfn-deploy-action",
+      "description": "\u2705 GitHub reusable action for CloudFormation stack deployments with built-in OIDC authentication, template versioning via S3, changeset validation, and automated step summary output with stack outputs and resources.",
+      "status": "Upgrading",
+      "cloud_service_provider": null,
+      "maturity": "beta",
+      "notes": "Upgrade in Progress",
+      "last_updated": "<br><sub><img alt=\"2026-09-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--16-22c55e?style=flat\" title=\"2026-09-16\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": "v1.0.0",
+      "size_mb": "481 KB"
+    },
+    {
       "name": "cloudformation-deploy-wf",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/cloudformation-deploy-wf",
       "description": "\u2705  A reusable GitHub Actions workflow for deploying AWS CloudFormation stacks with validation, linting, and safety checks. Standardizes IaC deployment pipelines across repositories.",
@@ -1412,12 +1427,12 @@
     {
       "name": "cfn-destroy-wf",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/cfn-destroy-wf",
-      "description": "\u23f3 GitHub workflow for automated CloudFormation stack deletion with safety checks and validation",
+      "description": "\u23f3 GitHub workflow automating secure CloudFormation stack deletion with comprehensive safety checks and validation. Includes pre-deletion stack policy verification, dependency analysis, protection rule validation, and rollback capabilities. Prevents accidental infrastructure removal with detailed logging and error handling.",
       "status": "In Progress",
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-15\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--15-22c55e?style=flat\" title=\"2026-09-15\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-09-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--16-22c55e?style=flat\" title=\"2026-09-16\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": 0,
@@ -1918,21 +1933,6 @@
       "open_prs": 6,
       "latest_release_tag": "v1.1.0",
       "size_mb": "342 KB"
-    },
-    {
-      "name": "cfn-deploy-action",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/cfn-deploy-action",
-      "description": "\u2705 GitHub reusable action for CloudFormation stack deployments with built-in OIDC authentication, template versioning via S3, changeset validation, and automated step summary output with stack outputs and resources.",
-      "status": "Upgrading",
-      "cloud_service_provider": null,
-      "maturity": "experimental",
-      "notes": "Upgrade in Progress",
-      "last_updated": "<br><sub><img alt=\"2026-09-10\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--10-22c55e?style=flat\" title=\"2026-09-10\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": 0,
-      "latest_release_tag": "v1.0.0",
-      "size_mb": "481 KB"
     }
   ],
   "Terraform Snowflake Module": [
