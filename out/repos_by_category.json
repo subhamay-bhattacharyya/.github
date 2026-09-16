@@ -1332,7 +1332,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "v1.7.0",
-      "size_mb": "469 KB"
+      "size_mb": "504 KB"
     },
     {
       "name": "tf-apply-action",
