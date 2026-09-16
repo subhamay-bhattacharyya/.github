@@ -1230,6 +1230,21 @@
   ],
   "GitHub Reusable Action / Workflow": [
     {
+      "name": "create-branch-action",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/create-branch-action",
+      "description": "\u2705 GitHub Composite Action - Auto Create Feature Branch",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "beta",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-15\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--15-22c55e?style=flat\" title=\"2026-09-15\" /></sub>",
+      "open_issues": 4,
+      "branches": 5,
+      "open_prs": 4,
+      "latest_release_tag": "v1.1.1",
+      "size_mb": "570 KB"
+    },
+    {
       "name": "setup-aws-environments-wf",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/setup-aws-environments-wf",
       "description": "\u2705 Reusable GitHub Actions workflows for automated, configuration-driven AWS  environment bootstrapping with dynamic environment management, branch  protection rules, and AI-powered context for seamless multi-account AWS  infrastructure provisioning.",
@@ -1348,21 +1363,6 @@
       "open_prs": 2,
       "latest_release_tag": "v1.1.2",
       "size_mb": "277 KB"
-    },
-    {
-      "name": "create-branch-action",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/create-branch-action",
-      "description": "\u2705 GitHub Composite Action - Auto Create Feature Branch",
-      "status": "Complete",
-      "cloud_service_provider": null,
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-10\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--10-22c55e?style=flat\" title=\"2026-09-10\" /></sub>",
-      "open_issues": 7,
-      "branches": 8,
-      "open_prs": 7,
-      "latest_release_tag": "v1.1.1",
-      "size_mb": "570 KB"
     },
     {
       "name": "checkov-scan-action",
@@ -1673,11 +1673,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"2026-09-15\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--15-22c55e?style=flat\" title=\"2026-09-15\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
-      "open_prs": 4,
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "230 KB"
+      "size_mb": "367 KB"
     },
     {
       "name": "cfn-ci-reusable-wf",
