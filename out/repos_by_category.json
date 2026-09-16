@@ -1281,7 +1281,7 @@
       "status": "Complete",
       "cloud_service_provider": null,
       "maturity": "beta",
-      "notes": "Not Available",
+      "notes": "Fix Release status, Tag and CODEOWNERS",
       "last_updated": "<br><sub><img alt=\"2026-09-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--11-22c55e?style=flat\" title=\"2026-09-11\" /></sub>",
       "open_issues": 0,
       "branches": 1,
@@ -1312,7 +1312,7 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Need to Upgrade",
-      "last_updated": "<br><sub><img alt=\"2026-09-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--11-22c55e?style=flat\" title=\"2026-09-11\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-09-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--16-22c55e?style=flat\" title=\"2026-09-16\" /></sub>",
       "open_issues": 2,
       "branches": 3,
       "open_prs": 2,
@@ -1356,7 +1356,7 @@
       "status": "Complete",
       "cloud_service_provider": null,
       "maturity": "beta",
-      "notes": "Not sending Slack messages, need to investigate",
+      "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"2026-09-15\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--15-22c55e?style=flat\" title=\"2026-09-15\" /></sub>",
       "open_issues": 0,
       "branches": 1,
@@ -1408,6 +1408,21 @@
       "open_prs": 0,
       "latest_release_tag": "v1.2.0",
       "size_mb": "249 KB"
+    },
+    {
+      "name": "cfn-destroy-wf",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/cfn-destroy-wf",
+      "description": "\u23f3 GitHub workflow for automated CloudFormation stack deletion with safety checks and validation",
+      "status": "In Progress",
+      "cloud_service_provider": null,
+      "maturity": "beta",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-15\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--15-22c55e?style=flat\" title=\"2026-09-15\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "141 KB"
     },
     {
       "name": "checkov-report-action",
@@ -1918,21 +1933,6 @@
       "open_prs": 0,
       "latest_release_tag": "v1.0.0",
       "size_mb": "481 KB"
-    },
-    {
-      "name": "cfn-destroy-wf",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/cfn-destroy-wf",
-      "description": "\u23f3 GitHub workflow for automated CloudFormation stack deletion with safety checks and validation",
-      "status": "Initiated",
-      "cloud_service_provider": null,
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-15\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--15-22c55e?style=flat\" title=\"2026-09-15\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
-      "open_prs": 0,
-      "latest_release_tag": null,
-      "size_mb": "141 KB"
     }
   ],
   "Terraform Snowflake Module": [
