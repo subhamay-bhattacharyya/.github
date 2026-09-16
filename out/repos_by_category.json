@@ -1232,16 +1232,16 @@
     {
       "name": "create-branch-action",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/create-branch-action",
-      "description": "\u2705 GitHub Composite Action - Auto Create Feature Branch",
+      "description": "\u2705 GitHub Composite Action that automates feature branch creation from issues. Automatically generates standardized branch names based on issue details, validates branch uniqueness, and creates branches with predefined naming conventions. Streamlines development workflow initialization and reduces manual branch management overhead.",
       "status": "Complete",
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"2026-09-15\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--15-22c55e?style=flat\" title=\"2026-09-15\" /></sub>",
-      "open_issues": 4,
-      "branches": 5,
-      "open_prs": 4,
-      "latest_release_tag": "v1.1.1",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": "v1.2.0",
       "size_mb": "570 KB"
     },
     {
