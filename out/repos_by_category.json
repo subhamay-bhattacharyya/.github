@@ -1407,7 +1407,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "224 KB"
+      "size_mb": "366 KB"
     },
     {
       "name": "cfn-deploy-action",
@@ -1613,11 +1613,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"2026-09-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--16-22c55e?style=flat\" title=\"2026-09-16\" /></sub>",
-      "open_issues": 2,
-      "branches": 3,
-      "open_prs": 1,
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "261 KB"
+      "size_mb": "398 KB"
     },
     {
       "name": "update-release-tags-wf",
@@ -1725,21 +1725,6 @@
       "size_mb": "291 KB"
     },
     {
-      "name": "build-state-machine-action",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/build-state-machine-action",
-      "description": "GitHub Composite Action - Build State Machine Deployment Package \u274c Marked for Deletion",
-      "status": "Initiated",
-      "cloud_service_provider": null,
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-12\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--12-22c55e?style=flat\" title=\"2026-09-12\" /></sub>",
-      "open_issues": 7,
-      "branches": 7,
-      "open_prs": 6,
-      "latest_release_tag": null,
-      "size_mb": "260 KB"
-    },
-    {
       "name": "setup-multi-cloud-environments-wf",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/setup-multi-cloud-environments-wf",
       "description": "GitHub Reusable Workflow to bootstrap Multi Cloud  Environments for (AWS, GCP and Azure). This version only supports one environment (devl). In future I have plans to support development, test and productions ",
@@ -1768,36 +1753,6 @@
       "open_prs": 0,
       "latest_release_tag": "v1.1.1",
       "size_mb": "924 KB"
-    },
-    {
-      "name": "deploy-lambda-action",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/deploy-lambda-action",
-      "description": "GitHub Composite Action - Package and deploy Lambda package",
-      "status": "Complete",
-      "cloud_service_provider": null,
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2025-12-26\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2025--12--26-ef4444?style=flat\" title=\"2025-12-26\" /></sub>",
-      "open_issues": 3,
-      "branches": 4,
-      "open_prs": 2,
-      "latest_release_tag": null,
-      "size_mb": "208 KB"
-    },
-    {
-      "name": "deploy-lambda-reusable-wf",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/deploy-lambda-reusable-wf",
-      "description": "GitHub Reusable workflow to package and deploy Lambda function using Ansible",
-      "status": "Complete",
-      "cloud_service_provider": null,
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2025-12-26\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2025--12--26-ef4444?style=flat\" title=\"2025-12-26\" /></sub>",
-      "open_issues": 2,
-      "branches": 3,
-      "open_prs": 2,
-      "latest_release_tag": null,
-      "size_mb": "147 KB"
     },
     {
       "name": "run-ansible-playbook-wf",
@@ -1848,7 +1803,7 @@
       "name": "terraform-checkov-scan-detector",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/terraform-checkov-scan-detector",
       "description": "\ud83c\udfd7\ufe0f GitHub Action to scan Terraform configurations, detect which cloud services and modules are used, and dynamically determine the relevant Checkov custom policy folders, built-in checks, custom checks, and skip rules to execute.",
-      "status": "Complete",
+      "status": "In Progress",
       "cloud_service_provider": null,
       "maturity": "experimental",
       "notes": "Not Available",
