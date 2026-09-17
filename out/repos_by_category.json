@@ -1252,7 +1252,7 @@
       "cloud_service_provider": null,
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-10\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--10-22c55e?style=flat\" title=\"2026-09-10\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-09-10\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--10-eab308?style=flat\" title=\"2026-09-10\" /></sub>",
       "open_issues": 0,
       "branches": 2,
       "open_prs": 0,
@@ -1440,6 +1440,21 @@
       "size_mb": "395 KB"
     },
     {
+      "name": "terraform-apply-wf",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/terraform-apply-wf",
+      "description": "GitHub Reusable Workflow to create a stack using Terraform Apply",
+      "status": "In Progress",
+      "cloud_service_provider": null,
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-17\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--17-22c55e?style=flat\" title=\"2026-09-17\" /></sub>",
+      "open_issues": 0,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "453 KB"
+    },
+    {
       "name": "tf-destroy-wf",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-destroy-wf",
       "description": "GitHub Reusable Workflow to tear down a stack using Terraform Destroy",
@@ -1482,7 +1497,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "448 KB"
+      "size_mb": "510 KB"
     },
     {
       "name": "tf-ci-reusable-wf",
@@ -1560,6 +1575,21 @@
       "size_mb": "428 KB"
     },
     {
+      "name": "cfn-yor-action",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/cfn-yor-action",
+      "description": "GitHub Composite Action - Add Git metadata tags to CloudFormation Template",
+      "status": "In Progress",
+      "cloud_service_provider": null,
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-17\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--17-22c55e?style=flat\" title=\"2026-09-17\" /></sub>",
+      "open_issues": 0,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": "v1.0.0",
+      "size_mb": "453 KB"
+    },
+    {
       "name": "cfn-validate-action",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/cfn-validate-action",
       "description": "GitHub Composite Action - CloudFormation Validate \u274c Marked for Deletion",
@@ -1587,7 +1617,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "687 KB"
+      "size_mb": "315 KB"
     },
     {
       "name": "tf-deploy-multi-reusable-wf",
@@ -1603,6 +1633,36 @@
       "open_prs": 0,
       "latest_release_tag": "v1.1.1",
       "size_mb": "924 KB"
+    },
+    {
+      "name": "run-ansible-playbook-wf",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/run-ansible-playbook-wf",
+      "description": "\u2705 Reusable GitHub Actions workflow for Ansible automation with built-in GitHub OIDC support for keyless, secure access to AWS, GCP, and Azure. Automates multi-cloud infrastructure provisioning without managing credentials, streamlines CI/CD pipelines with federated identity, and maintains audit-ready access logs.",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-17\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--17-22c55e?style=flat\" title=\"2026-09-17\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": "v1.0.0",
+      "size_mb": "682 KB"
+    },
+    {
+      "name": "multicloud-snowflake-stages-wf",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/multicloud-snowflake-stages-wf",
+      "description": "Provision Snowflake external stages across AWS S3, Google Cloud Storage, and Azure Blob using a single reusable GitHub workflow with Terraform + secure cloud identity (OIDC) and Snowflake key-pair auth.",
+      "status": "In Progress",
+      "cloud_service_provider": null,
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-17\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--17-22c55e?style=flat\" title=\"2026-09-17\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "160 KB"
     },
     {
       "name": "cfn-deploy-action",
@@ -1665,36 +1725,6 @@
       "size_mb": "7 KB"
     },
     {
-      "name": "cfn-yor-action",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/cfn-yor-action",
-      "description": "GitHub Composite Action - Add Git metadata tags to CloudFormation Template",
-      "status": "In Progress",
-      "cloud_service_provider": null,
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-17\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--17-22c55e?style=flat\" title=\"2026-09-17\" /></sub>",
-      "open_issues": 2,
-      "branches": 4,
-      "open_prs": 2,
-      "latest_release_tag": "v1.0.0",
-      "size_mb": "310 KB"
-    },
-    {
-      "name": "multicloud-snowflake-stages-wf",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/multicloud-snowflake-stages-wf",
-      "description": "Provision Snowflake external stages across AWS S3, Google Cloud Storage, and Azure Blob using a single reusable GitHub workflow with Terraform + secure cloud identity (OIDC) and Snowflake key-pair auth.",
-      "status": "Complete",
-      "cloud_service_provider": null,
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-01-19\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--01--19-ef4444?style=flat\" title=\"2026-01-19\" /></sub>",
-      "open_issues": 3,
-      "branches": 4,
-      "open_prs": 2,
-      "latest_release_tag": null,
-      "size_mb": "160 KB"
-    },
-    {
       "name": "tf-release-wf",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-release-wf",
       "description": "GitHub Reusable Workflow: Terraform Release",
@@ -1708,21 +1738,6 @@
       "open_prs": 3,
       "latest_release_tag": null,
       "size_mb": "268 KB"
-    },
-    {
-      "name": "terraform-apply-wf",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/terraform-apply-wf",
-      "description": "GitHub Reusable Workflow to create a stack using Terraform Apply",
-      "status": "Initiated",
-      "cloud_service_provider": null,
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-01-22\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--01--22-ef4444?style=flat\" title=\"2026-01-22\" /></sub>",
-      "open_issues": 6,
-      "branches": 8,
-      "open_prs": 6,
-      "latest_release_tag": null,
-      "size_mb": "453 KB"
     },
     {
       "name": "update-release-tags-wf",
@@ -1768,21 +1783,6 @@
       "open_prs": 6,
       "latest_release_tag": "v1.1.0",
       "size_mb": "342 KB"
-    },
-    {
-      "name": "run-ansible-playbook-wf",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/run-ansible-playbook-wf",
-      "description": "\u2705 Reusable GitHub Actions workflow for Ansible automation with built-in GitHub OIDC support for keyless, secure access to AWS, GCP, and Azure. Automates multi-cloud infrastructure provisioning without managing credentials, streamlines CI/CD pipelines with federated identity, and maintains audit-ready access logs.",
-      "status": "Complete",
-      "cloud_service_provider": null,
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--11-22c55e?style=flat\" title=\"2026-09-11\" /></sub>",
-      "open_issues": 9,
-      "branches": 10,
-      "open_prs": 8,
-      "latest_release_tag": "v1.0.0",
-      "size_mb": "682 KB"
     },
     {
       "name": "checkov-custom-policies",
