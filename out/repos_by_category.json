@@ -1553,11 +1553,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"2026-09-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--16-22c55e?style=flat\" title=\"2026-09-16\" /></sub>",
-      "open_issues": 6,
-      "branches": 7,
-      "open_prs": 6,
+      "open_issues": 3,
+      "branches": 4,
+      "open_prs": 3,
       "latest_release_tag": "v1.0.2",
-      "size_mb": "252 KB"
+      "size_mb": "253 KB"
     },
     {
       "name": "terraform-apply-wf",
