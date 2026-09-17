@@ -1395,6 +1395,21 @@
       "size_mb": "428 KB"
     },
     {
+      "name": "cfn-validate-action",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/cfn-validate-action",
+      "description": "GitHub Composite Action - CloudFormation Validate \u274c Marked for Deletion",
+      "status": "In Progress",
+      "cloud_service_provider": null,
+      "maturity": "beta",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--16-22c55e?style=flat\" title=\"2026-09-16\" /></sub>",
+      "open_issues": 0,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": "v1.0.0",
+      "size_mb": "224 KB"
+    },
+    {
       "name": "cfn-deploy-action",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/cfn-deploy-action",
       "description": "\u2705 GitHub reusable action for CloudFormation stack deployments with built-in OIDC authentication, template versioning via S3, changeset validation, and automated step summary output with stack outputs and resources.",
@@ -1538,11 +1553,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"2026-09-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--16-22c55e?style=flat\" title=\"2026-09-16\" /></sub>",
-      "open_issues": 1,
-      "branches": 3,
-      "open_prs": 1,
+      "open_issues": 0,
+      "branches": 2,
+      "open_prs": 0,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "639 KB"
+      "size_mb": "905 KB"
     },
     {
       "name": "infracost-action",
@@ -1557,7 +1572,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "v1.0.2",
-      "size_mb": "253 KB"
+      "size_mb": "395 KB"
     },
     {
       "name": "terraform-apply-wf",
@@ -1593,29 +1608,14 @@
       "name": "tf-drift-detection-wf",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-drift-detection-wf",
       "description": "GitHub Reusable Workflow to for Drift Detection of a Terraform Stack",
-      "status": "Initiated",
+      "status": "In Progress",
       "cloud_service_provider": null,
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2025-08-22\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2025--08--22-ef4444?style=flat\" title=\"2025-08-22\" /></sub>",
-      "open_issues": 7,
-      "branches": 8,
-      "open_prs": 6,
-      "latest_release_tag": null,
-      "size_mb": "261 KB"
-    },
-    {
-      "name": "tf-pr-merge-and-release-wf",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-pr-merge-and-release-wf",
-      "description": "GitHub Reusable Workflow to for Terraform Repository to Merge and Release a Pull Request ",
-      "status": "Initiated",
-      "cloud_service_provider": null,
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2025-08-22\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2025--08--22-ef4444?style=flat\" title=\"2025-08-22\" /></sub>",
-      "open_issues": 7,
-      "branches": 8,
-      "open_prs": 6,
+      "last_updated": "<br><sub><img alt=\"2026-09-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--16-22c55e?style=flat\" title=\"2026-09-16\" /></sub>",
+      "open_issues": 2,
+      "branches": 3,
+      "open_prs": 1,
       "latest_release_tag": null,
       "size_mb": "261 KB"
     },
@@ -1695,25 +1695,10 @@
       "size_mb": "268 KB"
     },
     {
-      "name": "cfn-read-deployment-params-action",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/cfn-read-deployment-params-action",
-      "description": "GitHub Composite Action: Read CloudFormation deployment parameters from a JSON file",
-      "status": "Initiated",
-      "cloud_service_provider": null,
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2025-08-22\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2025--08--22-ef4444?style=flat\" title=\"2025-08-22\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
-      "open_prs": 5,
-      "latest_release_tag": "v1.1.0",
-      "size_mb": "280 KB"
-    },
-    {
       "name": "cfn-yor-action",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/cfn-yor-action",
       "description": "GitHub Composite Action - Add Git metadata tags to CloudFormation Template",
-      "status": "Initiated",
+      "status": "In Progress",
       "cloud_service_provider": null,
       "maturity": "experimental",
       "notes": "Not Available",
@@ -1738,21 +1723,6 @@
       "open_prs": 6,
       "latest_release_tag": null,
       "size_mb": "291 KB"
-    },
-    {
-      "name": "cfn-validate-action",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/cfn-validate-action",
-      "description": "GitHub Composite Action - CloudFormation Validate \u274c Marked for Deletion",
-      "status": "Initiated",
-      "cloud_service_provider": null,
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--11-22c55e?style=flat\" title=\"2026-09-11\" /></sub>",
-      "open_issues": 6,
-      "branches": 7,
-      "open_prs": 6,
-      "latest_release_tag": "v1.0.0",
-      "size_mb": "224 KB"
     },
     {
       "name": "build-state-machine-action",
