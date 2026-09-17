@@ -1440,6 +1440,21 @@
       "size_mb": "395 KB"
     },
     {
+      "name": "tf-destroy-wf",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-destroy-wf",
+      "description": "GitHub Reusable Workflow to tear down a stack using Terraform Destroy",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-17\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--17-22c55e?style=flat\" title=\"2026-09-17\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": "v1.1.0",
+      "size_mb": "313 KB"
+    },
+    {
       "name": "tf-drift-detection-wf",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-drift-detection-wf",
       "description": "GitHub Reusable Workflow to for Drift Detection of a Terraform Stack",
@@ -1575,14 +1590,14 @@
       "size_mb": "481 KB"
     },
     {
-      "name": "cloudformation-deploy-wf",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/cloudformation-deploy-wf",
+      "name": "cfn-deploy-wf",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/cfn-deploy-wf",
       "description": "\u2705  A reusable GitHub Actions workflow for deploying AWS CloudFormation stacks with validation, linting, and safety checks. Standardizes IaC deployment pipelines across repositories.",
       "status": "Complete",
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Test and merge to main",
-      "last_updated": "<br><sub><img alt=\"2026-09-15\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--15-22c55e?style=flat\" title=\"2026-09-15\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-09-17\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--17-22c55e?style=flat\" title=\"2026-09-17\" /></sub>",
       "open_issues": 1,
       "branches": 1,
       "open_prs": 0,
@@ -1605,21 +1620,6 @@
       "size_mb": "141 KB"
     },
     {
-      "name": "tf-modules-wf",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/tf-modules-wf",
-      "description": "GitHub Reusable Workflow: Terraform Modules",
-      "status": "Complete",
-      "cloud_service_provider": null,
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2025-08-22\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2025--08--22-ef4444?style=flat\" title=\"2025-08-22\" /></sub>",
-      "open_issues": 3,
-      "branches": 3,
-      "open_prs": 1,
-      "latest_release_tag": null,
-      "size_mb": "26 KB"
-    },
-    {
       "name": "terraform-plugin-action",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/terraform-plugin-action",
       "description": "GitHub Composite Action - Install and cache Terraform plugin",
@@ -1633,21 +1633,6 @@
       "open_prs": 1,
       "latest_release_tag": null,
       "size_mb": "7 KB"
-    },
-    {
-      "name": "terraform-destroy-wf",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/terraform-destroy-wf",
-      "description": "GitHub Reusable Workflow to tear down a stack using Terraform Destroy",
-      "status": "Complete",
-      "cloud_service_provider": null,
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--11-22c55e?style=flat\" title=\"2026-09-11\" /></sub>",
-      "open_issues": 2,
-      "branches": 3,
-      "open_prs": 2,
-      "latest_release_tag": "v1.1.0",
-      "size_mb": "313 KB"
     },
     {
       "name": "multicloud-snowflake-stages-wf",
