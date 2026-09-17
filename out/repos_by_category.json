@@ -1677,7 +1677,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "268 KB"
+      "size_mb": "269 KB"
     },
     {
       "name": "cfn-yor-action",
@@ -1707,7 +1707,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "291 KB"
+      "size_mb": "427 KB"
     },
     {
       "name": "setup-multi-cloud-environments-wf",
