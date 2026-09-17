@@ -272,8 +272,8 @@ def main() -> None:
                 if project_category not in repos_by_category:
                     repos_by_category[project_category] = []
                 repos_by_category[project_category].append(repo_details)
-                # repos_by_category[project_category] = sorted(repos_by_category[project_category], key=lambda x: x['maturity'], reverse=False)
-                repos_by_category[project_category] = sorted(repos_by_category[project_category], key=lambda x: x['open_prs'], reverse=False)
+                repos_by_category[project_category] = sorted(repos_by_category[project_category], key=lambda x: x['maturity'], reverse=False)
+                # repos_by_category[project_category] = sorted(repos_by_category[project_category], key=lambda x: x['open_prs'], reverse=False)
 
 
     # Get the repository root (one level up from scripts directory)
