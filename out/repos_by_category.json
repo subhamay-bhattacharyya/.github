@@ -1452,7 +1452,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "453 KB"
+      "size_mb": "592 KB"
     },
     {
       "name": "tf-destroy-wf",
@@ -1647,7 +1647,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "682 KB"
+      "size_mb": "327 KB"
     },
     {
       "name": "multicloud-snowflake-stages-wf",
@@ -1662,7 +1662,22 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "160 KB"
+      "size_mb": "226 KB"
+    },
+    {
+      "name": "aws-project-onboarding",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/aws-project-onboarding",
+      "description": "\u2705  Reusable GitHub Actions workflow for standardized AWS project onboarding. Provisions HCP Terraform workspaces, GitHub Environments with AWS account variables, environment-tier deployment approval gates, and repository branch protection \u2014 all configured from a single project-config.json file per application repo.",
+      "status": "In Progress",
+      "cloud_service_provider": null,
+      "maturity": "experimental",
+      "notes": "Ready to release",
+      "last_updated": "<br><sub><img alt=\"2026-09-17\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--17-22c55e?style=flat\" title=\"2026-09-17\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": "v1.1.0",
+      "size_mb": "342 KB"
     },
     {
       "name": "cfn-deploy-action",
@@ -1770,21 +1785,6 @@
       "size_mb": "291 KB"
     },
     {
-      "name": "aws-project-onboarding",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/aws-project-onboarding",
-      "description": "\u2705  Reusable GitHub Actions workflow for standardized AWS project onboarding. Provisions HCP Terraform workspaces, GitHub Environments with AWS account variables, environment-tier deployment approval gates, and repository branch protection \u2014 all configured from a single project-config.json file per application repo.",
-      "status": "Complete",
-      "cloud_service_provider": null,
-      "maturity": "experimental",
-      "notes": "Ready to release",
-      "last_updated": "<br><sub><img alt=\"2026-06-18\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--06--18-ef4444?style=flat\" title=\"2026-06-18\" /></sub>",
-      "open_issues": 6,
-      "branches": 7,
-      "open_prs": 6,
-      "latest_release_tag": "v1.1.0",
-      "size_mb": "342 KB"
-    },
-    {
       "name": "checkov-custom-policies",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/checkov-custom-policies",
       "description": "\ud83c\udfd7\ufe0f A centralized repository for reusable custom Checkov policies, metadata-driven service-to-scan mappings, Terraform module detection logic, pass/fail test cases, and GitHub Actions automation. It enables consistent, scalable, and organization-wide IaC governance across Terraform repositories and cloud services.",
@@ -1792,10 +1792,10 @@
       "cloud_service_provider": null,
       "maturity": "experimental",
       "notes": "Initial build successful",
-      "last_updated": "<br><sub><img alt=\"2026-04-05\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--04--05-ef4444?style=flat\" title=\"2026-04-05\" /></sub>",
-      "open_issues": 9,
-      "branches": 10,
-      "open_prs": 8,
+      "last_updated": "<br><sub><img alt=\"2026-09-17\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--17-22c55e?style=flat\" title=\"2026-09-17\" /></sub>",
+      "open_issues": 7,
+      "branches": 8,
+      "open_prs": 6,
       "latest_release_tag": null,
       "size_mb": "363 KB"
     },
