@@ -95,6 +95,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 <table style="width:auto; border-collapse:collapse; margin:8px 0 16px 0; border:none">
   <tr>
     <td style="text-align:center; padding:10px;"><img src="../badges/claude-certified-architect-foundations.png" alt="Claude Certified Architect Foundation" width="110" /><br /><sub>Valid till: Aug 28, 2027</sub></td>
+    <td style="text-align:center; padding:10px;"><img src="../badges/claude-certified-associate-foundations.png" alt="Claude Certified Architect Foundation" width="110" /><br /><sub>Valid till: Sep 18, 2027</sub></td>
   </tr>
 </table>
 </details>
@@ -430,5 +431,5 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 Visit my **<a href="https://subhamay-bhattacharyya.github.io/.github" target="_blank" rel="noopener noreferrer">blog</a>** for articles on AWS architecture, Terraform, GitHub Actions, IAM, and cloud observability.
 ---
 
-*Last generated: 2026-09-18 20:04:36 EST*  
+*Last generated: 2026-09-18 20:50:40 EST*  
 *Total repositories: 167*
