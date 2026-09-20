@@ -1843,6 +1843,21 @@
       "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "20 KB"
+    },
+    {
+      "name": "cfn-delete-wf",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/cfn-delete-wf",
+      "description": "\u23f3 A reusable GitHub Actions workflow for secure CloudFormation stack deletion with validation gates, safety checks, and audit trails. Standardizes IaC deprovisioning workflows across teams and repositories.",
+      "status": "Initiated",
+      "cloud_service_provider": null,
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-19\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--19-22c55e?style=flat\" title=\"2026-09-19\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     }
   ],
   "Terraform Snowflake Module": [
