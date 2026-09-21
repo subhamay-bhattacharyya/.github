@@ -1302,7 +1302,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "978 KB"
+      "size_mb": "982 KB"
     },
     {
       "name": "tf-lint-action",
@@ -1372,10 +1372,10 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-15\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--15-22c55e?style=flat\" title=\"2026-09-15\" /></sub>",
-      "open_issues": 5,
-      "branches": 6,
-      "open_prs": 5,
+      "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
       "latest_release_tag": "v1.1.0",
       "size_mb": "694 KB"
     },
@@ -1392,7 +1392,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "439 KB"
+      "size_mb": "507 KB"
     },
     {
       "name": "cfn-validate-action",
@@ -1402,10 +1402,10 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--16-22c55e?style=flat\" title=\"2026-09-16\" /></sub>",
-      "open_issues": 8,
-      "branches": 10,
-      "open_prs": 8,
+      "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
+      "open_issues": 0,
+      "branches": 2,
+      "open_prs": 0,
       "latest_release_tag": "v1.0.0",
       "size_mb": "700 KB"
     },
@@ -1437,7 +1437,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "v1.2.0",
-      "size_mb": "56 KB"
+      "size_mb": "57 KB"
     },
     {
       "name": "cfn-destroy-wf",
@@ -1537,10 +1537,10 @@
       "cloud_service_provider": null,
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--16-22c55e?style=flat\" title=\"2026-09-16\" /></sub>",
-      "open_issues": 2,
-      "branches": 4,
-      "open_prs": 2,
+      "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
+      "open_issues": 0,
+      "branches": 2,
+      "open_prs": 0,
       "latest_release_tag": "v1.1.0",
       "size_mb": "1.01 MB"
     },
@@ -1687,10 +1687,10 @@
       "cloud_service_provider": null,
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-17\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--17-22c55e?style=flat\" title=\"2026-09-17\" /></sub>",
-      "open_issues": 7,
-      "branches": 9,
-      "open_prs": 7,
+      "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
+      "open_issues": 6,
+      "branches": 8,
+      "open_prs": 6,
       "latest_release_tag": "v1.0.0",
       "size_mb": "400 KB"
     },
@@ -1767,7 +1767,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "557 KB"
+      "size_mb": "688 KB"
     },
     {
       "name": "checkov-custom-policies",
@@ -1812,7 +1812,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "780 KB"
+      "size_mb": "93 KB"
     },
     {
       "name": "aws-project-onboarding",
