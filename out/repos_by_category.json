@@ -1302,7 +1302,7 @@
       "branches": 3,
       "open_prs": 2,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "974 KB"
+      "size_mb": "978 KB"
     },
     {
       "name": "tf-lint-action",
@@ -1377,7 +1377,7 @@
       "branches": 6,
       "open_prs": 5,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "373 KB"
+      "size_mb": "694 KB"
     },
     {
       "name": "cfn-lint-action",
@@ -1392,7 +1392,7 @@
       "branches": 9,
       "open_prs": 8,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "428 KB"
+      "size_mb": "439 KB"
     },
     {
       "name": "cfn-validate-action",
@@ -1407,7 +1407,7 @@
       "branches": 10,
       "open_prs": 8,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "366 KB"
+      "size_mb": "700 KB"
     },
     {
       "name": "cfn-deploy-action",
@@ -1422,7 +1422,7 @@
       "branches": 2,
       "open_prs": 1,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "481 KB"
+      "size_mb": "484 KB"
     },
     {
       "name": "cfn-deploy-wf",
@@ -1437,7 +1437,7 @@
       "branches": 2,
       "open_prs": 1,
       "latest_release_tag": "v1.2.0",
-      "size_mb": "249 KB"
+      "size_mb": "56 KB"
     },
     {
       "name": "cfn-destroy-wf",
@@ -1542,7 +1542,7 @@
       "branches": 4,
       "open_prs": 2,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "905 KB"
+      "size_mb": "1.01 MB"
     },
     {
       "name": "infracost-action",
@@ -1557,7 +1557,7 @@
       "branches": 11,
       "open_prs": 10,
       "latest_release_tag": "v1.0.2",
-      "size_mb": "395 KB"
+      "size_mb": "735 KB"
     },
     {
       "name": "terraform-apply-wf",
@@ -1572,7 +1572,7 @@
       "branches": 10,
       "open_prs": 8,
       "latest_release_tag": null,
-      "size_mb": "592 KB"
+      "size_mb": "422 KB"
     },
     {
       "name": "tf-destroy-wf",
@@ -1602,7 +1602,7 @@
       "branches": 10,
       "open_prs": 8,
       "latest_release_tag": null,
-      "size_mb": "398 KB"
+      "size_mb": "406 KB"
     },
     {
       "name": "update-release-tags-wf",
@@ -1692,7 +1692,7 @@
       "branches": 9,
       "open_prs": 7,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "453 KB"
+      "size_mb": "400 KB"
     },
     {
       "name": "cfn-release-wf",
@@ -1707,7 +1707,7 @@
       "branches": 10,
       "open_prs": 8,
       "latest_release_tag": null,
-      "size_mb": "427 KB"
+      "size_mb": "382 KB"
     },
     {
       "name": "setup-multi-cloud-environments-wf",
@@ -1722,7 +1722,7 @@
       "branches": 4,
       "open_prs": 2,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "315 KB"
+      "size_mb": "442 KB"
     },
     {
       "name": "tf-deploy-multi-reusable-wf",
@@ -1752,7 +1752,7 @@
       "branches": 3,
       "open_prs": 1,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "327 KB"
+      "size_mb": "390 KB"
     },
     {
       "name": "multicloud-snowflake-stages-wf",
@@ -1767,7 +1767,7 @@
       "branches": 10,
       "open_prs": 8,
       "latest_release_tag": null,
-      "size_mb": "226 KB"
+      "size_mb": "557 KB"
     },
     {
       "name": "checkov-custom-policies",
@@ -1782,7 +1782,7 @@
       "branches": 4,
       "open_prs": 2,
       "latest_release_tag": null,
-      "size_mb": "631 KB"
+      "size_mb": "759 KB"
     },
     {
       "name": "terraform-checkov-scan-detector",
@@ -1797,7 +1797,7 @@
       "branches": 4,
       "open_prs": 2,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "866 KB"
+      "size_mb": "483 KB"
     },
     {
       "name": "gcp-project-onboarding",
@@ -1812,7 +1812,7 @@
       "branches": 4,
       "open_prs": 2,
       "latest_release_tag": null,
-      "size_mb": "652 KB"
+      "size_mb": "780 KB"
     },
     {
       "name": "aws-project-onboarding",
@@ -2525,7 +2525,7 @@
       "branches": 2,
       "open_prs": 1,
       "latest_release_tag": "v1.2.1",
-      "size_mb": "184 KB"
+      "size_mb": "143 KB"
     },
     {
       "name": "cfn-nested-aws-ha-multi-az-vpc-subnets",
@@ -2540,7 +2540,7 @@
       "branches": 3,
       "open_prs": 1,
       "latest_release_tag": null,
-      "size_mb": "156 KB"
+      "size_mb": "145 KB"
     }
   ]
 }
