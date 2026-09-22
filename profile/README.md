@@ -297,6 +297,16 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 <details markdown="1">
 
+<summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ Amazon Web Services - CloudFormation (1)</span></h3></summary>
+
+| # | Repository | Description | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> |<img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" />|<img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pr" width="14" />| <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="size" width="12" />|
+|---|------------|-------------|-------------------|----------------|-------------|----------------|
+| 1 | ⚪ [epicbook-two-tier-website](https://github.com/subhamay-bhattacharyya/epicbook-two-tier-website) <br> <span style="color:#6b7280; font-size:11px;">Not available</span>&nbsp;![Release Tag](https://img.shields.io/github/v/release/subhamay-bhattacharyya/epicbook-two-tier-website?label=Tag)| CloudFormation automation for EpicBook three-tier web application deployment on AWS. Part of Pravin Mishra's DevOps Micro Internship (DMI) Cohort 3. Deploys Nginx frontend, Node.js backend, and MySQL RDS with secure VPC networking. Includes infrastructure code, security group configuration, and end-to-end validation. <sub><br>📝 DMI Cohort</sub><br><img src="https://img.shields.io/badge/Experimental-6b7280?style=flat" alt="Maturity: Experimental" />&nbsp;![Last Commit](https://img.shields.io/github/last-commit/subhamay-bhattacharyya/epicbook-two-tier-website)&nbsp;![Release Date](https://img.shields.io/github/release-date/subhamay-bhattacharyya/epicbook-two-tier-website) | 2 | 1 | 0 | 0 KB |
+
+</details>
+
+<details markdown="1">
+
 <summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ GitHub Reusable Action / Workflow (41)</span></h3></summary>
 
 | # | Repository | Description | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> |<img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" />|<img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pr" width="14" />| <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="size" width="12" />|
@@ -433,5 +443,5 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 Visit my **<a href="https://subhamay-bhattacharyya.github.io/.github" target="_blank" rel="noopener noreferrer">blog</a>** for articles on AWS architecture, Terraform, GitHub Actions, IAM, and cloud observability.
 ---
 
-*Last generated: 2026-09-22 12:04:23 EST*  
-*Total repositories: 169*
+*Last generated: 2026-09-22 13:03:29 EST*  
+*Total repositories: 170*
