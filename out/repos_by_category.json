@@ -1707,7 +1707,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "442 KB"
+      "size_mb": "443 KB"
     },
     {
       "name": "tf-deploy-multi-reusable-wf",
@@ -1782,7 +1782,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "483 KB"
+      "size_mb": "547 KB"
     },
     {
       "name": "gcp-project-onboarding",
@@ -1822,7 +1822,7 @@
       "cloud_service_provider": null,
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-18\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--18-22c55e?style=flat\" title=\"2026-09-18\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": 0,
@@ -2520,10 +2520,10 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": null,
-      "last_updated": "<br><sub><img alt=\"2026-09-15\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--15-22c55e?style=flat\" title=\"2026-09-15\" /></sub>",
-      "open_issues": 2,
-      "branches": 3,
-      "open_prs": 1,
+      "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "145 KB"
     }
