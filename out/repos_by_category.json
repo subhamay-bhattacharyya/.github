@@ -1557,7 +1557,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "v1.0.2",
-      "size_mb": "735 KB"
+      "size_mb": "228 KB"
     },
     {
       "name": "terraform-apply-wf",
@@ -1567,12 +1567,12 @@
       "cloud_service_provider": null,
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-17\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--17-22c55e?style=flat\" title=\"2026-09-17\" /></sub>",
-      "open_issues": 8,
-      "branches": 10,
-      "open_prs": 8,
+      "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
+      "open_issues": 0,
+      "branches": 2,
+      "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "422 KB"
+      "size_mb": "425 KB"
     },
     {
       "name": "tf-destroy-wf",
@@ -1597,27 +1597,12 @@
       "cloud_service_provider": null,
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--16-22c55e?style=flat\" title=\"2026-09-16\" /></sub>",
-      "open_issues": 9,
-      "branches": 10,
-      "open_prs": 8,
+      "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "406 KB"
-    },
-    {
-      "name": "update-release-tags-wf",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/update-release-tags-wf",
-      "description": "GitHub Reusable Workflow to update release tags and branches \u274c Marked for Deletion",
-      "status": "Marked for Deletion",
-      "cloud_service_provider": null,
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-17\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--17-22c55e?style=flat\" title=\"2026-09-17\" /></sub>",
-      "open_issues": 7,
-      "branches": 8,
-      "open_prs": 6,
-      "latest_release_tag": null,
-      "size_mb": "261 KB"
     },
     {
       "name": "tf-yor-action",
@@ -1792,10 +1777,10 @@
       "cloud_service_provider": null,
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-17\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--17-22c55e?style=flat\" title=\"2026-09-17\" /></sub>",
-      "open_issues": 3,
-      "branches": 4,
-      "open_prs": 2,
+      "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
       "latest_release_tag": "v1.0.0",
       "size_mb": "483 KB"
     },
