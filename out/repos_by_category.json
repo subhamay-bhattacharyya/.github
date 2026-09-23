@@ -1314,7 +1314,7 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-15\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--15-22c55e?style=flat\" title=\"2026-09-15\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-09-15\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--15-eab308?style=flat\" title=\"2026-09-15\" /></sub>",
       "open_issues": 0,
       "branches": 1,
       "open_prs": 0,
@@ -1404,7 +1404,7 @@
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-15\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--15-22c55e?style=flat\" title=\"2026-09-15\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-09-15\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--15-eab308?style=flat\" title=\"2026-09-15\" /></sub>",
       "open_issues": 0,
       "branches": 1,
       "open_prs": 0,
@@ -1469,7 +1469,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "485 KB"
+      "size_mb": "43 KB"
     },
     {
       "name": "cfn-deploy-wf",
@@ -1480,8 +1480,8 @@
       "maturity": "beta",
       "notes": "Test and merge to main",
       "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
-      "open_issues": 1,
-      "branches": 1,
+      "open_issues": 2,
+      "branches": 2,
       "open_prs": 0,
       "latest_release_tag": "v1.2.0",
       "size_mb": "57 KB"
@@ -1890,6 +1890,21 @@
       "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "22 KB"
+    },
+    {
+      "name": "cfn-ci-build-reusable-wf",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/cfn-ci-build-reusable-wf",
+      "description": "\u23f3 Reusable GitHub Actions workflow for building, validating, and testing CloudFormation templates as part of enterprise CI/CD pipelines. Automates template syntax checking, parameter validation, linting, and pre-deployment verification with comprehensive error handling and reporting.",
+      "status": "Initiated",
+      "cloud_service_provider": null,
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-22\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--22-22c55e?style=flat\" title=\"2026-09-22\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     }
   ],
   "Terraform Snowflake Module": [
@@ -2572,7 +2587,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "156 KB"
+      "size_mb": "165 KB"
     }
   ]
 }
