@@ -1484,7 +1484,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": "v1.2.0",
-      "size_mb": "57 KB"
+      "size_mb": "64 KB"
     },
     {
       "name": "cfn-destroy-wf",
