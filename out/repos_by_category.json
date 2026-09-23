@@ -1457,21 +1457,6 @@
       "size_mb": "249 KB"
     },
     {
-      "name": "cfn-deploy-action",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/cfn-deploy-action",
-      "description": "\u2705 GitHub reusable action for CloudFormation stack deployments with built-in OIDC authentication, template versioning via S3, changeset validation, and automated step summary output with stack outputs and resources.",
-      "status": "Upgrading",
-      "cloud_service_provider": null,
-      "maturity": "beta",
-      "notes": "Upgrade in Progress",
-      "last_updated": "<br><sub><img alt=\"2026-09-23\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--23-22c55e?style=flat\" title=\"2026-09-23\" /></sub>",
-      "open_issues": 1,
-      "branches": 1,
-      "open_prs": 0,
-      "latest_release_tag": "v1.0.0",
-      "size_mb": "43 KB"
-    },
-    {
       "name": "cfn-deploy-wf",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/cfn-deploy-wf",
       "description": "\u2705  A reusable GitHub Actions workflow for deploying AWS CloudFormation stacks with validation, linting, and safety checks. Standardizes IaC deployment pipelines across repositories.",
@@ -1905,6 +1890,21 @@
       "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "32 KB"
+    },
+    {
+      "name": "cfn-deploy-action",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/cfn-deploy-action",
+      "description": "\u2705 GitHub reusable action for CloudFormation stack deployments with built-in OIDC authentication, template versioning via S3, changeset validation, and automated step summary output with stack outputs and resources.",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "stable",
+      "notes": "Upgrade in Progress",
+      "last_updated": "<br><sub><img alt=\"2026-09-23\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--23-22c55e?style=flat\" title=\"2026-09-23\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": "v1.0.1",
+      "size_mb": "47 KB"
     }
   ],
   "Terraform Snowflake Module": [
@@ -2587,7 +2587,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "116 KB"
+      "size_mb": "119 KB"
     }
   ]
 }
