@@ -267,7 +267,8 @@ def main() -> None:
                 
                 # Get the ProjectCategory, default to "Others" if not set
                 project_category = custom_props.get("ProjectCategory", "Others")
-                project_category += f'( {repo_details.get("maturity","Not Set").capitalize()} )'
+                if project_category.find("GitHub Reusable Action / Workflow") == 0:
+                    project_category += f'( {repo_details.get("maturity","Not Set").capitalize()} )'
                 
                 # Add repo to the appropriate category list
                 if project_category not in repos_by_category:
