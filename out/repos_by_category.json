@@ -1791,16 +1791,16 @@
     {
       "name": "cfn-ci-build-reusable-wf",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/cfn-ci-build-reusable-wf",
-      "description": "\u23f3 Reusable GitHub Actions workflow for building, validating, and testing CloudFormation templates as part of enterprise CI/CD pipelines. Automates template syntax checking, parameter validation, linting, and pre-deployment verification with comprehensive error handling and reporting.",
-      "status": "In Progress",
+      "description": "\u2705 Reusable GitHub Actions workflow for building, validating, and testing CloudFormation templates as part of enterprise CI/CD pipelines. Automates template syntax checking, parameter validation, linting, and pre-deployment verification with comprehensive error handling and reporting.",
+      "status": "Complete",
       "cloud_service_provider": null,
       "maturity": "stable",
-      "notes": "Test throughly and standardize",
-      "last_updated": "<br><sub><img alt=\"2026-09-22\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--22-22c55e?style=flat\" title=\"2026-09-22\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-24\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--24-22c55e?style=flat\" title=\"2026-09-24\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": 0,
-      "latest_release_tag": null,
+      "latest_release_tag": "v1.0.0",
       "size_mb": "32 KB"
     }
   ],
