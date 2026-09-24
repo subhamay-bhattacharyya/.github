@@ -1705,21 +1705,6 @@
       "size_mb": "349 KB"
     },
     {
-      "name": "create-branch-action",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/create-branch-action",
-      "description": "\u2705 GitHub Composite Action that automates feature branch creation from issues. Automatically generates standardized branch names based on issue details, validates branch uniqueness, and creates branches with predefined naming conventions. Streamlines development workflow initialization and reduces manual branch management overhead.",
-      "status": "Complete",
-      "cloud_service_provider": null,
-      "maturity": "beta",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-15\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--15-eab308?style=flat\" title=\"2026-09-15\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": 0,
-      "latest_release_tag": "v1.2.0",
-      "size_mb": "638 KB"
-    },
-    {
       "name": "setup-aws-environments-wf",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/setup-aws-environments-wf",
       "description": "\u2705 Reusable GitHub Actions workflows for automated, configuration-driven AWS  environment bootstrapping with dynamic environment management, branch  protection rules, and AI-powered context for seamless multi-account AWS  infrastructure provisioning.",
@@ -1810,29 +1795,14 @@
       "size_mb": "285 KB"
     },
     {
-      "name": "slack-notification-wf",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/slack-notification-wf",
-      "description": "\u2705 Reusable GitHub Actions workflow that sends formatted Slack notifications to a channel via webhook when new issues or pull requests are created. Automatically formats messages based on event type for seamless team communication and issue tracking integration.",
-      "status": "Complete",
-      "cloud_service_provider": null,
-      "maturity": "beta",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-15\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--15-eab308?style=flat\" title=\"2026-09-15\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": 0,
-      "latest_release_tag": "v1.0.1",
-      "size_mb": "334 KB"
-    },
-    {
       "name": "cfn-delete-stack-action",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/cfn-delete-stack-action",
-      "description": "\u2705 GitHub Composite Action that automates secure CloudFormation stack deletion and cleanup. Safely removes AWS CloudFormation stacks with configurable retry logic, stack policy handling, and comprehensive error reporting. Supports dependency-aware deletion, optional rollback on failure, and detailed deletion status tracking.",
-      "status": "Upgrading",
+      "description": "\u2705 GitHub Composite Action that automates secure CloudFormation stack deletion and cleanup. Safely removes AWS CloudFormation stacks with configurable retry logic, stack policy handling, and comprehensive error reporting. Supports dependency-aware deletion, optional rollback on failure, and detailed deletion status tracking.  \u274c Marked for Deletion",
+      "status": "Marked for Deletion",
       "cloud_service_provider": null,
       "maturity": "beta",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-09-23\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--23-22c55e?style=flat\" title=\"2026-09-23\" /></sub>",
       "open_issues": 0,
       "branches": 1,
       "open_prs": 0,
@@ -1887,6 +1857,36 @@
   ],
   "GitHub Reusable Action / Workflow( Stable )": [
     {
+      "name": "create-branch-action",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/create-branch-action",
+      "description": "\u2705 GitHub Composite Action that automates feature branch creation from issues. Automatically generates standardized branch names based on issue details, validates branch uniqueness, and creates branches with predefined naming conventions. Streamlines development workflow initialization and reduces manual branch management overhead.",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "stable",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-15\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--15-eab308?style=flat\" title=\"2026-09-15\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": "v1.2.0",
+      "size_mb": "638 KB"
+    },
+    {
+      "name": "slack-notification-wf",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/slack-notification-wf",
+      "description": "\u2705 Reusable GitHub Actions workflow that sends formatted Slack notifications to a channel via webhook when new issues or pull requests are created. Automatically formats messages based on event type for seamless team communication and issue tracking integration.",
+      "status": "Complete",
+      "cloud_service_provider": null,
+      "maturity": "stable",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-23\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--23-22c55e?style=flat\" title=\"2026-09-23\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": "v1.0.1",
+      "size_mb": "334 KB"
+    },
+    {
       "name": "cfn-deploy-action",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/cfn-deploy-action",
       "description": "\u2705 GitHub reusable action for CloudFormation stack deployments with built-in OIDC authentication, template versioning via S3, changeset validation, and automated step summary output with stack outputs and resources.",
@@ -1910,11 +1910,11 @@
       "maturity": "stable",
       "notes": "Test and merge to main",
       "last_updated": "<br><sub><img alt=\"2026-09-23\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--23-22c55e?style=flat\" title=\"2026-09-23\" /></sub>",
-      "open_issues": 1,
-      "branches": 3,
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": 0,
-      "latest_release_tag": "v1.2.0",
-      "size_mb": "112 KB"
+      "latest_release_tag": "v1.3.0",
+      "size_mb": "125 KB"
     }
   ],
   "Terraform Snowflake Module( Stable )": [
