@@ -1777,7 +1777,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "20 KB"
+      "size_mb": "25 KB"
     },
     {
       "name": "cfn-delete-wf",
@@ -1792,7 +1792,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "23 KB"
+      "size_mb": "27 KB"
     },
     {
       "name": "cfn-ci-build-reusable-wf",
