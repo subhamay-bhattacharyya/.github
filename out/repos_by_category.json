@@ -1225,7 +1225,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "123 KB"
+      "size_mb": "139 KB"
     },
     {
       "name": "aws-private-subnet-cloudformation-fundamentals",
@@ -1797,11 +1797,11 @@
       "maturity": "stable",
       "notes": "[X] Repo Standardized",
       "last_updated": "<br><sub><img alt=\"2026-09-24\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--24-22c55e?style=flat\" title=\"2026-09-24\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "37 KB"
+      "size_mb": "43 KB"
     }
   ],
   "GitHub Reusable Action / Workflow( Beta )": [
