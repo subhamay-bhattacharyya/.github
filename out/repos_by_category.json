@@ -1750,13 +1750,13 @@
       "status": "Complete",
       "cloud_service_provider": null,
       "maturity": "stable",
-      "notes": "Repo Standardized | ",
+      "notes": "[X] Repo Standardized",
       "last_updated": "<br><sub><img alt=\"2026-09-24\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--24-22c55e?style=flat\" title=\"2026-09-24\" /></sub>",
       "open_issues": 0,
       "branches": 1,
       "open_prs": 0,
-      "latest_release_tag": "v1.3.1",
-      "size_mb": "125 KB"
+      "latest_release_tag": "v1.3.2",
+      "size_mb": "138 KB"
     },
     {
       "name": "cfn-delete-action",
@@ -1795,10 +1795,10 @@
       "status": "Complete",
       "cloud_service_provider": null,
       "maturity": "stable",
-      "notes": "Not Available",
+      "notes": "[X] Repo Standardized",
       "last_updated": "<br><sub><img alt=\"2026-09-24\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--24-22c55e?style=flat\" title=\"2026-09-24\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": 0,
       "latest_release_tag": "v1.0.0",
       "size_mb": "37 KB"
