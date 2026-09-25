@@ -1666,7 +1666,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": "v1.3.0",
-      "size_mb": "119 KB"
+      "size_mb": "122 KB"
     },
     {
       "name": "check-environments-action",
