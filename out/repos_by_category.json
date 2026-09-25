@@ -1225,7 +1225,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "139 KB"
+      "size_mb": "144 KB"
     },
     {
       "name": "aws-private-subnet-cloudformation-fundamentals",
@@ -1801,7 +1801,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "46 KB"
+      "size_mb": "55 KB"
     }
   ],
   "GitHub Reusable Action / Workflow( Beta )": [
