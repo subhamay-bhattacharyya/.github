@@ -1225,7 +1225,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "144 KB"
+      "size_mb": "152 KB"
     },
     {
       "name": "aws-private-subnet-cloudformation-fundamentals",
@@ -1756,7 +1756,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": "v1.3.2",
-      "size_mb": "141 KB"
+      "size_mb": "182 KB"
     },
     {
       "name": "cfn-delete-action",
