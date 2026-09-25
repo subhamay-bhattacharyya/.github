@@ -1756,7 +1756,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "v1.3.2",
-      "size_mb": "138 KB"
+      "size_mb": "142 KB"
     },
     {
       "name": "cfn-delete-action",
@@ -1801,7 +1801,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "43 KB"
+      "size_mb": "46 KB"
     }
   ],
   "GitHub Reusable Action / Workflow( Beta )": [
