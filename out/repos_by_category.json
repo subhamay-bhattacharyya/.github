@@ -1225,7 +1225,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "158 KB"
+      "size_mb": "162 KB"
     },
     {
       "name": "aws-private-subnet-cloudformation-fundamentals",
@@ -1722,8 +1722,8 @@
       "maturity": "stable",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": 0,
       "latest_release_tag": "v1.0.0",
       "size_mb": "507 KB"
@@ -1756,7 +1756,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": "v1.3.2",
-      "size_mb": "195 KB"
+      "size_mb": "215 KB"
     },
     {
       "name": "cfn-delete-action",
