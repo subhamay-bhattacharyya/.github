@@ -1671,17 +1671,17 @@
     {
       "name": "check-environments-action",
       "html_url": "https://github.com/subhamay-bhattacharyya-gha/check-environments-action",
-      "description": "\u23f3 GitHub JavaScript Action that retrieves and lists all available GitHub environments for a repository. Queries environment metadata including protection rules, deployment branches, and reviewer requirements. Enables dynamic workflow decisions based on environment availability. ",
+      "description": "\u2705 GitHub JavaScript Action that retrieves and lists all available GitHub environments for a repository. Queries environment metadata including protection rules, deployment branches, and reviewer requirements. Enables dynamic workflow decisions based on environment availability. ",
       "status": "Complete",
       "cloud_service_provider": null,
       "maturity": "stable",
-      "notes": "Standardize the repository",
+      "notes": "repository standardized",
       "last_updated": "<br><sub><img alt=\"2026-09-26\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--26-22c55e?style=flat\" title=\"2026-09-26\" /></sub>",
-      "open_issues": 1,
+      "open_issues": 0,
       "branches": 2,
       "open_prs": 0,
-      "latest_release_tag": "v1.1.0",
-      "size_mb": "982 KB"
+      "latest_release_tag": "v1.1.1",
+      "size_mb": "921 KB"
     },
     {
       "name": "create-release-action",
@@ -1737,7 +1737,7 @@
       "maturity": "stable",
       "notes": "repository standardized",
       "last_updated": "<br><sub><img alt=\"2026-09-25\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--25-22c55e?style=flat\" title=\"2026-09-25\" /></sub>",
-      "open_issues": 1,
+      "open_issues": 0,
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "v1.0.0",
@@ -1752,7 +1752,7 @@
       "maturity": "stable",
       "notes": "repository standardized",
       "last_updated": "<br><sub><img alt=\"2026-09-25\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--25-22c55e?style=flat\" title=\"2026-09-25\" /></sub>",
-      "open_issues": 1,
+      "open_issues": 0,
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "v1.1.0",
@@ -1782,11 +1782,11 @@
       "maturity": "stable",
       "notes": "repository standardized",
       "last_updated": "<br><sub><img alt=\"2026-09-26\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--26-22c55e?style=flat\" title=\"2026-09-26\" /></sub>",
-      "open_issues": 1,
+      "open_issues": 0,
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "25 KB"
+      "size_mb": "31 KB"
     },
     {
       "name": "cfn-delete-wf",
@@ -1812,7 +1812,7 @@
       "maturity": "stable",
       "notes": "repository standardized",
       "last_updated": "<br><sub><img alt=\"2026-09-25\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--25-22c55e?style=flat\" title=\"2026-09-25\" /></sub>",
-      "open_issues": 1,
+      "open_issues": 0,
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "v1.0.0",
@@ -2534,21 +2534,6 @@
   ],
   "CloudFormation Nested Stack": [
     {
-      "name": "cloudformation-template",
-      "html_url": "https://github.com/subhamay-bhattacharyya-cfn/cloudformation-template",
-      "description": "\u2705 AWS CloudFormation template repository with CLAUDE.md documentation and integrated Claude skills for infrastructure-as-code generation. Provides a structured foundation for building reusable CloudFormation templates with AI-assisted code generation, validation, and documentation workflows.",
-      "status": "Complete",
-      "cloud_service_provider": "AWS",
-      "maturity": "beta",
-      "notes": null,
-      "last_updated": "<br><sub><img alt=\"2026-09-15\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--15-eab308?style=flat\" title=\"2026-09-15\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
-      "open_prs": 1,
-      "latest_release_tag": "v1.2.1",
-      "size_mb": "143 KB"
-    },
-    {
       "name": "cfn-nested-aws-ha-multi-az-vpc-subnets",
       "html_url": "https://github.com/subhamay-bhattacharyya-cfn/cfn-nested-aws-ha-multi-az-vpc-subnets",
       "description": "\u23f3 Highly available multi-AZ VPC foundation with 2 public and 4 private subnets spanning multiple availability zones. Enables cross-AZ redundancy, automatic failover, and enterprise-grade resilience for mission-critical AWS workloads requiring zero-downtime deployments and disaster recovery.",
@@ -2562,6 +2547,21 @@
       "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "130 KB"
+    },
+    {
+      "name": "cloudformation-template",
+      "html_url": "https://github.com/subhamay-bhattacharyya-cfn/cloudformation-template",
+      "description": "\u2705 AWS CloudFormation template repository with CLAUDE.md documentation and integrated Claude skills for infrastructure-as-code generation. Provides a structured foundation for building reusable CloudFormation templates with AI-assisted code generation, validation, and documentation workflows.",
+      "status": "Complete",
+      "cloud_service_provider": "AWS",
+      "maturity": "stable",
+      "notes": null,
+      "last_updated": "<br><sub><img alt=\"2026-09-26\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--26-22c55e?style=flat\" title=\"2026-09-26\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": "v1.2.1",
+      "size_mb": "143 KB"
     }
   ]
 }
