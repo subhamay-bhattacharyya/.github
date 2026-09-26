@@ -1720,13 +1720,28 @@
       "status": "Complete",
       "cloud_service_provider": null,
       "maturity": "stable",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
+      "notes": "repository standardized",
+      "last_updated": "<br><sub><img alt=\"2026-09-25\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--25-22c55e?style=flat\" title=\"2026-09-25\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": 0,
+      "latest_release_tag": "v1.1.0",
+      "size_mb": "526 KB"
+    },
+    {
+      "name": "cfn-validate-action",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/cfn-validate-action",
+      "description": "\u2705 Reusable GitHub Composite Action for validating AWS CloudFormation templates in CI/CD pipelines. Checks template syntax with the AWS CLI and lints with cfn-lint to catch invalid resources, properties, and best-practice issues early. Drop it into any workflow to stop broken stacks before they reach deployment.",
+      "status": "In Progress",
+      "cloud_service_provider": null,
+      "maturity": "stable",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-25\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--25-22c55e?style=flat\" title=\"2026-09-25\" /></sub>",
+      "open_issues": 2,
+      "branches": 2,
+      "open_prs": 1,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "507 KB"
+      "size_mb": "249 KB"
     },
     {
       "name": "cfn-deploy-action",
@@ -1879,21 +1894,6 @@
       "open_prs": 0,
       "latest_release_tag": "v1.1.0",
       "size_mb": "758 KB"
-    },
-    {
-      "name": "cfn-validate-action",
-      "html_url": "https://github.com/subhamay-bhattacharyya-gha/cfn-validate-action",
-      "description": "GitHub Composite Action - CloudFormation Validate \u274c Marked for Deletion",
-      "status": "In Progress",
-      "cloud_service_provider": null,
-      "maturity": "beta",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
-      "open_issues": 0,
-      "branches": 2,
-      "open_prs": 0,
-      "latest_release_tag": "v1.0.0",
-      "size_mb": "249 KB"
     }
   ],
   "Terraform Snowflake Module": [
