@@ -1280,7 +1280,7 @@
       "name": "aws-stock-analytics-pipeline",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-stock-analytics-pipeline",
       "description": "\u23f3 Real-time stock market data analytics pipeline built on AWS.  Ingests streaming stock data via Amazon Kinesis, processes with Lambda,  detects anomalies, and stores in DynamoDB/S3. Features CloudFormation  infrastructure-as-code and GitHub Actions CI/CD workflows for automated deployment.",
-      "status": "Initialized",
+      "status": "In Progress",
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": ".<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS ADVANCED PROJECTS <br>\ud83d\udd39 Stock Market Real-Time Data Analytics Pipeline on AWS",
