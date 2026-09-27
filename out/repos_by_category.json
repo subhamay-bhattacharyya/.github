@@ -485,21 +485,6 @@
       "size_mb": "255 KB"
     },
     {
-      "name": "aws-receipt-processing-system",
-      "html_url": "https://github.com/subhamay-bhattacharyya/aws-receipt-processing-system",
-      "description": "\ud83c\udfd7\ufe0f Serverless, event-driven receipt processing system on AWS. Users upload receipts to Amazon S3, which triggers a Lambda function to extract structured data via Amazon Textract, persist results to DynamoDB, and dispatch email notifications through Amazon SES. Fully infrastructure-as-code managed for reproducible deployments. ",
-      "status": "Initialized",
-      "cloud_service_provider": "AWS",
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-04-30\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--04--30-ef4444?style=flat\" title=\"2026-04-30\" /></sub>",
-      "open_issues": 3,
-      "branches": 4,
-      "open_prs": 3,
-      "latest_release_tag": null,
-      "size_mb": "219 KB"
-    },
-    {
       "name": "aws-two-tier-todo-app",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-two-tier-todo-app",
       "description": "\ud83c\udfd7\ufe0f Highly available two-tier Todo web application on AWS. Deploys an Application Load Balancer fronting EC2 instances across two Availability Zones, with Amazon RDS hosted in private subnets for secure data persistence. Includes VPC, subnets, route tables, and security groups \u2014 all provisioned via infrastructure-as-code. ",
@@ -530,21 +515,6 @@
       "size_mb": "219 KB"
     },
     {
-      "name": "aws-event-announcement-site",
-      "html_url": "https://github.com/subhamay-bhattacharyya/aws-event-announcement-site",
-      "description": "\ud83c\udfd7\ufe0f Serverless event announcement website on AWS, fully event-driven from end to end. A static S3-hosted frontend calls API Gateway endpoints backed by Lambda functions to register events and capture subscribers, with Amazon SNS dispatching email notifications and events.json in S3 acting as the source of truth \u2014 all provisioned as code. ",
-      "status": "Initialized",
-      "cloud_service_provider": "AWS",
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-04-30\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--04--30-ef4444?style=flat\" title=\"2026-04-30\" /></sub>",
-      "open_issues": 3,
-      "branches": 4,
-      "open_prs": 3,
-      "latest_release_tag": null,
-      "size_mb": "219 KB"
-    },
-    {
       "name": "aws-data-lake-cart-abandonment",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-data-lake-cart-abandonment",
       "description": "\ud83c\udfd7\ufe0f Layered AWS data lake for analyzing e-commerce cart abandonment. Raw events from the backend land in an S3 raw zone, EventBridge-triggered Lambda functions process and aggregate them into a consumption zone, and a promotions Lambda reads the curated data to generate targeted discount offers for customers. Built as an AWS SimuLearn solution.",
@@ -558,21 +528,6 @@
       "open_prs": 3,
       "latest_release_tag": null,
       "size_mb": "219 KB"
-    },
-    {
-      "name": "secure-website-oac-waf",
-      "html_url": "https://github.com/subhamay-bhattacharyya/secure-website-oac-waf",
-      "description": "\ud83c\udfd7\ufe0f Secure, serverless static website hosted on AWS S3 with CloudFront, Origin Access Control, and HTTPS enforced. Protected by AWS WAF against SQLi, XSS, bots, and malicious traffic, with least-privilege IAM policies across all resources. CloudWatch and CloudTrail provide full logging, monitoring, and anomaly detection.",
-      "status": "Initialized",
-      "cloud_service_provider": "AWS",
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-06-18\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--06--18-ef4444?style=flat\" title=\"2026-06-18\" /></sub>",
-      "open_issues": 1,
-      "branches": 1,
-      "open_prs": 0,
-      "latest_release_tag": null,
-      "size_mb": "71 KB"
     }
   ],
   "Databricks - Terraform": [
@@ -1245,12 +1200,12 @@
     {
       "name": "aws-nat-gateway-cloudformation-fundamentals",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-nat-gateway-cloudformation-fundamentals",
-      "description": "\u23f3 CloudFormation templates and GitHub CI/CD automation for AWS NAT Gateway fundamentals. Create separate public subnet, deploy NAT Gateway, and configure private subnet routing for outbound internet access. Extends VPC fundamentals exercise.",
+      "description": "\ud83c\udfd7\ufe0f CloudFormation templates and GitHub CI/CD automation for AWS NAT Gateway fundamentals. Create separate public subnet, deploy NAT Gateway, and configure private subnet routing for outbound internet access. Extends VPC fundamentals exercise.",
       "status": "Initialized",
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-22\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--22-22c55e?style=flat\" title=\"2026-09-22\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-09-27\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--27-22c55e?style=flat\" title=\"2026-09-27\" /></sub>",
       "open_issues": 0,
       "branches": 1,
       "open_prs": 0,
@@ -1279,17 +1234,62 @@
     {
       "name": "aws-stock-analytics-pipeline",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-stock-analytics-pipeline",
-      "description": "\u23f3 Real-time stock market data analytics pipeline built on AWS.  Ingests streaming stock data via Amazon Kinesis, processes with Lambda,  detects anomalies, and stores in DynamoDB/S3. Features CloudFormation  infrastructure-as-code and GitHub Actions CI/CD workflows for automated deployment.",
+      "description": "\ud83c\udfd7\ufe0f Real-time stock market data analytics pipeline built on AWS.  Ingests streaming stock data via Amazon Kinesis, processes with Lambda,  detects anomalies, and stores in DynamoDB/S3. Features CloudFormation  infrastructure-as-code and GitHub Actions CI/CD workflows for automated deployment.",
       "status": "In Progress",
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": ".<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS ADVANCED PROJECTS <br>\ud83d\udd39 Stock Market Real-Time Data Analytics Pipeline on AWS",
-      "last_updated": "<br><sub><img alt=\"2026-09-26\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--26-22c55e?style=flat\" title=\"2026-09-26\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-09-27\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--27-22c55e?style=flat\" title=\"2026-09-27\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "87 KB"
+    },
+    {
+      "name": "aws-receipt-processing-system",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-receipt-processing-system",
+      "description": "\ud83c\udfd7\ufe0f Serverless, event-driven receipt processing system on AWS. Users upload receipts to Amazon S3, which triggers a Lambda function to extract structured data via Amazon Textract, persist results to DynamoDB, and dispatch email notifications through Amazon SES. Fully infrastructure-as-code managed for reproducible deployments.",
+      "status": "In Progress",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": ".<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS INTERMEDIATE PROJECTS <br>\ud83d\udd39 Automated AWS Receipt Processing System",
+      "last_updated": "<br><sub><img alt=\"2026-09-27\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--27-22c55e?style=flat\" title=\"2026-09-27\" /></sub>",
+      "open_issues": 1,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    },
+    {
+      "name": "secure-website-oac-waf",
+      "html_url": "https://github.com/subhamay-bhattacharyya/secure-website-oac-waf",
+      "description": "\ud83c\udfd7\ufe0f Secure, serverless static website hosted on AWS S3 with CloudFront, Origin Access Control, and HTTPS enforced. Protected by AWS WAF against SQLi, XSS, bots, and malicious traffic, with least-privilege IAM policies across all resources. CloudWatch and CloudTrail provide full logging, monitoring, and anomaly detection.",
+      "status": "In Progress",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": ".",
+      "last_updated": "<br><sub><img alt=\"2026-09-27\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--27-22c55e?style=flat\" title=\"2026-09-27\" /></sub>",
+      "open_issues": 1,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    },
+    {
+      "name": "aws-event-announcement-site",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-event-announcement-site",
+      "description": "\ud83c\udfd7\ufe0f Serverless event announcement website on AWS, fully event-driven from end to end. A static S3-hosted frontend calls API Gateway endpoints backed by Lambda functions to register events and capture subscribers, with Amazon SNS dispatching email notifications and events.json in S3 acting as the source of truth \u2014 all provisioned as code.",
+      "status": "In Progress",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": ".",
+      "last_updated": "<br><sub><img alt=\"2026-09-27\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--27-22c55e?style=flat\" title=\"2026-09-27\" /></sub>",
+      "open_issues": 1,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     }
   ],
   "GitHub Reusable Action / Workflow( Experimental )": [
@@ -2578,7 +2578,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "v1.2.1",
-      "size_mb": "144 KB"
+      "size_mb": "148 KB"
     }
   ]
 }
