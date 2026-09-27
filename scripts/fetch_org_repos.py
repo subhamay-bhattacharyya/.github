@@ -12,6 +12,93 @@ from zoneinfo import ZoneInfo
 
 GITHUB_API = "https://api.github.com"
 
+projects_dict = {
+  "BEGINNER": {
+    "PROJECT-1": "Build a daily task scheduler application using Amazon PartyRock",
+    "PROJECT-2": "Build an image labels generator using Amazon Rekognition",
+    "PROJECT-3": "Develop a text narrator using Amazon Polly",
+    "PROJECT-4": "Build a language translation bot using Amazon Lex",
+    "PROJECT-5": "Deploy a bucket list tracker application on AWS Amplify"
+  },
+  "INTERMEDIATE": {
+    "PROJECT-1": "Build an Event Announcement System using SNS, Lambda and API Gateway",
+    "PROJECT-2": "Data Pipeline for Processing CSV Files Using S3, Lambda, Glue, and QuickSight",
+    "PROJECT-3": "Automated AWS Receipt Processing System",
+    "PROJECT-4": "Serverless Cloud Dictionary Application",
+    "PROJECT-5": "Two-Tier Website Deployment on AWS using EC2, RDS and ALB"
+  },
+  "ADVANCED": {
+    "PROJECT-1": "Build a CI/CD Pipeline for the 2048 Game using AWS CodePipeline, ECS, and ECR",
+    "PROJECT-2": "Stock Market Real-Time Data Analytics Pipeline on AWS",
+    "PROJECT-3": "Building & Deploying a Cybersecurity Threat Detection System using Amazon SageMaker",
+    "PROJECT-4": "Multi-Cloud Weather Tracker website with Disaster Recovery using Terraform",
+    "PROJECT-5": "Traditional 3-Tier WordPress website Deployment on AWS"
+  },
+  "SUPPORT-ENGINEER": {
+    "PROJECT-1": "Containerized LMS Migration and Troubleshooting",
+    "PROJECT-2": "Implementing a CI/CD Pipeline for GlobalMart E-Commerce Platform",
+    "PROJECT-3": "Proactive Monitoring & Security Auto-Remediation for EC2",
+    "PROJECT-4": "Debugging a Broken Serverless Contact Form Workflow",
+    "PROJECT-5": "Repair Shop Application Deployment on AWS"
+  },
+  "SOLUTION-ARCHITECT": {
+    "PROJECT-1": "Secure Application Deployment on AWS (Security Pillar)",
+    "PROJECT-2": "Highly Available Architecture on AWS (Reliability Pillar)",
+    "PROJECT-3": "Real-Time AWS Operations from Slack (Operational Excellence Pillar)",
+    "PROJECT-4": "Serverless Inventory Management on AWS (Performance Efficiency Pillar)",
+    "PROJECT-5": "Automated Cost Governance on AWS (Cost Optimization Pillar)"
+  },
+  "DEVOPS-ENGINEER": {
+    "PROJECT-1": "Build a Production-Ready CI/CD Pipeline on AWS",
+    "PROJECT-2": "Infrastructure as Code (IaC) with Terraform for AWS Environments",
+    "PROJECT-3": "Kubernetes Deployment and Autoscaling on Amazon EKS",
+    "PROJECT-4": "Configuration Management with Ansible on AWS",
+    "PROJECT-5": "Monitoring, Alerting & Incident Response on AWS"
+  },
+  "SECURITY-ENGINEER": {
+    "PROJECT-1": "Secure Web Hosting on AWS: S3, CloudFront & WAF",
+    "PROJECT-2": "Identity & Access Security with Cognito and API Gateway",
+    "PROJECT-3": "Cloud Threat Detection & Security Audit",
+    "PROJECT-4": "Secure File Sharing & Malware Protection",
+    "PROJECT-5": "Secrets Management & Encryption for Applications"
+  },
+  "CLOUD-ENGINEER": {
+    "PROJECT-1": "On-Premise Application Migration to AWS",
+    "PROJECT-2": "Blue Green and Rolling Infrastructure Deployments",
+    "PROJECT-3": "Multi-VPC Networking and PrivateLink Architecture",
+    "PROJECT-4": "Event-Driven Order Processing System on AWS",
+    "PROJECT-5": "Global Accelerator-Based Multi-Region Failover on AWS"
+  },
+  "AIML-ENGINEER": {
+    "PROJECT-1": "Build a Serverless Smart Inbox with Real-Time Sentiment Analysis",
+    "PROJECT-2": "Intelligent FAQ Chatbot using Amazon Bedrock (RAG)",
+    "PROJECT-3": "Predicting Customer Subscriptions with Amazon SageMaker",
+    "PROJECT-4": "Image Emotion Detector using Hugging Face Vision Transformer",
+    "PROJECT-5": "AI-Powered Cloud Learning Assistant using Gemini API"
+  },
+  "CHETAN": {
+      "PROJECT-1": "AWS Networking Fundamentals"
+  }
+}
+
+platform_dict = {
+    "ZTC": "Zero To Cloud",
+    "UDEMY": "Udemy"
+}
+
+course_dict = {
+  "CHETAN": "Chetan Agarwal",
+  "BEGINNER": "AWS BEGINNER PROJECTS",
+  "INTERMEDIATE": "AWS INTERMEDIATE PROJECTS",
+  "ADVANCED": "AWS ADVANCED PROJECTS",
+  "SUPPORT-ENGINEER": "AWS SUPPORT ENGINEER PROJECTS",
+  "SOLUTION-ARCHITECT": "AWS SOLUTION ARCHIETCT PROJECTS",
+  "DEVOPS-ENGINEER": "AWS DEVOPS ENGINEER PROJECTS",
+  "SECURITY-ENGINEER": "AWS SECURITY ENGINEER PROJECTS",
+  "CLOUD-ENGINEER": "AWS CLOUD ENGINEER PROJECTS",
+  "AIML-ENGINEER": "AWS CLOUD AI/ML ENGINEER PROJECTS"
+}
+
 
 def get_relative_time_with_color(dt: datetime) -> str:
     """
@@ -80,7 +167,7 @@ def fetch_all_repositories(org: str) -> List[Dict]:
     per_page = 100
 
     while True:
-        url = f"{GITHUB_API}/orgs/{org}/repos"
+        url = f"{GITHUB_API}/orgs/{org}/repos"  
         params = {
             "per_page": per_page,
             "page": page,
@@ -234,6 +321,13 @@ def main() -> None:
                 branch_count = fetch_branch_count(org, name)
                 open_pr_count = fetch_open_pr_count(org, name)
                 latest_release_tag = fetch_latest_release_tag(org, name)
+                custom_tags = ""
+                if custom_props.get("Tags","").find("|") > 0:
+                    tags = custom_props.get("Tags","").split("|")
+                    custom_tags = f'<br>🔹{platform_dict.get(tags[0],"")} <br>🔹 {course_dict.get(tags[1],"")} <br>🔹 {projects_dict.get(tags[1],"").get(tags[2],"")}'
+                    # print(tags)
+                    # print("---")
+                    # print(custom_tags)
                 
                 # Convert updated_at to relative time with color
                 updated_at = repo.get("updated_at")
@@ -248,7 +342,7 @@ def main() -> None:
                         'src="https://img.shields.io/badge/Updated-N%2FA-6b7280?style=flat" '
                         'title="Updated N/A" /></sub>'
                     )
-                
+
                 repo_details = {
                     "name": name,
                     "html_url": repo.get("html_url"),
@@ -256,7 +350,7 @@ def main() -> None:
                     "status": custom_props.get("Status"),
                     "cloud_service_provider": "AWS" if custom_props.get("CloudServiceProvider") == "Amazon Web Service" else custom_props.get("CloudServiceProvider"),
                     "maturity": custom_props.get("Maturity"),
-                    "notes": custom_props.get("Notes"),
+                    "notes": f'{custom_props.get("Notes")}{custom_tags}',
                     "last_updated": last_updated,
                     "open_issues": repo.get("open_issues_count"),
                     "branches": branch_count,
