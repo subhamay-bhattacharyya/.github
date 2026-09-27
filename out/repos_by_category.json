@@ -1275,6 +1275,23 @@
       "size_mb": "77 KB"
     }
   ],
+  "AWS Complete Project using CloudFormation": [
+    {
+      "name": "aws-stock-analytics-pipeline",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-stock-analytics-pipeline",
+      "description": "\u23f3 Real-time stock market data analytics pipeline built on AWS.  Ingests streaming stock data via Amazon Kinesis, processes with Lambda,  detects anomalies, and stores in DynamoDB/S3. Features CloudFormation  infrastructure-as-code and GitHub Actions CI/CD workflows for automated deployment.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-26\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--26-22c55e?style=flat\" title=\"2026-09-26\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "87 KB"
+    }
+  ],
   "GitHub Reusable Action / Workflow( Experimental )": [
     {
       "name": "checkov-report-action",

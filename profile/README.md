@@ -307,6 +307,16 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 
 <details markdown="1">
 
+<summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ AWS Complete Project using CloudFormation (1)</span></h3></summary>
+
+| # | Repository | Description | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> |<img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" />|<img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pr" width="14" />| <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="size" width="12" />|
+|---|------------|-------------|-------------------|----------------|-------------|----------------|
+| 1 | ⚪ [aws-stock-analytics-pipeline](https://github.com/subhamay-bhattacharyya/aws-stock-analytics-pipeline) <br> <span style="color:#6b7280; font-size:11px;">Not available</span>&nbsp;![Release Tag](https://img.shields.io/github/v/release/subhamay-bhattacharyya/aws-stock-analytics-pipeline?label=Tag)| ⏳ Real-time stock market data analytics pipeline built on AWS. Ingests streaming stock data via Amazon Kinesis, processes with Lambda, detects anomalies, and stores in DynamoDB/S3. Features CloudFormation infrastructure-as-code and GitHub Actions CI/CD workflows for automated deployment.<br><img src="https://img.shields.io/badge/Experimental-6b7280?style=flat" alt="Maturity: Experimental" />&nbsp;![Last Commit](https://img.shields.io/github/last-commit/subhamay-bhattacharyya/aws-stock-analytics-pipeline)&nbsp;![Release Date](https://img.shields.io/github/release-date/subhamay-bhattacharyya/aws-stock-analytics-pipeline) | 2 | 1 | 0 | 87 KB |
+
+</details>
+
+<details markdown="1">
+
 <summary><h3 style="display: inline;"><span style="font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">☁️ GitHub Reusable Action / Workflow( Experimental ) (23)</span></h3></summary>
 
 | # | Repository | Description | <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-branch-16.svg" alt="branch" width="14" /> |<img src="https://raw.githubusercontent.com/primer/octicons/main/icons/issue-opened-16.svg" alt="issue" width="14" />|<img src="https://raw.githubusercontent.com/primer/octicons/main/icons/git-pull-request-16.svg" alt="pr" width="14" />| <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" alt="size" width="12" />|
@@ -460,5 +470,5 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 Visit my **<a href="https://subhamay-bhattacharyya.github.io/.github" target="_blank" rel="noopener noreferrer">blog</a>** for articles on AWS architecture, Terraform, GitHub Actions, IAM, and cloud observability.
 ---
 
-*Last generated: 2026-09-26 20:04:04 EST*  
-*Total repositories: 169*
+*Last generated: 2026-09-26 21:25:21 EST*  
+*Total repositories: 170*
