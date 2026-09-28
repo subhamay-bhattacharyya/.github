@@ -1334,7 +1334,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "81 KB"
     },
     {
       "name": "aws-csv-data-pipeline",
@@ -1343,13 +1343,13 @@
       "status": "Initialized",
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
-      "notes": "Not Available",
+      "notes": "Not Available<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS INTERMEDIATE PROJECTS <br>\ud83d\udd39 Data Pipeline for Processing CSV Files Using S3, Lambda, Glue, and QuickSight",
       "last_updated": "<br><sub><img alt=\"2026-09-27\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--27-22c55e?style=flat\" title=\"2026-09-27\" /></sub>",
       "open_issues": 0,
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "81 KB"
     },
     {
       "name": "aws-cloud-dictionary",
@@ -1364,7 +1364,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "81 KB"
     },
     {
       "name": "aws-todo-app-deployment",
@@ -1389,6 +1389,81 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "......<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS SECURITY ENGINEER PROJECTS <br>\ud83d\udd39 Identity & Access Security with Cognito and API Gateway",
+      "last_updated": "<br><sub><img alt=\"2026-09-27\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--27-22c55e?style=flat\" title=\"2026-09-27\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    },
+    {
+      "name": "aws-security-compliance-automation",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-security-compliance-automation",
+      "description": "\ud83c\udfd7\ufe0f Cloud threat detection & security audit system using GuardDuty, AWS Config, Lambda, and CloudFormation for proactive security monitoring and compliance automation.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": ".....<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS SECURITY ENGINEER PROJECTS <br>\ud83d\udd39 Cloud Threat Detection & Security Audit",
+      "last_updated": "<br><sub><img alt=\"2026-09-27\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--27-22c55e?style=flat\" title=\"2026-09-27\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    },
+    {
+      "name": "aws-secure-file-sharing-protection",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-secure-file-sharing-protection",
+      "description": "\ud83c\udfd7\ufe0f AWS-based secure file-sharing service with real-time malware detection, sensitive data protection, and DDoS mitigation using S3 Object Lambda, Amazon Macie, and CloudFront",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "........<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS SECURITY ENGINEER PROJECTS <br>\ud83d\udd39 Secure File Sharing & Malware Protection",
+      "last_updated": "<br><sub><img alt=\"2026-09-27\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--27-22c55e?style=flat\" title=\"2026-09-27\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    },
+    {
+      "name": "aws-secrets-encryption-system",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-secrets-encryption-system",
+      "description": "\ud83c\udfd7\ufe0f Production-grade secrets management & encryption system using AWS Secrets Manager,  KMS, and Lambda with automated rotation, least-privilege IAM, and compliance auditing.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-27\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--27-22c55e?style=flat\" title=\"2026-09-27\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    },
+    {
+      "name": "aws-securecart-hardening",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-securecart-hardening",
+      "description": "\ud83c\udfd7\ufe0f End-to-end AWS security architecture redesign for SecureCart e-commerce platform. Demonstrates VPC-based network isolation, private EC2/RDS deployment patterns, public ALB ingress, bastion host setup, IAM role enforcement, S3 private access controls, and AWS WAF implementation. Complete with IaC templates and architectural documentation.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "......<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS SOLUTION ARCHIETCT PROJECTS <br>\ud83d\udd39 Secure Application Deployment on AWS (Security Pillar)",
+      "last_updated": "<br><sub><img alt=\"2026-09-27\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--27-22c55e?style=flat\" title=\"2026-09-27\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    },
+    {
+      "name": "aws-healthcare-ha-infrastructure",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-healthcare-ha-infrastructure",
+      "description": "\ud83c\udfd7\ufe0f Multi-AZ fault-tolerant infrastructure for MediCare Hub medical application  on AWS. Implements auto-scaling, self-healing EC2 instances, RDS Multi-AZ,  Route 53 DNS failover, and ALB-based traffic distribution aligned with the  AWS Well-Architected Framework Reliability Pillar.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS SOLUTION ARCHIETCT PROJECTS <br>\ud83d\udd39 Highly Available Architecture on AWS (Reliability Pillar)",
       "last_updated": "<br><sub><img alt=\"2026-09-27\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--27-22c55e?style=flat\" title=\"2026-09-27\" /></sub>",
       "open_issues": 0,
       "branches": 1,
