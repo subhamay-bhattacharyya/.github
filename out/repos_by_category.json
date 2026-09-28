@@ -1874,7 +1874,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "81 KB"
     }
   ],
   "GitHub Reusable Action / Workflow( Experimental )": [
@@ -2081,7 +2081,7 @@
       "cloud_service_provider": null,
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-eab308?style=flat\" title=\"2026-09-21\" /></sub>",
       "open_issues": 2,
       "branches": 4,
       "open_prs": 2,
@@ -2096,7 +2096,7 @@
       "cloud_service_provider": null,
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-eab308?style=flat\" title=\"2026-09-21\" /></sub>",
       "open_issues": 3,
       "branches": 4,
       "open_prs": 2,
@@ -2141,7 +2141,7 @@
       "cloud_service_provider": null,
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-eab308?style=flat\" title=\"2026-09-21\" /></sub>",
       "open_issues": 2,
       "branches": 3,
       "open_prs": 1,
@@ -3149,6 +3149,21 @@
       "open_prs": 3,
       "latest_release_tag": null,
       "size_mb": "199 KB"
+    },
+    {
+      "name": "cfn-nested-aws-s3-bucket",
+      "html_url": "https://github.com/subhamay-bhattacharyya-cfn/cfn-nested-aws-s3-bucket",
+      "description": "\ud83c\udfd7\ufe0f AWS CloudFormation nested stack template for provisioning production-grade S3 buckets with configurable encryption, versioning, lifecycle policies, access logging, and comprehensive tagging support.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "None",
+      "last_updated": "<br><sub><img alt=\"2026-09-28\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--28-22c55e?style=flat\" title=\"2026-09-28\" /></sub>",
+      "open_issues": 2,
+      "branches": 3,
+      "open_prs": 2,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     },
     {
       "name": "cloudformation-template",
