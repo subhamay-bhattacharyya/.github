@@ -1589,7 +1589,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "81 KB"
     },
     {
       "name": "aws-zero-downtime-deployments",
@@ -1604,7 +1604,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "81 KB"
     },
     {
       "name": "aws-multi-vpc-privatelink",
@@ -1619,7 +1619,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "81 KB"
     },
     {
       "name": "aws-serverless-order-pipeline",
@@ -1634,7 +1634,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "81 KB"
     },
     {
       "name": "aws-global-accelerator-multi-region",
@@ -1649,7 +1649,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "81 KB"
     },
     {
       "name": "aws-serverless-emotion-detection",
@@ -1658,7 +1658,52 @@
       "status": "Initialized",
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
-      "notes": "..................<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS CLOUD AI/ML ENGINEER PROJECTS <br>\ud83d\udd39 Build a Serverless Smart Inbox with Real-Time Sentiment Analysis",
+      "notes": "..................<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS CLOUD AI/ML ENGINEER PROJECTS <br>\ud83d\udd39 Image Emotion Detector using Hugging Face Vision Transformer",
+      "last_updated": "<br><sub><img alt=\"2026-09-28\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--28-22c55e?style=flat\" title=\"2026-09-28\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "81 KB"
+    },
+    {
+      "name": "aws-bedrock-faq-chatbot",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-bedrock-faq-chatbot",
+      "description": "\ud83c\udfd7\ufe0f A secure, enterprise-ready FAQ chatbot powered by Amazon Bedrock Knowledge Bases.  Demonstrates RAG (Retrieval-Augmented Generation) with grounded Q&A, no hallucinations,  and document-aware responses. Built with Lambda Function URL backend, S3-hosted frontend,  and fully contained within AWS for security and compliance.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-09-28\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--28-22c55e?style=flat\" title=\"2026-09-28\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    },
+    {
+      "name": "bedrock-rag-faq-chatbo",
+      "html_url": "https://github.com/subhamay-bhattacharyya/bedrock-rag-faq-chatbo",
+      "description": "\ud83c\udfd7\ufe0f Enterprise FAQ chatbot using Amazon Bedrock Knowledge Bases for document-grounded Q&A with serverless Lambda backend and S3-hosted web interface.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS CLOUD AI/ML ENGINEER PROJECTS <br>\ud83d\udd39 Intelligent FAQ Chatbot using Amazon Bedrock (RAG)",
+      "last_updated": "<br><sub><img alt=\"2026-09-28\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--28-22c55e?style=flat\" title=\"2026-09-28\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    },
+    {
+      "name": "aws-agemaker-subscription-prediction-api",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-agemaker-subscription-prediction-api",
+      "description": "\ud83c\udfd7\ufe0f Real-time machine learning API for predicting customer subscription likelihood using Amazon SageMaker, XGBoost, and automated deployment to SageMaker endpoints.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS CLOUD AI/ML ENGINEER PROJECTS <br>\ud83d\udd39 Predicting Customer Subscriptions with Amazon SageMaker",
       "last_updated": "<br><sub><img alt=\"2026-09-28\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--28-22c55e?style=flat\" title=\"2026-09-28\" /></sub>",
       "open_issues": 0,
       "branches": 1,
