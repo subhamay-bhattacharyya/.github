@@ -1632,11 +1632,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"2026-09-10\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--10-eab308?style=flat\" title=\"2026-09-10\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": 0,
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 1,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "247 KB"
+      "size_mb": "309 KB"
     },
     {
       "name": "tf-validate-action",
@@ -1647,11 +1647,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"2026-09-10\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--10-eab308?style=flat\" title=\"2026-09-10\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": 0,
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 1,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "623 KB"
+      "size_mb": "687 KB"
     },
     {
       "name": "tf-destroy-action",
@@ -1662,11 +1662,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
-      "open_issues": 0,
-      "branches": 2,
-      "open_prs": 0,
+      "open_issues": 1,
+      "branches": 3,
+      "open_prs": 1,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "1.07 MB"
+      "size_mb": "147 KB"
     },
     {
       "name": "infracost-action",
@@ -1677,11 +1677,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": 0,
+      "open_issues": 3,
+      "branches": 4,
+      "open_prs": 3,
       "latest_release_tag": "v1.0.2",
-      "size_mb": "228 KB"
+      "size_mb": "357 KB"
     },
     {
       "name": "terraform-apply-wf",
@@ -1692,11 +1692,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
-      "open_issues": 0,
-      "branches": 2,
-      "open_prs": 0,
+      "open_issues": 2,
+      "branches": 4,
+      "open_prs": 2,
       "latest_release_tag": null,
-      "size_mb": "425 KB"
+      "size_mb": "549 KB"
     },
     {
       "name": "tf-destroy-wf",
@@ -1707,11 +1707,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"2026-09-17\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--17-eab308?style=flat\" title=\"2026-09-17\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": 0,
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 1,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "377 KB"
+      "size_mb": "441 KB"
     },
     {
       "name": "tf-drift-detection-wf",
@@ -1722,11 +1722,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
-      "open_prs": 0,
+      "open_issues": 3,
+      "branches": 4,
+      "open_prs": 2,
       "latest_release_tag": null,
-      "size_mb": "475 KB"
+      "size_mb": "600 KB"
     },
     {
       "name": "tf-yor-action",
@@ -1737,11 +1737,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"2026-09-17\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--17-eab308?style=flat\" title=\"2026-09-17\" /></sub>",
-      "open_issues": 1,
-      "branches": 1,
-      "open_prs": 0,
+      "open_issues": 2,
+      "branches": 2,
+      "open_prs": 1,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "510 KB"
+      "size_mb": "572 KB"
     },
     {
       "name": "tf-ci-reusable-wf",
@@ -1752,11 +1752,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"2026-09-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--11-eab308?style=flat\" title=\"2026-09-11\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": 0,
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 1,
       "latest_release_tag": "v1.3.0",
-      "size_mb": "350 KB"
+      "size_mb": "414 KB"
     },
     {
       "name": "tf-release-wf",
@@ -1767,11 +1767,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"2026-09-17\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--17-eab308?style=flat\" title=\"2026-09-17\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": 0,
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 1,
       "latest_release_tag": null,
-      "size_mb": "269 KB"
+      "size_mb": "331 KB"
     },
     {
       "name": "cfn-yor-action",
@@ -1782,11 +1782,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
-      "open_issues": 0,
-      "branches": 2,
-      "open_prs": 0,
+      "open_issues": 2,
+      "branches": 4,
+      "open_prs": 2,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "534 KB"
+      "size_mb": "660 KB"
     },
     {
       "name": "cfn-release-wf",
@@ -1797,11 +1797,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
-      "open_prs": 0,
+      "open_issues": 3,
+      "branches": 4,
+      "open_prs": 2,
       "latest_release_tag": null,
-      "size_mb": "516 KB"
+      "size_mb": "642 KB"
     },
     {
       "name": "setup-multi-cloud-environments-wf",
@@ -1812,11 +1812,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
-      "open_prs": 0,
+      "open_issues": 2,
+      "branches": 3,
+      "open_prs": 1,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "443 KB"
+      "size_mb": "507 KB"
     },
     {
       "name": "tf-deploy-multi-reusable-wf",
@@ -1827,11 +1827,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"2026-09-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--11-eab308?style=flat\" title=\"2026-09-11\" /></sub>",
-      "open_issues": 0,
-      "branches": 2,
-      "open_prs": 0,
+      "open_issues": 1,
+      "branches": 3,
+      "open_prs": 1,
       "latest_release_tag": "v1.1.1",
-      "size_mb": "924 KB"
+      "size_mb": "988 KB"
     },
     {
       "name": "run-ansible-playbook-wf",
@@ -1842,11 +1842,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
-      "open_prs": 0,
+      "open_issues": 2,
+      "branches": 3,
+      "open_prs": 1,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "391 KB"
+      "size_mb": "454 KB"
     },
     {
       "name": "multicloud-snowflake-stages-wf",
@@ -1857,11 +1857,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
-      "open_prs": 0,
+      "open_issues": 2,
+      "branches": 3,
+      "open_prs": 1,
       "latest_release_tag": null,
-      "size_mb": "688 KB"
+      "size_mb": "751 KB"
     },
     {
       "name": "checkov-custom-policies",
@@ -1872,11 +1872,11 @@
       "maturity": "experimental",
       "notes": "Initial build successful",
       "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
-      "open_prs": 0,
+      "open_issues": 2,
+      "branches": 3,
+      "open_prs": 1,
       "latest_release_tag": null,
-      "size_mb": "759 KB"
+      "size_mb": "823 KB"
     },
     {
       "name": "terraform-checkov-scan-detector",
@@ -1887,11 +1887,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
-      "open_prs": 0,
+      "open_issues": 2,
+      "branches": 3,
+      "open_prs": 1,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "547 KB"
+      "size_mb": "610 KB"
     },
     {
       "name": "gcp-project-onboarding",
@@ -1902,11 +1902,11 @@
       "maturity": "experimental",
       "notes": "Not Available",
       "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
-      "open_prs": 0,
+      "open_issues": 2,
+      "branches": 3,
+      "open_prs": 1,
       "latest_release_tag": null,
-      "size_mb": "93 KB"
+      "size_mb": "156 KB"
     },
     {
       "name": "aws-project-onboarding",
@@ -1917,11 +1917,11 @@
       "maturity": "experimental",
       "notes": "Ready to release",
       "last_updated": "<br><sub><img alt=\"2026-09-17\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--17-eab308?style=flat\" title=\"2026-09-17\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": 0,
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 1,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "540 KB"
+      "size_mb": "604 KB"
     }
   ],
   "GitHub Reusable Action / Workflow( Stable )": [
@@ -1934,11 +1934,11 @@
       "maturity": "stable",
       "notes": "Standardize the repository",
       "last_updated": "<br><sub><img alt=\"2026-09-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--16-eab308?style=flat\" title=\"2026-09-16\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
-      "open_prs": 0,
+      "open_issues": 2,
+      "branches": 3,
+      "open_prs": 1,
       "latest_release_tag": "v1.1.2",
-      "size_mb": "349 KB"
+      "size_mb": "412 KB"
     },
     {
       "name": "create-branch-action",
@@ -1949,11 +1949,11 @@
       "maturity": "stable",
       "notes": "repository standardized",
       "last_updated": "<br><sub><img alt=\"2026-09-26\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--26-22c55e?style=flat\" title=\"2026-09-26\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": 0,
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 1,
       "latest_release_tag": "v1.2.0",
-      "size_mb": "140 KB"
+      "size_mb": "202 KB"
     },
     {
       "name": "setup-aws-environments-wf",
@@ -1964,11 +1964,11 @@
       "maturity": "stable",
       "notes": "repository standardized",
       "last_updated": "<br><sub><img alt=\"2026-09-25\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--25-22c55e?style=flat\" title=\"2026-09-25\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": 0,
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 1,
       "latest_release_tag": "v1.4.0",
-      "size_mb": "131 KB"
+      "size_mb": "193 KB"
     },
     {
       "name": "check-environments-action",
@@ -1979,11 +1979,11 @@
       "maturity": "stable",
       "notes": "repository standardized",
       "last_updated": "<br><sub><img alt=\"2026-09-26\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--26-22c55e?style=flat\" title=\"2026-09-26\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": 0,
+      "open_issues": 5,
+      "branches": 6,
+      "open_prs": 5,
       "latest_release_tag": "v1.1.1",
-      "size_mb": "921 KB"
+      "size_mb": "1.24 MB"
     },
     {
       "name": "create-release-action",
@@ -1994,11 +1994,11 @@
       "maturity": "stable",
       "notes": "repository standardized",
       "last_updated": "<br><sub><img alt=\"2026-09-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--11-eab308?style=flat\" title=\"2026-09-11\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": 0,
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 1,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "383 KB"
+      "size_mb": "447 KB"
     },
     {
       "name": "slack-notification-wf",
@@ -2009,11 +2009,11 @@
       "maturity": "stable",
       "notes": "repository standardized",
       "last_updated": "<br><sub><img alt=\"2026-09-23\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--23-22c55e?style=flat\" title=\"2026-09-23\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": 0,
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 1,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "336 KB"
+      "size_mb": "400 KB"
     },
     {
       "name": "cfn-lint-action",
@@ -2024,11 +2024,11 @@
       "maturity": "stable",
       "notes": "repository standardized",
       "last_updated": "<br><sub><img alt=\"2026-09-25\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--25-22c55e?style=flat\" title=\"2026-09-25\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": 0,
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 1,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "526 KB"
+      "size_mb": "588 KB"
     },
     {
       "name": "cfn-validate-action",
@@ -2039,11 +2039,11 @@
       "maturity": "stable",
       "notes": "repository standardized",
       "last_updated": "<br><sub><img alt=\"2026-09-25\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--25-22c55e?style=flat\" title=\"2026-09-25\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": 0,
+      "open_issues": 2,
+      "branches": 3,
+      "open_prs": 2,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "261 KB"
+      "size_mb": "385 KB"
     },
     {
       "name": "cfn-deploy-action",
@@ -2054,11 +2054,11 @@
       "maturity": "stable",
       "notes": "repository standardized",
       "last_updated": "<br><sub><img alt=\"2026-09-25\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--25-22c55e?style=flat\" title=\"2026-09-25\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": 0,
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 1,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "54 KB"
+      "size_mb": "118 KB"
     },
     {
       "name": "cfn-deploy-wf",
@@ -2069,11 +2069,11 @@
       "maturity": "stable",
       "notes": "repository standardized",
       "last_updated": "<br><sub><img alt=\"2026-09-25\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--25-22c55e?style=flat\" title=\"2026-09-25\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": 0,
+      "open_issues": 2,
+      "branches": 3,
+      "open_prs": 2,
       "latest_release_tag": "v1.4.0",
-      "size_mb": "228 KB"
+      "size_mb": "304 KB"
     },
     {
       "name": "cfn-delete-action",
@@ -2084,11 +2084,11 @@
       "maturity": "stable",
       "notes": "repository standardized",
       "last_updated": "<br><sub><img alt=\"2026-09-26\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--26-22c55e?style=flat\" title=\"2026-09-26\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": 0,
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 1,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "31 KB"
+      "size_mb": "95 KB"
     },
     {
       "name": "cfn-delete-wf",
@@ -2099,11 +2099,11 @@
       "maturity": "stable",
       "notes": "repository standardized",
       "last_updated": "<br><sub><img alt=\"2026-09-23\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--23-22c55e?style=flat\" title=\"2026-09-23\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": 0,
+      "open_issues": 2,
+      "branches": 3,
+      "open_prs": 2,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "27 KB"
+      "size_mb": "95 KB"
     },
     {
       "name": "cfn-ci-build-reusable-wf",
@@ -2114,11 +2114,11 @@
       "maturity": "stable",
       "notes": "repository standardized",
       "last_updated": "<br><sub><img alt=\"2026-09-25\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--25-22c55e?style=flat\" title=\"2026-09-25\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": 0,
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 1,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "57 KB"
+      "size_mb": "120 KB"
     }
   ],
   "GitHub Reusable Action / Workflow( Beta )": [
@@ -2131,11 +2131,11 @@
       "maturity": "beta",
       "notes": "Fix Release status, Tag and CODEOWNERS",
       "last_updated": "<br><sub><img alt=\"2026-09-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--11-eab308?style=flat\" title=\"2026-09-11\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": 0,
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 1,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "869 KB"
+      "size_mb": "932 KB"
     },
     {
       "name": "tf-lint-action",
@@ -2146,11 +2146,11 @@
       "maturity": "beta",
       "notes": "Need to Upgrade",
       "last_updated": "<br><sub><img alt=\"2026-09-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--16-eab308?style=flat\" title=\"2026-09-16\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": 0,
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 1,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "954 KB"
+      "size_mb": "1018 KB"
     },
     {
       "name": "tf-plan-action",
@@ -2161,11 +2161,11 @@
       "maturity": "beta",
       "notes": "Need to Upgrade",
       "last_updated": "<br><sub><img alt=\"2026-09-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--16-eab308?style=flat\" title=\"2026-09-16\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": 0,
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 1,
       "latest_release_tag": "v1.7.0",
-      "size_mb": "504 KB"
+      "size_mb": "568 KB"
     },
     {
       "name": "tf-apply-action",
@@ -2176,11 +2176,11 @@
       "maturity": "beta",
       "notes": "Need to upgrade",
       "last_updated": "<br><sub><img alt=\"2026-09-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--11-eab308?style=flat\" title=\"2026-09-11\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
-      "open_prs": 0,
+      "open_issues": 2,
+      "branches": 3,
+      "open_prs": 1,
       "latest_release_tag": "v1.3.0",
-      "size_mb": "285 KB"
+      "size_mb": "350 KB"
     }
   ],
   "Terraform Snowflake Module": [
@@ -2844,11 +2844,11 @@
       "maturity": "experimental",
       "notes": "None",
       "last_updated": "<br><sub><img alt=\"2026-09-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--21-22c55e?style=flat\" title=\"2026-09-21\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
-      "open_prs": 0,
+      "open_issues": 4,
+      "branches": 5,
+      "open_prs": 3,
       "latest_release_tag": null,
-      "size_mb": "130 KB"
+      "size_mb": "199 KB"
     },
     {
       "name": "cloudformation-template",
@@ -2859,11 +2859,11 @@
       "maturity": "stable",
       "notes": "None",
       "last_updated": "<br><sub><img alt=\"2026-09-27\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--27-22c55e?style=flat\" title=\"2026-09-27\" /></sub>",
-      "open_issues": 1,
-      "branches": 1,
-      "open_prs": 0,
+      "open_issues": 3,
+      "branches": 3,
+      "open_prs": 2,
       "latest_release_tag": "v1.2.1",
-      "size_mb": "148 KB"
+      "size_mb": "215 KB"
     }
   ]
 }
