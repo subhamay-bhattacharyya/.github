@@ -1484,7 +1484,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "81 KB"
     },
     {
       "name": "aws-serverless-coffee-inventory",
@@ -1499,7 +1499,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "81 KB"
     },
     {
       "name": "aws-cost-waste-detection-automation",
@@ -1514,7 +1514,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "81 KB"
     },
     {
       "name": "aws-2048-cicd-pipeline",
@@ -1529,7 +1529,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "81 KB"
     },
     {
       "name": "aws-sagemaker-threat-detection-pipeline",
@@ -1544,7 +1544,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "81 KB"
     },
     {
       "name": "aws-multi-cloud-weather-tracker",
@@ -1559,7 +1559,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "81 KB"
     },
     {
       "name": "aws-wordpress-3tier-architecture",
@@ -1574,7 +1574,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "81 KB"
     }
   ],
   "GitHub Reusable Action / Workflow( Experimental )": [
