@@ -1207,7 +1207,7 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "DMI Cohort",
-      "last_updated": "<br><sub><img alt=\"2026-09-22\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--22-22c55e?style=flat\" title=\"2026-09-22\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-09-22\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--22-eab308?style=flat\" title=\"2026-09-22\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": 0,
@@ -1289,7 +1289,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "84 KB"
+      "size_mb": "87 KB"
     },
     {
       "name": "aws-lex-translation-bot",
