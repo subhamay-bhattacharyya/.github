@@ -1524,8 +1524,8 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS ADVANCED PROJECTS <br>\ud83d\udd39 Build a CI/CD Pipeline for the 2048 Game using AWS CodePipeline, ECS, and ECR",
-      "last_updated": "<br><sub><img alt=\"2026-09-29\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--29-22c55e?style=flat\" title=\"2026-09-29\" /></sub>",
-      "open_issues": 1,
+      "last_updated": "<br><sub><img alt=\"2026-09-30\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--30-22c55e?style=flat\" title=\"2026-09-30\" /></sub>",
+      "open_issues": 0,
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
@@ -1539,8 +1539,8 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS ADVANCED PROJECTS <br>\ud83d\udd39 Building & Deploying a Cybersecurity Threat Detection System using Amazon SageMaker",
-      "last_updated": "<br><sub><img alt=\"2026-09-29\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--29-22c55e?style=flat\" title=\"2026-09-29\" /></sub>",
-      "open_issues": 1,
+      "last_updated": "<br><sub><img alt=\"2026-09-30\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--30-22c55e?style=flat\" title=\"2026-09-30\" /></sub>",
+      "open_issues": 0,
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
@@ -1554,8 +1554,8 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS ADVANCED PROJECTS <br>\ud83d\udd39 Multi-Cloud Weather Tracker website with Disaster Recovery using Terraform",
-      "last_updated": "<br><sub><img alt=\"2026-09-29\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--29-22c55e?style=flat\" title=\"2026-09-29\" /></sub>",
-      "open_issues": 1,
+      "last_updated": "<br><sub><img alt=\"2026-09-30\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--30-22c55e?style=flat\" title=\"2026-09-30\" /></sub>",
+      "open_issues": 0,
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
@@ -1619,7 +1619,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "81 KB"
+      "size_mb": "82 KB"
     },
     {
       "name": "aws-serverless-order-pipeline",
@@ -1634,7 +1634,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "81 KB"
+      "size_mb": "82 KB"
     },
     {
       "name": "aws-global-accelerator-multi-region",
@@ -1649,7 +1649,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "81 KB"
+      "size_mb": "82 KB"
     },
     {
       "name": "aws-serverless-emotion-detection",
@@ -1664,7 +1664,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "81 KB"
+      "size_mb": "82 KB"
     },
     {
       "name": "aws-bedrock-faq-chatbot",
@@ -1679,7 +1679,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "81 KB"
+      "size_mb": "82 KB"
     },
     {
       "name": "bedrock-rag-faq-chatbot",
@@ -1704,12 +1704,12 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS CLOUD AI/ML ENGINEER PROJECTS <br>\ud83d\udd39 Predicting Customer Subscriptions with Amazon SageMaker",
-      "last_updated": "<br><sub><img alt=\"2026-09-29\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--29-22c55e?style=flat\" title=\"2026-09-29\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
+      "last_updated": "<br><sub><img alt=\"2026-09-30\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--30-22c55e?style=flat\" title=\"2026-09-30\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "81 KB"
+      "size_mb": "82 KB"
     },
     {
       "name": "aws-serverless-genai-tutor",
