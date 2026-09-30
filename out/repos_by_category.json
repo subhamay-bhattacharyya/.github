@@ -1361,7 +1361,7 @@
       "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS INTERMEDIATE PROJECTS <br>\ud83d\udd39 Serverless Cloud Dictionary Application",
       "last_updated": "<br><sub><img alt=\"2026-09-29\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--29-22c55e?style=flat\" title=\"2026-09-29\" /></sub>",
       "open_issues": 1,
-      "branches": 1,
+      "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "81 KB"
@@ -1374,7 +1374,7 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS INTERMEDIATE PROJECTS <br>\ud83d\udd39 Two-Tier Website Deployment on AWS using EC2, RDS and ALB",
-      "last_updated": "<br><sub><img alt=\"2026-09-29\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--29-22c55e?style=flat\" title=\"2026-09-29\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-09-30\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--30-22c55e?style=flat\" title=\"2026-09-30\" /></sub>",
       "open_issues": 1,
       "branches": 1,
       "open_prs": 0,
@@ -1389,7 +1389,7 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS SECURITY ENGINEER PROJECTS <br>\ud83d\udd39 Identity & Access Security with Cognito and API Gateway",
-      "last_updated": "<br><sub><img alt=\"2026-09-29\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--29-22c55e?style=flat\" title=\"2026-09-29\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-09-30\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--30-22c55e?style=flat\" title=\"2026-09-30\" /></sub>",
       "open_issues": 1,
       "branches": 1,
       "open_prs": 0,
@@ -1404,12 +1404,12 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS SECURITY ENGINEER PROJECTS <br>\ud83d\udd39 Cloud Threat Detection & Security Audit",
-      "last_updated": "<br><sub><img alt=\"2026-09-29\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--29-22c55e?style=flat\" title=\"2026-09-29\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-09-30\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--30-22c55e?style=flat\" title=\"2026-09-30\" /></sub>",
       "open_issues": 1,
-      "branches": 2,
+      "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "81 KB"
+      "size_mb": "82 KB"
     },
     {
       "name": "aws-secure-file-sharing-protection",
@@ -1439,7 +1439,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "81 KB"
+      "size_mb": "82 KB"
     },
     {
       "name": "aws-securecart-hardening",
