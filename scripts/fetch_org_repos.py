@@ -315,9 +315,6 @@ def main() -> None:
             custom_props = fetch_repo_custom_properties(org, name)
 
             if custom_props.get("DisplayOnProfile") == "Yes":
-                # Fetch branch count
-                # pprint(repo)
-                # break
                 branch_count = fetch_branch_count(org, name)
                 open_pr_count = fetch_open_pr_count(org, name)
                 latest_release_tag = fetch_latest_release_tag(org, name)
@@ -325,9 +322,6 @@ def main() -> None:
                 if custom_props.get("Tags","").find("|") > 0:
                     tags = custom_props.get("Tags","").split("|")
                     custom_tags = f'<br>🔹{platform_dict.get(tags[0],"")} <br>🔹 {course_dict.get(tags[1],"")} <br>🔹 {projects_dict.get(tags[1],"").get(tags[2],"")}'
-                    # print(tags)
-                    # print("---")
-                    # print(custom_tags)
                 
                 # Convert updated_at to relative time with color
                 updated_at = repo.get("updated_at")
@@ -361,7 +355,8 @@ def main() -> None:
                 
                 # Get the ProjectCategory, default to "Others" if not set
                 project_category = custom_props.get("ProjectCategory", "Others")
-                if project_category.find("GitHub Reusable Action / Workflow") == 0:
+                if project_category.find("GitHub Reusable Action / Workflow") == 0 or \
+                    project_category.find("AWS Complete Project using CloudFormation") == 0 :
                     project_category += f'( {repo_details.get("maturity","Not Set").capitalize()} )'
                 
                 # Add repo to the appropriate category list
