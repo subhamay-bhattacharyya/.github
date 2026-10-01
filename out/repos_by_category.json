@@ -1215,7 +1215,7 @@
       "size_mb": "77 KB"
     }
   ],
-  "AWS Complete Project using CloudFormation": [
+  "AWS Complete Project using CloudFormation( Development on hold )": [
     {
       "name": "aws-stock-analytics-pipeline",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-stock-analytics-pipeline",
@@ -1665,7 +1665,9 @@
       "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "82 KB"
-    },
+    }
+  ],
+  "AWS Complete Project using CloudFormation( Experimental )": [
     {
       "name": "aws-secure-website-oac-waf",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-secure-website-oac-waf",
