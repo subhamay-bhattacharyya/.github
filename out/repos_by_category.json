@@ -1232,21 +1232,6 @@
       "size_mb": "88 KB"
     },
     {
-      "name": "aws-receipt-processing-system",
-      "html_url": "https://github.com/subhamay-bhattacharyya/aws-receipt-processing-system",
-      "description": "\ud83c\udfd7\ufe0f Serverless, event-driven receipt processing system on AWS. Users upload receipts to Amazon S3, which triggers a Lambda function to extract structured data via Amazon Textract, persist results to DynamoDB, and dispatch email notifications through Amazon SES. Fully infrastructure-as-code managed for reproducible deployments.",
-      "status": "Blocked",
-      "cloud_service_provider": "AWS",
-      "maturity": "development on hold",
-      "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS INTERMEDIATE PROJECTS <br>\ud83d\udd39 ",
-      "last_updated": "<br><sub><img alt=\"2026-09-30\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--30-22c55e?style=flat\" title=\"2026-09-30\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": 0,
-      "latest_release_tag": null,
-      "size_mb": "82 KB"
-    },
-    {
       "name": "aws-secure-website-oac-waf",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-secure-website-oac-waf",
       "description": "\ud83c\udfd7\ufe0f Secure, serverless static website hosted on AWS S3 with CloudFront, Origin Access Control, and HTTPS enforced. Protected by AWS WAF against SQLi, XSS, bots, and malicious traffic, with least-privilege IAM policies across all resources. CloudWatch and CloudTrail provide full logging, monitoring, and anomaly detection.",
@@ -1302,21 +1287,6 @@
       "last_updated": "<br><sub><img alt=\"2026-09-30\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--30-22c55e?style=flat\" title=\"2026-09-30\" /></sub>",
       "open_issues": 1,
       "branches": 2,
-      "open_prs": 0,
-      "latest_release_tag": null,
-      "size_mb": "82 KB"
-    },
-    {
-      "name": "aws-todo-app-deployment",
-      "html_url": "https://github.com/subhamay-bhattacharyya/aws-todo-app-deployment",
-      "description": "\ud83c\udfd7\ufe0f Two-tier To-Do List web application on AWS with EC2, RDS, and ALB for scalability and high availability.",
-      "status": "Blocked",
-      "cloud_service_provider": "AWS",
-      "maturity": "development on hold",
-      "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS INTERMEDIATE PROJECTS <br>\ud83d\udd39 Two-Tier Website Deployment on AWS using EC2, RDS and ALB",
-      "last_updated": "<br><sub><img alt=\"2026-09-30\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--30-22c55e?style=flat\" title=\"2026-09-30\" /></sub>",
-      "open_issues": 1,
-      "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "82 KB"
@@ -1819,6 +1789,21 @@
   ],
   "AWS Complete Project using CloudFormation( Experimental )": [
     {
+      "name": "aws-receipt-processing-system",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-receipt-processing-system",
+      "description": "\ud83c\udfd7\ufe0f Serverless, event-driven receipt processing system on AWS. Users upload receipts to Amazon S3, which triggers a Lambda function to extract structured data via Amazon Textract, persist results to DynamoDB, and dispatch email notifications through Amazon SES. Fully infrastructure-as-code managed for reproducible deployments.",
+      "status": "In Progress",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS INTERMEDIATE PROJECTS <br>\ud83d\udd39 ",
+      "last_updated": "<br><sub><img alt=\"2026-09-30\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--30-22c55e?style=flat\" title=\"2026-09-30\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "82 KB"
+    },
+    {
       "name": "aws-event-announcement-site",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-event-announcement-site",
       "description": "\ud83c\udfd7\ufe0f Serverless event announcement website on AWS, fully event-driven from end to end. A static S3-hosted frontend calls API Gateway endpoints backed by Lambda functions to register events and capture subscribers, with Amazon SNS dispatching email notifications and events.json in S3 acting as the source of truth \u2014 all provisioned as code.",
@@ -1874,6 +1859,21 @@
       "last_updated": "<br><sub><img alt=\"2026-10-01\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--01-22c55e?style=flat\" title=\"2026-10-01\" /></sub>",
       "open_issues": 1,
       "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "82 KB"
+    },
+    {
+      "name": "aws-todo-app-deployment",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-todo-app-deployment",
+      "description": "\ud83c\udfd7\ufe0f Two-tier To-Do List web application on AWS with EC2, RDS, and ALB for scalability and high availability.",
+      "status": "Blocked",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS INTERMEDIATE PROJECTS <br>\ud83d\udd39 Two-Tier Website Deployment on AWS using EC2, RDS and ALB",
+      "last_updated": "<br><sub><img alt=\"2026-09-30\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--30-22c55e?style=flat\" title=\"2026-09-30\" /></sub>",
+      "open_issues": 1,
+      "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "82 KB"
@@ -3183,19 +3183,34 @@
       "size_mb": "152 KB"
     },
     {
-      "name": "cfn-aws-iam-roles-policies",
-      "html_url": "https://github.com/subhamay-bhattacharyya-cfn/cfn-aws-iam-roles-policies",
+      "name": "cfn-nested-aws-iam-roles-policies",
+      "html_url": "https://github.com/subhamay-bhattacharyya-cfn/cfn-nested-aws-iam-roles-policies",
       "description": "\ud83c\udfd7\ufe0f AWS CloudFormation template suite for provisioning least-privilege IAM roles  with inline policies across common use cases including data pipelines, REST APIs,  event processing, data science/ETL, and container workloads with flexible  permission scoping and automated deployment.",
       "status": "In Progress",
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "None",
-      "last_updated": "<br><sub><img alt=\"2026-10-01\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--01-22c55e?style=flat\" title=\"2026-10-01\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-10-02\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--02-22c55e?style=flat\" title=\"2026-10-02\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "166 KB"
+    },
+    {
+      "name": "cfn-nested-aws-dynamodb-table",
+      "html_url": "https://github.com/subhamay-bhattacharyya-cfn/cfn-nested-aws-dynamodb-table",
+      "description": "\ud83c\udfd7\ufe0f Enterprise-grade nested CloudFormation templates for deploying AWS DynamoDB tables. Supports flexible configuration of Local Secondary Indexes (LSI), Global Secondary Indexes (GSI), DynamoDB Streams, TTL, and Point-in-Time Recovery. Includes modular nested stack and standalone template architectures with comprehensive documentation and examples",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "None",
+      "last_updated": "<br><sub><img alt=\"2026-10-02\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--02-22c55e?style=flat\" title=\"2026-10-02\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     },
     {
       "name": "cloudformation-template",
