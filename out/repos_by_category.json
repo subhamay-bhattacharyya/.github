@@ -1827,8 +1827,8 @@
       "maturity": "experimental",
       "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS INTERMEDIATE PROJECTS <br>\ud83d\udd39 Build an Event Announcement System using SNS, Lambda and API Gateway",
       "last_updated": "<br><sub><img alt=\"2026-09-30\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--30-22c55e?style=flat\" title=\"2026-09-30\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
+      "open_issues": 1,
+      "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "82 KB"
