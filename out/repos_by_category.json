@@ -1190,7 +1190,7 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-27\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--27-22c55e?style=flat\" title=\"2026-09-27\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-09-27\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--27-eab308?style=flat\" title=\"2026-09-27\" /></sub>",
       "open_issues": 0,
       "branches": 1,
       "open_prs": 0,
@@ -1319,7 +1319,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "82 KB"
+      "size_mb": "89 KB"
     },
     {
       "name": "aws-todo-app-deployment",
@@ -2255,7 +2255,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "v1.2.0",
-      "size_mb": "202 KB"
+      "size_mb": "203 KB"
     },
     {
       "name": "setup-aws-environments-wf",
@@ -2270,7 +2270,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "v1.4.0",
-      "size_mb": "193 KB"
+      "size_mb": "194 KB"
     },
     {
       "name": "check-environments-action",
@@ -2300,7 +2300,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "447 KB"
+      "size_mb": "448 KB"
     },
     {
       "name": "slack-notification-wf",
@@ -2360,7 +2360,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "118 KB"
+      "size_mb": "119 KB"
     },
     {
       "name": "cfn-deploy-wf",
@@ -2405,7 +2405,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "95 KB"
+      "size_mb": "98 KB"
     },
     {
       "name": "cfn-ci-build-reusable-wf",
@@ -2420,7 +2420,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "120 KB"
+      "size_mb": "38 KB"
     }
   ],
   "GitHub Reusable Action / Workflow( Beta )": [
@@ -3220,7 +3220,7 @@
       "cloud_service_provider": "AWS",
       "maturity": "stable",
       "notes": "None",
-      "last_updated": "<br><sub><img alt=\"2026-09-27\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--27-22c55e?style=flat\" title=\"2026-09-27\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-09-27\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--27-eab308?style=flat\" title=\"2026-09-27\" /></sub>",
       "open_issues": 3,
       "branches": 3,
       "open_prs": 2,
