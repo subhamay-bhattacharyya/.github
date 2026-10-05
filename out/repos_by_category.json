@@ -1442,6 +1442,21 @@
       "size_mb": "82 KB"
     },
     {
+      "name": "aws-healthcare-ha-infrastructure",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-healthcare-ha-infrastructure",
+      "description": "\ud83c\udfd7\ufe0f Multi-AZ fault-tolerant infrastructure for MediCare Hub medical application  on AWS. Implements auto-scaling, self-healing EC2 instances, RDS Multi-AZ,  Route 53 DNS failover, and ALB-based traffic distribution aligned with the  AWS Well-Architected Framework Reliability Pillar.",
+      "status": "In Progress",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS SOLUTION ARCHIETCT PROJECTS <br>\ud83d\udd39 Highly Available Architecture on AWS (Reliability Pillar)",
+      "last_updated": "<br><sub><img alt=\"2026-10-05\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--05-22c55e?style=flat\" title=\"2026-10-05\" /></sub>",
+      "open_issues": 1,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "82 KB"
+    },
+    {
       "name": "aws-serverless-coffee-inventory",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-serverless-coffee-inventory",
       "description": "\ud83c\udfd7\ufe0f Serverless REST API for coffee shop inventory management built on AWS Lambda,  API Gateway, and DynamoDB with React frontend on Amplify. Demonstrates AWS  Well-Architected Framework performance efficiency patterns.",
@@ -1649,21 +1664,6 @@
       "last_updated": "<br><sub><img alt=\"2026-09-30\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--30-22c55e?style=flat\" title=\"2026-09-30\" /></sub>",
       "open_issues": 0,
       "branches": 2,
-      "open_prs": 0,
-      "latest_release_tag": null,
-      "size_mb": "82 KB"
-    },
-    {
-      "name": "aws-healthcare-ha-infrastructure",
-      "html_url": "https://github.com/subhamay-bhattacharyya/aws-healthcare-ha-infrastructure",
-      "description": "\ud83c\udfd7\ufe0f Multi-AZ fault-tolerant infrastructure for MediCare Hub medical application  on AWS. Implements auto-scaling, self-healing EC2 instances, RDS Multi-AZ,  Route 53 DNS failover, and ALB-based traffic distribution aligned with the  AWS Well-Architected Framework Reliability Pillar.",
-      "status": "Blocked",
-      "cloud_service_provider": "AWS",
-      "maturity": "development on hold",
-      "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS SOLUTION ARCHIETCT PROJECTS <br>\ud83d\udd39 Highly Available Architecture on AWS (Reliability Pillar)",
-      "last_updated": "<br><sub><img alt=\"2026-09-30\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--30-22c55e?style=flat\" title=\"2026-09-30\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "82 KB"
