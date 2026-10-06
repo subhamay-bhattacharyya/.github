@@ -1774,14 +1774,14 @@
       "size_mb": "98 KB"
     },
     {
-      "name": "aws-event-announcement-site",
-      "html_url": "https://github.com/subhamay-bhattacharyya/aws-event-announcement-site",
+      "name": "aws-event-announcement-system",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-event-announcement-system",
       "description": "\ud83c\udfd7\ufe0f Serverless event announcement website on AWS, fully event-driven from end to end. A static S3-hosted frontend calls API Gateway endpoints backed by Lambda functions to register events and capture subscribers, with Amazon SNS dispatching email notifications and events.json in S3 acting as the source of truth \u2014 all provisioned as code.",
       "status": "In Progress",
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "feature branch successful<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS INTERMEDIATE PROJECTS <br>\ud83d\udd39 Build an Event Announcement System using SNS, Lambda and API Gateway",
-      "last_updated": "<br><sub><img alt=\"2026-10-05\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--05-22c55e?style=flat\" title=\"2026-10-05\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-10-06\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--06-22c55e?style=flat\" title=\"2026-10-06\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": 0,
@@ -1826,7 +1826,7 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "feature branch successful<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS INTERMEDIATE PROJECTS <br>\ud83d\udd39 Data Pipeline for Processing CSV Files Using S3, Lambda, Glue, and QuickSight",
-      "last_updated": "<br><sub><img alt=\"2026-10-05\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--05-22c55e?style=flat\" title=\"2026-10-05\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-10-06\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--06-22c55e?style=flat\" title=\"2026-10-06\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": 0,
@@ -3225,7 +3225,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "150 KB"
+      "size_mb": "151 KB"
     },
     {
       "name": "cfn-nested-aws-sqs-queue",
