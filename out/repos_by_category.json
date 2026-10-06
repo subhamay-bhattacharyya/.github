@@ -1771,7 +1771,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "95 KB"
+      "size_mb": "98 KB"
     },
     {
       "name": "aws-event-announcement-site",
@@ -3221,11 +3221,11 @@
       "maturity": "experimental",
       "notes": "None",
       "last_updated": "<br><sub><img alt=\"2026-10-06\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--06-22c55e?style=flat\" title=\"2026-10-06\" /></sub>",
-      "open_issues": 2,
-      "branches": 3,
-      "open_prs": 2,
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "150 KB"
     },
     {
       "name": "cfn-nested-aws-sqs-queue",
@@ -3236,11 +3236,11 @@
       "maturity": "experimental",
       "notes": "None",
       "last_updated": "<br><sub><img alt=\"2026-10-06\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--06-22c55e?style=flat\" title=\"2026-10-06\" /></sub>",
-      "open_issues": 2,
-      "branches": 3,
-      "open_prs": 2,
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "150 KB"
     },
     {
       "name": "cfn-nested-aws-sns",
@@ -3255,7 +3255,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "150 KB"
     },
     {
       "name": "cfn-nested-aws-cloudwatch-log-group",
@@ -3270,7 +3270,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "150 KB"
     },
     {
       "name": "cloudformation-template",
