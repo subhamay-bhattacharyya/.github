@@ -1307,6 +1307,21 @@
       "size_mb": "82 KB"
     },
     {
+      "name": "aws-security-compliance-automation",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-security-compliance-automation",
+      "description": "\ud83c\udfd7\ufe0f Cloud threat detection & security audit system using GuardDuty, AWS Config, Lambda, and CloudFormation for proactive security monitoring and compliance automation.",
+      "status": "In Progress",
+      "cloud_service_provider": "AWS",
+      "maturity": "development on hold",
+      "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS SECURITY ENGINEER PROJECTS <br>\ud83d\udd39 Cloud Threat Detection & Security Audit",
+      "last_updated": "<br><sub><img alt=\"2026-09-30\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--30-22c55e?style=flat\" title=\"2026-09-30\" /></sub>",
+      "open_issues": 1,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "82 KB"
+    },
+    {
       "name": "aws-secure-file-sharing-protection",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-secure-file-sharing-protection",
       "description": "\ud83c\udfd7\ufe0f AWS-based secure file-sharing service with real-time malware detection, sensitive data protection, and DDoS mitigation using S3 Object Lambda, Amazon Macie, and CloudFront",
@@ -1826,21 +1841,6 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS INTERMEDIATE PROJECTS <br>\ud83d\udd39 Two-Tier Website Deployment on AWS using EC2, RDS and ALB",
-      "last_updated": "<br><sub><img alt=\"2026-09-30\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--30-22c55e?style=flat\" title=\"2026-09-30\" /></sub>",
-      "open_issues": 1,
-      "branches": 1,
-      "open_prs": 0,
-      "latest_release_tag": null,
-      "size_mb": "82 KB"
-    },
-    {
-      "name": "aws-security-compliance-automation",
-      "html_url": "https://github.com/subhamay-bhattacharyya/aws-security-compliance-automation",
-      "description": "\ud83c\udfd7\ufe0f Cloud threat detection & security audit system using GuardDuty, AWS Config, Lambda, and CloudFormation for proactive security monitoring and compliance automation.",
-      "status": "In Progress",
-      "cloud_service_provider": "AWS",
-      "maturity": "experimental",
-      "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS SECURITY ENGINEER PROJECTS <br>\ud83d\udd39 Cloud Threat Detection & Security Audit",
       "last_updated": "<br><sub><img alt=\"2026-09-30\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--30-22c55e?style=flat\" title=\"2026-09-30\" /></sub>",
       "open_issues": 1,
       "branches": 1,
