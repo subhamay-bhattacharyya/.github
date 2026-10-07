@@ -3225,7 +3225,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "161 KB"
+      "size_mb": "197 KB"
     },
     {
       "name": "cfn-nested-aws-sqs-queue",
@@ -3240,7 +3240,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "157 KB"
+      "size_mb": "164 KB"
     },
     {
       "name": "cfn-nested-aws-sns",
