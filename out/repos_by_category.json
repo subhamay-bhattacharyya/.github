@@ -3243,8 +3243,8 @@
       "size_mb": "164 KB"
     },
     {
-      "name": "cfn-nested-aws-sns",
-      "html_url": "https://github.com/subhamay-bhattacharyya-cfn/cfn-nested-aws-sns",
+      "name": "cfn-nested-aws-sns-topic",
+      "html_url": "https://github.com/subhamay-bhattacharyya-cfn/cfn-nested-aws-sns-topic",
       "description": "\ud83c\udfd7\ufe0f A reusable CloudFormation nested stack template for creating Amazon SNS topics with full pub-sub pattern support including topic subscriptions to Lambda, SQS, Email, and HTTP endpoints, server-side encryption, access control policies, message filtering, delivery status logging, content-based deduplication for FIFO topics, and DLQ handling.",
       "status": "Initialized",
       "cloud_service_provider": "AWS",
