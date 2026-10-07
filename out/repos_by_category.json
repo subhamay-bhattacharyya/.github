@@ -3240,7 +3240,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "150 KB"
+      "size_mb": "157 KB"
     },
     {
       "name": "cfn-nested-aws-sns",
@@ -3255,7 +3255,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "150 KB"
+      "size_mb": "157 KB"
     },
     {
       "name": "cfn-nested-aws-cloudwatch-log-group",
