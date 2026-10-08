@@ -1232,21 +1232,6 @@
       "size_mb": "88 KB"
     },
     {
-      "name": "aws-secure-website-oac-waf",
-      "html_url": "https://github.com/subhamay-bhattacharyya/aws-secure-website-oac-waf",
-      "description": "\ud83c\udfd7\ufe0f Secure, serverless static website hosted on AWS S3 with CloudFront, Origin Access Control, and HTTPS enforced. Protected by AWS WAF against SQLi, XSS, bots, and malicious traffic, with least-privilege IAM policies across all resources. CloudWatch and CloudTrail provide full logging, monitoring, and anomaly detection.",
-      "status": "In Progress",
-      "cloud_service_provider": "AWS",
-      "maturity": "development on hold",
-      "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS SECURITY ENGINEER PROJECTS <br>\ud83d\udd39 Secure Web Hosting on AWS: S3, CloudFront & WAF",
-      "last_updated": "<br><sub><img alt=\"2026-10-06\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--06-22c55e?style=flat\" title=\"2026-10-06\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
-      "open_prs": 0,
-      "latest_release_tag": null,
-      "size_mb": "82 KB"
-    },
-    {
       "name": "aws-image-labels-generator",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-image-labels-generator",
       "description": "\ud83c\udfd7\ufe0f Python-based image labeling application using Amazon Rekognition and S3. Automatically detects and labels objects in images through AWS Rekognition API. Includes CLI setup, configuration, and batch image processing capabilities.",
@@ -1344,21 +1329,6 @@
       "cloud_service_provider": "AWS",
       "maturity": "development on hold",
       "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS SECURITY ENGINEER PROJECTS <br>\ud83d\udd39 Cloud Threat Detection & Security Audit",
-      "last_updated": "<br><sub><img alt=\"2026-09-30\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--30-eab308?style=flat\" title=\"2026-09-30\" /></sub>",
-      "open_issues": 1,
-      "branches": 1,
-      "open_prs": 0,
-      "latest_release_tag": null,
-      "size_mb": "82 KB"
-    },
-    {
-      "name": "aws-secure-file-sharing-protection",
-      "html_url": "https://github.com/subhamay-bhattacharyya/aws-secure-file-sharing-protection",
-      "description": "\ud83c\udfd7\ufe0f AWS-based secure file-sharing service with real-time malware detection, sensitive data protection, and DDoS mitigation using S3 Object Lambda, Amazon Macie, and CloudFront",
-      "status": "In Progress",
-      "cloud_service_provider": "AWS",
-      "maturity": "development on hold",
-      "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS SECURITY ENGINEER PROJECTS <br>\ud83d\udd39 Secure File Sharing & Malware Protection",
       "last_updated": "<br><sub><img alt=\"2026-09-30\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--30-eab308?style=flat\" title=\"2026-09-30\" /></sub>",
       "open_issues": 1,
       "branches": 1,
@@ -1819,6 +1789,21 @@
       "size_mb": "106 KB"
     },
     {
+      "name": "aws-secure-website-oac-waf",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-secure-website-oac-waf",
+      "description": "\ud83c\udfd7\ufe0f Secure, serverless static website hosted on AWS S3 with CloudFront, Origin Access Control, and HTTPS enforced. Protected by AWS WAF against SQLi, XSS, bots, and malicious traffic, with least-privilege IAM policies across all resources. CloudWatch and CloudTrail provide full logging, monitoring, and anomaly detection.",
+      "status": "In Progress",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Created - S3 Bucket<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS SECURITY ENGINEER PROJECTS <br>\ud83d\udd39 Secure Web Hosting on AWS: S3, CloudFront & WAF",
+      "last_updated": "<br><sub><img alt=\"2026-10-06\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--06-22c55e?style=flat\" title=\"2026-10-06\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "82 KB"
+    },
+    {
       "name": "aws-event-announcement-system",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-event-announcement-system",
       "description": "\ud83c\udfd7\ufe0f Serverless event announcement website on AWS, fully event-driven from end to end. A static S3-hosted frontend calls API Gateway endpoints backed by Lambda functions to register events and capture subscribers, with Amazon SNS dispatching email notifications and events.json in S3 acting as the source of truth \u2014 all provisioned as code.",
@@ -1862,6 +1847,21 @@
       "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "84 KB"
+    },
+    {
+      "name": "aws-secure-file-sharing-protection",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-secure-file-sharing-protection",
+      "description": "\ud83c\udfd7\ufe0f AWS-based secure file-sharing service with real-time malware detection, sensitive data protection, and DDoS mitigation using S3 Object Lambda, Amazon Macie, and CloudFront",
+      "status": "In Progress",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS SECURITY ENGINEER PROJECTS <br>\ud83d\udd39 Secure File Sharing & Malware Protection",
+      "last_updated": "<br><sub><img alt=\"2026-09-30\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--30-eab308?style=flat\" title=\"2026-09-30\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "82 KB"
     },
     {
       "name": "aws-bedrock-faq-chatbot",
