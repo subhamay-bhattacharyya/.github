@@ -1616,7 +1616,7 @@
       "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS CLOUD AI/ML ENGINEER PROJECTS <br>\ud83d\udd39 Intelligent FAQ Chatbot using Amazon Bedrock (RAG)",
       "last_updated": "<br><sub><img alt=\"2026-10-07\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--07-22c55e?style=flat\" title=\"2026-10-07\" /></sub>",
       "open_issues": 1,
-      "branches": 1,
+      "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "82 KB"
@@ -1876,7 +1876,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "82 KB"
+      "size_mb": "84 KB"
     }
   ],
   "GitHub Reusable Action / Workflow( Experimental )": [
