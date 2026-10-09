@@ -3363,6 +3363,21 @@
       "size_mb": "150 KB"
     },
     {
+      "name": "cfn-nested-aws-cloudfront-distribution",
+      "html_url": "https://github.com/subhamay-bhattacharyya-cfn/cfn-nested-aws-cloudfront-distribution",
+      "description": "\ud83c\udfd7\ufe0f Reusable CloudFormation nested stack templates for Amazon CloudFront distributions: standalone, root, and nested component templates with 20-30+ parameters, security best practices, cost estimation, and README, usage guide and deployment examples. Follows the DynamoDB reference pattern with 5+ real-world scenarios.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "None",
+      "last_updated": "<br><sub><img alt=\"2026-10-09\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--09-22c55e?style=flat\" title=\"2026-10-09\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    },
+    {
       "name": "cloudformation-template",
       "html_url": "https://github.com/subhamay-bhattacharyya-cfn/cloudformation-template",
       "description": "\u2705 AWS CloudFormation template repository with CLAUDE.md documentation and integrated Claude skills for infrastructure-as-code generation. Provides a structured foundation for building reusable CloudFormation templates with AI-assisted code generation, validation, and documentation workflows.",
