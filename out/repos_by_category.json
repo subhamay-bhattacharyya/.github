@@ -1502,21 +1502,6 @@
       "size_mb": "82 KB"
     },
     {
-      "name": "aws-serverless-order-pipeline",
-      "html_url": "https://github.com/subhamay-bhattacharyya/aws-serverless-order-pipeline",
-      "description": "\ud83c\udfd7\ufe0f Event-driven order processing system built with AWS serverless services.  Demonstrates order ingestion, async processing, retry mechanisms, high-value  order routing, dead-letter queue handling, and real-time alerting using Lambda,  DynamoDB, SQS, EventBridge Pipes, and SNS.",
-      "status": "In Progress",
-      "cloud_service_provider": "AWS",
-      "maturity": "development on hold",
-      "notes": "feature branch successful<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS CLOUD ENGINEER PROJECTS <br>\ud83d\udd39 Event-Driven Order Processing System on AWS",
-      "last_updated": "<br><sub><img alt=\"2026-10-07\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--07-22c55e?style=flat\" title=\"2026-10-07\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
-      "open_prs": 0,
-      "latest_release_tag": null,
-      "size_mb": "93 KB"
-    },
-    {
       "name": "aws-global-accelerator-multi-region",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-global-accelerator-multi-region",
       "description": "\ud83c\udfd7\ufe0f A hands-on AWS multi-region architecture demonstrating high availability and global resilience. Deploys a web application across two AWS regions with AWS Global Accelerator for intelligent traffic routing, Application Load Balancing, Route 53 health checks, and automatic regional failover.",
@@ -1855,13 +1840,28 @@
       "status": "In Progress",
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
-      "notes": "Created - S3<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS SECURITY ENGINEER PROJECTS <br>\ud83d\udd39 Secure File Sharing & Malware Protection",
+      "notes": "Created - S3,CW Log, IAM Role<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS SECURITY ENGINEER PROJECTS <br>\ud83d\udd39 Secure File Sharing & Malware Protection",
       "last_updated": "<br><sub><img alt=\"2026-10-09\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--09-22c55e?style=flat\" title=\"2026-10-09\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "82 KB"
+    },
+    {
+      "name": "aws-serverless-order-pipeline",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-serverless-order-pipeline",
+      "description": "\ud83c\udfd7\ufe0f \ud83d\udccc Event-driven order processing system built with AWS serverless services.  Demonstrates order ingestion, async processing, retry mechanisms, high-value  order routing, dead-letter queue handling, and real-time alerting using Lambda,  DynamoDB, SQS, EventBridge Pipes, and SNS.",
+      "status": "In Progress",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Resume working<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS CLOUD ENGINEER PROJECTS <br>\ud83d\udd39 Event-Driven Order Processing System on AWS",
+      "last_updated": "<br><sub><img alt=\"2026-10-09\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--09-22c55e?style=flat\" title=\"2026-10-09\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "93 KB"
     },
     {
       "name": "aws-bedrock-faq-chatbot",
@@ -1877,6 +1877,21 @@
       "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "88 KB"
+    },
+    {
+      "name": "aws-e-commerce-application",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-e-commerce-application",
+      "description": "\ud83c\udfd7\ufe0f \ud83d\udccc Production-grade, cloud-native eCommerce application built on AWS: React frontend on S3 and CloudFront, containerized microservices on ECS/Fargate behind API Gateway, Cognito authentication, DynamoDB and RDS PostgreSQL data, and SNS, SQS, and SES notifications. Covers VPC networking, Route53 DNS, and ALB integration for scalable deployments.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available<br>\ud83d\udd39Udemy <br>\ud83d\udd39 Chetan Agarwal <br>\ud83d\udd39 Production-grade, cloud-native eCommerce application built on AWS",
+      "last_updated": "<br><sub><img alt=\"2026-10-09\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--09-22c55e?style=flat\" title=\"2026-10-09\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     }
   ],
   "GitHub Reusable Action / Workflow( Experimental )": [
