@@ -1765,7 +1765,7 @@
       "status": "In Progress",
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
-      "notes": "Created - S3<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS SECURITY ENGINEER PROJECTS <br>\ud83d\udd39 Secure Web Hosting on AWS: S3, CloudFront & WAF",
+      "notes": "Created - S3, CloudFront<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS SECURITY ENGINEER PROJECTS <br>\ud83d\udd39 Secure Web Hosting on AWS: S3, CloudFront & WAF",
       "last_updated": "<br><sub><img alt=\"2026-10-09\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--09-22c55e?style=flat\" title=\"2026-10-09\" /></sub>",
       "open_issues": 1,
       "branches": 2,
@@ -1806,12 +1806,12 @@
     {
       "name": "aws-lex-translation-bot",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-lex-translation-bot",
-      "description": "\ud83c\udfd7\ufe0fA language translation chatbot built with Amazon Lex, Lambda, and Amazon Translate.  Type text \u2192 Get instant translations across supported languages.",
+      "description": "\ud83c\udfd7\ufe0f \ud83d\udccc A language translation chatbot built with Amazon Lex, Lambda, and Amazon Translate.  Type text \u2192 Get instant translations across supported languages.",
       "status": "In Progress",
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "Created - IAM Role, CW Log Group, Lambda<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS BEGINNER PROJECTS <br>\ud83d\udd39 Build a language translation bot using Amazon Lex",
-      "last_updated": "<br><sub><img alt=\"2026-10-06\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--06-22c55e?style=flat\" title=\"2026-10-06\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-10-09\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--09-22c55e?style=flat\" title=\"2026-10-09\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": 0,
@@ -3375,7 +3375,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "150 KB"
     },
     {
       "name": "cloudformation-template",
