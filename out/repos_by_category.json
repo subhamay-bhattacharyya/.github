@@ -3150,7 +3150,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "158 KB"
+      "size_mb": "159 KB"
     },
     {
       "name": "cfn-nested-aws-iam-roles-policies",
@@ -3375,7 +3375,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "150 KB"
+      "size_mb": "168 KB"
     },
     {
       "name": "cloudformation-template",
