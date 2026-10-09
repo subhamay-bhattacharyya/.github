@@ -77,7 +77,8 @@ projects_dict = {
     "PROJECT-5": "AI-Powered Cloud Learning Assistant using Gemini API"
   },
   "CHETAN": {
-      "PROJECT-1": "AWS Networking Fundamentals"
+      "PROJECT-1": "AWS Networking Fundamentals",
+      "PROJECT-123": "Production-grade, cloud-native eCommerce application built on AWS"
   }
 }
 
