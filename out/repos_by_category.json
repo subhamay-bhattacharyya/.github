@@ -1846,7 +1846,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "82 KB"
+      "size_mb": "89 KB"
     },
     {
       "name": "aws-serverless-order-pipeline",
@@ -1887,11 +1887,11 @@
       "maturity": "experimental",
       "notes": "Not Available<br>\ud83d\udd39Udemy <br>\ud83d\udd39 Chetan Agarwal <br>\ud83d\udd39 Production-grade, cloud-native eCommerce application built on AWS",
       "last_updated": "<br><sub><img alt=\"2026-10-09\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--09-22c55e?style=flat\" title=\"2026-10-09\" /></sub>",
-      "open_issues": 0,
+      "open_issues": 1,
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "84 KB"
     }
   ],
   "GitHub Reusable Action / Workflow( Experimental )": [
@@ -3205,10 +3205,10 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "None",
-      "last_updated": "<br><sub><img alt=\"2026-10-06\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--06-22c55e?style=flat\" title=\"2026-10-06\" /></sub>",
-      "open_issues": 4,
-      "branches": 5,
-      "open_prs": 3,
+      "last_updated": "<br><sub><img alt=\"2026-10-09\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--09-22c55e?style=flat\" title=\"2026-10-09\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "199 KB"
     },
