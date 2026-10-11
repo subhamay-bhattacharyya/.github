@@ -1352,6 +1352,21 @@
       "size_mb": "109 KB"
     },
     {
+      "name": "aws-cloud-dictionary",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-cloud-dictionary",
+      "description": "\ud83c\udfd7\ufe0f \ud83d\udccc A serverless cloud terminology search application built with AWS services.  Users can search for and learn cloud technology definitions.  Features React frontend hosted on Amplify, Lambda-powered API,  API Gateway routing, and DynamoDB persistence.",
+      "status": "In Progress",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Created - DynamoDB table,IAM Role, CW Log Group, Lambda<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS INTERMEDIATE PROJECTS <br>\ud83d\udd39 Serverless Cloud Dictionary Application",
+      "last_updated": "<br><sub><img alt=\"2026-10-10\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--10-22c55e?style=flat\" title=\"2026-10-10\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "82 KB"
+    },
+    {
       "name": "aws-secure-file-sharing-protection",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-secure-file-sharing-protection",
       "description": "\ud83c\udfd7\ufe0f \ud83d\udccc  AWS-based secure file-sharing service with real-time malware detection, sensitive data protection, and DDoS mitigation using S3 Object Lambda, Amazon Macie, and CloudFront",
@@ -1428,21 +1443,6 @@
     }
   ],
   "AWS Complete Project using CloudFormation( Development on hold )": [
-    {
-      "name": "aws-cloud-dictionary",
-      "html_url": "https://github.com/subhamay-bhattacharyya/aws-cloud-dictionary",
-      "description": "\ud83c\udfd7\ufe0f A serverless cloud terminology search application built with AWS services.  Users can search for and learn cloud technology definitions.  Features React frontend hosted on Amplify, Lambda-powered API,  API Gateway routing, and DynamoDB persistence.",
-      "status": "In Progress",
-      "cloud_service_provider": "AWS",
-      "maturity": "development on hold",
-      "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS INTERMEDIATE PROJECTS <br>\ud83d\udd39 Serverless Cloud Dictionary Application",
-      "last_updated": "<br><sub><img alt=\"2026-10-07\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--07-22c55e?style=flat\" title=\"2026-10-07\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
-      "open_prs": 0,
-      "latest_release_tag": null,
-      "size_mb": "82 KB"
-    },
     {
       "name": "aws-todo-app-deployment",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-todo-app-deployment",
@@ -1948,7 +1948,7 @@
       "cloud_service_provider": null,
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-10\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--10-eab308?style=flat\" title=\"2026-09-10\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-09-10\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--10-f97316?style=flat\" title=\"2026-09-10\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": 1,
