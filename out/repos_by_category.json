@@ -3410,17 +3410,17 @@
     {
       "name": "cfn-nested-aws-rds-cluster",
       "html_url": "https://github.com/subhamay-bhattacharyya-cfn/cfn-nested-aws-rds-cluster",
-      "description": "\ud83c\udfd7\ufe0f \ud83d\udccc Following my naming convention, I want to name it like CFN nested AWS RDS cluster. ",
+      "description": "\ud83c\udfd7\ufe0f \ud83d\udccc CloudFormation nested stack for deploying AWS RDS clusters, with subnet group, security group, cluster, and instances.",
       "status": "Initialized",
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "None",
       "last_updated": "<br><sub><img alt=\"2026-10-12\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--12-22c55e?style=flat\" title=\"2026-10-12\" /></sub>",
       "open_issues": 1,
-      "branches": 1,
+      "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "149 KB"
     },
     {
       "name": "cloudformation-template",
