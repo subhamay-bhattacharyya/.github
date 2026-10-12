@@ -2390,7 +2390,7 @@
       "branches": 2,
       "open_prs": 1,
       "latest_release_tag": "v1.4.0",
-      "size_mb": "306 KB"
+      "size_mb": "308 KB"
     },
     {
       "name": "cfn-delete-action",
