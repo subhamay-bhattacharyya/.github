@@ -1484,7 +1484,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "93 KB"
+      "size_mb": "98 KB"
     },
     {
       "name": "aws-global-accelerator-multi-region",
@@ -1499,7 +1499,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "82 KB"
+      "size_mb": "87 KB"
     },
     {
       "name": "aws-bedrock-faq-chatbot",
