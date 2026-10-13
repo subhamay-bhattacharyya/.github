@@ -470,21 +470,6 @@
       "size_mb": "180 KB"
     },
     {
-      "name": "aws-two-tier-todo-app",
-      "html_url": "https://github.com/subhamay-bhattacharyya/aws-two-tier-todo-app",
-      "description": "\ud83c\udfd7\ufe0f Highly available two-tier Todo web application on AWS. Deploys an Application Load Balancer fronting EC2 instances across two Availability Zones, with Amazon RDS hosted in private subnets for secure data persistence. Includes VPC, subnets, route tables, and security groups \u2014 all provisioned via infrastructure-as-code. ",
-      "status": "Blocked",
-      "cloud_service_provider": "AWS",
-      "maturity": "experimental",
-      "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-04-30\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--04--30-ef4444?style=flat\" title=\"2026-04-30\" /></sub>",
-      "open_issues": 3,
-      "branches": 4,
-      "open_prs": 3,
-      "latest_release_tag": null,
-      "size_mb": "219 KB"
-    },
-    {
       "name": "serverless-cloud-dictionary",
       "html_url": "https://github.com/subhamay-bhattacharyya/serverless-cloud-dictionary",
       "description": "\ud83c\udfd7\ufe0f Serverless cloud terminology dictionary on AWS. A React frontend hosted on AWS Amplify queries an API Gateway endpoint backed by a Lambda function that fetches term definitions from DynamoDB. Includes a CLI-driven bulk loader using batch-write-item to seed the dataset, with the full stack provisioned via infrastructure-as-code.",
@@ -1244,7 +1229,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "106 KB"
+      "size_mb": "110 KB"
     },
     {
       "name": "aws-secure-website-oac-waf",
@@ -1259,7 +1244,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "106 KB"
+      "size_mb": "110 KB"
     },
     {
       "name": "aws-event-announcement-system",
@@ -1274,7 +1259,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "98 KB"
+      "size_mb": "101 KB"
     },
     {
       "name": "aws-image-labels-generator",
@@ -1289,7 +1274,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "92 KB"
+      "size_mb": "94 KB"
     },
     {
       "name": "aws-lex-translation-bot",
@@ -1319,7 +1304,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "82 KB"
+      "size_mb": "83 KB"
     },
     {
       "name": "aws-amplify-bucket-list-tracker",
@@ -1379,7 +1364,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "82 KB"
+      "size_mb": "86 KB"
     },
     {
       "name": "aws-cognito-university-portal",
@@ -1409,7 +1394,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "89 KB"
+      "size_mb": "93 KB"
     },
     {
       "name": "aws-secrets-encryption-system",
@@ -1433,7 +1418,7 @@
       "status": "In Progress",
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
-      "notes": "Start creating VPC<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS SOLUTION ARCHIETCT PROJECTS <br>\ud83d\udd39 Highly Available Architecture on AWS (Reliability Pillar)",
+      "notes": "Created - VPC,Subnets,IGW,RT<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS SOLUTION ARCHIETCT PROJECTS <br>\ud83d\udd39 Highly Available Architecture on AWS (Reliability Pillar)",
       "last_updated": "<br><sub><img alt=\"2026-10-10\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--10-22c55e?style=flat\" title=\"2026-10-10\" /></sub>",
       "open_issues": 1,
       "branches": 2,
@@ -1463,7 +1448,7 @@
       "status": "In Progress",
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
-      "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS ADVANCED PROJECTS <br>\ud83d\udd39 Traditional 3-Tier WordPress website Deployment on AWS",
+      "notes": "Created - VPC,Subnets,IGW,RT<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS ADVANCED PROJECTS <br>\ud83d\udd39 Traditional 3-Tier WordPress website Deployment on AWS",
       "last_updated": "<br><sub><img alt=\"2026-10-12\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--12-22c55e?style=flat\" title=\"2026-10-12\" /></sub>",
       "open_issues": 1,
       "branches": 2,
@@ -1511,7 +1496,7 @@
       "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS CLOUD ENGINEER PROJECTS <br>\ud83d\udd39 Global Accelerator-Based Multi-Region Failover on AWS",
       "last_updated": "<br><sub><img alt=\"2026-09-30\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--30-eab308?style=flat\" title=\"2026-09-30\" /></sub>",
       "open_issues": 1,
-      "branches": 1,
+      "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "82 KB"
@@ -1529,7 +1514,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "88 KB"
+      "size_mb": "89 KB"
     },
     {
       "name": "aws-eks-kubernetes-fundamentals",
