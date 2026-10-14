@@ -121,21 +121,6 @@
       "size_mb": "82 KB"
     },
     {
-      "name": "aws-serverless-emotion-detection",
-      "html_url": "https://github.com/subhamay-bhattacharyya/aws-serverless-emotion-detection",
-      "description": "\ud83c\udfd7\ufe0f Serverless AI application for real-time facial emotion detection using Hugging Face  Inference API, AWS Lambda, API Gateway, and S3. Detects emotions from images for  customer sentiment analysis and marketing campaign optimization.",
-      "status": "In Progress",
-      "cloud_service_provider": "AWS",
-      "maturity": "development on hold",
-      "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS CLOUD AI/ML ENGINEER PROJECTS <br>\ud83d\udd39 Image Emotion Detector using Hugging Face Vision Transformer",
-      "last_updated": "<br><sub><img alt=\"2026-10-07\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--07-eab308?style=flat\" title=\"2026-10-07\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
-      "open_prs": 0,
-      "latest_release_tag": null,
-      "size_mb": "82 KB"
-    },
-    {
       "name": "bedrock-rag-faq-chatbot",
       "html_url": "https://github.com/subhamay-bhattacharyya/bedrock-rag-faq-chatbot",
       "description": "\ud83c\udfd7\ufe0f Enterprise FAQ chatbot using Amazon Bedrock Knowledge Bases for document-grounded Q&A with serverless Lambda backend and S3-hosted web interface.",
@@ -495,7 +480,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "82 KB"
+      "size_mb": "84 KB"
     },
     {
       "name": "aws-healthcare-ha-infrastructure",
@@ -603,6 +588,21 @@
       "size_mb": "87 KB"
     },
     {
+      "name": "aws-serverless-emotion-detection",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-serverless-emotion-detection",
+      "description": "\ud83c\udfd7\ufe0f Serverless AI application for real-time facial emotion detection using Hugging Face  Inference API, AWS Lambda, API Gateway, and S3. Detects emotions from images for  customer sentiment analysis and marketing campaign optimization.",
+      "status": "In Progress",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Created - S3, Lambda, IAM Role, CW Log<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS CLOUD AI/ML ENGINEER PROJECTS <br>\ud83d\udd39 Image Emotion Detector using Hugging Face Vision Transformer",
+      "last_updated": "<br><sub><img alt=\"2026-10-07\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--07-eab308?style=flat\" title=\"2026-10-07\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "87 KB"
+    },
+    {
       "name": "aws-bedrock-faq-chatbot",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-bedrock-faq-chatbot",
       "description": "\ud83c\udfd7\ufe0f \ud83d\udccc  A secure, enterprise-ready FAQ chatbot powered by Amazon Bedrock Knowledge Bases.  Demonstrates RAG (Retrieval-Augmented Generation) with grounded Q&A, no hallucinations,  and document-aware responses. Built with Lambda Function URL backend, S3-hosted frontend,  and fully contained within AWS for security and compliance.",
@@ -615,7 +615,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "89 KB"
+      "size_mb": "93 KB"
     },
     {
       "name": "aws-serverless-genai-tutor",
@@ -660,7 +660,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "82 KB"
+      "size_mb": "87 KB"
     },
     {
       "name": "aws-smart-inbox-sentiment-router",
