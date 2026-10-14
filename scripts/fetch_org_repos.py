@@ -79,12 +79,16 @@ projects_dict = {
   "CHETAN": {
       "PROJECT-1": "AWS Networking Fundamentals",
       "PROJECT-123": "Production-grade, cloud-native eCommerce application built on AWS"
+  },
+  "PRAVIN-MISHRA": {
+      "EPIC-BOOKSTORE": "Epic Bookstore Website"
   }
 }
 
 platform_dict = {
     "ZTC": "Zero To Cloud",
-    "UDEMY": "Udemy"
+    "UDEMY": "Udemy",
+    "DMI": "DevOps Micro Internship with Agentic AI by Pravin Mishra"
 }
 
 course_dict = {
@@ -376,7 +380,12 @@ def main() -> None:
     # Create out directory if it doesn't exist
     if not os.path.exists(out_dir):
         os.makedirs(out_dir)
+
     
+    # Revert this block if you want the original unsorted category order.
+    # Sort repository categories alphabetically for stable output.
+    repos_by_category = {category: repos_by_category[category] for category in sorted(repos_by_category)}
+
     # Save the complete dictionary to repos_by_category.json
     output_file = os.path.join(out_dir, "repos_by_category.json")
     with open(output_file, "w") as f:
