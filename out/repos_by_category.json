@@ -948,7 +948,7 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "None",
-      "last_updated": "<br><sub><img alt=\"2026-10-07\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--07-22c55e?style=flat\" title=\"2026-10-07\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-10-07\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--07-eab308?style=flat\" title=\"2026-10-07\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": 0,
@@ -1119,6 +1119,21 @@
       "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "150 KB"
+    },
+    {
+      "name": "cfn-nested-aws-ec2-instance",
+      "html_url": "https://github.com/subhamay-bhattacharyya-cfn/cfn-nested-aws-ec2-instance",
+      "description": "\ud83c\udfd7\ufe0f CloudFormation nested stack template that provisions an EC2 instance with an IAM instance profile and user data bootstrap script. Built as a reusable component for the nested-template library.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "None",
+      "last_updated": "<br><sub><img alt=\"2026-10-14\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--14-22c55e?style=flat\" title=\"2026-10-14\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     },
     {
       "name": "cloudformation-template",
