@@ -258,21 +258,6 @@
   ],
   "AWS Complete Project using CloudFormation( Experimental )": [
     {
-      "name": "epicbook-two-tier-website",
-      "html_url": "https://github.com/subhamay-bhattacharyya/epicbook-two-tier-website",
-      "description": "CloudFormation automation for EpicBook three-tier web application deployment on AWS. Part of Pravin Mishra's DevOps Micro Internship (DMI) Cohort 3. Deploys Nginx frontend, Node.js backend, and MySQL RDS with secure VPC networking. Includes infrastructure code, security group configuration, and end-to-end validation.",
-      "status": "In Progress",
-      "cloud_service_provider": "AWS",
-      "maturity": "experimental",
-      "notes": "DMI Cohort<br>\ud83d\udd39DevOps Micro Internship with Agentic AI by Pravin Mishra <br>\ud83d\udd39  <br>\ud83d\udd39 Epic Bookstore Website",
-      "last_updated": "<br><sub><img alt=\"2026-10-15\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--15-22c55e?style=flat\" title=\"2026-10-15\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
-      "open_prs": 0,
-      "latest_release_tag": null,
-      "size_mb": "77 KB"
-    },
-    {
       "name": "aws-stock-analytics-pipeline",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-stock-analytics-pipeline",
       "description": "\ud83c\udfd7\ufe0f \ud83d\udccc Real-time stock market data analytics pipeline built on AWS.  Ingests streaming stock data via Amazon Kinesis, processes with Lambda,  detects anomalies, and stores in DynamoDB/S3. Features CloudFormation  infrastructure-as-code and GitHub Actions CI/CD workflows for automated deployment.",
@@ -691,6 +676,21 @@
       "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "90 KB"
+    },
+    {
+      "name": "aws-epicbook-two-tier-website",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-epicbook-two-tier-website",
+      "description": "\ud83c\udfd7\ufe0f CloudFormation automation for EpicBook three-tier web application deployment on AWS. Part of Pravin Mishra's DevOps Micro Internship (DMI) Cohort 3. Deploys Nginx frontend, Node.js backend, and MySQL RDS with secure VPC networking. Includes infrastructure code, security group configuration, and end-to-end validation.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-10-15\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--15-22c55e?style=flat\" title=\"2026-10-15\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     }
   ],
   "AWS Networking Speciality Certification": [
@@ -843,11 +843,11 @@
       "cloud_service_provider": "AWS",
       "maturity": "alpha",
       "notes": "None",
-      "last_updated": "<br><sub><img alt=\"2026-10-06\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--06-eab308?style=flat\" title=\"2026-10-06\" /></sub>",
-      "open_issues": 3,
-      "branches": 3,
-      "open_prs": 2,
-      "latest_release_tag": "v1.2.1",
+      "last_updated": "<br><sub><img alt=\"2026-10-15\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--15-22c55e?style=flat\" title=\"2026-10-15\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": "v1.3.0",
       "size_mb": "215 KB"
     },
     {
