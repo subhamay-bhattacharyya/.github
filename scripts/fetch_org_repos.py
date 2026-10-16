@@ -246,7 +246,6 @@ def fetch_branch_count(org: str, repo: str) -> int:
     
     return total_count
 
-
 def fetch_open_pr_count(org: str, repo: str) -> int:
     """
     Fetch the number of open pull requests for a repository.
