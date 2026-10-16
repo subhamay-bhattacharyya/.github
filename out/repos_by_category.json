@@ -707,7 +707,52 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "82 KB"
+      "size_mb": "86 KB"
+    },
+    {
+      "name": "aws-lab02-private-subnet-ec2-access",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-lab02-private-subnet-ec2-access",
+      "description": "\ud83c\udfd7\ufe0f Lab 2 of an AWS networking series: adds a private subnet with its own route table (no internet route) to the Lab 1 VPC, launches a private EC2 instance with no public IP, and SSHes into it from the public instance. Confirms the private instance cannot reach the internet.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-10-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--16-22c55e?style=flat\" title=\"2026-10-16\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    },
+    {
+      "name": "aws-lab03-nat-gateway-private-egress",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-lab03-nat-gateway-private-egress",
+      "description": "\ud83c\udfd7\ufe0f Lab 3 of an AWS networking series. Adds a second public subnet and a NAT gateway with an Elastic IP to the Lab 1 VPC, then routes the private subnet\u2019s internet-bound traffic through it. Confirms that EC2 B can reach the internet while staying free of public IPs. Notes the NAT gateway\u2019s hourly and data charges.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-10-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--16-22c55e?style=flat\" title=\"2026-10-16\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    },
+    {
+      "name": "aws-lab04-vpc-peering-cross-region",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-lab04-vpc-peering-cross-region",
+      "description": "\ud83c\udfd7\ufe0f Lab 4 of an AWS networking series: connects VPC A (Mumbai) and VPC B (North Virginia) with a cross-region VPC peering connection. Covers non-overlapping CIDRs, requester and accepter setup, and route table entries on both sides so private EC2 instances can communicate.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-10-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--16-22c55e?style=flat\" title=\"2026-10-16\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     }
   ],
   "Amazon Web Services - Terraform": [
@@ -968,7 +1013,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "164 KB"
+      "size_mb": "172 KB"
     },
     {
       "name": "cfn-nested-aws-ec2-security-group",
