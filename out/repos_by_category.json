@@ -340,7 +340,7 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "Created - IAM Role, CW Log Group, Lambda<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS BEGINNER PROJECTS <br>\ud83d\udd39 Build a language translation bot using Amazon Lex",
-      "last_updated": "<br><sub><img alt=\"2026-10-09\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--09-22c55e?style=flat\" title=\"2026-10-09\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-10-09\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--09-eab308?style=flat\" title=\"2026-10-09\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": 0,
@@ -700,8 +700,8 @@
       "description": "\ud83c\udfd7\ufe0f Lab 1 of an AWS networking series: build a custom VPC with an internet gateway, public subnet, route table, and auto-assigned public IP, then launch an EC2 instance in Mumbai (ap-south-1) and connect to it over SSH from a Windows workstation using PuTTY and a PPK key.",
       "status": "In Progress",
       "cloud_service_provider": "AWS",
-      "maturity": "experimental",
-      "notes": "Not Available<br>\ud83d\udd39Udemy <br>\ud83d\udd39 Chetan Agarwal <br>\ud83d\udd39 AWS Networking Fundamentals",
+      "maturity": "alpha",
+      "notes": "Create EC2 nested stack<br>\ud83d\udd39Udemy <br>\ud83d\udd39 Chetan Agarwal <br>\ud83d\udd39 AWS Networking Fundamentals",
       "last_updated": "<br><sub><img alt=\"2026-10-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--16-22c55e?style=flat\" title=\"2026-10-16\" /></sub>",
       "open_issues": 1,
       "branches": 2,
@@ -848,7 +848,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "163 KB"
+      "size_mb": "170 KB"
     },
     {
       "name": "cfn-nested-aws-iam-roles-policies",
@@ -958,12 +958,12 @@
     {
       "name": "cfn-nested-aws-subnets",
       "html_url": "https://github.com/subhamay-bhattacharyya-cfn/cfn-nested-aws-subnets",
-      "description": "\ud83c\udfd7\ufe0f \ud83d\udccc Reusable CloudFormation nested stack that creates subnets and route tables in an existing VPC. Takes VPC ID, AZs, IP ranges, subnet count, and subnet qualifier (public/private). Creates one route table per AZ, named `<VPC Name Tag>-<qualifier>-<AZ>`, and a public route table only for public subnets.",
+      "description": "\ud83c\udfd7\ufe0f  Reusable CloudFormation nested stack that creates subnets and route tables in an existing VPC. Takes VPC ID, AZs, IP ranges, subnet count, and subnet qualifier (public/private). Creates one route table per AZ, named `<VPC Name Tag>-<qualifier>-<AZ>`, and a public route table only for public subnets.",
       "status": "In Progress",
       "cloud_service_provider": "AWS",
       "maturity": "alpha",
       "notes": "None",
-      "last_updated": "<br><sub><img alt=\"2026-10-11\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--11-22c55e?style=flat\" title=\"2026-10-11\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-10-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--16-22c55e?style=flat\" title=\"2026-10-16\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": 0,
