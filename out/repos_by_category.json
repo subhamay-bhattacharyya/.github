@@ -722,7 +722,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "82 KB"
     },
     {
       "name": "aws-lab03-nat-gateway-private-egress",
@@ -737,12 +737,12 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "82 KB"
     },
     {
       "name": "aws-lab04-vpc-peering-cross-region",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-lab04-vpc-peering-cross-region",
-      "description": "\ud83c\udfd7\ufe0f Lab 4 of an AWS networking series: connects VPC A (Mumbai) and VPC B (North Virginia) with a cross-region VPC peering connection. Covers non-overlapping CIDRs, requester and accepter setup, and route table entries on both sides so private EC2 instances can communicate.",
+      "description": "\ud83c\udfd7\ufe0f Lab 4 of an AWS networking series: connects VPC A (Ohio) and VPC B (North Virginia) with a cross-region VPC peering connection. Covers non-overlapping CIDRs, requester and accepter setup, and route table entries on both sides so private EC2 instances can communicate.",
       "status": "Initialized",
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
@@ -750,6 +750,66 @@
       "last_updated": "<br><sub><img alt=\"2026-10-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--16-22c55e?style=flat\" title=\"2026-10-16\" /></sub>",
       "open_issues": 1,
       "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "82 KB"
+    },
+    {
+      "name": "aws-lab05-vpc-gateway-endpoint-s3",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-lab05-vpc-gateway-endpoint-s3",
+      "description": "\ud83c\udfd7\ufe0f Lab 5 of an AWS networking series. Gives EC2 B in a private subnet access to S3 without a NAT gateway or internet route. Uses an IAM role with S3 read-only access, then adds an S3 gateway endpoint to the private route table so traffic to S3 goes through the prefix list. Verifies by downloading an object with the AWS CLI.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-10-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--16-22c55e?style=flat\" title=\"2026-10-16\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    },
+    {
+      "name": "aws-lab06-vpc-interface-endpoint-sqs",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-lab06-vpc-interface-endpoint-sqs",
+      "description": "\ud83c\udfd7\ufe0f Lab 6 of an AWS networking series: enables private DNS on VPC A, then creates an SQS interface endpoint with a security group allowing HTTPS (443) from the VPC CIDR. EC2 B sends messages to SQS over AWS PrivateLink, with no internet or NAT path.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-10-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--16-22c55e?style=flat\" title=\"2026-10-16\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    },
+    {
+      "name": "aws-lab07-vpc-privatelink-saas-service",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-lab07-vpc-privatelink-saas-service",
+      "description": "\ud83c\udfd7\ufe0fLab 7 of an AWS networking series. Models a SaaS provider and consumer on AWS PrivateLink. Builds VPC B with a private subnet and an internal Network Load Balancer in front of a web server AMI. Exposes it as a VPC endpoint service, then creates an interface endpoint in VPC A so EC2 B can reach it privately using the AWS-generated DNS name.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-10-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--16-22c55e?style=flat\" title=\"2026-10-16\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    },
+    {
+      "name": "aws-lab08-site-to-site-vpn",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-lab08-site-to-site-vpn",
+      "description": "\ud83c\udfd7\ufe0f Lab 8 of an AWS networking series: simulates an on-prem network with a LibreSwan VPN server, then connects it to VPC A via a virtual private gateway and static-routed site-to-site VPN. Covers routing, source/destination checks, and end-to-end private pings.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-10-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--16-22c55e?style=flat\" title=\"2026-10-16\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "0 KB"
