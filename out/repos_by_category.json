@@ -827,12 +827,42 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "82 KB"
     },
     {
       "name": "aws-lab11-transit-gateway-hub-spoke",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-lab11-transit-gateway-hub-spoke",
       "description": "\ud83c\udfd7\ufe0fLab 11 of an AWS networking series. Connects three VPCs (A, B, and C) through an AWS Transit Gateway with VPC attachments in one subnet each. Adds a jump host in VPC A\u2019s public subnet, then uses the default route table\u2019s propagated routes and a 10.0.0.0/8 route in each private route table to verify private ping and SSH between instances.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-10-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--16-22c55e?style=flat\" title=\"2026-10-16\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "82 KB"
+    },
+    {
+      "name": "aws-lab12-transit-gateway-attachment-route-tables",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-lab12-transit-gateway-attachment-route-tables",
+      "description": "\ud83c\udfd7\ufe0f Lab 12 of an AWS networking series. Builds on the Transit Gateway hub by disabling default route table association and propagation, then creating a separate route table per VPC attachment. Allows VPC A to reach VPC B and VPC B to reach VPC C, while blocking VPC A to VPC C. Covers propagations, black-hole routes, and private route table entries.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-10-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--16-22c55e?style=flat\" title=\"2026-10-16\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    },
+    {
+      "name": "aws-lab13-route53-custom-domain-web-server",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-lab13-route53-custom-domain-web-server",
+      "description": "\ud83c\udfd7\ufe0f Lab 13 of an AWS networking series. Points a custom domain in a Route 53 hosted zone at the public IP of a web server using an A record with a short TTL, then confirms the site loads over HTTP using the domain name. Covers releasing the Elastic IP and terminating the instance afterward to avoid charges.",
       "status": "Initialized",
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
