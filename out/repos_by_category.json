@@ -830,6 +830,21 @@
       "size_mb": "83 KB"
     },
     {
+      "name": "aws-lab10-client-vpn-split-tunnel",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-lab10-client-vpn-split-tunnel",
+      "description": "\ud83c\udfd7\ufe0f Lab 10 of an AWS networking series: switches an AWS Client VPN endpoint to split tunnel mode so VPC traffic uses the VPN and internet traffic uses the local network. Covers fixing DNS on OpenVPN and outlines routing via the VPC\u2019s internet gateway.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available<br>\ud83d\udd39Udemy <br>\ud83d\udd39 Chetan Agarwal <br>\ud83d\udd39 ",
+      "last_updated": "<br><sub><img alt=\"2026-10-17\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--17-22c55e?style=flat\" title=\"2026-10-17\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "82 KB"
+    },
+    {
       "name": "aws-lab11-transit-gateway-hub-spoke",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-lab11-transit-gateway-hub-spoke",
       "description": "\ud83c\udfd7\ufe0fLab 11 of an AWS networking series. Connects three VPCs (A, B, and C) through an AWS Transit Gateway with VPC attachments in one subnet each. Adds a jump host in VPC A\u2019s public subnet, then uses the default route table\u2019s propagated routes and a 10.0.0.0/8 route in each private route table to verify private ping and SSH between instances.",
