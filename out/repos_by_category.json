@@ -737,7 +737,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "84 KB"
+      "size_mb": "85 KB"
     },
     {
       "name": "aws-lab04-vpc-peering-cross-region",
@@ -752,7 +752,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "83 KB"
+      "size_mb": "84 KB"
     },
     {
       "name": "aws-lab05-vpc-gateway-endpoint-s3",
@@ -767,7 +767,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "86 KB"
+      "size_mb": "87 KB"
     },
     {
       "name": "aws-lab06-vpc-interface-endpoint-sqs",
@@ -797,7 +797,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "82 KB"
+      "size_mb": "83 KB"
     },
     {
       "name": "aws-lab08-site-to-site-vpn",
@@ -812,7 +812,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "82 KB"
+      "size_mb": "83 KB"
     },
     {
       "name": "aws-lab09-client-vpn-mutual-auth",
@@ -827,7 +827,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "82 KB"
+      "size_mb": "83 KB"
     },
     {
       "name": "aws-lab11-transit-gateway-hub-spoke",
@@ -2544,7 +2544,7 @@
       "cloud_service_provider": null,
       "maturity": "experimental",
       "notes": "Not Available",
-      "last_updated": "<br><sub><img alt=\"2026-09-17\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--17-eab308?style=flat\" title=\"2026-09-17\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-09-17\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--09--17-f97316?style=flat\" title=\"2026-09-17\" /></sub>",
       "open_issues": 2,
       "branches": 2,
       "open_prs": 1,
