@@ -265,7 +265,7 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "Created - S3,DynamoDB,CW Log Group,IAM Role, Lambda<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS ADVANCED PROJECTS <br>\ud83d\udd39 Stock Market Real-Time Data Analytics Pipeline on AWS",
-      "last_updated": "<br><sub><img alt=\"2026-10-09\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--09-22c55e?style=flat\" title=\"2026-10-09\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-10-09\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--09-eab308?style=flat\" title=\"2026-10-09\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": 0,
