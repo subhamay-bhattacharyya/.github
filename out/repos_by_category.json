@@ -707,7 +707,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "86 KB"
+      "size_mb": "89 KB"
     },
     {
       "name": "aws-lab02-private-subnet-ec2-access",
@@ -722,7 +722,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "82 KB"
+      "size_mb": "84 KB"
     },
     {
       "name": "aws-lab03-nat-gateway-private-egress",
@@ -737,7 +737,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "82 KB"
+      "size_mb": "84 KB"
     },
     {
       "name": "aws-lab04-vpc-peering-cross-region",
@@ -752,7 +752,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "82 KB"
+      "size_mb": "83 KB"
     },
     {
       "name": "aws-lab05-vpc-gateway-endpoint-s3",
@@ -767,7 +767,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "82 KB"
+      "size_mb": "86 KB"
     },
     {
       "name": "aws-lab06-vpc-interface-endpoint-sqs",
