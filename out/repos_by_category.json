@@ -400,7 +400,7 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "Created - DynamoDB table,IAM Role, CW Log Group, Lambda<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS INTERMEDIATE PROJECTS <br>\ud83d\udd39 Serverless Cloud Dictionary Application",
-      "last_updated": "<br><sub><img alt=\"2026-10-10\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--10-22c55e?style=flat\" title=\"2026-10-10\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-10-10\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--10-eab308?style=flat\" title=\"2026-10-10\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": 0,
