@@ -2504,7 +2504,7 @@
       "branches": 5,
       "open_prs": 4,
       "latest_release_tag": "v1.0.2",
-      "size_mb": "357 KB"
+      "size_mb": "361 KB"
     },
     {
       "name": "terraform-apply-wf",
