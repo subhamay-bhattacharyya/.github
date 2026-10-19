@@ -695,21 +695,6 @@
   ],
   "AWS Networking Labs": [
     {
-      "name": "aws-lab01-vpc-single-public-subnet",
-      "html_url": "https://github.com/subhamay-bhattacharyya/aws-lab01-vpc-single-public-subnet",
-      "description": "\ud83c\udfd7\ufe0f Lab 1 of an AWS networking series: build a custom VPC with an internet gateway, public subnet, route table, and auto-assigned public IP, then launch an EC2 instance in Mumbai (ap-south-1) and connect to it over SSH from a Windows workstation using PuTTY and a PPK key.",
-      "status": "In Progress",
-      "cloud_service_provider": "AWS",
-      "maturity": "alpha",
-      "notes": "Create EC2 nested stack<br>\ud83d\udd39Udemy <br>\ud83d\udd39 Chetan Agarwal <br>\ud83d\udd39 ",
-      "last_updated": "<br><sub><img alt=\"2026-10-19\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--19-22c55e?style=flat\" title=\"2026-10-19\" /></sub>",
-      "open_issues": 0,
-      "branches": 1,
-      "open_prs": 0,
-      "latest_release_tag": "Rel-001-20261019182503",
-      "size_mb": "340 KB"
-    },
-    {
       "name": "aws-lab02-private-subnet-ec2-access",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-lab02-private-subnet-ec2-access",
       "description": "\ud83c\udfd7\ufe0f Lab 2 of an AWS networking series: adds a private subnet with its own route table (no internet route) to the Lab 1 VPC, launches a private EC2 instance with no public IP, and SSHes into it from the public instance. Confirms the private instance cannot reach the internet.",
@@ -723,6 +708,21 @@
       "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "147 KB"
+    },
+    {
+      "name": "aws-lab01-vpc-single-public-subnet",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-lab01-vpc-single-public-subnet",
+      "description": "\u2705 Lab 1 of an AWS networking series: build a custom VPC with an internet gateway, public subnet, route table, and auto-assigned public IP, then launch an EC2 instance in Mumbai (ap-south-1) and connect to it over SSH from a Windows workstation using PuTTY and a PPK key.",
+      "status": "Complete",
+      "cloud_service_provider": "AWS",
+      "maturity": "beta",
+      "notes": "Not Available<br>\ud83d\udd39Udemy <br>\ud83d\udd39 Chetan Agarwal <br>\ud83d\udd39 ",
+      "last_updated": "<br><sub><img alt=\"2026-10-19\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--19-22c55e?style=flat\" title=\"2026-10-19\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 1,
+      "latest_release_tag": "Rel-002-20261019193519",
+      "size_mb": "340 KB"
     },
     {
       "name": "aws-lab03-nat-gateway-private-egress",
