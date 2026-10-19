@@ -172,7 +172,7 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 {% set repo_path = (repo.html_url | replace('https://github.com/', '') | trim('/')) if repo.html_url else '' -%}
 {% set repo_owner = repo_path.split('/') | first if repo_path else '' -%}
 {% set repo_name = repo_path.split('/') | last if repo_path else '' -%}
-{% set release_badge = 'https://github.com/' ~ repo_owner ~ '/' ~ repo_name ~ '/actions/workflows/release.yaml/badge.svg' -%}
+{% set release_badge = 'https://github.com/' ~ repo_owner ~ '/' ~ repo_name ~ '/actions/workflows/ci.yaml/badge.svg' -%}
 {% set has_release = repo.latest_release_tag is not none and repo.latest_release_tag != '' -%}
 {% set maturity_value = (repo.maturity or 'unknown') | string | trim | lower -%}
 {% set maturity_map = {

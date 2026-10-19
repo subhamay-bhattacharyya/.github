@@ -290,6 +290,10 @@ def fetch_latest_release_tag(org: str, repo: str) -> Optional[str]:
 
     resp.raise_for_status()
     release = resp.json()
+
+    if release.get("tag_name").find("-") > 0:
+        return "-".join(release.get("tag_name").split("-")[0:2])
+
     return release.get("tag_name")
 
 
