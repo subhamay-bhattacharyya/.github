@@ -703,11 +703,11 @@
       "maturity": "alpha",
       "notes": "Create EC2 nested stack<br>\ud83d\udd39Udemy <br>\ud83d\udd39 Chetan Agarwal <br>\ud83d\udd39 ",
       "last_updated": "<br><sub><img alt=\"2026-10-19\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--19-22c55e?style=flat\" title=\"2026-10-19\" /></sub>",
-      "open_issues": 2,
-      "branches": 2,
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": 0,
-      "latest_release_tag": null,
-      "size_mb": "333 KB"
+      "latest_release_tag": "Rel-001-20261019182503",
+      "size_mb": "340 KB"
     },
     {
       "name": "aws-lab02-private-subnet-ec2-access",
@@ -1383,7 +1383,7 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "None",
-      "last_updated": "<br><sub><img alt=\"2026-10-12\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--12-22c55e?style=flat\" title=\"2026-10-12\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-10-12\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--12-eab308?style=flat\" title=\"2026-10-12\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": 0,
