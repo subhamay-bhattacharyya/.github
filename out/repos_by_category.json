@@ -827,7 +827,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "86 KB"
+      "size_mb": "92 KB"
     },
     {
       "name": "aws-lab10-client-vpn-split-tunnel",
@@ -842,7 +842,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "86 KB"
+      "size_mb": "92 KB"
     },
     {
       "name": "aws-lab11-transit-gateway-hub-spoke",
@@ -857,7 +857,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "86 KB"
+      "size_mb": "91 KB"
     },
     {
       "name": "aws-lab12-transit-gateway-attachment-route-tables",
@@ -872,7 +872,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "86 KB"
+      "size_mb": "92 KB"
     },
     {
       "name": "aws-lab13-route53-custom-domain-web-server",
@@ -887,7 +887,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "86 KB"
+      "size_mb": "92 KB"
     },
     {
       "name": "aws-lab14-route53-failover-routing",
@@ -902,7 +902,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "86 KB"
+      "size_mb": "92 KB"
     },
     {
       "name": "aws-lab15-s3-static-website-route53",
@@ -917,7 +917,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "84 KB"
+      "size_mb": "90 KB"
     },
     {
       "name": "aws-lab16-alb-private-targets",
@@ -932,7 +932,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "86 KB"
+      "size_mb": "92 KB"
     },
     {
       "name": "aws-lab17-alb-sticky-sessions",
@@ -947,7 +947,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "86 KB"
+      "size_mb": "92 KB"
     },
     {
       "name": "aws-lab18-alb-host-based-routing",
@@ -962,7 +962,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "86 KB"
+      "size_mb": "92 KB"
     },
     {
       "name": "aws-lab19-alb-https-acm-certificate",
@@ -977,7 +977,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "86 KB"
+      "size_mb": "92 KB"
     },
     {
       "name": "aws-lab20-alb-path-based-routing",
@@ -992,7 +992,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "83 KB"
+      "size_mb": "90 KB"
     }
   ],
   "Amazon Web Services - Terraform": [
