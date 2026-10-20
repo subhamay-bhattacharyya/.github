@@ -695,21 +695,6 @@
   ],
   "AWS Networking Labs": [
     {
-      "name": "aws-lab02-private-subnet-ec2-access",
-      "html_url": "https://github.com/subhamay-bhattacharyya/aws-lab02-private-subnet-ec2-access",
-      "description": "\ud83c\udfd7\ufe0f Lab 2 of an AWS networking series: adds a private subnet with its own route table (no internet route) to the Lab 1 VPC, launches a private EC2 instance with no public IP, and SSHes into it from the public instance. Confirms the private instance cannot reach the internet.",
-      "status": "In Progress",
-      "cloud_service_provider": "AWS",
-      "maturity": "alpha",
-      "notes": "Not Available<br>\ud83d\udd39Udemy <br>\ud83d\udd39 Chetan Agarwal <br>\ud83d\udd39 ",
-      "last_updated": "<br><sub><img alt=\"2026-10-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--16-22c55e?style=flat\" title=\"2026-10-16\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
-      "open_prs": 0,
-      "latest_release_tag": null,
-      "size_mb": "147 KB"
-    },
-    {
       "name": "aws-lab01-vpc-single-public-subnet",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-lab01-vpc-single-public-subnet",
       "description": "\u2705 Lab 1 of an AWS networking series: build a custom VPC with an internet gateway, public subnet, route table, and auto-assigned public IP, then launch an EC2 instance in Mumbai (ap-south-1) and connect to it over SSH from a Windows workstation using PuTTY and a PPK key.",
@@ -718,11 +703,26 @@
       "maturity": "beta",
       "notes": "Not Available<br>\ud83d\udd39Udemy <br>\ud83d\udd39 Chetan Agarwal <br>\ud83d\udd39 ",
       "last_updated": "<br><sub><img alt=\"2026-10-19\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--19-22c55e?style=flat\" title=\"2026-10-19\" /></sub>",
-      "open_issues": 1,
+      "open_issues": 0,
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": "Rel",
       "size_mb": "347 KB"
+    },
+    {
+      "name": "aws-lab02-private-subnet-ec2-access",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-lab02-private-subnet-ec2-access",
+      "description": "\u2705 Lab 2 of an AWS networking series: adds a private subnet with its own route table (no internet route) to the Lab 1 VPC, launches a private EC2 instance with no public IP, and SSHes into it from the public instance. Confirms the private instance cannot reach the internet.",
+      "status": "Complete",
+      "cloud_service_provider": "AWS",
+      "maturity": "beta",
+      "notes": "Not Available<br>\ud83d\udd39Udemy <br>\ud83d\udd39 Chetan Agarwal <br>\ud83d\udd39 ",
+      "last_updated": "<br><sub><img alt=\"2026-10-19\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--19-22c55e?style=flat\" title=\"2026-10-19\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": "Rel",
+      "size_mb": "164 KB"
     },
     {
       "name": "aws-lab03-nat-gateway-private-egress",
@@ -737,7 +737,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "85 KB"
+      "size_mb": "86 KB"
     },
     {
       "name": "aws-lab04-vpc-peering-cross-region",
@@ -752,7 +752,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "84 KB"
+      "size_mb": "86 KB"
     },
     {
       "name": "aws-lab05-vpc-gateway-endpoint-s3",
@@ -782,7 +782,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "84 KB"
+      "size_mb": "86 KB"
     },
     {
       "name": "aws-lab07-vpc-privatelink-saas-service",
@@ -797,7 +797,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "83 KB"
+      "size_mb": "86 KB"
     },
     {
       "name": "aws-lab08-site-to-site-vpn",
@@ -812,7 +812,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "83 KB"
+      "size_mb": "86 KB"
     },
     {
       "name": "aws-lab09-client-vpn-mutual-auth",
@@ -827,7 +827,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "83 KB"
+      "size_mb": "86 KB"
     },
     {
       "name": "aws-lab10-client-vpn-split-tunnel",
@@ -842,7 +842,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "84 KB"
+      "size_mb": "86 KB"
     },
     {
       "name": "aws-lab11-transit-gateway-hub-spoke",
@@ -857,7 +857,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "84 KB"
+      "size_mb": "86 KB"
     },
     {
       "name": "aws-lab12-transit-gateway-attachment-route-tables",
@@ -872,7 +872,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "84 KB"
+      "size_mb": "86 KB"
     },
     {
       "name": "aws-lab13-route53-custom-domain-web-server",
@@ -887,7 +887,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "84 KB"
+      "size_mb": "86 KB"
     },
     {
       "name": "aws-lab14-route53-failover-routing",
@@ -902,7 +902,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "83 KB"
+      "size_mb": "86 KB"
     },
     {
       "name": "aws-lab15-s3-static-website-route53",
@@ -917,7 +917,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "83 KB"
+      "size_mb": "84 KB"
     },
     {
       "name": "aws-lab16-alb-private-targets",
@@ -932,7 +932,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "83 KB"
+      "size_mb": "86 KB"
     },
     {
       "name": "aws-lab17-alb-sticky-sessions",
@@ -947,7 +947,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "83 KB"
+      "size_mb": "86 KB"
     },
     {
       "name": "aws-lab18-alb-host-based-routing",
@@ -962,7 +962,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "83 KB"
+      "size_mb": "86 KB"
     },
     {
       "name": "aws-lab19-alb-https-acm-certificate",
@@ -977,7 +977,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "83 KB"
+      "size_mb": "86 KB"
     },
     {
       "name": "aws-lab20-alb-path-based-routing",
