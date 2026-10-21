@@ -707,7 +707,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": "Rel",
-      "size_mb": "347 KB"
+      "size_mb": "354 KB"
     },
     {
       "name": "aws-lab02-private-subnet-ec2-access",
@@ -717,22 +717,22 @@
       "cloud_service_provider": "AWS",
       "maturity": "beta",
       "notes": "____<br>\ud83d\udd39Udemy <br>\ud83d\udd39 Chetan Agarwal <br>\ud83d\udd39 Private Subnet with EC2 Access",
-      "last_updated": "<br><sub><img alt=\"2026-10-19\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--19-22c55e?style=flat\" title=\"2026-10-19\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-10-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--21-22c55e?style=flat\" title=\"2026-10-21\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": "Rel",
-      "size_mb": "166 KB"
+      "size_mb": "179 KB"
     },
     {
       "name": "aws-lab03-nat-gateway-private-egress",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-lab03-nat-gateway-private-egress",
-      "description": "\ud83c\udfd7\ufe0f Lab 3 of an AWS networking series. Adds a second public subnet and a NAT gateway with an Elastic IP to the Lab 1 VPC, then routes the private subnet\u2019s internet-bound traffic through it. Confirms that EC2 B can reach the internet while staying free of public IPs. Notes the NAT gateway\u2019s hourly and data charges.",
-      "status": "Initialized",
+      "description": "\ud83c\udfd7\ufe0f \ud83d\udccc Lab 3 of an AWS networking series. Adds a second public subnet and a NAT gateway with an Elastic IP to the Lab 1 VPC, then routes the private subnet\u2019s internet-bound traffic through it. Confirms that EC2 B can reach the internet while staying free of public IPs. Notes the NAT gateway\u2019s hourly and data charges.",
+      "status": "In Progress",
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "____<br>\ud83d\udd39Udemy <br>\ud83d\udd39 Chetan Agarwal <br>\ud83d\udd39 NAT Gateway for Private Egress",
-      "last_updated": "<br><sub><img alt=\"2026-10-16\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--16-22c55e?style=flat\" title=\"2026-10-16\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-10-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--21-22c55e?style=flat\" title=\"2026-10-21\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": 0,
@@ -878,7 +878,7 @@
       "name": "aws-lab13-route53-custom-domain-web-server",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-lab13-route53-custom-domain-web-server",
       "description": "\ud83c\udfd7\ufe0f \ud83d\udccc Lab 13 of an AWS networking series. Points a custom domain in a Route 53 hosted zone at the public IP of a web server using an A record with a short TTL, then confirms the site loads over HTTP using the domain name. Covers releasing the Elastic IP and terminating the instance afterward to avoid charges.",
-      "status": "Initialized",
+      "status": "In Progress",
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "____<br>\ud83d\udd39Udemy <br>\ud83d\udd39 Chetan Agarwal <br>\ud83d\udd39 Route 53 Custom Domain for Web Server",
