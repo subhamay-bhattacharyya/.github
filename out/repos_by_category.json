@@ -1434,6 +1434,21 @@
       "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "93 KB"
+    },
+    {
+      "name": "cfn-aws-nested-acm-dns",
+      "html_url": "https://github.com/subhamay-bhattacharyya-cfn/cfn-aws-nested-acm-dns",
+      "description": "\ud83c\udfd7\ufe0f \ud83d\udccc CloudFormation template for AWS nested stacks that provisions a DNS-validated ACM certificate and a Route 53 record for a domain, with parameters for hosted zone, domain, SANs, and record target.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "None",
+      "last_updated": "<br><sub><img alt=\"2026-10-20\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--20-22c55e?style=flat\" title=\"2026-10-20\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     }
   ],
   "GCP / Snowflake / Databricks (Terraform)": [
