@@ -13,76 +13,94 @@ from zoneinfo import ZoneInfo
 GITHUB_API = "https://api.github.com"
 
 projects_dict = {
-  "BEGINNER": {
-    "PROJECT-1": "Build a daily task scheduler application using Amazon PartyRock",
-    "PROJECT-2": "Build an image labels generator using Amazon Rekognition",
-    "PROJECT-3": "Develop a text narrator using Amazon Polly",
-    "PROJECT-4": "Build a language translation bot using Amazon Lex",
-    "PROJECT-5": "Deploy a bucket list tracker application on AWS Amplify"
-  },
-  "INTERMEDIATE": {
-    "PROJECT-1": "Build an Event Announcement System using SNS, Lambda and API Gateway",
-    "PROJECT-2": "Data Pipeline for Processing CSV Files Using S3, Lambda, Glue, and QuickSight",
-    "PROJECT-3": "Automated AWS Receipt Processing System",
-    "PROJECT-4": "Serverless Cloud Dictionary Application",
-    "PROJECT-5": "Two-Tier Website Deployment on AWS using EC2, RDS and ALB"
-  },
-  "ADVANCED": {
-    "PROJECT-1": "Build a CI/CD Pipeline for the 2048 Game using AWS CodePipeline, ECS, and ECR",
-    "PROJECT-2": "Stock Market Real-Time Data Analytics Pipeline on AWS",
-    "PROJECT-3": "Building & Deploying a Cybersecurity Threat Detection System using Amazon SageMaker",
-    "PROJECT-4": "Multi-Cloud Weather Tracker website with Disaster Recovery using Terraform",
-    "PROJECT-5": "Traditional 3-Tier WordPress website Deployment on AWS"
-  },
-  "SUPPORT-ENGINEER": {
-    "PROJECT-1": "Containerized LMS Migration and Troubleshooting",
-    "PROJECT-2": "Implementing a CI/CD Pipeline for GlobalMart E-Commerce Platform",
-    "PROJECT-3": "Proactive Monitoring & Security Auto-Remediation for EC2",
-    "PROJECT-4": "Debugging a Broken Serverless Contact Form Workflow",
-    "PROJECT-5": "Repair Shop Application Deployment on AWS"
-  },
-  "SOLUTION-ARCHITECT": {
-    "PROJECT-1": "Secure Application Deployment on AWS (Security Pillar)",
-    "PROJECT-2": "Highly Available Architecture on AWS (Reliability Pillar)",
-    "PROJECT-3": "Real-Time AWS Operations from Slack (Operational Excellence Pillar)",
-    "PROJECT-4": "Serverless Inventory Management on AWS (Performance Efficiency Pillar)",
-    "PROJECT-5": "Automated Cost Governance on AWS (Cost Optimization Pillar)"
-  },
-  "DEVOPS-ENGINEER": {
-    "PROJECT-1": "Build a Production-Ready CI/CD Pipeline on AWS",
-    "PROJECT-2": "Infrastructure as Code (IaC) with Terraform for AWS Environments",
-    "PROJECT-3": "Kubernetes Deployment and Autoscaling on Amazon EKS",
-    "PROJECT-4": "Configuration Management with Ansible on AWS",
-    "PROJECT-5": "Monitoring, Alerting & Incident Response on AWS"
-  },
-  "SECURITY-ENGINEER": {
-    "PROJECT-1": "Secure Web Hosting on AWS: S3, CloudFront & WAF",
-    "PROJECT-2": "Identity & Access Security with Cognito and API Gateway",
-    "PROJECT-3": "Cloud Threat Detection & Security Audit",
-    "PROJECT-4": "Secure File Sharing & Malware Protection",
-    "PROJECT-5": "Secrets Management & Encryption for Applications"
-  },
-  "CLOUD-ENGINEER": {
-    "PROJECT-1": "On-Premise Application Migration to AWS",
-    "PROJECT-2": "Blue Green and Rolling Infrastructure Deployments",
-    "PROJECT-3": "Multi-VPC Networking and PrivateLink Architecture",
-    "PROJECT-4": "Event-Driven Order Processing System on AWS",
-    "PROJECT-5": "Global Accelerator-Based Multi-Region Failover on AWS"
-  },
-  "AIML-ENGINEER": {
-    "PROJECT-1": "Build a Serverless Smart Inbox with Real-Time Sentiment Analysis",
-    "PROJECT-2": "Intelligent FAQ Chatbot using Amazon Bedrock (RAG)",
-    "PROJECT-3": "Predicting Customer Subscriptions with Amazon SageMaker",
-    "PROJECT-4": "Image Emotion Detector using Hugging Face Vision Transformer",
-    "PROJECT-5": "AI-Powered Cloud Learning Assistant using Gemini API"
-  },
-  "CHETAN": {
-      "PROJECT-1": "AWS Networking Fundamentals",
-      "PROJECT-123": "Production-grade, cloud-native eCommerce application built on AWS"
-  },
-  "PRAVIN-MISHRA": {
-      "EPIC-BOOKSTORE": "Epic Bookstore Website"
-  }
+    "BEGINNER": {
+        "PROJECT-1": "Build a daily task scheduler application using Amazon PartyRock",
+        "PROJECT-2": "Build an image labels generator using Amazon Rekognition",
+        "PROJECT-3": "Develop a text narrator using Amazon Polly",
+        "PROJECT-4": "Build a language translation bot using Amazon Lex",
+        "PROJECT-5": "Deploy a bucket list tracker application on AWS Amplify"
+    },
+    "INTERMEDIATE": {
+        "PROJECT-1": "Build an Event Announcement System using SNS, Lambda and API Gateway",
+        "PROJECT-2": "Data Pipeline for Processing CSV Files Using S3, Lambda, Glue, and QuickSight",
+        "PROJECT-3": "Automated AWS Receipt Processing System",
+        "PROJECT-4": "Serverless Cloud Dictionary Application",
+        "PROJECT-5": "Two-Tier Website Deployment on AWS using EC2, RDS and ALB"
+    },
+    "ADVANCED": {
+        "PROJECT-1": "Build a CI/CD Pipeline for the 2048 Game using AWS CodePipeline, ECS, and ECR",
+        "PROJECT-2": "Stock Market Real-Time Data Analytics Pipeline on AWS",
+        "PROJECT-3": "Building & Deploying a Cybersecurity Threat Detection System using Amazon SageMaker",
+        "PROJECT-4": "Multi-Cloud Weather Tracker website with Disaster Recovery using Terraform",
+        "PROJECT-5": "Traditional 3-Tier WordPress website Deployment on AWS"
+    },
+    "SUPPORT-ENGINEER": {
+        "PROJECT-1": "Containerized LMS Migration and Troubleshooting",
+        "PROJECT-2": "Implementing a CI/CD Pipeline for GlobalMart E-Commerce Platform",
+        "PROJECT-3": "Proactive Monitoring & Security Auto-Remediation for EC2",
+        "PROJECT-4": "Debugging a Broken Serverless Contact Form Workflow",
+        "PROJECT-5": "Repair Shop Application Deployment on AWS"
+    },
+    "SOLUTION-ARCHITECT": {
+        "PROJECT-1": "Secure Application Deployment on AWS (Security Pillar)",
+        "PROJECT-2": "Highly Available Architecture on AWS (Reliability Pillar)",
+        "PROJECT-3": "Real-Time AWS Operations from Slack (Operational Excellence Pillar)",
+        "PROJECT-4": "Serverless Inventory Management on AWS (Performance Efficiency Pillar)",
+        "PROJECT-5": "Automated Cost Governance on AWS (Cost Optimization Pillar)"
+    },
+    "DEVOPS-ENGINEER": {
+        "PROJECT-1": "Build a Production-Ready CI/CD Pipeline on AWS",
+        "PROJECT-2": "Infrastructure as Code (IaC) with Terraform for AWS Environments",
+        "PROJECT-3": "Kubernetes Deployment and Autoscaling on Amazon EKS",
+        "PROJECT-4": "Configuration Management with Ansible on AWS",
+        "PROJECT-5": "Monitoring, Alerting & Incident Response on AWS"
+    },
+    "SECURITY-ENGINEER": {
+        "PROJECT-1": "Secure Web Hosting on AWS: S3, CloudFront & WAF",
+        "PROJECT-2": "Identity & Access Security with Cognito and API Gateway",
+        "PROJECT-3": "Cloud Threat Detection & Security Audit",
+        "PROJECT-4": "Secure File Sharing & Malware Protection",
+        "PROJECT-5": "Secrets Management & Encryption for Applications"
+    },
+    "CLOUD-ENGINEER": {
+        "PROJECT-1": "On-Premise Application Migration to AWS",
+        "PROJECT-2": "Blue Green and Rolling Infrastructure Deployments",
+        "PROJECT-3": "Multi-VPC Networking and PrivateLink Architecture",
+        "PROJECT-4": "Event-Driven Order Processing System on AWS",
+        "PROJECT-5": "Global Accelerator-Based Multi-Region Failover on AWS"
+    },
+    "AIML-ENGINEER": {
+        "PROJECT-1": "Build a Serverless Smart Inbox with Real-Time Sentiment Analysis",
+        "PROJECT-2": "Intelligent FAQ Chatbot using Amazon Bedrock (RAG)",
+        "PROJECT-3": "Predicting Customer Subscriptions with Amazon SageMaker",
+        "PROJECT-4": "Image Emotion Detector using Hugging Face Vision Transformer",
+        "PROJECT-5": "AI-Powered Cloud Learning Assistant using Gemini API"
+    },
+    "CHETAN": {
+        "PROJECT-01": "VPC with Single Public Subnet",
+        "PROJECT-02": "Private Subnet with EC2 Access",
+        "PROJECT-03": "NAT Gateway for Private Egress",
+        "PROJECT-04": "VPC Peering Across Regions",
+        "PROJECT-05": "VPC Gateway Endpoint for S3",
+        "PROJECT-06": "VPC Interface Endpoint for SQS",
+        "PROJECT-07": "VPC PrivateLink SaaS Service",
+        "PROJECT-08": "Site-to-Site VPN",
+        "PROJECT-09": "Client VPN with Mutual Authentication",
+        "PROJECT-10": "Client VPN with Split Tunnel",
+        "PROJECT-11": "Transit Gateway Hub and Spoke",
+        "PROJECT-12": "Transit Gateway Attachment Routing",
+        "PROJECT-13": "Route 53 Custom Domain for Web Server",
+        "PROJECT-14": "Route 53 Failover Routing",
+        "PROJECT-15": "S3 Static Website with Route 53",
+        "PROJECT-16": "ALB with Private Targets",
+        "PROJECT-17": "ALB Sticky Sessions",
+        "PROJECT-18": "ALB Host-Based Routing",
+        "PROJECT-19": "ALB HTTPS with ACM Certificate",
+        "PROJECT-20": "ALB Path-Based Routing"
+    },
+    "PRAVIN-MISHRA": {
+        "EPIC-BOOKSTORE": "Epic Bookstore Website"
+    }
 }
 
 platform_dict = {
