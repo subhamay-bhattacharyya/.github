@@ -1148,7 +1148,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "197 KB"
+      "size_mb": "204 KB"
     },
     {
       "name": "cfn-nested-aws-sqs-queue",
@@ -1178,7 +1178,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "183 KB"
+      "size_mb": "190 KB"
     },
     {
       "name": "cfn-nested-aws-kinesis-data-stream",
