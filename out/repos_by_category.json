@@ -1118,7 +1118,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "178 KB"
+      "size_mb": "179 KB"
     },
     {
       "name": "cfn-nested-aws-dynamodb-table",
@@ -1133,7 +1133,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "170 KB"
+      "size_mb": "178 KB"
     },
     {
       "name": "cfn-nested-aws-lambda-function",
@@ -1163,7 +1163,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "164 KB"
+      "size_mb": "169 KB"
     },
     {
       "name": "cfn-nested-aws-cloudwatch-log-group",
@@ -1208,7 +1208,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "168 KB"
+      "size_mb": "173 KB"
     },
     {
       "name": "cfn-nested-aws-subnets",
@@ -1238,7 +1238,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "170 KB"
+      "size_mb": "173 KB"
     },
     {
       "name": "cfn-nested-aws-ec2-security-group",
@@ -1253,7 +1253,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "175 KB"
+      "size_mb": "183 KB"
     },
     {
       "name": "cfn-aws-nested-acm-dns",
@@ -1268,7 +1268,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "96 KB"
+      "size_mb": "100 KB"
     },
     {
       "name": "cfn-nested-aws-s3-bucket",
@@ -1283,7 +1283,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "159 KB"
+      "size_mb": "163 KB"
     },
     {
       "name": "cfn-nested-aws-vpc",
@@ -1298,7 +1298,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "170 KB"
+      "size_mb": "173 KB"
     },
     {
       "name": "cfn-nested-aws-sns-topic",
@@ -1313,7 +1313,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "167 KB"
+      "size_mb": "172 KB"
     },
     {
       "name": "cfn-nested-aws-ha-multi-az-vpc-subnets",
@@ -1343,7 +1343,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "154 KB"
+      "size_mb": "159 KB"
     },
     {
       "name": "cfn-nested-aws-glue-catalog",
@@ -1433,7 +1433,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "162 KB"
+      "size_mb": "163 KB"
     },
     {
       "name": "cfn-nested-aws-load-balancer",
@@ -1448,7 +1448,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "93 KB"
+      "size_mb": "96 KB"
     }
   ],
   "GCP / Snowflake / Databricks (Terraform)": [
