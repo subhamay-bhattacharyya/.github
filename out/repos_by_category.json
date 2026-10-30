@@ -1118,7 +1118,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "179 KB"
+      "size_mb": "186 KB"
     },
     {
       "name": "cfn-nested-aws-dynamodb-table",
@@ -1148,7 +1148,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "236 KB"
+      "size_mb": "241 KB"
     },
     {
       "name": "cfn-nested-aws-sqs-queue",
