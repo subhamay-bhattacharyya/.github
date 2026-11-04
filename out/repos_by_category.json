@@ -691,6 +691,36 @@
       "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "87 KB"
+    },
+    {
+      "name": "elara-bedrock-agentcore-agent",
+      "html_url": "https://github.com/subhamay-bhattacharyya/elara-bedrock-agentcore-agent",
+      "description": "\ud83c\udfd7\ufe0f Production-ready customer service AI agent (Elara) for a sample e-commerce company, built on Amazon Bedrock AgentCore. Covers the agent runtime, Bedrock Knowledge Bases for policy grounding, tool integration through AgentCore Gateway, memory, Cognito authentication, policy-engine guardrails, and AgentCore Browser for shipment tracking.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-11-04\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--11--04-22c55e?style=flat\" title=\"2026-11-04\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    },
+    {
+      "name": "elara-backend-microservice",
+      "html_url": "https://github.com/subhamay-bhattacharyya/elara-backend-microservice",
+      "description": "CloudFormation-deployed sample backend microservice built on AWS Lambda, Amazon API Gateway, and Amazon DynamoDB. Exposes REST APIs for products, orders, returns, and shipment tracking, and serves as the tool backend for the Elara agent, which reaches it through AgentCore Gateway.\ud83c\udfd7\ufe0f ",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-11-04\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--11--04-22c55e?style=flat\" title=\"2026-11-04\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     }
   ],
   "AWS Networking Labs": [
