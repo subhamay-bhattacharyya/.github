@@ -1484,7 +1484,7 @@
       "name": "cfn-nested-aws-ecr-repository",
       "html_url": "https://github.com/subhamay-bhattacharyya-cfn/cfn-nested-aws-ecr-repository",
       "description": "\ud83c\udfd7\ufe0f Reusable CloudFormation nested stack templates for Amazon ECR repositories, with security defaults, lifecycle policies, and parameter-driven configuration.",
-      "status": "Initialized",
+      "status": "In Progress",
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "None",
@@ -1493,7 +1493,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "82 KB"
     }
   ],
   "GCP / Snowflake / Databricks (Terraform)": [
