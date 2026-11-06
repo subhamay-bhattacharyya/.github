@@ -721,6 +721,21 @@
       "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "82 KB"
+    },
+    {
+      "name": "aws-realtime-ingestion",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-realtime-ingestion",
+      "description": "\ud83c\udfd7\ufe0f Hands-on lab for real-time clickstream ingestion on AWS. Builds a Kinesis Data Firehose stream that saves to S3, transforms records with Lambda, and queries them with Glue and Athena. Extended with a Lambda path that writes to DynamoDB, and tuned by changing the S3 buffer interval to 60 seconds.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "SIMULEARN",
+      "last_updated": "<br><sub><img alt=\"2026-11-06\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--11--06-22c55e?style=flat\" title=\"2026-11-06\" /></sub>",
+      "open_issues": 0,
+      "branches": 1,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     }
   ],
   "AWS Networking Labs": [
@@ -1173,7 +1188,7 @@
       "cloud_service_provider": "AWS",
       "maturity": "alpha",
       "notes": "None",
-      "last_updated": "<br><sub><img alt=\"2026-10-07\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--07-eab308?style=flat\" title=\"2026-10-07\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-10-07\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--07-f97316?style=flat\" title=\"2026-10-07\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": 0,
@@ -1188,7 +1203,7 @@
       "cloud_service_provider": "AWS",
       "maturity": "alpha",
       "notes": "None",
-      "last_updated": "<br><sub><img alt=\"2026-10-07\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--07-eab308?style=flat\" title=\"2026-10-07\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-10-07\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--07-f97316?style=flat\" title=\"2026-10-07\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": 0,
@@ -1203,7 +1218,7 @@
       "cloud_service_provider": "AWS",
       "maturity": "alpha",
       "notes": "Feature branch working fine.",
-      "last_updated": "<br><sub><img alt=\"2026-10-07\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--07-eab308?style=flat\" title=\"2026-10-07\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-10-07\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--07-f97316?style=flat\" title=\"2026-10-07\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": 0,
