@@ -53,7 +53,7 @@
       "cloud_service_provider": "AWS",
       "maturity": "development on hold",
       "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS SOLUTION ARCHIETCT PROJECTS <br>\ud83d\udd39 Automated Cost Governance on AWS (Cost Optimization Pillar)",
-      "last_updated": "<br><sub><img alt=\"2026-10-07\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--07-eab308?style=flat\" title=\"2026-10-07\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-10-07\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--07-f97316?style=flat\" title=\"2026-10-07\" /></sub>",
       "open_issues": 1,
       "branches": 1,
       "open_prs": 0,
@@ -188,7 +188,7 @@
       "cloud_service_provider": "AWS",
       "maturity": "development on hold",
       "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS SUPPORT ENGINEER PROJECTS <br>\ud83d\udd39 Proactive Monitoring & Security Auto-Remediation for EC2",
-      "last_updated": "<br><sub><img alt=\"2026-10-07\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--07-eab308?style=flat\" title=\"2026-10-07\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-10-07\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--07-f97316?style=flat\" title=\"2026-10-07\" /></sub>",
       "open_issues": 1,
       "branches": 1,
       "open_prs": 0,
@@ -430,7 +430,7 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS SECURITY ENGINEER PROJECTS <br>\ud83d\udd39 Identity & Access Security with Cognito and API Gateway",
-      "last_updated": "<br><sub><img alt=\"2026-10-07\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--07-eab308?style=flat\" title=\"2026-10-07\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-10-07\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--07-f97316?style=flat\" title=\"2026-10-07\" /></sub>",
       "open_issues": 1,
       "branches": 1,
       "open_prs": 0,
@@ -460,7 +460,7 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "_______________________<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS SECURITY ENGINEER PROJECTS <br>\ud83d\udd39 Secrets Management & Encryption for Applications",
-      "last_updated": "<br><sub><img alt=\"2026-10-07\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--07-eab308?style=flat\" title=\"2026-10-07\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-10-07\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--07-f97316?style=flat\" title=\"2026-10-07\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": 0,
@@ -580,7 +580,7 @@
       "cloud_service_provider": "AWS",
       "maturity": "experimental",
       "notes": "Created - S3, Lambda, IAM Role, CW Log<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS CLOUD AI/ML ENGINEER PROJECTS <br>\ud83d\udd39 Image Emotion Detector using Hugging Face Vision Transformer",
-      "last_updated": "<br><sub><img alt=\"2026-10-07\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--07-eab308?style=flat\" title=\"2026-10-07\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-10-07\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--07-f97316?style=flat\" title=\"2026-10-07\" /></sub>",
       "open_issues": 1,
       "branches": 2,
       "open_prs": 0,
@@ -735,7 +735,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "82 KB"
     }
   ],
   "AWS Networking Labs": [
