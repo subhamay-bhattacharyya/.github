@@ -1538,7 +1538,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "82 KB"
     },
     {
       "name": "cfn-nested-aws-api-gateway-resource",
@@ -1553,7 +1553,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "82 KB"
     },
     {
       "name": "cfn-nested-aws-api-gateway-method",
@@ -1568,7 +1568,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "82 KB"
     },
     {
       "name": "cfn-nested-aws-api-gateway-deployment-stage",
@@ -1583,7 +1583,7 @@
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "82 KB"
     },
     {
       "name": "cfn-nested-aws-secrets-manager",
@@ -1594,11 +1594,11 @@
       "maturity": "experimental",
       "notes": "None",
       "last_updated": "<br><sub><img alt=\"2026-11-08\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--11--08-22c55e?style=flat\" title=\"2026-11-08\" /></sub>",
-      "open_issues": 0,
+      "open_issues": 1,
       "branches": 1,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "0 KB"
+      "size_mb": "82 KB"
     }
   ],
   "GCP / Snowflake / Databricks (Terraform)": [
