@@ -736,6 +736,21 @@
       "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "82 KB"
+    },
+    {
+      "name": "aws-genai-equipment-sme-assistant",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-genai-equipment-sme-assistant",
+      "description": "\ud83c\udfd7\ufe0f Production-ready GenAI assistant that uses Amazon Bedrock foundation models to summarize wind turbine field incident logs for remote equipment SMEs, reducing turbine downtime and boosting SME productivity. Built as a hands-on course project starting from a clear enterprise business use case. - Udemy Rahul Trisal",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-11-12\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--11--12-22c55e?style=flat\" title=\"2026-11-12\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     }
   ],
   "AWS Networking Labs": [
