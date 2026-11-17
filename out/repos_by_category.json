@@ -750,7 +750,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "82 KB"
+      "size_mb": "87 KB"
     }
   ],
   "AWS Networking Labs": [
@@ -1208,7 +1208,7 @@
       "branches": 3,
       "open_prs": 1,
       "latest_release_tag": null,
-      "size_mb": "305 KB"
+      "size_mb": "324 KB"
     },
     {
       "name": "cfn-nested-aws-sqs-queue",
@@ -2969,8 +2969,8 @@
       "last_updated": "<br><sub><img alt=\"2026-10-04\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--04-f97316?style=flat\" title=\"2026-10-04\" /></sub>",
       "open_issues": 1,
       "branches": 2,
-      "open_prs": 1,
-      "latest_release_tag": "v1.4.0",
+      "open_prs": 0,
+      "latest_release_tag": "v1.5.0",
       "size_mb": "256 KB"
     },
     {
