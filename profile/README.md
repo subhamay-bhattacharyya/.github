@@ -52,9 +52,9 @@ To design and operate **cloud platforms that are secure, automated, observable, 
 <summary><h3 style="display:inline;">AWS Certifications (10)</h3></summary>
 <table style="width:100%; border-collapse:collapse; margin:8px 0 16px 0; border:none">
   <tr>
-    <td style="text-align:center; padding:10px;"><img src="../badges/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="110" /><br /><sub>Valid till: Apr 18, 2029</sub></td>
+    <td style="text-align:center; padding:10px;"><img src="../badges/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="110" /><br /><sub>Valid till: Nov 16, 2029</sub></td>
     <td style="text-align:center; padding:10px;"><img src="../badges/aws-certified-ai-practitioner.png" alt="AWS Certified AI Practitioner" width="110" /><br /><sub>Valid till: Jun 14, 2028</sub></td>
-    <td style="text-align:center; padding:10px;"><img src="../badges/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect Associate" width="110" /><br /><sub>Valid till: May 31, 2028</sub></td>
+    <td style="text-align:center; padding:10px;"><img src="../badges/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect Associate" width="110" /><br /><sub>Valid till: Nov 16, 2029</sub></td>
     <td style="text-align:center; padding:10px;"><img src="../badges/aws-certified-developer-associate.png" alt="AWS Certified Developer Associate" width="110" /><br /><sub>Valid till: Aug 16, 2028</sub></td>
     <td style="text-align:center; padding:10px;"><img src="../badges/aws-gen-ai-pro.png" alt="AWS Generative AI Engineer Professional" width="110" style="filter: blur(3px);" /><br /><sub>Preparing</sub></td>
   </tr>
@@ -63,7 +63,14 @@ To design and operate **cloud platforms that are secure, automated, observable, 
     <td style="text-align:center; padding:10px;"><img src="../badges/aws-certified-cloudops-engineer-associate.png" alt="AWS Certified CloudOps Engineer Associate" width="110" /><br /><sub>Valid till: Apr 18, 2029</sub></td>
     <td style="text-align:center; padding:10px;"><img src="../badges/aws-certified-security-specialty.png" alt="AWS Certified Security Specialty" width="110" /><br /><sub>Valid till: Jul 25, 2029</sub></td>
     <td style="text-align:center; padding:10px;"><img src="../badges/aws-ml-eng-associate.png" alt="AWS Machine Learning Engineer Associate" width="110" style="filter: blur(3px);" /><br /><sub>Preparing</sub></td>
-    <td style="text-align:center; padding:10px;"><img src="../badges/aws-sa-pro.png" alt="AWS Solutions Architect Professional" width="110" style="filter: blur(3px);" /><br /><sub>Preparing</sub></td>
+    <td style="text-align:center; padding:10px;"><img src="../badges/aws-sa-pro.png" alt="AWS Solutions Architect Professional" width="110"/><br /><sub>Valid till: Nov 16, 2029</sub></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; padding:10px;"><img src="../badges/aws-data-lakehouse-demonstrated.png" alt="Micro Credential:AWS Data Lakehouse Demonstrated" width="110" /><br /><sub>Valid till: Nov 11, 2027</sub></td>
+    <td style="text-align:center; padding:10px;"><img src="../badges/aws-data-streaming-demonstrated.png" alt="Micro Credential:AWS Data Streaming Demonstrated" width="110" /><br /><sub>Valid till: Nov 11, 2027</sub></td>
+    <td style="text-align:center; padding:10px;">&nbsp;</td>
+    <td style="text-align:center; padding:10px;">&nbsp;</td>
+    <td style="text-align:center; padding:10px;">&nbsp;</td>
   </tr>
 </table>
 </details>
