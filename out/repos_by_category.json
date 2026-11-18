@@ -1293,7 +1293,7 @@
       "cloud_service_provider": "AWS",
       "maturity": "alpha",
       "notes": "None",
-      "last_updated": "<br><sub><img alt=\"2026-10-19\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--19-eab308?style=flat\" title=\"2026-10-19\" /></sub>",
+      "last_updated": "<br><sub><img alt=\"2026-10-19\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--19-f97316?style=flat\" title=\"2026-10-19\" /></sub>",
       "open_issues": 2,
       "branches": 3,
       "open_prs": 1,
@@ -2925,6 +2925,21 @@
       "open_prs": 1,
       "latest_release_tag": "v1.1.0",
       "size_mb": "604 KB"
+    },
+    {
+      "name": "lambda-build-deploy-reusable-wf",
+      "html_url": "https://github.com/subhamay-bhattacharyya-gha/lambda-build-deploy-reusable-wf",
+      "description": "\ud83c\udfd7\ufe0f Reusable GitHub Actions workflow that builds a Lambda deployment package from a source directory, installs dependencies, uploads large artifacts to S3, deploys code to AWS Lambda, optionally publishes a numbered version, and updates an alias. Callable from any repository via workflow_call, with OIDC authentication and pinned release tags.",
+      "status": "Initiated",
+      "cloud_service_provider": null,
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-11-18\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--11--18-22c55e?style=flat\" title=\"2026-11-18\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "73 KB"
     }
   ],
   "GitHub Reusable Action / Workflow( Stable )": [
@@ -2967,11 +2982,11 @@
       "maturity": "stable",
       "notes": "repository standardized",
       "last_updated": "<br><sub><img alt=\"2026-10-04\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--04-f97316?style=flat\" title=\"2026-10-04\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
+      "open_issues": 0,
+      "branches": 1,
       "open_prs": 0,
-      "latest_release_tag": "v1.5.0",
-      "size_mb": "263 KB"
+      "latest_release_tag": "v1.6.1",
+      "size_mb": "279 KB"
     },
     {
       "name": "check-environments-action",
