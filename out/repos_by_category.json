@@ -1223,7 +1223,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "233 KB"
+      "size_mb": "237 KB"
     },
     {
       "name": "cfn-nested-aws-cloudwatch-log-group",
@@ -1343,7 +1343,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "227 KB"
+      "size_mb": "241 KB"
     },
     {
       "name": "cfn-nested-aws-vpc",
