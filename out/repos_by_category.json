@@ -1390,7 +1390,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "161 KB"
+      "size_mb": "170 KB"
     },
     {
       "name": "cfn-nested-aws-ha-multi-az-vpc-subnets",
@@ -1570,7 +1570,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "147 KB"
+      "size_mb": "155 KB"
     },
     {
       "name": "cfn-nested-aws-api-gateway-method",
