@@ -1057,6 +1057,23 @@
       "size_mb": "90 KB"
     }
   ],
+  "Amazon Web Services - CloudFormation": [
+    {
+      "name": "aws-api-gateway-workshop",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-api-gateway-workshop",
+      "description": "\ud83c\udfd7\ufe0f Hands-on AWS API Gateway workshop: build, secure, and manage REST and HTTP APIs, with step-by-step guidance for integrations, authorization, and deployment.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "Not Available",
+      "last_updated": "<br><sub><img alt=\"2026-11-21\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--11--21-22c55e?style=flat\" title=\"2026-11-21\" /></sub>",
+      "open_issues": 2,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
+    }
+  ],
   "Amazon Web Services - Terraform": [
     {
       "name": "aws-athena-iceberg-demo",
