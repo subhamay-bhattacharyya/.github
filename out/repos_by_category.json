@@ -1182,7 +1182,7 @@
       "branches": 4,
       "open_prs": 3,
       "latest_release_tag": "v1.3.0",
-      "size_mb": "290 KB"
+      "size_mb": "357 KB"
     },
     {
       "name": "cfn-nested-aws-iam-roles-policies",
@@ -1197,7 +1197,7 @@
       "branches": 4,
       "open_prs": 2,
       "latest_release_tag": null,
-      "size_mb": "308 KB"
+      "size_mb": "374 KB"
     },
     {
       "name": "cfn-nested-aws-dynamodb-table",
@@ -1212,7 +1212,7 @@
       "branches": 5,
       "open_prs": 3,
       "latest_release_tag": null,
-      "size_mb": "238 KB"
+      "size_mb": "304 KB"
     },
     {
       "name": "cfn-nested-aws-lambda-function",
@@ -1227,7 +1227,7 @@
       "branches": 4,
       "open_prs": 2,
       "latest_release_tag": null,
-      "size_mb": "330 KB"
+      "size_mb": "395 KB"
     },
     {
       "name": "cfn-nested-aws-sqs-queue",
@@ -1242,7 +1242,7 @@
       "branches": 4,
       "open_prs": 2,
       "latest_release_tag": null,
-      "size_mb": "237 KB"
+      "size_mb": "304 KB"
     },
     {
       "name": "cfn-nested-aws-cloudwatch-log-group",
@@ -1257,7 +1257,7 @@
       "branches": 5,
       "open_prs": 3,
       "latest_release_tag": null,
-      "size_mb": "253 KB"
+      "size_mb": "320 KB"
     },
     {
       "name": "cfn-nested-aws-kinesis-data-stream",
@@ -1272,7 +1272,7 @@
       "branches": 5,
       "open_prs": 3,
       "latest_release_tag": null,
-      "size_mb": "223 KB"
+      "size_mb": "290 KB"
     },
     {
       "name": "cfn-nested-aws-cloudfront-distribution",
@@ -1287,7 +1287,7 @@
       "branches": 5,
       "open_prs": 3,
       "latest_release_tag": null,
-      "size_mb": "233 KB"
+      "size_mb": "300 KB"
     },
     {
       "name": "cfn-nested-aws-subnets",
@@ -1302,7 +1302,7 @@
       "branches": 5,
       "open_prs": 3,
       "latest_release_tag": null,
-      "size_mb": "254 KB"
+      "size_mb": "321 KB"
     },
     {
       "name": "cfn-nested-aws-ec2-instance",
@@ -1317,7 +1317,7 @@
       "branches": 5,
       "open_prs": 3,
       "latest_release_tag": null,
-      "size_mb": "233 KB"
+      "size_mb": "300 KB"
     },
     {
       "name": "cfn-nested-aws-ec2-security-group",
@@ -1332,7 +1332,7 @@
       "branches": 5,
       "open_prs": 3,
       "latest_release_tag": null,
-      "size_mb": "256 KB"
+      "size_mb": "322 KB"
     },
     {
       "name": "cfn-aws-nested-acm-dns",
@@ -1347,7 +1347,7 @@
       "branches": 5,
       "open_prs": 3,
       "latest_release_tag": null,
-      "size_mb": "173 KB"
+      "size_mb": "231 KB"
     },
     {
       "name": "cfn-nested-aws-s3-bucket",
@@ -1362,7 +1362,7 @@
       "branches": 4,
       "open_prs": 2,
       "latest_release_tag": null,
-      "size_mb": "241 KB"
+      "size_mb": "308 KB"
     },
     {
       "name": "cfn-nested-aws-vpc",
@@ -1377,7 +1377,7 @@
       "branches": 5,
       "open_prs": 3,
       "latest_release_tag": null,
-      "size_mb": "236 KB"
+      "size_mb": "303 KB"
     },
     {
       "name": "cfn-nested-aws-sns-topic",
@@ -1392,7 +1392,7 @@
       "branches": 5,
       "open_prs": 3,
       "latest_release_tag": null,
-      "size_mb": "235 KB"
+      "size_mb": "302 KB"
     },
     {
       "name": "cfn-nested-aws-api-gateway-rest-api",
@@ -1407,7 +1407,7 @@
       "branches": 4,
       "open_prs": 2,
       "latest_release_tag": null,
-      "size_mb": "170 KB"
+      "size_mb": "237 KB"
     },
     {
       "name": "cfn-nested-aws-api-gateway-resource",
@@ -1422,7 +1422,7 @@
       "branches": 4,
       "open_prs": 2,
       "latest_release_tag": null,
-      "size_mb": "160 KB"
+      "size_mb": "227 KB"
     },
     {
       "name": "cfn-nested-aws-ha-multi-az-vpc-subnets",
@@ -1437,7 +1437,7 @@
       "branches": 5,
       "open_prs": 3,
       "latest_release_tag": null,
-      "size_mb": "267 KB"
+      "size_mb": "334 KB"
     },
     {
       "name": "cfn-custom-resource-lambda",
@@ -1452,7 +1452,7 @@
       "branches": 5,
       "open_prs": 3,
       "latest_release_tag": null,
-      "size_mb": "223 KB"
+      "size_mb": "289 KB"
     },
     {
       "name": "cfn-nested-aws-glue-catalog",
@@ -1467,7 +1467,7 @@
       "branches": 4,
       "open_prs": 3,
       "latest_release_tag": null,
-      "size_mb": "213 KB"
+      "size_mb": "280 KB"
     },
     {
       "name": "cfn-nested-aws-glue-database",
@@ -1482,7 +1482,7 @@
       "branches": 4,
       "open_prs": 3,
       "latest_release_tag": null,
-      "size_mb": "213 KB"
+      "size_mb": "280 KB"
     },
     {
       "name": "cfn-nested-aws-glue-crawler",
@@ -1497,7 +1497,7 @@
       "branches": 4,
       "open_prs": 3,
       "latest_release_tag": null,
-      "size_mb": "213 KB"
+      "size_mb": "280 KB"
     },
     {
       "name": "cfn-nested-aws-glue-etl-job",
@@ -1512,7 +1512,7 @@
       "branches": 4,
       "open_prs": 3,
       "latest_release_tag": null,
-      "size_mb": "213 KB"
+      "size_mb": "280 KB"
     },
     {
       "name": "cfn-nested-aws-rds-cluster",
@@ -1527,7 +1527,7 @@
       "branches": 5,
       "open_prs": 3,
       "latest_release_tag": null,
-      "size_mb": "222 KB"
+      "size_mb": "288 KB"
     },
     {
       "name": "cfn-nested-aws-target-group",
@@ -1542,7 +1542,7 @@
       "branches": 5,
       "open_prs": 3,
       "latest_release_tag": null,
-      "size_mb": "237 KB"
+      "size_mb": "303 KB"
     },
     {
       "name": "cfn-nested-aws-load-balancer",
@@ -1557,7 +1557,7 @@
       "branches": 5,
       "open_prs": 3,
       "latest_release_tag": null,
-      "size_mb": "169 KB"
+      "size_mb": "227 KB"
     },
     {
       "name": "cfn-nested-aws-ecr-repository",
@@ -1572,7 +1572,7 @@
       "branches": 5,
       "open_prs": 3,
       "latest_release_tag": null,
-      "size_mb": "161 KB"
+      "size_mb": "219 KB"
     },
     {
       "name": "cfn-nested-aws-ssm-parameter",
@@ -1587,7 +1587,7 @@
       "branches": 5,
       "open_prs": 3,
       "latest_release_tag": null,
-      "size_mb": "164 KB"
+      "size_mb": "222 KB"
     },
     {
       "name": "cfn-nested-aws-api-gateway-method",
@@ -1602,7 +1602,7 @@
       "branches": 4,
       "open_prs": 2,
       "latest_release_tag": null,
-      "size_mb": "157 KB"
+      "size_mb": "223 KB"
     },
     {
       "name": "cfn-nested-aws-api-gateway-deployment-stage",
@@ -1617,7 +1617,7 @@
       "branches": 4,
       "open_prs": 2,
       "latest_release_tag": null,
-      "size_mb": "147 KB"
+      "size_mb": "214 KB"
     },
     {
       "name": "cfn-nested-aws-secrets-manager",
@@ -1632,7 +1632,7 @@
       "branches": 4,
       "open_prs": 3,
       "latest_release_tag": null,
-      "size_mb": "146 KB"
+      "size_mb": "213 KB"
     }
   ],
   "GCP / Snowflake / Databricks (Terraform)": [
@@ -2551,7 +2551,7 @@
       "branches": 3,
       "open_prs": 2,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "932 KB"
+      "size_mb": "995 KB"
     },
     {
       "name": "tf-lint-action",
@@ -2566,7 +2566,7 @@
       "branches": 3,
       "open_prs": 2,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "1018 KB"
+      "size_mb": "1.06 MB"
     },
     {
       "name": "tf-plan-action",
@@ -2581,7 +2581,7 @@
       "branches": 3,
       "open_prs": 2,
       "latest_release_tag": "v1.7.0",
-      "size_mb": "568 KB"
+      "size_mb": "632 KB"
     },
     {
       "name": "tf-apply-action",
@@ -2596,7 +2596,7 @@
       "branches": 4,
       "open_prs": 2,
       "latest_release_tag": "v1.3.0",
-      "size_mb": "350 KB"
+      "size_mb": "414 KB"
     },
     {
       "name": "lambda-build-deploy-reusable-wf",
@@ -2611,7 +2611,7 @@
       "branches": 2,
       "open_prs": 1,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "111 KB"
+      "size_mb": "176 KB"
     }
   ],
   "GitHub Reusable Action / Workflow( Experimental )": [
@@ -2673,7 +2673,7 @@
       "branches": 3,
       "open_prs": 2,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "309 KB"
+      "size_mb": "372 KB"
     },
     {
       "name": "tf-validate-action",
@@ -2688,7 +2688,7 @@
       "branches": 3,
       "open_prs": 2,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "687 KB"
+      "size_mb": "751 KB"
     },
     {
       "name": "tf-destroy-action",
@@ -2703,7 +2703,7 @@
       "branches": 4,
       "open_prs": 2,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "208 KB"
+      "size_mb": "272 KB"
     },
     {
       "name": "infracost-action",
@@ -2718,7 +2718,7 @@
       "branches": 6,
       "open_prs": 5,
       "latest_release_tag": "v1.0.2",
-      "size_mb": "361 KB"
+      "size_mb": "425 KB"
     },
     {
       "name": "terraform-apply-wf",
@@ -2733,7 +2733,7 @@
       "branches": 5,
       "open_prs": 3,
       "latest_release_tag": null,
-      "size_mb": "549 KB"
+      "size_mb": "612 KB"
     },
     {
       "name": "tf-destroy-wf",
@@ -2748,7 +2748,7 @@
       "branches": 3,
       "open_prs": 2,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "441 KB"
+      "size_mb": "505 KB"
     },
     {
       "name": "tf-drift-detection-wf",
@@ -2763,7 +2763,7 @@
       "branches": 5,
       "open_prs": 3,
       "latest_release_tag": null,
-      "size_mb": "600 KB"
+      "size_mb": "664 KB"
     },
     {
       "name": "tf-yor-action",
@@ -2778,7 +2778,7 @@
       "branches": 3,
       "open_prs": 2,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "572 KB"
+      "size_mb": "636 KB"
     },
     {
       "name": "tf-ci-reusable-wf",
@@ -2793,7 +2793,7 @@
       "branches": 3,
       "open_prs": 2,
       "latest_release_tag": "v1.3.0",
-      "size_mb": "414 KB"
+      "size_mb": "477 KB"
     },
     {
       "name": "tf-release-wf",
@@ -2808,7 +2808,7 @@
       "branches": 3,
       "open_prs": 2,
       "latest_release_tag": null,
-      "size_mb": "331 KB"
+      "size_mb": "395 KB"
     },
     {
       "name": "cfn-yor-action",
@@ -2823,7 +2823,7 @@
       "branches": 5,
       "open_prs": 3,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "660 KB"
+      "size_mb": "727 KB"
     },
     {
       "name": "cfn-release-wf",
@@ -2838,7 +2838,7 @@
       "branches": 5,
       "open_prs": 3,
       "latest_release_tag": null,
-      "size_mb": "642 KB"
+      "size_mb": "709 KB"
     },
     {
       "name": "setup-multi-cloud-environments-wf",
@@ -2853,7 +2853,7 @@
       "branches": 4,
       "open_prs": 2,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "507 KB"
+      "size_mb": "570 KB"
     },
     {
       "name": "tf-deploy-multi-reusable-wf",
@@ -2868,7 +2868,7 @@
       "branches": 4,
       "open_prs": 2,
       "latest_release_tag": "v1.1.1",
-      "size_mb": "988 KB"
+      "size_mb": "1.03 MB"
     },
     {
       "name": "run-ansible-playbook-wf",
@@ -2883,7 +2883,7 @@
       "branches": 4,
       "open_prs": 2,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "454 KB"
+      "size_mb": "518 KB"
     },
     {
       "name": "multicloud-snowflake-stages-wf",
@@ -2898,7 +2898,7 @@
       "branches": 4,
       "open_prs": 2,
       "latest_release_tag": null,
-      "size_mb": "751 KB"
+      "size_mb": "815 KB"
     },
     {
       "name": "checkov-custom-policies",
@@ -2913,7 +2913,7 @@
       "branches": 4,
       "open_prs": 2,
       "latest_release_tag": null,
-      "size_mb": "823 KB"
+      "size_mb": "887 KB"
     },
     {
       "name": "terraform-checkov-scan-detector",
@@ -2928,7 +2928,7 @@
       "branches": 4,
       "open_prs": 2,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "610 KB"
+      "size_mb": "674 KB"
     },
     {
       "name": "gcp-project-onboarding",
@@ -2943,7 +2943,7 @@
       "branches": 4,
       "open_prs": 2,
       "latest_release_tag": null,
-      "size_mb": "156 KB"
+      "size_mb": "220 KB"
     },
     {
       "name": "aws-project-onboarding",
@@ -2958,7 +2958,7 @@
       "branches": 3,
       "open_prs": 2,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "604 KB"
+      "size_mb": "668 KB"
     }
   ],
   "GitHub Reusable Action / Workflow( Stable )": [
@@ -2975,7 +2975,7 @@
       "branches": 4,
       "open_prs": 2,
       "latest_release_tag": "v1.1.2",
-      "size_mb": "412 KB"
+      "size_mb": "476 KB"
     },
     {
       "name": "create-branch-action",
@@ -2990,7 +2990,7 @@
       "branches": 3,
       "open_prs": 2,
       "latest_release_tag": "v1.2.0",
-      "size_mb": "266 KB"
+      "size_mb": "330 KB"
     },
     {
       "name": "setup-aws-environments-wf",
@@ -3005,7 +3005,7 @@
       "branches": 2,
       "open_prs": 1,
       "latest_release_tag": "v1.6.1",
-      "size_mb": "279 KB"
+      "size_mb": "252 KB"
     },
     {
       "name": "check-environments-action",
@@ -3035,7 +3035,7 @@
       "branches": 3,
       "open_prs": 2,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "512 KB"
+      "size_mb": "576 KB"
     },
     {
       "name": "slack-notification-wf",
@@ -3050,7 +3050,7 @@
       "branches": 3,
       "open_prs": 2,
       "latest_release_tag": "v1.0.1",
-      "size_mb": "464 KB"
+      "size_mb": "528 KB"
     },
     {
       "name": "cfn-lint-action",
@@ -3065,7 +3065,7 @@
       "branches": 3,
       "open_prs": 2,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "651 KB"
+      "size_mb": "714 KB"
     },
     {
       "name": "cfn-validate-action",
@@ -3080,7 +3080,7 @@
       "branches": 3,
       "open_prs": 2,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "510 KB"
+      "size_mb": "573 KB"
     },
     {
       "name": "cfn-deploy-action",
@@ -3095,7 +3095,7 @@
       "branches": 3,
       "open_prs": 2,
       "latest_release_tag": "v1.1.0",
-      "size_mb": "182 KB"
+      "size_mb": "246 KB"
     },
     {
       "name": "cfn-deploy-wf",
@@ -3110,7 +3110,7 @@
       "branches": 4,
       "open_prs": 3,
       "latest_release_tag": "v1.4.0",
-      "size_mb": "372 KB"
+      "size_mb": "436 KB"
     },
     {
       "name": "cfn-delete-action",
@@ -3125,7 +3125,7 @@
       "branches": 3,
       "open_prs": 2,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "159 KB"
+      "size_mb": "223 KB"
     },
     {
       "name": "cfn-delete-wf",
@@ -3140,7 +3140,7 @@
       "branches": 3,
       "open_prs": 2,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "161 KB"
+      "size_mb": "225 KB"
     },
     {
       "name": "cfn-ci-build-reusable-wf",
@@ -3155,7 +3155,7 @@
       "branches": 3,
       "open_prs": 2,
       "latest_release_tag": "v1.0.0",
-      "size_mb": "101 KB"
+      "size_mb": "166 KB"
     }
   ],
   "Google Cloud Platform - Terraform": [
