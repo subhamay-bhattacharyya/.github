@@ -302,7 +302,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "110 KB"
+      "size_mb": "134 KB"
     },
     {
       "name": "aws-secure-website-oac-waf",
@@ -1358,9 +1358,9 @@
       "maturity": "beta",
       "notes": "Feature branch working fine.",
       "last_updated": "<br><sub><img alt=\"2026-10-06\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--06-f97316?style=flat\" title=\"2026-10-06\" /></sub>",
-      "open_issues": 3,
-      "branches": 4,
-      "open_prs": 2,
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "308 KB"
     },
