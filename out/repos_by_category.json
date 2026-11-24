@@ -1633,6 +1633,21 @@
       "open_prs": 3,
       "latest_release_tag": null,
       "size_mb": "213 KB"
+    },
+    {
+      "name": "cfn-nested-aws-ses-email-identity",
+      "html_url": "https://github.com/subhamay-bhattacharyya-cfn/cfn-nested-aws-ses-email-identity",
+      "description": "\ud83c\udfd7\ufe0f Reusable CloudFormation nested stack templates for creating and verifying AWS Simple Email Service (SES) email identities. The templates cover verified email addresses and domains, DKIM signing, and the IAM roles and policies needed to send mail through SES, and each nested stack can be reused across accounts and environments.",
+      "status": "Initialized",
+      "cloud_service_provider": "AWS",
+      "maturity": "experimental",
+      "notes": "None",
+      "last_updated": "<br><sub><img alt=\"2026-11-24\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--11--24-22c55e?style=flat\" title=\"2026-11-24\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "0 KB"
     }
   ],
   "GCP / Snowflake / Databricks (Terraform)": [
