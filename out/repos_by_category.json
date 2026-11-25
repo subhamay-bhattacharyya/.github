@@ -43,7 +43,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "83 KB"
+      "size_mb": "103 KB"
     }
   ],
   "AWS Complete Project using CloudFormation( Development on hold )": [
@@ -1197,7 +1197,7 @@
       "branches": 2,
       "open_prs": 0,
       "latest_release_tag": null,
-      "size_mb": "382 KB"
+      "size_mb": "384 KB"
     },
     {
       "name": "cfn-nested-aws-dynamodb-table",
