@@ -1,6 +1,21 @@
 {
   "AWS Complete Project using CloudFormation( Beta )": [
     {
+      "name": "aws-receipt-processing-system",
+      "html_url": "https://github.com/subhamay-bhattacharyya/aws-receipt-processing-system",
+      "description": "\u2705 Serverless, event-driven receipt processing system on AWS. Users upload receipts to Amazon S3, which triggers a Lambda function to extract structured data via Amazon Textract, persist results to DynamoDB, and dispatch email notifications through Amazon SES. Fully infrastructure-as-code managed for reproducible deployments.",
+      "status": "CICD Pending",
+      "cloud_service_provider": "AWS",
+      "maturity": "beta",
+      "notes": "CI/CD is pending<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS INTERMEDIATE PROJECTS <br>\ud83d\udd39 Automated AWS Receipt Processing System",
+      "last_updated": "<br><sub><img alt=\"2026-11-24\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--11--24-22c55e?style=flat\" title=\"2026-11-24\" /></sub>",
+      "open_issues": 1,
+      "branches": 2,
+      "open_prs": 0,
+      "latest_release_tag": null,
+      "size_mb": "157 KB"
+    },
+    {
       "name": "aws-image-labels-generator",
       "html_url": "https://github.com/subhamay-bhattacharyya/aws-image-labels-generator",
       "description": "\u2705  Python-based image labeling application using Amazon Rekognition and S3. Automatically detects and labels objects in images through AWS Rekognition API. Includes CLI setup, configuration, and batch image processing capabilities.",
@@ -288,21 +303,6 @@
       "open_prs": 0,
       "latest_release_tag": null,
       "size_mb": "97 KB"
-    },
-    {
-      "name": "aws-receipt-processing-system",
-      "html_url": "https://github.com/subhamay-bhattacharyya/aws-receipt-processing-system",
-      "description": "\ud83c\udfd7\ufe0f \ud83d\udccc Serverless, event-driven receipt processing system on AWS. Users upload receipts to Amazon S3, which triggers a Lambda function to extract structured data via Amazon Textract, persist results to DynamoDB, and dispatch email notifications through Amazon SES. Fully infrastructure-as-code managed for reproducible deployments.",
-      "status": "In Progress",
-      "cloud_service_provider": "AWS",
-      "maturity": "experimental",
-      "notes": "Created - S3,DynamoDB,IAM Role, Lambda<br>\ud83d\udd39Zero To Cloud <br>\ud83d\udd39 AWS INTERMEDIATE PROJECTS <br>\ud83d\udd39 Automated AWS Receipt Processing System",
-      "last_updated": "<br><sub><img alt=\"2026-10-09\" src=\"https://img.shields.io/badge/%F0%9F%93%86-2026--10--09-f97316?style=flat\" title=\"2026-10-09\" /></sub>",
-      "open_issues": 1,
-      "branches": 2,
-      "open_prs": 0,
-      "latest_release_tag": null,
-      "size_mb": "157 KB"
     },
     {
       "name": "aws-secure-website-oac-waf",
